@@ -21,6 +21,16 @@
   header h1 { margin: 0 0 8px; font-size: 2rem; }
   header p { margin: 4px 0; color: var(--muted); }
   .count { color: var(--accent); font-weight: 600; }
+  .repo-banner {
+    display: flex; justify-content: center; padding: 14px 24px 0;
+  }
+  .repo-banner a {
+    display: inline-flex; align-items: center; gap: 8px;
+    background: var(--card); border: 1px solid var(--line); color: var(--text);
+    text-decoration: none; font-size: .85rem; font-weight: 600;
+    padding: 10px 18px; border-radius: 999px; transition: .15s;
+  }
+  .repo-banner a:hover { border-color: var(--accent); color: var(--accent); }
   main {
     max-width: 1100px; margin: 0 auto; padding: 16px 24px 64px;
     display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -49,25 +59,19 @@
 </style>
 </head>
 <body>
+  <div class="repo-banner">
+    <a href="https://github.com/VamikaSinghal/tech-events-tracker" target="_blank" rel="noopener">
+      🚀 Go to my GitHub repo to find events for your city
+    </a>
+  </div>
   <header>
     <h1>Tech Events near me</h1>
     <p>Hackathons, tech &amp; startup events, updated daily</p>
-    <p>Showing <span class="count">73</span> events for <strong>San Francisco</strong></p>
-    <p style="font-size:.8rem">Last updated Jul 09, 2026 at 01:47 UTC</p>
+    <p>Showing <span class="count">72</span> events for <strong>San Francisco</strong></p>
+    <p style="font-size:.8rem">Last updated Jul 09, 2026 at 02:00 UTC</p>
   </header>
   <main>
     
-        <a class="card" href="https://lu.ma/RhythmAI" target="_blank" rel="noopener">
-          <div class="card-top">
-            <span class="state upcoming">Upcoming</span>
-            <span class="src">Luma</span>
-          </div>
-          <h2>Rhythm AI</h2>
-          <p class="meta">📍 San Francisco, CA</p>
-          <p class="meta">🗓️ Jul 08, 2026 · 7:00 PM</p>
-          <div class="tags"></div>
-          
-        </a>
         <a class="card" href="https://www.eventbrite.com/e/security-intelligence-leadership-2-days-training-in-san-francisco-ca-tickets-1992985609608" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>

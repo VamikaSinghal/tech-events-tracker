@@ -725,6 +725,17 @@ def render_html(events, config):
         )
 
     count = len([e for e in events])
+    repo_url = config.get("repo_url", "")
+    repo_banner = (
+        f"""
+  <div class="repo-banner">
+    <a href="{html.escape(repo_url)}" target="_blank" rel="noopener">
+      🚀 Go to my GitHub repo to find events for your city
+    </a>
+  </div>"""
+        if repo_url
+        else ""
+    )
     return f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -748,6 +759,16 @@ def render_html(events, config):
   header h1 {{ margin: 0 0 8px; font-size: 2rem; }}
   header p {{ margin: 4px 0; color: var(--muted); }}
   .count {{ color: var(--accent); font-weight: 600; }}
+  .repo-banner {{
+    display: flex; justify-content: center; padding: 14px 24px 0;
+  }}
+  .repo-banner a {{
+    display: inline-flex; align-items: center; gap: 8px;
+    background: var(--card); border: 1px solid var(--line); color: var(--text);
+    text-decoration: none; font-size: .85rem; font-weight: 600;
+    padding: 10px 18px; border-radius: 999px; transition: .15s;
+  }}
+  .repo-banner a:hover {{ border-color: var(--accent); color: var(--accent); }}
   main {{
     max-width: 1100px; margin: 0 auto; padding: 16px 24px 64px;
     display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -775,7 +796,7 @@ def render_html(events, config):
   code {{ background: #22262f; padding: 2px 6px; border-radius: 4px; }}
 </style>
 </head>
-<body>
+<body>{repo_banner}
   <header>
     <h1>{title}</h1>
     <p>{subtitle}</p>

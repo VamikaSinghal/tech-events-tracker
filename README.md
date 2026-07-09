@@ -57,6 +57,7 @@ and copy-paste exactly.
   "keywords": ["ai", "startup", "web3", "fintech", "hardware", "climate"],
   "site_title": "Tech Events near me",
   "site_subtitle": "Hackathons, tech & startup events, updated daily",
+  "repo_url": "https://github.com/YOUR-USERNAME/YOUR-REPO",
   "max_pages": 6,
   "luma_max_events": 80,
   "eventbrite_max_pages": 3,
@@ -84,6 +85,10 @@ and copy-paste exactly.
   ones further out; lower it to speed up the build.
 - **eventbrite_max_pages** — how many pages (20 events each) to fetch from
   Eventbrite's "tech" category for your city (default 3, so up to 60).
+- **repo_url** — shows a "Go to my GitHub repo to find events for your
+  city" banner at the top of the page linking here, so people who land on
+  your site can fork it for their own city. Leave it out (or empty) to hide
+  the banner.
 - **extra_luma_calendars** — a list of specific Luma calendar slugs you
   already follow — see "Tracking specific organizers" below.
 
