@@ -4,5 +4,5 @@
   "site_title": "Tech Events near me",
   "site_subtitle": "Hackathons, tech & startup events, updated daily",
   "max_pages": 6,
-  "show_online_events": true
+  "require_keyword_match": false
 }

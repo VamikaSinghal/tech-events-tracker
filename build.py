@@ -80,9 +80,15 @@ def strip_html(text):
 # 3. Keep only the events you care about
 # ----------------------------------------------------------------------
 def filter_events(events, config):
+    # Devpost's own search already matches events to your city (it's fuzzy and
+    # covers nearby venues like "Bay Area" or a named building), so we trust it
+    # for location and don't re-filter on the city name here — that would wrongly
+    # drop real local events whose venue text doesn't literally say the city.
     keywords = [k.lower() for k in config.get("keywords", [])]
-    show_online = config.get("show_online_events", True)
-    city = config.get("city", "").lower()
+    # By default we show ALL upcoming hackathons for your city. Set
+    # "require_keyword_match": true in config.json to keep ONLY events that match
+    # one of your keywords (a tighter, more selective list).
+    require_kw = config.get("require_keyword_match", False)
 
     kept = []
     seen = set()
@@ -99,22 +105,14 @@ def filter_events(events, config):
             [ev["title"], ev["location"], " ".join(ev["themes"])]
         ).lower()
 
-        # Location check: keep events whose location mentions the city,
-        # plus online/virtual events if the user allows them.
-        is_online = any(
-            w in haystack for w in ["online", "virtual", "worldwide", "global", "anywhere"]
-        )
-        location_ok = (city in haystack) or (show_online and is_online) or (ev["location"] == "")
+        # Optional interest narrowing.
+        if require_kw and keywords and not any(k in haystack for k in keywords):
+            continue
 
-        # Interest check: if the user listed keywords, require at least one.
-        # (Everything here is already a hackathon, so empty keywords = keep all.)
-        interest_ok = (not keywords) or any(k in haystack for k in keywords)
+        seen.add(ev["url"])
+        kept.append(ev)
 
-        if location_ok and (interest_ok or not keywords):
-            seen.add(ev["url"])
-            kept.append(ev)
-
-    # Upcoming events first.
+    # Upcoming events first, then alphabetical.
     kept.sort(key=lambda e: (e["state"] != "upcoming", e["title"].lower()))
     return kept
 
