@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "source": "Devpost",
+    "title": "Shower Hacks",
+    "url": "https://showerhacks.devpost.com/",
+    "location": "Bay Area",
+    "dates": "Oct 03 - 04, 2026",
+    "state": "upcoming",
+    "themes": [
+      "Open Ended",
+      "Lifehacks",
+      "Social Good"
+    ],
+    "prize": "$8,000",
+    "organization": "Shower Hacks"
+  }
+]
