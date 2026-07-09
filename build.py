@@ -37,7 +37,14 @@ def fetch_devpost(city, max_pages=6):
     headers = {"User-Agent": "Mozilla/5.0 (event-tracker; personal use)"}
     for page in range(1, max_pages + 1):
         url = "https://devpost.com/api/hackathons"
-        params = {"search": city, "page": page}
+        # Ask Devpost only for events still open or upcoming, soonest first —
+        # so we don't waste pages on hackathons that already ended.
+        params = {
+            "search": city,
+            "page": page,
+            "status[]": ["upcoming", "open"],
+            "order_by": "deadline",
+        }
         try:
             resp = requests.get(url, params=params, headers=headers, timeout=30)
             resp.raise_for_status()
