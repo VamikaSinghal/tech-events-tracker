@@ -66,6 +66,17 @@
   .empty { grid-column: 1/-1; text-align: center; color: var(--muted); padding: 40px; }
   footer { text-align: center; color: var(--muted); font-size: .8rem; padding: 24px; }
   code { background: #f1f5f9; color: var(--text); padding: 2px 6px; border-radius: 4px; }
+  .filters {
+    max-width: 1100px; margin: 0 auto; padding: 4px 24px 0;
+    display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;
+  }
+  .filter-btn {
+    background: var(--card); border: 1px solid var(--line); color: var(--muted);
+    font: inherit; font-size: .82rem; font-weight: 600; cursor: pointer;
+    padding: 6px 14px; border-radius: 999px; transition: .15s;
+  }
+  .filter-btn:hover { border-color: var(--accent); color: var(--accent); }
+  .filter-btn.active { background: var(--accent); border-color: var(--accent); color: #fff; }
 </style>
 </head>
 <body>
@@ -77,12 +88,16 @@
   <header>
     <h1>Tech Events near me</h1>
     <p>Hackathons, tech &amp; startup events, updated daily</p>
-    <p>Showing <span class="count">71</span> events for <strong>San Francisco</strong></p>
-    <p style="font-size:.8rem">Last updated Jul 08, 2026 at 7:26 PM PDT</p>
+    <p>Showing <span class="count" id="event-count">71</span> events for <strong>San Francisco</strong></p>
+    <p style="font-size:.8rem">Last updated Jul 08, 2026 at 7:31 PM PDT</p>
   </header>
+  <div class="filters">
+    <button class="filter-btn active" data-filter="all">All</button>
+    <button class="filter-btn" data-filter="ai">AI</button><button class="filter-btn" data-filter="hardware">Hardware</button><button class="filter-btn" data-filter="startup">Startup</button><button class="filter-btn" data-filter="hackathons">Hackathons</button><button class="filter-btn" data-filter="fintech">Fintech</button>
+  </div>
   <main>
     
-        <a class="card" href="https://www.eventbrite.com/e/security-intelligence-leadership-2-days-training-in-san-francisco-ca-tickets-1992985609608" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.com/e/security-intelligence-leadership-2-days-training-in-san-francisco-ca-tickets-1992985609608" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -93,7 +108,7 @@
           <div class="tags"><span class="tag">High Tech</span><span class="tag">Science &amp; Technology</span><span class="tag">Class, Training, or Workshop</span><span class="tag">Threatdetection</span></div>
           
         </a>
-        <a class="card" href="https://www.meetup.com/aittg-sfsv/events/315458668/" target="_blank" rel="noopener">
+        <a class="card" data-categories="ai" href="https://www.meetup.com/aittg-sfsv/events/315458668/" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Meetup</span>
@@ -104,7 +119,7 @@
           <div class="tags"></div>
           
         </a>
-        <a class="card" href="https://lu.ma/vadtl2sj" target="_blank" rel="noopener">
+        <a class="card" data-categories="ai" href="https://lu.ma/vadtl2sj" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Luma</span>
@@ -115,7 +130,7 @@
           <div class="tags"></div>
           
         </a>
-        <a class="card" href="https://lu.ma/ondevice" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://lu.ma/ondevice" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Luma</span>
@@ -126,7 +141,7 @@
           <div class="tags"></div>
           
         </a>
-        <a class="card" href="https://lu.ma/bo58tyyg" target="_blank" rel="noopener">
+        <a class="card" data-categories="hardware" href="https://lu.ma/bo58tyyg" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Luma</span>
@@ -137,7 +152,7 @@
           <div class="tags"></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/startup-fundraising-strategy-session-2026-tickets-1981610156321" target="_blank" rel="noopener">
+        <a class="card" data-categories="startup" href="https://www.eventbrite.com/e/startup-fundraising-strategy-session-2026-tickets-1981610156321" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -148,7 +163,7 @@
           <div class="tags"><span class="tag">High Tech</span><span class="tag">Science &amp; Technology</span><span class="tag">Meeting or Networking Event</span><span class="tag">Startup</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/san-francisco-tech-mixer-and-social-tech-ai-data-it-tickets-1986013641263" target="_blank" rel="noopener">
+        <a class="card" data-categories="ai" href="https://www.eventbrite.com/e/san-francisco-tech-mixer-and-social-tech-ai-data-it-tickets-1986013641263" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -159,7 +174,7 @@
           <div class="tags"><span class="tag">High Tech</span><span class="tag">Science &amp; Technology</span><span class="tag">Meeting or Networking Event</span><span class="tag">Social</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.ca/e/san-francisco-healthcare-pharma-business-networking-event-tickets-1991014623335" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.ca/e/san-francisco-healthcare-pharma-business-networking-event-tickets-1991014623335" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -170,7 +185,7 @@
           <div class="tags"><span class="tag">Startups &amp; Small Business</span><span class="tag">Business &amp; Professional</span><span class="tag">Meeting or Networking Event</span><span class="tag">Job</span></div>
           
         </a>
-        <a class="card" href="https://lu.ma/1zwlnq89" target="_blank" rel="noopener">
+        <a class="card" data-categories="hackathons" href="https://lu.ma/1zwlnq89" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Luma</span>
@@ -181,7 +196,7 @@
           <div class="tags"></div>
           
         </a>
-        <a class="card" href="https://lu.ma/4h3rh9ic" target="_blank" rel="noopener">
+        <a class="card" data-categories="ai" href="https://lu.ma/4h3rh9ic" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Luma</span>
@@ -192,7 +207,7 @@
           <div class="tags"></div>
           
         </a>
-        <a class="card" href="https://lu.ma/td42xz48" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://lu.ma/td42xz48" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Luma</span>
@@ -203,7 +218,7 @@
           <div class="tags"></div>
           
         </a>
-        <a class="card" href="https://lu.ma/hahahack" target="_blank" rel="noopener">
+        <a class="card" data-categories="hackathons" href="https://lu.ma/hahahack" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Luma</span>
@@ -214,7 +229,7 @@
           <div class="tags"></div>
           
         </a>
-        <a class="card" href="https://lu.ma/3ilro47w" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://lu.ma/3ilro47w" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Luma</span>
@@ -225,7 +240,7 @@
           <div class="tags"></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/sf-tech-startups-investors-experts-networking-pitch-event-tickets-1991191481322" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.com/e/sf-tech-startups-investors-experts-networking-pitch-event-tickets-1991191481322" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -236,7 +251,7 @@
           <div class="tags"><span class="tag">Startups &amp; Small Business</span><span class="tag">Business &amp; Professional</span><span class="tag">Meeting or Networking Event</span><span class="tag">Networking</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/tech-connect-networking-for-tech-startups-investors-professionals-sf-tickets-1991200091074" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.com/e/tech-connect-networking-for-tech-startups-investors-professionals-sf-tickets-1991200091074" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -247,7 +262,7 @@
           <div class="tags"><span class="tag">Startups &amp; Small Business</span><span class="tag">Business &amp; Professional</span><span class="tag">Meeting or Networking Event</span><span class="tag">Networking</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/ai-driven-operational-excellence-1-day-training-san-francisco-ca-tickets-1990220197185" target="_blank" rel="noopener">
+        <a class="card" data-categories="ai" href="https://www.eventbrite.com/e/ai-driven-operational-excellence-1-day-training-san-francisco-ca-tickets-1990220197185" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -258,7 +273,7 @@
           <div class="tags"><span class="tag">High Tech</span><span class="tag">Science &amp; Technology</span><span class="tag">Class, Training, or Workshop</span><span class="tag">Training</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/practical-ai-ml-skills-2-days-training-san-francisco-ca-tickets-1988387498534" target="_blank" rel="noopener">
+        <a class="card" data-categories="ai" href="https://www.eventbrite.com/e/practical-ai-ml-skills-2-days-training-san-francisco-ca-tickets-1988387498534" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -269,7 +284,7 @@
           <div class="tags"><span class="tag">High Tech</span><span class="tag">Science &amp; Technology</span><span class="tag">Class, Training, or Workshop</span><span class="tag">Unitedstatesevents</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/ai-tech-startup-night-san-francisco-tickets-1992595874901" target="_blank" rel="noopener">
+        <a class="card" data-categories="ai startup" href="https://www.eventbrite.com/e/ai-tech-startup-night-san-francisco-tickets-1992595874901" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -280,7 +295,7 @@
           <div class="tags"><span class="tag">Startups &amp; Small Business</span><span class="tag">Business &amp; Professional</span><span class="tag">Meeting or Networking Event</span><span class="tag">Business</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/investor-connect-pitch-networking-san-francisco-tickets-1992595958150" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.com/e/investor-connect-pitch-networking-san-francisco-tickets-1992595958150" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -291,7 +306,7 @@
           <div class="tags"><span class="tag">Startups &amp; Small Business</span><span class="tag">Business &amp; Professional</span><span class="tag">Meeting or Networking Event</span><span class="tag">Networking</span></div>
           
         </a>
-        <a class="card" href="https://lu.ma/b8ie1m1s" target="_blank" rel="noopener">
+        <a class="card" data-categories="ai" href="https://lu.ma/b8ie1m1s" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Luma</span>
@@ -302,7 +317,7 @@
           <div class="tags"></div>
           
         </a>
-        <a class="card" href="https://lu.ma/4esilsg5" target="_blank" rel="noopener">
+        <a class="card" data-categories="ai" href="https://lu.ma/4esilsg5" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Luma</span>
@@ -313,7 +328,7 @@
           <div class="tags"></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/secure-development-practices-2-days-in-san-francisco-ca-tickets-1992477558012" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.com/e/secure-development-practices-2-days-in-san-francisco-ca-tickets-1992477558012" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -324,7 +339,7 @@
           <div class="tags"><span class="tag">High Tech</span><span class="tag">Science &amp; Technology</span><span class="tag">Class, Training, or Workshop</span><span class="tag">Training</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/vision-craft-innovation-hub-1-day-workshop-in-san-francisco-ca-tickets-1990372183781" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.com/e/vision-craft-innovation-hub-1-day-workshop-in-san-francisco-ca-tickets-1990372183781" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -335,7 +350,7 @@
           <div class="tags"><span class="tag">High Tech</span><span class="tag">Science &amp; Technology</span><span class="tag">Class, Training, or Workshop</span><span class="tag">Designthinking</span></div>
           
         </a>
-        <a class="card" href="https://www.meetup.com/sfbay-ai/events/315494713/" target="_blank" rel="noopener">
+        <a class="card" data-categories="ai" href="https://www.meetup.com/sfbay-ai/events/315494713/" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Meetup</span>
@@ -346,7 +361,7 @@
           <div class="tags"></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/ai-supply-chain-hackathon-2026-food-banks-ai-tickets-1264432213789" target="_blank" rel="noopener">
+        <a class="card" data-categories="ai hackathons" href="https://www.eventbrite.com/e/ai-supply-chain-hackathon-2026-food-banks-ai-tickets-1264432213789" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -357,7 +372,7 @@
           <div class="tags"><span class="tag">High Tech</span><span class="tag">Science &amp; Technology</span><span class="tag">Game or Competition</span><span class="tag">data_analysis</span></div>
           
         </a>
-        <a class="card" href="https://www.meetup.com/san-francisco-ai-engineers/events/313346812/" target="_blank" rel="noopener">
+        <a class="card" data-categories="ai" href="https://www.meetup.com/san-francisco-ai-engineers/events/313346812/" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Meetup</span>
@@ -368,7 +383,7 @@
           <div class="tags"></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/tech-and-business-networking-elevating-your-potential-sf-tickets-1987336121838" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.com/e/tech-and-business-networking-elevating-your-potential-sf-tickets-1987336121838" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -379,7 +394,7 @@
           <div class="tags"><span class="tag">Startups &amp; Small Business</span><span class="tag">Business &amp; Professional</span><span class="tag">Meeting or Networking Event</span><span class="tag">Business</span></div>
           
         </a>
-        <a class="card" href="https://lu.ma/j7v7qeem" target="_blank" rel="noopener">
+        <a class="card" data-categories="ai" href="https://lu.ma/j7v7qeem" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Luma</span>
@@ -390,7 +405,7 @@
           <div class="tags"></div>
           
         </a>
-        <a class="card" href="https://lu.ma/jrs8v2ms" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://lu.ma/jrs8v2ms" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Luma</span>
@@ -401,7 +416,7 @@
           <div class="tags"></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/out-in-tech-sf-bay-area-women-tgx-gender-expansive-non-binary-mixer-tickets-1991244335410" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.com/e/out-in-tech-sf-bay-area-women-tgx-gender-expansive-non-binary-mixer-tickets-1991244335410" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -412,7 +427,7 @@
           <div class="tags"><span class="tag">Other</span><span class="tag">Party or Social Gathering</span><span class="tag">Transgender</span><span class="tag">Mixer</span></div>
           
         </a>
-        <a class="card" href="https://www.meetup.com/sflegalhackers/events/315525187/" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.meetup.com/sflegalhackers/events/315525187/" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Meetup</span>
@@ -423,7 +438,7 @@
           <div class="tags"></div>
           
         </a>
-        <a class="card" href="https://lu.ma/4s00vb76" target="_blank" rel="noopener">
+        <a class="card" data-categories="ai" href="https://lu.ma/4s00vb76" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Luma</span>
@@ -434,7 +449,7 @@
           <div class="tags"></div>
           
         </a>
-        <a class="card" href="https://lu.ma/oym92m2s" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://lu.ma/oym92m2s" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Luma</span>
@@ -445,7 +460,7 @@
           <div class="tags"></div>
           
         </a>
-        <a class="card" href="https://lu.ma/loophack" target="_blank" rel="noopener">
+        <a class="card" data-categories="hackathons" href="https://lu.ma/loophack" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Luma</span>
@@ -456,7 +471,7 @@
           <div class="tags"></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/agi-summit-2026-where-agi-converges-july-1819-palace-of-fine-art-tickets-1985545163032" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.com/e/agi-summit-2026-where-agi-converges-july-1819-palace-of-fine-art-tickets-1985545163032" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -467,7 +482,7 @@
           <div class="tags"><span class="tag">High Tech</span><span class="tag">Science &amp; Technology</span><span class="tag">Conference</span><span class="tag">genai_summit2026</span></div>
           
         </a>
-        <a class="card" href="https://www.meetup.com/bay-area-artificial-war-room/events/313150505/" target="_blank" rel="noopener">
+        <a class="card" data-categories="ai" href="https://www.meetup.com/bay-area-artificial-war-room/events/313150505/" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Meetup</span>
@@ -478,7 +493,7 @@
           <div class="tags"></div>
           
         </a>
-        <a class="card" href="https://lu.ma/fmypremp" target="_blank" rel="noopener">
+        <a class="card" data-categories="ai hackathons" href="https://lu.ma/fmypremp" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Luma</span>
@@ -489,7 +504,7 @@
           <div class="tags"></div>
           
         </a>
-        <a class="card" href="https://lu.ma/rklrsomo" target="_blank" rel="noopener">
+        <a class="card" data-categories="ai" href="https://lu.ma/rklrsomo" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Luma</span>
@@ -500,7 +515,7 @@
           <div class="tags"></div>
           
         </a>
-        <a class="card" href="https://www.meetup.com/monthly-sf-game-development-community/events/315300520/" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.meetup.com/monthly-sf-game-development-community/events/315300520/" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Meetup</span>
@@ -511,7 +526,7 @@
           <div class="tags"></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/sf-startups-investors-professionals-pitch-networking-event-tickets-1992127226160" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.com/e/sf-startups-investors-professionals-pitch-networking-event-tickets-1992127226160" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -522,7 +537,7 @@
           <div class="tags"><span class="tag">Startups &amp; Small Business</span><span class="tag">Business &amp; Professional</span><span class="tag">Meeting or Networking Event</span><span class="tag">Networking</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/certified-blockchain-associate-san-francisco-tickets-1968898102225" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.com/e/certified-blockchain-associate-san-francisco-tickets-1968898102225" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -533,7 +548,7 @@
           <div class="tags"><span class="tag">High Tech</span><span class="tag">Science &amp; Technology</span><span class="tag">Class, Training, or Workshop</span><span class="tag">Blockchain</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/cocktails-and-tech-happy-hour-at-hotel-spero-bar-esper-sf-july-22-2026-tickets-1990343493969" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.com/e/cocktails-and-tech-happy-hour-at-hotel-spero-bar-esper-sf-july-22-2026-tickets-1990343493969" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -544,7 +559,7 @@
           <div class="tags"><span class="tag">Startups &amp; Small Business</span><span class="tag">Business &amp; Professional</span><span class="tag">Meeting or Networking Event</span><span class="tag">Mixer</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/startup-founders-meetup-i-san-francisco-tickets-1993258722496" target="_blank" rel="noopener">
+        <a class="card" data-categories="startup" href="https://www.eventbrite.com/e/startup-founders-meetup-i-san-francisco-tickets-1993258722496" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -555,7 +570,7 @@
           <div class="tags"><span class="tag">High Tech</span><span class="tag">Science &amp; Technology</span><span class="tag">Meeting or Networking Event</span><span class="tag">Investment</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/vc-networking-tech-pitch-i-san-francisco-tickets-1993258742556" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.com/e/vc-networking-tech-pitch-i-san-francisco-tickets-1993258742556" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -566,7 +581,7 @@
           <div class="tags"><span class="tag">High Tech</span><span class="tag">Science &amp; Technology</span><span class="tag">Meeting or Networking Event</span><span class="tag">Networking</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/tech-networking-event-in-san-francisco-tickets-1990700554948" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.com/e/tech-networking-event-in-san-francisco-tickets-1990700554948" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -577,7 +592,7 @@
           <div class="tags"><span class="tag">High Tech</span><span class="tag">Science &amp; Technology</span><span class="tag">Meeting or Networking Event</span><span class="tag">Business</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/ai-tech-networking-event-in-san-francisco-by-ascent-valley-tickets-1991471114713" target="_blank" rel="noopener">
+        <a class="card" data-categories="ai" href="https://www.eventbrite.com/e/ai-tech-networking-event-in-san-francisco-by-ascent-valley-tickets-1991471114713" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -588,7 +603,7 @@
           <div class="tags"><span class="tag">Startups &amp; Small Business</span><span class="tag">Business &amp; Professional</span><span class="tag">Meeting or Networking Event</span><span class="tag">Networking</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/startup-tech-ai-networking-in-san-francisco-tickets-1992525243641" target="_blank" rel="noopener">
+        <a class="card" data-categories="ai startup" href="https://www.eventbrite.com/e/startup-tech-ai-networking-in-san-francisco-tickets-1992525243641" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -599,7 +614,7 @@
           <div class="tags"><span class="tag">Startups &amp; Small Business</span><span class="tag">Business &amp; Professional</span><span class="tag">Meeting or Networking Event</span><span class="tag">Business</span></div>
           
         </a>
-        <a class="card" href="https://lu.ma/swarmhack" target="_blank" rel="noopener">
+        <a class="card" data-categories="hackathons" href="https://lu.ma/swarmhack" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Luma</span>
@@ -610,7 +625,7 @@
           <div class="tags"></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/medtech-healthtech-startups-investors-innovators-networking-event-sf-tickets-1992347079748" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.com/e/medtech-healthtech-startups-investors-innovators-networking-event-sf-tickets-1992347079748" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -621,7 +636,7 @@
           <div class="tags"><span class="tag">Startups &amp; Small Business</span><span class="tag">Business &amp; Professional</span><span class="tag">Meeting or Networking Event</span><span class="tag">Networking</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/sf-healthtech-medtech-startups-investors-innovators-networking-event-tickets-1992347135916" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.com/e/sf-healthtech-medtech-startups-investors-innovators-networking-event-tickets-1992347135916" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -632,7 +647,7 @@
           <div class="tags"><span class="tag">Startups &amp; Small Business</span><span class="tag">Business &amp; Professional</span><span class="tag">Meeting or Networking Event</span><span class="tag">Networking</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.co.uk/e/tech-startup-networking-san-francisco-series-a-venture-capital-event-tickets-1985173696967" target="_blank" rel="noopener">
+        <a class="card" data-categories="startup" href="https://www.eventbrite.co.uk/e/tech-startup-networking-san-francisco-series-a-venture-capital-event-tickets-1985173696967" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -643,7 +658,7 @@
           <div class="tags"><span class="tag">Startups &amp; Small Business</span><span class="tag">Business &amp; Professional</span><span class="tag">Meeting or Networking Event</span><span class="tag">Venture_capital</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/sf-startup-tech-mixer-2026-tickets-1992596984219" target="_blank" rel="noopener">
+        <a class="card" data-categories="startup" href="https://www.eventbrite.com/e/sf-startup-tech-mixer-2026-tickets-1992596984219" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -654,7 +669,7 @@
           <div class="tags"><span class="tag">Startups &amp; Small Business</span><span class="tag">Business &amp; Professional</span><span class="tag">Meeting or Networking Event</span><span class="tag">Networking</span></div>
           
         </a>
-        <a class="card" href="https://www.meetup.com/sftechmixer/events/313838165/" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.meetup.com/sftechmixer/events/313838165/" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Meetup</span>
@@ -665,7 +680,7 @@
           <div class="tags"></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/tech-roast-sf-comedians-roast-techies-tickets-1992775092947" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.com/e/tech-roast-sf-comedians-roast-techies-tickets-1992775092947" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -676,7 +691,7 @@
           <div class="tags"><span class="tag">Comedy</span><span class="tag">Performing &amp; Visual Arts</span><span class="tag">Concert or Performance</span><span class="tag">Tech</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/health-fitness-beauty-wellness-business-networking-mixer-sf-tickets-1992481516853" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.com/e/health-fitness-beauty-wellness-business-networking-mixer-sf-tickets-1992481516853" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -687,7 +702,7 @@
           <div class="tags"><span class="tag">Startups &amp; Small Business</span><span class="tag">Business &amp; Professional</span><span class="tag">Meeting or Networking Event</span><span class="tag">Wellness</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.ca/e/san-francisco-tech-finance-networking-event-tickets-1992840368187" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.ca/e/san-francisco-tech-finance-networking-event-tickets-1992840368187" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -698,7 +713,7 @@
           <div class="tags"><span class="tag">Startups &amp; Small Business</span><span class="tag">Business &amp; Professional</span><span class="tag">Meeting or Networking Event</span><span class="tag">Job</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/go-tech-yourself-tickets-1993366298258" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.com/e/go-tech-yourself-tickets-1993366298258" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -709,7 +724,7 @@
           <div class="tags"><span class="tag">Comedy</span><span class="tag">Film, Media &amp; Entertainment</span><span class="tag">Concert or Performance</span><span class="tag">Comedy</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.sg/e/work-smarter-with-ai-1-day-non-tech-workshop-in-san-francisco-tickets-1989974867397" target="_blank" rel="noopener">
+        <a class="card" data-categories="ai" href="https://www.eventbrite.sg/e/work-smarter-with-ai-1-day-non-tech-workshop-in-san-francisco-tickets-1989974867397" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -720,7 +735,7 @@
           <div class="tags"><span class="tag">Career</span><span class="tag">Business &amp; Professional</span><span class="tag">Class, Training, or Workshop</span><span class="tag">Sanfrancisco</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/sf-women-in-tech-founders-professionals-networking-night-tickets-1993459741750" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.com/e/sf-women-in-tech-founders-professionals-networking-night-tickets-1993459741750" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -731,7 +746,7 @@
           <div class="tags"><span class="tag">Startups &amp; Small Business</span><span class="tag">Business &amp; Professional</span><span class="tag">Meeting or Networking Event</span><span class="tag">Networking</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/san-frans-largest-tech-startup-business-entrepreneur-networking-soiree-tickets-1976644210042" target="_blank" rel="noopener">
+        <a class="card" data-categories="startup" href="https://www.eventbrite.com/e/san-frans-largest-tech-startup-business-entrepreneur-networking-soiree-tickets-1976644210042" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -742,7 +757,7 @@
           <div class="tags"><span class="tag">Startups &amp; Small Business</span><span class="tag">Business &amp; Professional</span><span class="tag">Meeting or Networking Event</span><span class="tag">Business</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/tech-after-hours-happy-hour-at-intercontinental-sf-august-18-2026-tickets-1992439204295" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.com/e/tech-after-hours-happy-hour-at-intercontinental-sf-august-18-2026-tickets-1992439204295" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -753,7 +768,7 @@
           <div class="tags"><span class="tag">Startups &amp; Small Business</span><span class="tag">Business &amp; Professional</span><span class="tag">Meeting or Networking Event</span><span class="tag">Mixer</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/2026-global-innovation-show-hong-kong-vvip-price-for-two-tickets-tickets-1986610099285" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.com/e/2026-global-innovation-show-hong-kong-vvip-price-for-two-tickets-tickets-1986610099285" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -764,7 +779,7 @@
           <div class="tags"><span class="tag">High Tech</span><span class="tag">Science &amp; Technology</span><span class="tag">Tradeshow, Consumer Show, or Expo</span><span class="tag">futuretech2026</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/2026-global-innovation-show-global-innovation-summit-hong-kong-tickets-1984174754102" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.com/e/2026-global-innovation-show-global-innovation-summit-hong-kong-tickets-1984174754102" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -775,7 +790,7 @@
           <div class="tags"><span class="tag">High Tech</span><span class="tag">Science &amp; Technology</span><span class="tag">Tradeshow, Consumer Show, or Expo</span><span class="tag">futuretech2026</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/the-2nd-gis-global-innovation-show-summit-2026hubblestartup-tickets-1992112979548" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.com/e/the-2nd-gis-global-innovation-show-summit-2026hubblestartup-tickets-1992112979548" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -786,7 +801,7 @@
           <div class="tags"><span class="tag">High Tech</span><span class="tag">Science &amp; Technology</span><span class="tag">Tradeshow, Consumer Show, or Expo</span><span class="tag">futuretech2026</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/women-in-tech-2026-ai-sf-employer-ticket-tickets-1975344570786" target="_blank" rel="noopener">
+        <a class="card" data-categories="ai" href="https://www.eventbrite.com/e/women-in-tech-2026-ai-sf-employer-ticket-tickets-1975344570786" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -797,7 +812,7 @@
           <div class="tags"><span class="tag">Career</span><span class="tag">Business &amp; Professional</span><span class="tag">Meeting or Networking Event</span><span class="tag">Recruiting</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/women-in-tech-sf-2026-tickets-1993024334435" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.com/e/women-in-tech-sf-2026-tickets-1993024334435" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -808,7 +823,7 @@
           <div class="tags"><span class="tag">Business &amp; Professional</span><span class="tag">Meeting or Networking Event</span><span class="tag">Networking</span><span class="tag">Diversity</span></div>
           
         </a>
-        <a class="card" href="https://showerhacks.devpost.com/" target="_blank" rel="noopener">
+        <a class="card" data-categories="hackathons" href="https://showerhacks.devpost.com/" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Devpost</span>
@@ -819,7 +834,7 @@
           <div class="tags"><span class="tag">Open Ended</span><span class="tag">Lifehacks</span><span class="tag">Social Good</span></div>
           <span class="prize">💰 $8,000</span>
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/housetaurant-fundraiser-dinner-party-for-charity-sf-tech-week-tc-disrupt-tickets-1992733716188" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.com/e/housetaurant-fundraiser-dinner-party-for-charity-sf-tech-week-tc-disrupt-tickets-1992733716188" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -830,7 +845,7 @@
           <div class="tags"><span class="tag">Other</span><span class="tag">Charity &amp; Causes</span><span class="tag">Dinner or Gala</span><span class="tag">Charitydinner</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/the-brain-optimization-summit-sf-tech-week-2026-tickets-1989432783008" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.com/e/the-brain-optimization-summit-sf-tech-week-2026-tickets-1989432783008" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -841,7 +856,7 @@
           <div class="tags"><span class="tag">Science</span><span class="tag">Science &amp; Technology</span><span class="tag">Conference</span><span class="tag">Neuroscience</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/fintech-pre-tech-crunch-and-money-2020-tickets-1982124219899" target="_blank" rel="noopener">
+        <a class="card" data-categories="fintech" href="https://www.eventbrite.com/e/fintech-pre-tech-crunch-and-money-2020-tickets-1982124219899" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -852,7 +867,7 @@
           <div class="tags"><span class="tag">High Tech</span><span class="tag">Science &amp; Technology</span><span class="tag">Seminar or Talk</span><span class="tag">Business</span></div>
           
         </a>
-        <a class="card" href="https://www.eventbrite.com/e/women-in-tech-2026-berlin-employer-ticket-tickets-1990179855522" target="_blank" rel="noopener">
+        <a class="card" data-categories="" href="https://www.eventbrite.com/e/women-in-tech-2026-berlin-employer-ticket-tickets-1990179855522" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state upcoming">Upcoming</span>
             <span class="src">Eventbrite</span>
@@ -867,5 +882,26 @@
   <footer>
     Built automatically with GitHub Actions · Data from Devpost, Luma, Eventbrite &amp; Meetup
   </footer>
+  <script>
+    (function () {
+      var buttons = document.querySelectorAll(".filter-btn");
+      var cards = document.querySelectorAll(".card");
+      var countEl = document.getElementById("event-count");
+      buttons.forEach(function (btn) {
+        btn.addEventListener("click", function () {
+          buttons.forEach(function (b) { b.classList.remove("active"); });
+          btn.classList.add("active");
+          var filter = btn.dataset.filter;
+          var visible = 0;
+          cards.forEach(function (card) {
+            var match = filter === "all" || (card.dataset.categories || "").split(" ").indexOf(filter) !== -1;
+            card.style.display = match ? "" : "none";
+            if (match) visible++;
+          });
+          if (countEl) countEl.textContent = visible;
+        });
+      });
+    })();
+  </script>
 </body>
 </html>

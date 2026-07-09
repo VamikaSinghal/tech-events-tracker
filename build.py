@@ -90,6 +90,25 @@ def keyword_match(haystack, keywords):
     return any(re.search(rf"\b{re.escape(k)}\b", haystack) for k in keywords if k)
 
 
+# Nicer display labels for keywords that shouldn't just be .title()-cased.
+CATEGORY_LABELS = {"ai": "AI", "vc": "VC", "web3": "Web3"}
+
+
+def category_label(keyword):
+    return CATEGORY_LABELS.get(keyword, keyword.title())
+
+
+def event_categories(ev, keywords):
+    """Which of your config.json keywords (plus a built-in 'hackathon'
+    bucket) this event matches — powers the category filter buttons on the
+    page. Reuses the same word-boundary matching as the source filters."""
+    haystack = " ".join([ev["title"], " ".join(ev["themes"])]).lower()
+    cats = [k for k in keywords if keyword_match(haystack, [k])]
+    if ev["source"] == "Devpost" or keyword_match(haystack, ["hackathon", "hackathons"]):
+        cats.append("hackathons")
+    return cats
+
+
 # ----------------------------------------------------------------------
 # 1. Load your settings
 # ----------------------------------------------------------------------
@@ -694,6 +713,9 @@ def render_html(events, config):
     subtitle = html.escape(config.get("site_subtitle", ""))
     city = html.escape(config.get("city", ""))
 
+    keywords = [k.lower() for k in config.get("keywords", [])]
+    seen_categories = []  # keep first-seen order, only ones that actually occur
+
     cards = []
     for ev in events:
         themes = "".join(
@@ -706,9 +728,13 @@ def render_html(events, config):
         )
         state_label = "Upcoming" if ev["state"] == "upcoming" else "Open now"
         state_class = "upcoming" if ev["state"] == "upcoming" else "open"
+        categories = event_categories(ev, keywords)
+        for c in categories:
+            if c not in seen_categories:
+                seen_categories.append(c)
         cards.append(
             f"""
-        <a class="card" href="{html.escape(ev['url'])}" target="_blank" rel="noopener">
+        <a class="card" data-categories="{html.escape(' '.join(categories))}" href="{html.escape(ev['url'])}" target="_blank" rel="noopener">
           <div class="card-top">
             <span class="state {state_class}">{state_label}</span>
             <span class="src">{html.escape(ev['source'])}</span>
@@ -726,6 +752,20 @@ def render_html(events, config):
             '<p class="empty">No matching upcoming events found right now. '
             "Try broadening your keywords or city in <code>config.json</code>.</p>"
         )
+
+    filter_buttons = "".join(
+        f'<button class="filter-btn" data-filter="{html.escape(c)}">{html.escape(category_label(c))}</button>'
+        for c in seen_categories
+    )
+    filters_bar = (
+        f"""
+  <div class="filters">
+    <button class="filter-btn active" data-filter="all">All</button>
+    {filter_buttons}
+  </div>"""
+        if seen_categories
+        else ""
+    )
 
     count = len([e for e in events])
     repo_url = config.get("repo_url", "")
@@ -807,21 +847,53 @@ def render_html(events, config):
   .empty {{ grid-column: 1/-1; text-align: center; color: var(--muted); padding: 40px; }}
   footer {{ text-align: center; color: var(--muted); font-size: .8rem; padding: 24px; }}
   code {{ background: #f1f5f9; color: var(--text); padding: 2px 6px; border-radius: 4px; }}
+  .filters {{
+    max-width: 1100px; margin: 0 auto; padding: 4px 24px 0;
+    display: flex; flex-wrap: wrap; gap: 8px; justify-content: center;
+  }}
+  .filter-btn {{
+    background: var(--card); border: 1px solid var(--line); color: var(--muted);
+    font: inherit; font-size: .82rem; font-weight: 600; cursor: pointer;
+    padding: 6px 14px; border-radius: 999px; transition: .15s;
+  }}
+  .filter-btn:hover {{ border-color: var(--accent); color: var(--accent); }}
+  .filter-btn.active {{ background: var(--accent); border-color: var(--accent); color: #fff; }}
 </style>
 </head>
 <body>{repo_banner}
   <header>
     <h1>{title}</h1>
     <p>{subtitle}</p>
-    <p>Showing <span class="count">{count}</span> events for <strong>{city}</strong></p>
+    <p>Showing <span class="count" id="event-count">{count}</span> events for <strong>{city}</strong></p>
     <p style="font-size:.8rem">Last updated {updated}</p>
-  </header>
+  </header>{filters_bar}
   <main>
     {''.join(cards)}
   </main>
   <footer>
     Built automatically with GitHub Actions · Data from Devpost, Luma, Eventbrite &amp; Meetup
   </footer>
+  <script>
+    (function () {{
+      var buttons = document.querySelectorAll(".filter-btn");
+      var cards = document.querySelectorAll(".card");
+      var countEl = document.getElementById("event-count");
+      buttons.forEach(function (btn) {{
+        btn.addEventListener("click", function () {{
+          buttons.forEach(function (b) {{ b.classList.remove("active"); }});
+          btn.classList.add("active");
+          var filter = btn.dataset.filter;
+          var visible = 0;
+          cards.forEach(function (card) {{
+            var match = filter === "all" || (card.dataset.categories || "").split(" ").indexOf(filter) !== -1;
+            card.style.display = match ? "" : "none";
+            if (match) visible++;
+          }});
+          if (countEl) countEl.textContent = visible;
+        }});
+      }});
+    }})();
+  </script>
 </body>
 </html>
 """
