@@ -22,22 +22,25 @@ ROOT = Path(__file__).parent
 CONFIG_PATH = ROOT / "config.json"
 HEADERS = {"User-Agent": "Mozilla/5.0 (event-tracker; personal use)"}
 
-# Generic words that mark a Luma event as tech/startup-relevant. Luma's
-# discover feed is a general local-events feed (book clubs, run clubs,
-# concerts...), unlike Devpost which is hackathons-only, so Luma results are
-# always narrowed by these plus your own config.json keywords — see
-# filter_events().
+# Sources whose city feeds are general-purpose (not inherently tech/startup),
+# so they always get narrowed by GENERIC_TECH_KEYWORDS + your own keywords —
+# see filter_events(). Devpost (hackathons only) and your explicitly curated
+# extra_luma_calendars are exempt: Devpost has no noise to begin with, and
+# calendars you hand-picked are trusted as-is.
+BROAD_SOURCES = {"Luma", "Eventbrite", "Meetup"}
+
 GENERIC_TECH_KEYWORDS = [
-    "tech", "startup", "founder", "founders", "venture", "vc", "hackathon",
-    "engineer", "engineering", "developer", "product", "ai", "ml",
+    "tech", "startup", "startups", "founder", "founders", "venture", "vc",
+    "hackathon", "hackathons", "engineer", "engineers", "engineering",
+    "developer", "developers", "product", "ai", "ml",
     "machine learning", "artificial intelligence", "web3", "crypto",
-    "blockchain", "saas", "software", "coding", "hacker", "demo day",
-    "pitch", "y combinator",
+    "blockchain", "saas", "software", "coding", "hacker", "hackers",
+    "demo day", "pitch", "y combinator",
 ]
 
-# A few common shorthands people type as "city" that don't match Luma's
-# official place names.
-LUMA_CITY_ALIASES = {
+# A few common shorthands/alt-names people type as "city" that don't match
+# Luma's or Eventbrite's official place names.
+CITY_ALIASES = {
     "nyc": "new york",
     "new york city": "new york",
     "sf": "san francisco",
@@ -51,12 +54,40 @@ LUMA_CITY_ALIASES = {
     "saigon": "ho chi minh city",
 }
 
+# For disambiguating "City, <hint>" against Eventbrite's country/state prefix
+# (e.g. "London, UK" vs the Canadian London) — Eventbrite's slugs spell out
+# "united-kingdom", not the ISO code, so common shorthands need mapping.
+COUNTRY_HINT_ALIASES = {
+    "uk": "united kingdom",
+    "england": "united kingdom",
+    "scotland": "united kingdom",
+    "usa": "united states",
+    "us": "united states",
+    "america": "united states",
+    "uae": "united arab emirates",
+}
+
 
 def fold_accents(text):
     """'São Paulo' -> 'sao paulo', so typed input without accents still
-    matches Luma's place names."""
+    matches place names from Luma/Eventbrite."""
     normalized = unicodedata.normalize("NFKD", text)
     return "".join(c for c in normalized if not unicodedata.combining(c)).lower()
+
+
+def split_city_hint(raw_city):
+    """'London, UK' -> ('London', 'UK'). The hint disambiguates cities that
+    share a name across countries (there's a London, Ontario and a London,
+    England) — only Eventbrite's city list is large enough for this to bite.
+    """
+    city_part, _, hint = raw_city.partition(",")
+    return city_part.strip(), hint.strip()
+
+
+def keyword_match(haystack, keywords):
+    """Word-boundary match so short keywords like 'ai' don't fire on
+    substrings inside unrelated words (e.g. 'trail', 'captain')."""
+    return any(re.search(rf"\b{re.escape(k)}\b", haystack) for k in keywords if k)
 
 
 # ----------------------------------------------------------------------
@@ -111,6 +142,7 @@ def fetch_devpost(city, max_pages=6):
                     "themes": themes,
                     "prize": strip_html(h.get("prize_amount", "")),
                     "organization": h.get("organization_name") or "",
+                    "curated": False,
                 }
             )
     return events
@@ -192,7 +224,7 @@ def match_luma_place(city, places):
     if not city or not places:
         return None
     needle = fold_accents(city.strip())
-    needle = LUMA_CITY_ALIASES.get(needle, needle)
+    needle = CITY_ALIASES.get(needle, needle)
     needle_slug = re.sub(r"[^a-z0-9]+", "-", needle).strip("-")
 
     for p in places:
@@ -206,6 +238,42 @@ def match_luma_place(city, places):
         if needle in name_folded or name_folded in needle:
             return p
     return None
+
+
+def _map_luma_event(ev, organization="", curated=False, now=None):
+    """Shared mapping for both the city discover feed and hand-picked
+    calendars — Luma returns the same event shape in both APIs."""
+    start_iso = ev.get("start_at")
+    if not start_iso:
+        return None
+    start_utc = datetime.datetime.fromisoformat(start_iso.replace("Z", "+00:00"))
+    if now and start_utc < now:
+        return None
+
+    tz_name = ev.get("timezone")
+    local_start = start_utc.astimezone(ZoneInfo(tz_name)) if tz_name else start_utc
+    time_str = local_start.strftime("%I:%M %p").lstrip("0")
+    dates = f"{local_start.strftime('%b %d, %Y')} · {time_str}"
+
+    geo = ev.get("geo_address_info") or {}
+    if ev.get("location_type") == "virtual":
+        location = "Online"
+    else:
+        location = geo.get("city_state") or geo.get("city") or ""
+
+    return {
+        "source": "Luma",
+        "title": (ev.get("name") or "").strip(),
+        "url": f"https://lu.ma/{ev.get('url', '')}",
+        "location": location,
+        "dates": dates,
+        "sort_date": start_utc.replace(tzinfo=None),
+        "state": "upcoming",
+        "themes": [],
+        "prize": "",
+        "organization": organization,
+        "curated": curated,
+    }
 
 
 def fetch_luma(city, max_events=80):
@@ -242,40 +310,12 @@ def fetch_luma(city, max_events=80):
             break
 
         for entry in entries:
-            ev = entry.get("event") or {}
-            start_iso = ev.get("start_at")
-            if not start_iso:
-                continue
-            start_utc = datetime.datetime.fromisoformat(start_iso.replace("Z", "+00:00"))
-            if start_utc < now:  # discover should only return upcoming, but double-check
-                continue
-
-            tz_name = ev.get("timezone")
-            local_start = start_utc.astimezone(ZoneInfo(tz_name)) if tz_name else start_utc
-            time_str = local_start.strftime("%I:%M %p").lstrip("0")
-            dates = f"{local_start.strftime('%b %d, %Y')} · {time_str}"
-
-            geo = ev.get("geo_address_info") or {}
-            if ev.get("location_type") == "virtual":
-                location = "Online"
-            else:
-                location = geo.get("city_state") or geo.get("city") or ""
-
             calendar = entry.get("calendar") or {}
-            events.append(
-                {
-                    "source": "Luma",
-                    "title": (ev.get("name") or "").strip(),
-                    "url": f"https://lu.ma/{ev.get('url', '')}",
-                    "location": location,
-                    "dates": dates,
-                    "sort_date": start_utc.replace(tzinfo=None),
-                    "state": "upcoming",
-                    "themes": [],
-                    "prize": "",
-                    "organization": calendar.get("name") or "",
-                }
+            mapped = _map_luma_event(
+                entry.get("event") or {}, organization=calendar.get("name", ""), now=now
             )
+            if mapped:
+                events.append(mapped)
 
         if not data.get("has_more") or not data.get("next_cursor"):
             break
@@ -284,31 +324,318 @@ def fetch_luma(city, max_events=80):
     return events
 
 
-# ----------------------------------------------------------------------
-# 4. Keep only the events you care about
-# ----------------------------------------------------------------------
-def keyword_match(haystack, keywords):
-    """Word-boundary match so short keywords like 'ai' don't fire on
-    substrings inside unrelated words (e.g. 'trail', 'captain')."""
-    return any(re.search(rf"\b{re.escape(k)}\b", haystack) for k in keywords if k)
+def fetch_luma_calendar(slug):
+    """Pull upcoming events from one specific Luma calendar (a coworking
+    space, incubator, or 'connector' you've already found and follow) rather
+    than a whole city — configure these under extra_luma_calendars."""
+    try:
+        resp = requests.get(f"https://lu.ma/{slug}", headers=HEADERS, timeout=30)
+        resp.raise_for_status()
+    except Exception as e:
+        print(f"  ! could not load Luma calendar '{slug}': {e}")
+        return []
+
+    match = re.search(
+        r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', resp.text, re.S
+    )
+    if not match:
+        print(f"  ! Luma calendar '{slug}' page format changed, skipping")
+        return []
+
+    try:
+        data = json.loads(match.group(1))
+        payload = data["props"]["pageProps"]["initialData"]
+    except Exception as e:
+        print(f"  ! could not parse Luma calendar '{slug}': {e}")
+        return []
+
+    if payload.get("kind") != "calendar":
+        print(f"  ! '{slug}' isn't a Luma calendar page, skipping")
+        return []
+
+    calendar_data = payload.get("data", {})
+    calendar_name = (calendar_data.get("calendar") or {}).get("name", slug)
+    now = datetime.datetime.now(datetime.timezone.utc)
+
+    events = []
+    for item in calendar_data.get("featured_items", []):
+        mapped = _map_luma_event(
+            item.get("event") or {}, organization=calendar_name, curated=True, now=now
+        )
+        if mapped:
+            events.append(mapped)
+    return events
 
 
+# ----------------------------------------------------------------------
+# 4. Get events from Eventbrite's city + category search pages. No API key
+#    needed: the search results page embeds a JSON blob (window.__SERVER_DATA__)
+#    including the event list AND a global list of every city slug Eventbrite
+#    indexes, which we use to build the URL for whatever city you configure.
+# ----------------------------------------------------------------------
+EVENTBRITE_BOOTSTRAP_URL = "https://www.eventbrite.com/d/ca--san-francisco/tech/"
+
+
+def _parse_eventbrite_server_data(text):
+    match = re.search(r"window\.__SERVER_DATA__\s*=\s*(\{.*?\});\s*\n", text, re.S)
+    if not match:
+        return None
+    try:
+        return json.loads(match.group(1))
+    except Exception:
+        return None
+
+
+def get_eventbrite_cities():
+    try:
+        resp = requests.get(EVENTBRITE_BOOTSTRAP_URL, headers=HEADERS, timeout=30)
+        resp.raise_for_status()
+    except Exception as e:
+        print(f"  ! could not load Eventbrite's city list: {e}")
+        return []
+
+    data = _parse_eventbrite_server_data(resp.text)
+    if data is None:
+        print("  ! Eventbrite page format changed, skipping Eventbrite")
+        return []
+
+    try:
+        # Despite the name, this is Eventbrite's full ~1000-city index, not
+        # just "trending" ones — it's the same list on every /d/ search page
+        # regardless of the city you searched.
+        raw_cities = data["trending_search_cities"]
+    except Exception as e:
+        print(f"  ! could not parse Eventbrite's city list: {e}")
+        return []
+
+    cities = []
+    for country_code, slug in raw_cities:
+        display = slug.rsplit("--", 1)[-1].replace("-", " ")
+        cities.append({"country_code": country_code, "slug": slug, "display": display})
+    return cities
+
+
+def match_eventbrite_city(city, region_hint, cities):
+    if not city or not cities:
+        return None
+    needle = fold_accents(city)
+    needle = CITY_ALIASES.get(needle, needle)
+    hint = fold_accents(region_hint) if region_hint else ""
+    hint = COUNTRY_HINT_ALIASES.get(hint, hint)
+
+    matches = [c for c in cities if fold_accents(c["display"]) == needle]
+    if not matches:
+        matches = [
+            c
+            for c in cities
+            if needle in fold_accents(c["display"]) or fold_accents(c["display"]) in needle
+        ]
+    if not matches:
+        return None
+    if hint:
+        for c in matches:
+            # Eventbrite slugs are "{country-or-state}--{city}", e.g.
+            # "united-kingdom--london" or "tx--austin" — compare the hint
+            # against that prefix, spelled out, not the raw ISO country code.
+            region_slug = c["slug"].rsplit("--", 1)[0].replace("-", " ")
+            if hint in region_slug or region_slug in hint:
+                return c
+    return matches[0]
+
+
+def fetch_eventbrite(city, region_hint="", max_pages=3):
+    cities = get_eventbrite_cities()
+    place = match_eventbrite_city(city, region_hint, cities)
+    if not place:
+        print(f"  ! Eventbrite doesn't cover a city matching '{city}', skipping Eventbrite")
+        return []
+
+    events = []
+    for page in range(1, max_pages + 1):
+        url = f"https://www.eventbrite.com/d/{place['slug']}/tech/"
+        try:
+            resp = requests.get(url, params={"page": page}, headers=HEADERS, timeout=30)
+            resp.raise_for_status()
+        except Exception as e:
+            print(f"  ! skipped Eventbrite page {page}: {e}")
+            break
+
+        data = _parse_eventbrite_server_data(resp.text)
+        if data is None:
+            print("  ! Eventbrite page format changed, stopping early")
+            break
+
+        try:
+            event_block = data["search_data"]["events"]
+            results = event_block["results"]
+        except Exception as e:
+            print(f"  ! could not parse an Eventbrite page: {e}")
+            break
+
+        if not results:
+            break
+
+        for h in results:
+            venue = h.get("primary_venue") or {}
+            address = venue.get("address") or {}
+            if h.get("is_online_event"):
+                location = "Online"
+            else:
+                location = ", ".join(
+                    p for p in [address.get("city"), address.get("region")] if p
+                ) or venue.get("name", "")
+
+            start_date = h.get("start_date", "")
+            start_time = h.get("start_time", "")
+            sort_date = None
+            if start_date:
+                try:
+                    sort_date = dateparser.parse(f"{start_date} {start_time}".strip())
+                except (ValueError, OverflowError, TypeError):
+                    sort_date = None
+
+            dates = ""
+            if sort_date:
+                if start_time:
+                    time_str = sort_date.strftime("%I:%M %p").lstrip("0")
+                    dates = f"{sort_date.strftime('%b %d, %Y')} · {time_str}"
+                else:
+                    dates = sort_date.strftime("%b %d, %Y")
+
+            themes = [
+                t.get("display_name", "") for t in h.get("tags", []) if t.get("display_name")
+            ]
+
+            events.append(
+                {
+                    "source": "Eventbrite",
+                    "title": (h.get("name") or "").strip(),
+                    "url": h.get("url", ""),
+                    "location": location,
+                    "dates": dates,
+                    "sort_date": sort_date,
+                    "state": "upcoming",
+                    "themes": themes[:4],
+                    "prize": "",
+                    "organization": "",
+                    "curated": False,
+                }
+            )
+
+        page_count = event_block.get("pagination", {}).get("page_count", page)
+        if page >= page_count:
+            break
+
+    return events
+
+
+# ----------------------------------------------------------------------
+# 5. Get events from Meetup's public search page (categoryId 546 = Tech).
+#    No API key needed — the page server-renders results into a GraphQL
+#    cache (__APOLLO_STATE__) in the page HTML. Meetup only exposes this
+#    first page publicly (deeper pagination needs an authenticated GraphQL
+#    call), so this is capped at whatever it returns — usually 10-20 events.
+# ----------------------------------------------------------------------
+MEETUP_TECH_CATEGORY_ID = "546"
+
+
+def fetch_meetup(city):
+    try:
+        resp = requests.get(
+            "https://www.meetup.com/find/",
+            params={
+                "location": city,
+                "source": "EVENTS",
+                "categoryId": MEETUP_TECH_CATEGORY_ID,
+            },
+            headers=HEADERS,
+            timeout=30,
+        )
+        resp.raise_for_status()
+    except Exception as e:
+        print(f"  ! could not load Meetup events: {e}")
+        return []
+
+    match = re.search(
+        r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', resp.text, re.S
+    )
+    if not match:
+        print("  ! Meetup page format changed, skipping Meetup")
+        return []
+
+    try:
+        data = json.loads(match.group(1))
+        apollo = data["props"]["pageProps"]["__APOLLO_STATE__"]
+    except Exception as e:
+        print(f"  ! could not parse Meetup data: {e}")
+        return []
+
+    events = []
+    now = datetime.datetime.now(datetime.timezone.utc)
+    for key, obj in apollo.items():
+        if not key.startswith("Event:") or not obj.get("title") or not obj.get("dateTime"):
+            continue
+        try:
+            start = dateparser.parse(obj["dateTime"])
+        except (ValueError, TypeError, OverflowError):
+            continue
+        if start.tzinfo is None:
+            start = start.replace(tzinfo=datetime.timezone.utc)
+        if start < now:
+            continue
+
+        venue = obj.get("venue") or {}
+        if obj.get("eventType") == "PHYSICAL":
+            location = ", ".join(p for p in [venue.get("city"), venue.get("state")] if p)
+        else:
+            location = "Online"
+
+        group_ref = (obj.get("group") or {}).get("__ref")
+        group = apollo.get(group_ref, {}) if group_ref else {}
+
+        time_str = start.strftime("%I:%M %p").lstrip("0")
+        dates = f"{start.strftime('%b %d, %Y')} · {time_str}"
+
+        events.append(
+            {
+                "source": "Meetup",
+                "title": obj["title"].strip(),
+                "url": obj.get("eventUrl", ""),
+                "location": location,
+                "dates": dates,
+                "sort_date": start.replace(tzinfo=None),
+                "state": "upcoming",
+                "themes": [],
+                "prize": "",
+                "organization": group.get("name", ""),
+                "curated": False,
+            }
+        )
+    return events
+
+
+# ----------------------------------------------------------------------
+# 6. Keep only the events you care about
+# ----------------------------------------------------------------------
 def filter_events(events, config):
     # Devpost's own search already matches events to your city (it's fuzzy and
     # covers nearby venues like "Bay Area" or a named building), so we trust it
     # for location and don't re-filter on the city name here — that would wrongly
     # drop real local events whose venue text doesn't literally say the city.
-    # Luma events are already scoped to your city via its own place lookup.
+    # Luma/Eventbrite/Meetup are already scoped to your city via their own
+    # location lookups.
     keywords = [k.lower() for k in config.get("keywords", [])]
     # By default we show ALL upcoming hackathons for your city. Set
-    # "require_keyword_match": true in config.json to keep ONLY events that match
-    # one of your keywords — this only applies to Devpost; see below for Luma.
+    # "require_keyword_match": true in config.json to keep ONLY events that
+    # match one of your keywords — this only applies to Devpost; see below
+    # for the general-purpose sources (Luma/Eventbrite/Meetup).
     require_kw = config.get("require_keyword_match", False)
-    # Luma's feed is general local events (book clubs, concerts, run clubs...),
-    # not inherently tech/startup, so it's always narrowed by your keywords
-    # plus a built-in list of generic tech/startup terms, regardless of
-    # require_keyword_match.
-    luma_keywords = list({*keywords, *GENERIC_TECH_KEYWORDS})
+    # Luma/Eventbrite/Meetup city feeds are general local events (book clubs,
+    # concerts, run clubs...), not inherently tech/startup, so they're always
+    # narrowed by your keywords plus a built-in list of generic tech/startup
+    # terms, regardless of require_keyword_match. Anything from
+    # extra_luma_calendars is exempt — you already hand-picked that source.
+    broad_keywords = list({*keywords, *GENERIC_TECH_KEYWORDS})
 
     kept = []
     seen_urls = set()
@@ -330,8 +657,10 @@ def filter_events(events, config):
             [ev["title"], ev["location"], " ".join(ev["themes"])]
         ).lower()
 
-        if ev["source"] == "Luma":
-            if not keyword_match(haystack, luma_keywords):
+        if ev.get("curated"):
+            pass  # you picked this source yourself — no narrowing
+        elif ev["source"] in BROAD_SOURCES:
+            if not keyword_match(haystack, broad_keywords):
                 continue
         elif require_kw and keywords and not keyword_match(haystack, keywords):
             continue
@@ -353,7 +682,7 @@ def filter_events(events, config):
 
 
 # ----------------------------------------------------------------------
-# 5. Turn the events into a nice web page
+# 7. Turn the events into a nice web page
 # ----------------------------------------------------------------------
 def render_html(events, config):
     now = datetime.datetime.now(datetime.timezone.utc)
@@ -457,7 +786,7 @@ def render_html(events, config):
     {''.join(cards)}
   </main>
   <footer>
-    Built automatically with GitHub Actions · Data from Devpost &amp; Luma
+    Built automatically with GitHub Actions · Data from Devpost, Luma, Eventbrite &amp; Meetup
   </footer>
 </body>
 </html>
@@ -465,12 +794,13 @@ def render_html(events, config):
 
 
 # ----------------------------------------------------------------------
-# 6. Run everything
+# 8. Run everything
 # ----------------------------------------------------------------------
 def main():
     config = load_config()
-    city = config.get("city", "")
-    print(f"Fetching events for: {city}")
+    raw_city = config.get("city", "")
+    city, region_hint = split_city_hint(raw_city)
+    print(f"Fetching events for: {raw_city}")
 
     events = fetch_devpost(city, config.get("max_pages", 6))
     print(f"  found {len(events)} raw Devpost events")
@@ -478,6 +808,21 @@ def main():
     luma_events = fetch_luma(city, config.get("luma_max_events", 80))
     print(f"  found {len(luma_events)} raw Luma events")
     events += luma_events
+
+    eventbrite_events = fetch_eventbrite(
+        city, region_hint, config.get("eventbrite_max_pages", 3)
+    )
+    print(f"  found {len(eventbrite_events)} raw Eventbrite events")
+    events += eventbrite_events
+
+    meetup_events = fetch_meetup(city)
+    print(f"  found {len(meetup_events)} raw Meetup events")
+    events += meetup_events
+
+    for slug in config.get("extra_luma_calendars", []):
+        calendar_events = fetch_luma_calendar(slug)
+        print(f"  found {len(calendar_events)} upcoming events from Luma calendar '{slug}'")
+        events += calendar_events
 
     events = filter_events(events, config)
     print(f"  {len(events)} match your filters")
