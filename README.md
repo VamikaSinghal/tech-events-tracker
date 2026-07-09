@@ -47,15 +47,15 @@ and copy-paste exactly.
   "site_title": "Tech Events near me",
   "site_subtitle": "Hackathons, tech & startup events, updated daily",
   "max_pages": 6,
-  "show_online_events": true
+  "require_keyword_match": false
 }
 ```
 
 - **city** — your city name (e.g. `"Bangalore"`, `"London"`, `"Austin"`).
-- **keywords** — topics you care about. An event is kept if it matches **any** of
-  these. Leave the list empty `[]` to keep every hackathon in your city.
-- **show_online_events** — `true` also includes online/virtual events; `false`
-  keeps only in-person ones.
+- **keywords** — topics you care about (used only when the setting below is `true`).
+- **require_keyword_match** — `false` (default) shows **all** upcoming hackathons
+  for your city. Set it to `true` to show **only** events matching one of your
+  keywords — a shorter, more selective list.
 
 ---
 
