@@ -5,32 +5,61 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Tech Events near me</title>
 <style>
-  :root { --bg:#0f1115; --card:#191c23; --line:#262a33; --text:#e8eaf0; --muted:#9aa1b0; --accent:#6ea8fe; }
-  * { box-sizing:border-box; }
-  body { margin:0; background:var(--bg); color:var(--text);
-    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif; line-height:1.5; }
-  .wrap { max-width:640px; margin:0 auto; padding:80px 24px; text-align:center; }
-  h1 { font-size:2rem; margin:0 0 12px; }
-  p { color:var(--muted); }
-  .box { background:var(--card); border:1px solid var(--line); border-radius:14px;
-    padding:28px; margin-top:24px; text-align:left; }
-  code { background:#22262f; padding:2px 6px; border-radius:4px; }
-  .accent { color:var(--accent); }
+  :root {
+    --bg: #0f1115; --card: #191c23; --line: #262a33;
+    --text: #e8eaf0; --muted: #9aa1b0; --accent: #6ea8fe;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    line-height: 1.5;
+  }
+  header {
+    padding: 48px 24px 24px; max-width: 1100px; margin: 0 auto; text-align: center;
+  }
+  header h1 { margin: 0 0 8px; font-size: 2rem; }
+  header p { margin: 4px 0; color: var(--muted); }
+  .count { color: var(--accent); font-weight: 600; }
+  main {
+    max-width: 1100px; margin: 0 auto; padding: 16px 24px 64px;
+    display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 16px;
+  }
+  .card {
+    background: var(--card); border: 1px solid var(--line); border-radius: 14px;
+    padding: 18px; text-decoration: none; color: inherit; transition: .15s;
+    display: flex; flex-direction: column; gap: 6px;
+  }
+  .card:hover { border-color: var(--accent); transform: translateY(-2px); }
+  .card-top { display: flex; justify-content: space-between; align-items: center; }
+  .card h2 { font-size: 1.1rem; margin: 4px 0; }
+  .meta { margin: 0; color: var(--muted); font-size: .9rem; }
+  .state { font-size: .72rem; font-weight: 700; padding: 3px 8px; border-radius: 20px; }
+  .state.upcoming { background: #1f3a5f; color: #9ec5ff; }
+  .state.open { background: #1f4f37; color: #86efac; }
+  .src { font-size: .72rem; color: var(--muted); }
+  .tags { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+  .tag { background: #22262f; color: var(--muted); font-size: .72rem;
+          padding: 3px 8px; border-radius: 6px; }
+  .prize { margin-top: 8px; font-size: .85rem; color: #ffd479; }
+  .empty { grid-column: 1/-1; text-align: center; color: var(--muted); padding: 40px; }
+  footer { text-align: center; color: var(--muted); font-size: .8rem; padding: 24px; }
+  code { background: #22262f; padding: 2px 6px; border-radius: 4px; }
 </style>
 </head>
 <body>
-  <div class="wrap">
-    <h1>🎉 Your events page is ready</h1>
-    <p>This placeholder appears until the first automatic update runs.</p>
-    <div class="box">
-      <p><strong>What happens next:</strong></p>
-      <p>1. GitHub Actions runs <code>build.py</code> on a schedule (once a day).</p>
-      <p>2. It fetches upcoming hackathons and tech events for the city in
-         <code>config.json</code>.</p>
-      <p>3. It replaces this page with a live list of events.</p>
-      <p class="accent">Tip: go to the <strong>Actions</strong> tab in your repo and click
-         <strong>“Run workflow”</strong> to fill this in right now instead of waiting.</p>
-    </div>
-  </div>
+  <header>
+    <h1>Tech Events near me</h1>
+    <p>Hackathons, tech &amp; startup events, updated daily</p>
+    <p>Showing <span class="count">0</span> events for <strong>San Francisco</strong></p>
+    <p style="font-size:.8rem">Last updated Jul 09, 2026 at 00:56 UTC</p>
+  </header>
+  <main>
+    <p class="empty">No matching upcoming events found right now. Try broadening your keywords or city in <code>config.json</code>.</p>
+  </main>
+  <footer>
+    Built automatically with GitHub Actions · Data from Devpost
+  </footer>
 </body>
 </html>
