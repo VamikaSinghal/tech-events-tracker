@@ -685,8 +685,11 @@ def filter_events(events, config):
 # 7. Turn the events into a nice web page
 # ----------------------------------------------------------------------
 def render_html(events, config):
-    now = datetime.datetime.now(datetime.timezone.utc)
-    updated = now.strftime("%b %d, %Y at %H:%M UTC")
+    now_utc = datetime.datetime.now(datetime.timezone.utc)
+    # %Z picks PST vs PDT automatically depending on daylight saving.
+    now_pt = now_utc.astimezone(ZoneInfo("America/Los_Angeles"))
+    time_str = now_pt.strftime("%I:%M %p").lstrip("0")
+    updated = f"{now_pt.strftime('%b %d, %Y')} at {time_str} {now_pt.strftime('%Z')}"
     title = html.escape(config.get("site_title", "Tech Events"))
     subtitle = html.escape(config.get("site_subtitle", ""))
     city = html.escape(config.get("city", ""))
@@ -728,7 +731,7 @@ def render_html(events, config):
     repo_url = config.get("repo_url", "")
     repo_banner = (
         f"""
-  <div class="repo-banner">
+  <div class="topbar">
     <a href="{html.escape(repo_url)}" target="_blank" rel="noopener">
       🚀 Go to my GitHub repo to find events for your city
     </a>
@@ -754,21 +757,26 @@ def render_html(events, config):
     line-height: 1.5;
   }}
   header {{
-    padding: 48px 24px 24px; max-width: 1100px; margin: 0 auto; text-align: center;
+    padding: 24px 24px 24px; max-width: 1100px; margin: 0 auto; text-align: center;
   }}
   header h1 {{ margin: 0 0 8px; font-size: 2rem; }}
   header p {{ margin: 4px 0; color: var(--muted); }}
   .count {{ color: var(--accent); font-weight: 600; }}
-  .repo-banner {{
-    display: flex; justify-content: center; padding: 14px 24px 0;
+  .topbar {{
+    max-width: 1100px; margin: 0 auto; padding: 20px 24px 0;
+    display: flex; justify-content: flex-end;
   }}
-  .repo-banner a {{
-    display: inline-flex; align-items: center; gap: 8px;
+  .topbar a {{
+    display: inline-flex; align-items: center; gap: 8px; max-width: 100%;
     background: var(--card); border: 1px solid var(--line); color: var(--text);
-    text-decoration: none; font-size: .85rem; font-weight: 600;
-    padding: 10px 18px; border-radius: 999px; transition: .15s;
+    text-decoration: none; font-size: .8rem; font-weight: 600;
+    padding: 8px 16px; border-radius: 999px; transition: .15s;
   }}
-  .repo-banner a:hover {{ border-color: var(--accent); color: var(--accent); }}
+  .topbar a:hover {{ border-color: var(--accent); color: var(--accent); }}
+  @media (max-width: 480px) {{
+    .topbar {{ justify-content: center; }}
+    .topbar a {{ text-align: center; white-space: normal; }}
+  }}
   main {{
     max-width: 1100px; margin: 0 auto; padding: 16px 24px 64px;
     display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));

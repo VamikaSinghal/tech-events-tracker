@@ -16,21 +16,26 @@
     line-height: 1.5;
   }
   header {
-    padding: 48px 24px 24px; max-width: 1100px; margin: 0 auto; text-align: center;
+    padding: 24px 24px 24px; max-width: 1100px; margin: 0 auto; text-align: center;
   }
   header h1 { margin: 0 0 8px; font-size: 2rem; }
   header p { margin: 4px 0; color: var(--muted); }
   .count { color: var(--accent); font-weight: 600; }
-  .repo-banner {
-    display: flex; justify-content: center; padding: 14px 24px 0;
+  .topbar {
+    max-width: 1100px; margin: 0 auto; padding: 20px 24px 0;
+    display: flex; justify-content: flex-end;
   }
-  .repo-banner a {
-    display: inline-flex; align-items: center; gap: 8px;
+  .topbar a {
+    display: inline-flex; align-items: center; gap: 8px; max-width: 100%;
     background: var(--card); border: 1px solid var(--line); color: var(--text);
-    text-decoration: none; font-size: .85rem; font-weight: 600;
-    padding: 10px 18px; border-radius: 999px; transition: .15s;
+    text-decoration: none; font-size: .8rem; font-weight: 600;
+    padding: 8px 16px; border-radius: 999px; transition: .15s;
   }
-  .repo-banner a:hover { border-color: var(--accent); color: var(--accent); }
+  .topbar a:hover { border-color: var(--accent); color: var(--accent); }
+  @media (max-width: 480px) {
+    .topbar { justify-content: center; }
+    .topbar a { text-align: center; white-space: normal; }
+  }
   main {
     max-width: 1100px; margin: 0 auto; padding: 16px 24px 64px;
     display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
@@ -59,7 +64,7 @@
 </style>
 </head>
 <body>
-  <div class="repo-banner">
+  <div class="topbar">
     <a href="https://github.com/VamikaSinghal/tech-events-tracker" target="_blank" rel="noopener">
       🚀 Go to my GitHub repo to find events for your city
     </a>
@@ -68,7 +73,7 @@
     <h1>Tech Events near me</h1>
     <p>Hackathons, tech &amp; startup events, updated daily</p>
     <p>Showing <span class="count">72</span> events for <strong>San Francisco</strong></p>
-    <p style="font-size:.8rem">Last updated Jul 09, 2026 at 02:00 UTC</p>
+    <p style="font-size:.8rem">Last updated Jul 08, 2026 at 7:05 PM PDT</p>
   </header>
   <main>
     
