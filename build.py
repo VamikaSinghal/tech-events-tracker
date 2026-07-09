@@ -764,7 +764,7 @@ def render_html(events, config):
   .count {{ color: var(--accent); font-weight: 600; }}
   .topbar {{
     max-width: 1100px; margin: 0 auto; padding: 20px 24px 0;
-    display: flex; justify-content: flex-end;
+    display: flex; justify-content: center;
   }}
   .topbar a {{
     display: inline-flex; align-items: center; gap: 8px; max-width: 100%;
@@ -774,7 +774,6 @@ def render_html(events, config):
   }}
   .topbar a:hover {{ border-color: var(--accent); color: var(--accent); }}
   @media (max-width: 480px) {{
-    .topbar {{ justify-content: center; }}
     .topbar a {{ text-align: center; white-space: normal; }}
   }}
   main {{
