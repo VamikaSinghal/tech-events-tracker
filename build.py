@@ -10,14 +10,53 @@ To change your city or interests, edit  config.json  instead.
 import json
 import re
 import html
-import sys
 import datetime
+import unicodedata
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import requests
+from dateutil import parser as dateparser
 
 ROOT = Path(__file__).parent
 CONFIG_PATH = ROOT / "config.json"
+HEADERS = {"User-Agent": "Mozilla/5.0 (event-tracker; personal use)"}
+
+# Generic words that mark a Luma event as tech/startup-relevant. Luma's
+# discover feed is a general local-events feed (book clubs, run clubs,
+# concerts...), unlike Devpost which is hackathons-only, so Luma results are
+# always narrowed by these plus your own config.json keywords — see
+# filter_events().
+GENERIC_TECH_KEYWORDS = [
+    "tech", "startup", "founder", "founders", "venture", "vc", "hackathon",
+    "engineer", "engineering", "developer", "product", "ai", "ml",
+    "machine learning", "artificial intelligence", "web3", "crypto",
+    "blockchain", "saas", "software", "coding", "hacker", "demo day",
+    "pitch", "y combinator",
+]
+
+# A few common shorthands people type as "city" that don't match Luma's
+# official place names.
+LUMA_CITY_ALIASES = {
+    "nyc": "new york",
+    "new york city": "new york",
+    "sf": "san francisco",
+    "bay area": "san francisco",
+    "la": "los angeles",
+    "dc": "washington, dc",
+    "washington dc": "washington, dc",
+    "bangalore": "bengaluru",
+    "delhi": "new delhi",
+    "bombay": "mumbai",
+    "saigon": "ho chi minh city",
+}
+
+
+def fold_accents(text):
+    """'São Paulo' -> 'sao paulo', so typed input without accents still
+    matches Luma's place names."""
+    normalized = unicodedata.normalize("NFKD", text)
+    return "".join(c for c in normalized if not unicodedata.combining(c)).lower()
 
 
 # ----------------------------------------------------------------------
@@ -34,7 +73,6 @@ def load_config():
 # ----------------------------------------------------------------------
 def fetch_devpost(city, max_pages=6):
     events = []
-    headers = {"User-Agent": "Mozilla/5.0 (event-tracker; personal use)"}
     for page in range(1, max_pages + 1):
         url = "https://devpost.com/api/hackathons"
         # Ask Devpost only for events still open or upcoming, soonest first —
@@ -46,7 +84,7 @@ def fetch_devpost(city, max_pages=6):
             "order_by": "deadline",
         }
         try:
-            resp = requests.get(url, params=params, headers=headers, timeout=30)
+            resp = requests.get(url, params=params, headers=HEADERS, timeout=30)
             resp.raise_for_status()
             data = resp.json()
         except Exception as e:  # network hiccup, bad page, etc.
@@ -60,13 +98,15 @@ def fetch_devpost(city, max_pages=6):
         for h in batch:
             loc = (h.get("displayed_location") or {}).get("location", "")
             themes = [t.get("name", "") for t in h.get("themes", [])]
+            dates = h.get("submission_period_dates", "").strip()
             events.append(
                 {
                     "source": "Devpost",
                     "title": h.get("title", "").strip(),
                     "url": h.get("url", ""),
                     "location": loc.strip(),
-                    "dates": h.get("submission_period_dates", "").strip(),
+                    "dates": dates,
+                    "sort_date": parse_devpost_date(dates),
                     "state": h.get("open_state", ""),  # upcoming / open / ended
                     "themes": themes,
                     "prize": strip_html(h.get("prize_amount", "")),
@@ -74,6 +114,29 @@ def fetch_devpost(city, max_pages=6):
                 }
             )
     return events
+
+
+def parse_devpost_date(text):
+    """Devpost's date field is a display string like 'Oct 03 - 04, 2026', not
+    ISO, and ranges can span months/years ('Dec 01, 2026 - Jan 05, 2027'). We
+    only need the *start* date, so take the first segment and, if it's
+    missing a year (the common same-month-range case), borrow the year from
+    the second segment. Anything we can't confidently parse (e.g. 'Ongoing')
+    returns None rather than guessing.
+    """
+    if not text:
+        return None
+    first_part, _, rest = text.strip().partition(" - ")
+    if not re.search(r"\d{4}", first_part) and rest:
+        year_match = re.search(r"\d{4}", rest)
+        if year_match:
+            first_part = f"{first_part}, {year_match.group()}"
+    if not re.search(r"\d{4}", first_part):
+        return None
+    try:
+        return dateparser.parse(first_part, default=datetime.datetime(2000, 1, 1))
+    except (ValueError, OverflowError):
+        return None
 
 
 def strip_html(text):
@@ -84,48 +147,213 @@ def strip_html(text):
 
 
 # ----------------------------------------------------------------------
-# 3. Keep only the events you care about
+# 3. Get events from Luma (lu.ma) — general tech/startup meetups, mixers,
+#    demo days. No API key needed: lu.ma/discover embeds a JSON blob in the
+#    page HTML that lists every city it covers, and its pagination API is
+#    open to the public (it's what the site's own frontend calls).
 # ----------------------------------------------------------------------
+def get_luma_places():
+    try:
+        resp = requests.get("https://lu.ma/discover", headers=HEADERS, timeout=30)
+        resp.raise_for_status()
+    except Exception as e:
+        print(f"  ! could not load Luma's city list: {e}")
+        return []
+
+    match = re.search(
+        r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', resp.text, re.S
+    )
+    if not match:
+        print("  ! Luma discover page format changed, skipping Luma")
+        return []
+
+    try:
+        data = json.loads(match.group(1))
+        raw_places = data["props"]["pageProps"]["initialData"]["places"]
+    except Exception as e:
+        print(f"  ! could not parse Luma's city list: {e}")
+        return []
+
+    places = []
+    for entry in raw_places:
+        place = entry.get("place") or {}
+        if place.get("slug") and place.get("api_id"):
+            places.append(
+                {
+                    "name": place.get("name", ""),
+                    "slug": place["slug"],
+                    "api_id": place["api_id"],
+                }
+            )
+    return places
+
+
+def match_luma_place(city, places):
+    if not city or not places:
+        return None
+    needle = fold_accents(city.strip())
+    needle = LUMA_CITY_ALIASES.get(needle, needle)
+    needle_slug = re.sub(r"[^a-z0-9]+", "-", needle).strip("-")
+
+    for p in places:
+        if fold_accents(p["name"]) == needle:
+            return p
+    for p in places:
+        if p["slug"] == needle_slug:
+            return p
+    for p in places:
+        name_folded = fold_accents(p["name"])
+        if needle in name_folded or name_folded in needle:
+            return p
+    return None
+
+
+def fetch_luma(city, max_events=80):
+    places = get_luma_places()
+    place = match_luma_place(city, places)
+    if not place:
+        print(f"  ! Luma doesn't have a discover page matching '{city}', skipping Luma")
+        return []
+
+    events = []
+    cursor = ""
+    now = datetime.datetime.now(datetime.timezone.utc)
+    while len(events) < max_events:
+        params = {
+            "discover_place_api_id": place["api_id"],
+            "pagination_limit": 50,
+            "pagination_cursor": cursor,
+        }
+        try:
+            resp = requests.get(
+                "https://api.lu.ma/discover/get-paginated-events",
+                params=params,
+                headers=HEADERS,
+                timeout=30,
+            )
+            resp.raise_for_status()
+            data = resp.json()
+        except Exception as e:
+            print(f"  ! skipped a Luma page: {e}")
+            break
+
+        entries = data.get("entries", [])
+        if not entries:
+            break
+
+        for entry in entries:
+            ev = entry.get("event") or {}
+            start_iso = ev.get("start_at")
+            if not start_iso:
+                continue
+            start_utc = datetime.datetime.fromisoformat(start_iso.replace("Z", "+00:00"))
+            if start_utc < now:  # discover should only return upcoming, but double-check
+                continue
+
+            tz_name = ev.get("timezone")
+            local_start = start_utc.astimezone(ZoneInfo(tz_name)) if tz_name else start_utc
+            time_str = local_start.strftime("%I:%M %p").lstrip("0")
+            dates = f"{local_start.strftime('%b %d, %Y')} · {time_str}"
+
+            geo = ev.get("geo_address_info") or {}
+            if ev.get("location_type") == "virtual":
+                location = "Online"
+            else:
+                location = geo.get("city_state") or geo.get("city") or ""
+
+            calendar = entry.get("calendar") or {}
+            events.append(
+                {
+                    "source": "Luma",
+                    "title": (ev.get("name") or "").strip(),
+                    "url": f"https://lu.ma/{ev.get('url', '')}",
+                    "location": location,
+                    "dates": dates,
+                    "sort_date": start_utc.replace(tzinfo=None),
+                    "state": "upcoming",
+                    "themes": [],
+                    "prize": "",
+                    "organization": calendar.get("name") or "",
+                }
+            )
+
+        if not data.get("has_more") or not data.get("next_cursor"):
+            break
+        cursor = data["next_cursor"]
+
+    return events
+
+
+# ----------------------------------------------------------------------
+# 4. Keep only the events you care about
+# ----------------------------------------------------------------------
+def keyword_match(haystack, keywords):
+    """Word-boundary match so short keywords like 'ai' don't fire on
+    substrings inside unrelated words (e.g. 'trail', 'captain')."""
+    return any(re.search(rf"\b{re.escape(k)}\b", haystack) for k in keywords if k)
+
+
 def filter_events(events, config):
     # Devpost's own search already matches events to your city (it's fuzzy and
     # covers nearby venues like "Bay Area" or a named building), so we trust it
     # for location and don't re-filter on the city name here — that would wrongly
     # drop real local events whose venue text doesn't literally say the city.
+    # Luma events are already scoped to your city via its own place lookup.
     keywords = [k.lower() for k in config.get("keywords", [])]
     # By default we show ALL upcoming hackathons for your city. Set
     # "require_keyword_match": true in config.json to keep ONLY events that match
-    # one of your keywords (a tighter, more selective list).
+    # one of your keywords — this only applies to Devpost; see below for Luma.
     require_kw = config.get("require_keyword_match", False)
+    # Luma's feed is general local events (book clubs, concerts, run clubs...),
+    # not inherently tech/startup, so it's always narrowed by your keywords
+    # plus a built-in list of generic tech/startup terms, regardless of
+    # require_keyword_match.
+    luma_keywords = list({*keywords, *GENERIC_TECH_KEYWORDS})
 
     kept = []
-    seen = set()
+    seen_urls = set()
+    seen_titles = set()
     for ev in events:
         # Drop anything already finished.
         if ev["state"] == "ended":
             continue
 
-        # De-duplicate by URL.
-        if ev["url"] in seen:
+        # De-duplicate by URL, and by normalized title as a safety net for
+        # the same event listed on two sources under slightly different URLs.
+        if ev["url"] in seen_urls:
+            continue
+        title_key = re.sub(r"[^a-z0-9]+", "", ev["title"].lower())
+        if title_key and title_key in seen_titles:
             continue
 
         haystack = " ".join(
             [ev["title"], ev["location"], " ".join(ev["themes"])]
         ).lower()
 
-        # Optional interest narrowing.
-        if require_kw and keywords and not any(k in haystack for k in keywords):
+        if ev["source"] == "Luma":
+            if not keyword_match(haystack, luma_keywords):
+                continue
+        elif require_kw and keywords and not keyword_match(haystack, keywords):
             continue
 
-        seen.add(ev["url"])
+        seen_urls.add(ev["url"])
+        if title_key:
+            seen_titles.add(title_key)
         kept.append(ev)
 
-    # Upcoming events first, then alphabetical.
-    kept.sort(key=lambda e: (e["state"] != "upcoming", e["title"].lower()))
+    # Upcoming-state events first, then soonest date, then alphabetical.
+    kept.sort(
+        key=lambda e: (
+            e["state"] != "upcoming",
+            e["sort_date"] or datetime.datetime.max,
+            e["title"].lower(),
+        )
+    )
     return kept
 
 
 # ----------------------------------------------------------------------
-# 4. Turn the events into a nice web page
+# 5. Turn the events into a nice web page
 # ----------------------------------------------------------------------
 def render_html(events, config):
     now = datetime.datetime.now(datetime.timezone.utc)
@@ -229,7 +457,7 @@ def render_html(events, config):
     {''.join(cards)}
   </main>
   <footer>
-    Built automatically with GitHub Actions · Data from Devpost
+    Built automatically with GitHub Actions · Data from Devpost &amp; Luma
   </footer>
 </body>
 </html>
@@ -237,7 +465,7 @@ def render_html(events, config):
 
 
 # ----------------------------------------------------------------------
-# 5. Run everything
+# 6. Run everything
 # ----------------------------------------------------------------------
 def main():
     config = load_config()
@@ -245,7 +473,11 @@ def main():
     print(f"Fetching events for: {city}")
 
     events = fetch_devpost(city, config.get("max_pages", 6))
-    print(f"  found {len(events)} raw events")
+    print(f"  found {len(events)} raw Devpost events")
+
+    luma_events = fetch_luma(city, config.get("luma_max_events", 80))
+    print(f"  found {len(luma_events)} raw Luma events")
+    events += luma_events
 
     events = filter_events(events, config)
     print(f"  {len(events)} match your filters")
@@ -255,7 +487,7 @@ def main():
 
     # Also save the raw data in case you want it later.
     (ROOT / "events.json").write_text(
-        json.dumps(events, indent=2), encoding="utf-8"
+        json.dumps(events, indent=2, default=str), encoding="utf-8"
     )
     print("Wrote index.html and events.json")
 

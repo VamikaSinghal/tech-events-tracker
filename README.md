@@ -12,15 +12,20 @@ and copy-paste exactly.
 ## How it works (30-second version)
 
 1. **GitHub Actions** (a free robot built into GitHub) wakes up once a day.
-2. It runs `build.py`, which pulls current hackathons from **Devpost** for the
-   city you chose in `config.json`.
+2. It runs `build.py`, which pulls current hackathons from **Devpost** and
+   general tech/startup meetups from **Luma** for the city you chose in
+   `config.json`.
 3. It keeps the ones matching your interests and rebuilds `index.html`.
 4. **GitHub Pages** serves `index.html` as a real webpage you can bookmark.
 
 ```
- ┌─────────────┐   daily   ┌──────────┐   fetch   ┌─────────┐
- │GitHub Actions│ ───────▶ │ build.py │ ───────▶  │ Devpost │
- └─────────────┘           └────┬─────┘           └─────────┘
+                          ┌─────────┐
+                    ┌────▶│ Devpost │
+ ┌─────────────┐    │     └─────────┘
+ │GitHub Actions│───▶ build.py
+ └─────────────┘    │     ┌─────────┐
+                    └────▶│  Luma   │
+                          └─────────┘
                                 │ writes
                                 ▼
                           index.html  ──▶  GitHub Pages (your website)
@@ -35,7 +40,7 @@ and copy-paste exactly.
 | `config.json` | Your city, interests, page title | ✅ **Yes — this is the only file you need to touch** |
 | `build.py` | The program that fetches events and builds the page | ❌ No |
 | `index.html` | The finished web page (auto-overwritten each run) | ❌ No |
-| `requirements.txt` | Lists the one library the program needs | ❌ No |
+| `requirements.txt` | Lists the libraries the program needs | ❌ No |
 | `.github/workflows/update-events.yml` | The daily-schedule robot | ❌ No |
 
 ### Editing `config.json`
@@ -47,15 +52,25 @@ and copy-paste exactly.
   "site_title": "Tech Events near me",
   "site_subtitle": "Hackathons, tech & startup events, updated daily",
   "max_pages": 6,
+  "luma_max_events": 80,
   "require_keyword_match": false
 }
 ```
 
-- **city** — your city name (e.g. `"Bangalore"`, `"London"`, `"Austin"`).
-- **keywords** — topics you care about (used only when the setting below is `true`).
-- **require_keyword_match** — `false` (default) shows **all** upcoming hackathons
-  for your city. Set it to `true` to show **only** events matching one of your
-  keywords — a shorter, more selective list.
+- **city** — your city name (e.g. `"Bangalore"`, `"London"`, `"Austin"`). Common
+  alt-spellings (`"NYC"`, `"Bangalore"`, `"SF"`, `"Bay Area"`...) are recognized
+  for the Luma source.
+- **keywords** — topics you care about. For Devpost, only used when
+  `require_keyword_match` is `true`. For **Luma, keywords are always applied**
+  (plus a built-in list of generic tech/startup terms) — Luma's city pages are
+  a general local-events feed, so without keyword narrowing you'd get book
+  clubs and run clubs mixed in with hackathons.
+- **require_keyword_match** — `false` (default) shows **all** upcoming
+  Devpost hackathons for your city, narrowed only for Luma (see above). Set it
+  to `true` to also narrow Devpost to just your keywords.
+- **luma_max_events** — how many Luma events to fetch before filtering
+  (default 80). Raise it if your city has a lot of events and you're missing
+  ones further out; lower it to speed up the build.
 
 ---
 
@@ -110,25 +125,30 @@ Once a day at 13:00 UTC. To change it, edit the `cron` line in
 `.github/workflows/update-events.yml`. (`"0 13 * * *"` = 13:00 UTC daily.)
 
 **It says no events found.**
-Try broadening: fewer/empty `keywords`, a larger nearby city name, or set
-`show_online_events` to `true`.
+Try broadening: fewer/empty `keywords`, or a larger nearby city name (e.g. a
+metro area instead of a suburb).
 
 ---
 
 ## Honest limitations (worth knowing)
 
-- **Source:** This currently pulls from **Devpost**, which is excellent for
-  **hackathons** but is not a full "all tech & startup events" feed. Broader
-  event platforms (Meetup, Eventbrite, Luma) have mostly closed or restricted
-  their free public search APIs, so adding them reliably means either an API key
-  or fragile web-scraping. `build.py` is structured so a second source can be
-  added later — look for the `fetch_devpost` function and copy its pattern.
+- **Sources:** **Devpost** (hackathons) and **Luma** (general tech/startup
+  meetups, mixers, demo days). Both are free and keyless, but neither has an
+  official public API contract for the endpoints this project uses — they
+  could change without notice. Meetup and Eventbrite have mostly closed their
+  free public search APIs, so adding them would need an API key stored in
+  **GitHub Secrets**. `build.py` is structured so a third source can be added
+  later — copy the `fetch_devpost` / `fetch_luma` pattern.
+- **Luma coverage is a fixed list of ~80 major cities** (San Francisco, NYC,
+  London, Bengaluru, Tokyo, etc. — see `get_luma_places()` if you want the
+  full list). If your city isn't on it, you'll still get Devpost hackathons,
+  just no Luma meetups; the build won't fail, it just prints a note.
 - **Accuracy:** Event data (dates, locations, prizes) comes straight from
-  Devpost and is only as current as their site. Always click through to the
-  event page before making plans.
-- **Devpost has no official public API contract** for this endpoint, so if they
-  change it, the fetch step may need updating. The script fails gracefully (it
-  just shows the previous list) rather than breaking your page.
+  Devpost/Luma and is only as current as their sites. Always click through to
+  the event page before making plans.
+- **Both sources fail gracefully.** If Devpost or Luma changes their response
+  shape or is briefly unreachable, that source is skipped for the run (logged
+  to the Action's output) rather than breaking the whole page.
 
 ---
 
