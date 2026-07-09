@@ -747,8 +747,10 @@ def render_html(events, config):
 <title>{title}</title>
 <style>
   :root {{
-    --bg: #0f1115; --card: #191c23; --line: #262a33;
-    --text: #e8eaf0; --muted: #9aa1b0; --accent: #6ea8fe;
+    --bg: #f6f7fb; --card: #ffffff; --line: #e3e6ee;
+    --text: #1a1d29; --muted: #667085; --accent: #2563eb;
+    --shadow: 0 1px 2px rgba(16, 24, 40, .04), 0 1px 3px rgba(16, 24, 40, .08);
+    --shadow-hover: 0 4px 10px rgba(16, 24, 40, .08), 0 2px 4px rgba(16, 24, 40, .06);
   }}
   * {{ box-sizing: border-box; }}
   body {{
@@ -770,9 +772,9 @@ def render_html(events, config):
     display: inline-flex; align-items: center; gap: 8px; max-width: 100%;
     background: var(--card); border: 1px solid var(--line); color: var(--text);
     text-decoration: none; font-size: .8rem; font-weight: 600;
-    padding: 8px 16px; border-radius: 999px; transition: .15s;
+    padding: 8px 16px; border-radius: 999px; transition: .15s; box-shadow: var(--shadow);
   }}
-  .topbar a:hover {{ border-color: var(--accent); color: var(--accent); }}
+  .topbar a:hover {{ border-color: var(--accent); color: var(--accent); box-shadow: var(--shadow-hover); }}
   @media (max-width: 480px) {{
     .topbar a {{ text-align: center; white-space: normal; }}
   }}
@@ -784,23 +786,27 @@ def render_html(events, config):
   .card {{
     background: var(--card); border: 1px solid var(--line); border-radius: 14px;
     padding: 18px; text-decoration: none; color: inherit; transition: .15s;
-    display: flex; flex-direction: column; gap: 6px;
+    display: flex; flex-direction: column; gap: 6px; box-shadow: var(--shadow);
   }}
-  .card:hover {{ border-color: var(--accent); transform: translateY(-2px); }}
+  .card:hover {{ border-color: var(--accent); transform: translateY(-2px); box-shadow: var(--shadow-hover); }}
   .card-top {{ display: flex; justify-content: space-between; align-items: center; }}
   .card h2 {{ font-size: 1.1rem; margin: 4px 0; }}
   .meta {{ margin: 0; color: var(--muted); font-size: .9rem; }}
   .state {{ font-size: .72rem; font-weight: 700; padding: 3px 8px; border-radius: 20px; }}
-  .state.upcoming {{ background: #1f3a5f; color: #9ec5ff; }}
-  .state.open {{ background: #1f4f37; color: #86efac; }}
+  .state.upcoming {{ background: #dbeafe; color: #1d4ed8; }}
+  .state.open {{ background: #dcfce7; color: #15803d; }}
   .src {{ font-size: .72rem; color: var(--muted); }}
   .tags {{ display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }}
-  .tag {{ background: #22262f; color: var(--muted); font-size: .72rem;
+  .tag {{ background: #f1f5f9; color: #475569; font-size: .72rem;
           padding: 3px 8px; border-radius: 6px; }}
-  .prize {{ margin-top: 8px; font-size: .85rem; color: #ffd479; }}
+  .prize {{
+    margin-top: 8px; font-size: .85rem; font-weight: 600; color: #92400e;
+    background: #fef3c7; display: inline-block; padding: 3px 10px; border-radius: 6px;
+    align-self: flex-start;
+  }}
   .empty {{ grid-column: 1/-1; text-align: center; color: var(--muted); padding: 40px; }}
   footer {{ text-align: center; color: var(--muted); font-size: .8rem; padding: 24px; }}
-  code {{ background: #22262f; padding: 2px 6px; border-radius: 4px; }}
+  code {{ background: #f1f5f9; color: var(--text); padding: 2px 6px; border-radius: 4px; }}
 </style>
 </head>
 <body>{repo_banner}
