@@ -1,97 +1,6 @@
 [
   {
     "source": "Meetup",
-    "title": "AI Governance for Cloud Data Platforms: From Policy to Practice",
-    "url": "https://www.meetup.com/cloud-data-driven/events/315242054/",
-    "location": "Online",
-    "dates": "Jul 09, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-07-09 12:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Cloud Data Driven",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "SQL Community Engineering: Modernizing SQL DevOps with New T-SQL Capabilities",
-    "url": "https://www.meetup.com/atlanta-azure-data-user-group/events/315397629/",
-    "location": "Online",
-    "dates": "Jul 09, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-07-09 12:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Atlanta Azure Data User Group",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI-Assisted Data Engineering: Turning Metadata into Production-Ready Artifacts",
-    "url": "https://www.meetup.com/technology-ai/events/315347084/",
-    "location": "Online",
-    "dates": "Jul 09, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-07-09 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "technology.ai",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Art & Tech at SFMOMA",
-    "url": "https://lu.ma/future-of-us-art-and-tech",
-    "location": "San Francisco, CA",
-    "dates": "Jul 09, 2026 \u00b7 3:00 PM",
-    "sort_date": "2026-07-09 22:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Future of Us",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "The Engineering Roles That Will Matter In The AI Era By Thine AI",
-    "url": "https://lu.ma/vadtl2sj",
-    "location": "San Francisco, CA",
-    "dates": "Jul 09, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-07-10 00:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Personal",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "On-Device Night | Founders Building Local Agents by AGI, Inc.",
-    "url": "https://lu.ma/ondevice",
-    "location": "San Francisco, CA",
-    "dates": "Jul 09, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-07-10 00:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AGI, Inc.",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "135th SF Hardware Meetup @ Antler VC | Demo Night",
-    "url": "https://lu.ma/bo58tyyg",
-    "location": "San Francisco, California",
-    "dates": "Jul 09, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-07-10 01:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "SF Hardware Meetup",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
     "title": "Build Your First Autonomous AI Agent",
     "url": "https://www.meetup.com/aws-sbg-at-sheridan-college/events/315302500/",
     "location": "Online",
@@ -169,6 +78,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
+    "url": "https://www.meetup.com/codentalk/events/315403586/",
+    "location": "Online",
+    "dates": "Jul 14, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-07-14 18:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "TalknCode",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Show & Tell: AI for GTM @Notion with Baseten, Cognition and Samsara",
     "url": "https://lu.ma/b8ie1m1s",
@@ -195,6 +117,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Coding Agent Harness: Plan With Frontier Models, Execute in 90% Less Time",
+    "url": "https://www.meetup.com/data-science-dojo-washington-dc/events/315481616/",
+    "location": "Online",
+    "dates": "Jul 15, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-07-15 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Data Science Dojo - DC",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Battle of the Paddles: AI Builders Edition",
     "url": "https://lu.ma/j7v7qeem",
@@ -218,6 +153,19 @@
     "themes": [],
     "prize": "",
     "organization": "AI Engineers - SF",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Fabric engineering: Fabric Data Warehouse billing & price performance",
+    "url": "https://www.meetup.com/atlanta-azure-data-user-group/events/315571161/",
+    "location": "Online",
+    "dates": "Jul 16, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-07-16 12:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Atlanta Azure Data User Group",
     "curated": false
   },
   {
