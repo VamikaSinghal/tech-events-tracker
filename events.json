@@ -1,15 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "Build Your First Autonomous AI Agent",
-    "url": "https://www.meetup.com/aws-sbg-at-sheridan-college/events/315302500/",
+    "title": "Will AI take your job? A open place to start, share, and LEARN AI",
+    "url": "https://www.meetup.com/it-pro-ai-hump/events/314677017/",
     "location": "Online",
-    "dates": "Jul 10, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-07-10 18:00:00",
+    "dates": "Jul 11, 2026 \u00b7 11:00 AM",
+    "sort_date": "2026-07-11 11:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AWS SBG at Sheridan College",
+    "organization": "Getting over the AI Hump",
     "curated": false
   },
   {
@@ -17,8 +17,8 @@
     "title": "The Computer Use Agents Hackathon by H Company",
     "url": "https://lu.ma/1zwlnq89",
     "location": "San Francisco, CA",
-    "dates": "Jul 11, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-07-11 16:00:00",
+    "dates": "Jul 11, 2026 \u00b7 8:30 AM",
+    "sort_date": "2026-07-11 15:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
@@ -79,6 +79,19 @@
   },
   {
     "source": "Meetup",
+    "title": "Software Book Club : Observability Engineering [ch 1 + 2]",
+    "url": "https://www.meetup.com/maple-code/events/315428744/",
+    "location": "Online",
+    "dates": "Jul 14, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-07-14 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Maple Code",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
     "title": "Developer Discussion Night (AI, Tools, Trends & More)",
     "url": "https://www.meetup.com/codentalk/events/315403586/",
     "location": "Online",
@@ -114,19 +127,6 @@
     "themes": [],
     "prize": "",
     "organization": "SuperHuman Society ",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Coding Agent Harness: Plan With Frontier Models, Execute in 90% Less Time",
-    "url": "https://www.meetup.com/data-science-dojo-washington-dc/events/315481616/",
-    "location": "Online",
-    "dates": "Jul 15, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-07-15 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Data Science Dojo - DC",
     "curated": false
   },
   {
@@ -222,15 +222,15 @@
   },
   {
     "source": "Luma",
-    "title": "AI Valley x Pet Zen Dog-a-thon",
-    "url": "https://lu.ma/rklrsomo",
+    "title": "Cafe Cursor San Francisco: Startup Edition",
+    "url": "https://lu.ma/cafe-cursor-sf-startups",
     "location": "San Francisco, CA",
-    "dates": "Jul 18, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-07-18 16:00:00",
+    "dates": "Jul 20, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-07-20 17:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AI Valley",
+    "organization": "Cursor San Francisco, US",
     "curated": false
   },
   {
@@ -247,6 +247,45 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "AI-Driven Engineering Workshop: Building Smarter Teams, Faster Workflows...",
+    "url": "https://www.meetup.com/modernwebatl/events/315289936/",
+    "location": "Online",
+    "dates": "Jul 22, 2026 \u00b7 11:00 AM",
+    "sort_date": "2026-07-22 11:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Modern Web ATL - Alpharetta",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "AI Engineering Leaders Dinner/Networking/Talks",
+    "url": "https://lu.ma/otzbqs4u",
+    "location": "San Francisco, CA",
+    "dates": "Jul 23, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-07-24 00:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "CTO Circle",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Hardware Pitch Night - Summertime Showcase!",
+    "url": "https://lu.ma/lzy8pkq4",
+    "location": "San Francisco, CA",
+    "dates": "Jul 23, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-07-24 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Studio 45 - informal spaces SF",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Agent Swarms Hackathon",
     "url": "https://lu.ma/swarmhack",
@@ -257,6 +296,19 @@
     "themes": [],
     "prize": "",
     "organization": "tokens&",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Agentic AI Summit",
+    "url": "https://lu.ma/agentic-ai-summit",
+    "location": "Berkeley, CA",
+    "dates": "Aug 01, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-08-01 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
     "curated": false
   },
   {
@@ -274,6 +326,22 @@
     ],
     "prize": "$8,000",
     "organization": "Shower Hacks",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "AI for Social Good: Hack with MLH & DigitalOcean",
+    "url": "https://ai-for-social-good-mlh.devpost.com/",
+    "location": "San Francisco, California, USA",
+    "dates": "Jul 10 - 11, 2026",
+    "sort_date": "2026-07-10 00:00:00",
+    "state": "open",
+    "themes": [
+      "Machine Learning/AI",
+      "Social Good"
+    ],
+    "prize": "$5,250",
+    "organization": "Major League Hacking",
     "curated": false
   }
 ]
