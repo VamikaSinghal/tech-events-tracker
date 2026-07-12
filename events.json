@@ -1,57 +1,5 @@
 [
   {
-    "source": "Meetup",
-    "title": "Will AI take your job? A open place to start, share, and LEARN AI",
-    "url": "https://www.meetup.com/it-pro-ai-hump/events/314677017/",
-    "location": "Online",
-    "dates": "Jul 11, 2026 \u00b7 11:00 AM",
-    "sort_date": "2026-07-11 11:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Getting over the AI Hump",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "The Computer Use Agents Hackathon by H Company",
-    "url": "https://lu.ma/1zwlnq89",
-    "location": "San Francisco, CA",
-    "dates": "Jul 11, 2026 \u00b7 8:30 AM",
-    "sort_date": "2026-07-11 15:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "H Company",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "\u5c40\u90e8\u5bf9\u9f50 Local Alignment \u00b7 AI\u00d7\u8f6f\u786c\u4ef6\u00d7\u684c\u6e38Mix\u805a\u4f1a",
-    "url": "https://lu.ma/4h3rh9ic",
-    "location": "Santa Clara, CA",
-    "dates": "Jul 11, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-07-11 21:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Personal",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Founders Demo Day @ Corgi Cafe",
-    "url": "https://lu.ma/td42xz48",
-    "location": "San Francisco, CA",
-    "dates": "Jul 11, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-07-11 23:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Personal",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "hahahack | a hackathon for absurd + fun things w/ Codex",
     "url": "https://lu.ma/hahahack",
@@ -78,32 +26,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Software Book Club : Observability Engineering [ch 1 + 2]",
-    "url": "https://www.meetup.com/maple-code/events/315428744/",
-    "location": "Online",
-    "dates": "Jul 14, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-07-14 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Maple Code",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
-    "url": "https://www.meetup.com/codentalk/events/315403586/",
-    "location": "Online",
-    "dates": "Jul 14, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-07-14 18:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "TalknCode",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Show & Tell: AI for GTM @Notion with Baseten, Cognition and Samsara",
     "url": "https://lu.ma/b8ie1m1s",
@@ -127,6 +49,32 @@
     "themes": [],
     "prize": "",
     "organization": "SuperHuman Society ",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AWS Agentic AI Summit with MongoDB Mastra",
+    "url": "https://www.meetup.com/sfbay-ai/events/315494713/",
+    "location": "San Francisco, CA",
+    "dates": "Jul 15, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-07-15 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "SF AI",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "SF AI Engineers: July",
+    "url": "https://www.meetup.com/san-francisco-ai-engineers/events/313346812/",
+    "location": "San Francisco, CA",
+    "dates": "Jul 15, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-07-15 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "San Francisco AI Engineers",
     "curated": false
   },
   {
@@ -157,15 +105,28 @@
   },
   {
     "source": "Meetup",
-    "title": "Fabric engineering: Fabric Data Warehouse billing & price performance",
-    "url": "https://www.meetup.com/atlanta-azure-data-user-group/events/315571161/",
-    "location": "Online",
-    "dates": "Jul 16, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-07-16 12:00:00",
+    "title": "AI meetup (SV) - July Edition",
+    "url": "https://www.meetup.com/sfbay-ai/events/315625267/",
+    "location": "",
+    "dates": "Jul 16, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-07-16 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Atlanta Azure Data User Group",
+    "organization": "SF AI",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Workshop: Mastering AI Observability",
+    "url": "https://lu.ma/ai_workshop_sf",
+    "location": "San Francisco, CA",
+    "dates": "Jul 16, 2026 \u00b7 3:00 PM",
+    "sort_date": "2026-07-16 22:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Braintrust",
     "curated": false
   },
   {
@@ -208,6 +169,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Bay Area AI War Room - SF Edition - Saturday, 10:00 AM",
+    "url": "https://www.meetup.com/bay-area-artificial-war-room/events/313150505/",
+    "location": "San Francisco, CA",
+    "dates": "Jul 18, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-07-18 10:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Bay Area AI War Room",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "DeepLearning.AI Voice AI Hackathon: The Complete Trip, powered by Sabre and Vocal Bridge",
     "url": "https://lu.ma/fmypremp",
@@ -235,28 +209,28 @@
   },
   {
     "source": "Meetup",
-    "title": "Free Cloud Engineering Bootcamp 2026 | AWS, DevOps & Kubernetes",
-    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315585247/",
-    "location": "Online",
-    "dates": "Jul 22, 2026 \u00b7 10:30 AM",
-    "sort_date": "2026-07-22 10:30:00",
+    "title": "Legal Essentials for Game Developers: Privacy, Safety & IP",
+    "url": "https://www.meetup.com/monthly-sf-game-development-community/events/315300520/",
+    "location": "San Francisco, CA",
+    "dates": "Jul 21, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-07-21 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Coding Macaw FREE Bootcamps",
+    "organization": "SF Game Development",
     "curated": false
   },
   {
     "source": "Meetup",
-    "title": "AI-Driven Engineering Workshop: Building Smarter Teams, Faster Workflows...",
-    "url": "https://www.meetup.com/modernwebatl/events/315289936/",
+    "title": "AI Agents Are Here \u2014 Learn How to Deploy on AWS (Hands-On Workshop)",
+    "url": "https://www.meetup.com/aws-houston/events/315209050/",
     "location": "Online",
-    "dates": "Jul 22, 2026 \u00b7 11:00 AM",
-    "sort_date": "2026-07-22 11:00:00",
+    "dates": "Jul 22, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-07-22 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Modern Web ATL - Alpharetta",
+    "organization": "The Houston Amazon Web Services (AWS) Group",
     "curated": false
   },
   {
@@ -299,6 +273,32 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "SF Tech Mixer 2026",
+    "url": "https://www.meetup.com/sftechmixer/events/313838165/",
+    "location": "San Francisco, CA",
+    "dates": "Jul 30, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-07-30 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "San Francisco Startups & Tech Mixer",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Bay Area AI War Room - Berkeley Edition - Saturday, 10:00 AM",
+    "url": "https://www.meetup.com/bay-area-artificial-war-room/events/313150510/",
+    "location": "Berkeley, CA",
+    "dates": "Aug 01, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-08-01 10:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Bay Area AI War Room",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Agentic AI Summit",
     "url": "https://lu.ma/agentic-ai-summit",
@@ -309,6 +309,19 @@
     "themes": [],
     "prize": "",
     "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Step SF 2026: The AI & Tech Startup Festival",
+    "url": "https://lu.ma/StepSF26",
+    "location": "San Francisco, CA",
+    "dates": "Aug 27, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-08-27 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Step",
     "curated": false
   },
   {
@@ -326,22 +339,6 @@
     ],
     "prize": "$8,000",
     "organization": "Shower Hacks",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "AI for Social Good: Hack with MLH & DigitalOcean",
-    "url": "https://ai-for-social-good-mlh.devpost.com/",
-    "location": "San Francisco, California, USA",
-    "dates": "Jul 10 - 11, 2026",
-    "sort_date": "2026-07-10 00:00:00",
-    "state": "open",
-    "themes": [
-      "Machine Learning/AI",
-      "Social Good"
-    ],
-    "prize": "$5,250",
-    "organization": "Major League Hacking",
     "curated": false
   }
 ]
