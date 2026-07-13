@@ -130,25 +130,14 @@ Go to <https://github.com> and sign up if you don't have an account.
 - Keep or change the repository name (e.g., `my-events`).
 - Click **Create fork**.
 
-### 3. Upload these files
-- On your new empty repo page, click **“uploading an existing file”**.
-- Drag in **all** the files from this folder, **including the `.github` folder**.
-  - ⚠️ If dragging the `.github` folder is tricky, see the note at the bottom.
-- Click **Commit changes**.
-
-### 4. Let the robot write to your repo
-- Go to **Settings → Actions → General**.
-- Scroll to **Workflow permissions**.
-- Select **“Read and write permissions”** → **Save**.
-
-### 5. Turn on GitHub Pages
+### 3. Turn on GitHub Pages
 - Go to **Settings → Pages**.
 - Under **Source**, choose **Deploy from a branch**.
 - Branch: **main**, folder: **/ (root)** → **Save**.
 - After a minute, this page shows your website address, like
   `https://YOUR-USERNAME.github.io/my-events/`.
 
-### 6. Run it once now (don't wait a day)
+### 4. Run it once now (don't wait a day)
 - Go to the **Actions** tab.
 - Click **“Update events”** on the left → **Run workflow** → **Run workflow**.
 - Wait ~1 minute for the green check.
