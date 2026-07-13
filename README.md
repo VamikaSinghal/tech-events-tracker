@@ -124,11 +124,11 @@ you'd still need to be on that list.
 ### 1. Create a free GitHub account
 Go to <https://github.com> and sign up if you don't have an account.
 
-### 2. Create a new repository
-- Click the **+** in the top-right → **New repository**.
-- Name it something like `my-events`.
-- Choose **Public** (required for free GitHub Pages).
-- Click **Create repository**.
+### 2. Fork the repository
+- Click **Fork** in the top-right → **Create a new fork**.
+- Under **Owner**, select your account.
+- Keep or change the repository name (e.g., `my-events`).
+- Click **Create fork**.
 
 ### 3. Upload these files
 - On your new empty repo page, click **“uploading an existing file”**.
