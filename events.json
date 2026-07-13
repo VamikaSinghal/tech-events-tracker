@@ -1,28 +1,110 @@
 [
   {
-    "source": "Luma",
-    "title": "hahahack | a hackathon for absurd + fun things w/ Codex",
-    "url": "https://lu.ma/hahahack",
+    "source": "Eventbrite",
+    "title": "SF Tech Startups, Investors, Experts Networking & Pitch Event",
+    "url": "https://www.eventbrite.com/e/sf-tech-startups-investors-experts-networking-pitch-event-tickets-1991191481322",
     "location": "San Francisco, CA",
-    "dates": "Jul 12, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-07-12 17:00:00",
+    "dates": "Jul 13, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-07-13 19:00:00",
     "state": "upcoming",
-    "themes": [],
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
     "prize": "",
-    "organization": "tiat (the intersection of art & technology)",
+    "organization": "",
     "curated": false
   },
   {
-    "source": "Luma",
-    "title": "How to Break into SF as an Immigrant Founder",
-    "url": "https://lu.ma/3ilro47w",
+    "source": "Eventbrite",
+    "title": "Tech Connect: Networking for Tech Startups, Investors, Professionals SF",
+    "url": "https://www.eventbrite.com/e/tech-connect-networking-for-tech-startups-investors-professionals-sf-tickets-1991200091074",
     "location": "San Francisco, CA",
-    "dates": "Jul 12, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-07-13 01:30:00",
+    "dates": "Jul 13, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-07-13 19:00:00",
     "state": "upcoming",
-    "themes": [],
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
     "prize": "",
-    "organization": "Founders on Tap",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI-Driven Operational Excellence 1 Day Training \u2013 San Francisco, CA",
+    "url": "https://www.eventbrite.com/e/ai-driven-operational-excellence-1-day-training-san-francisco-ca-tickets-1990220197185",
+    "location": "San Francisco, CA, CA",
+    "dates": "Jul 14, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-07-14 09:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Training"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Practical AI & ML Skills 2 Days Training \u2013 San Francisco, CA",
+    "url": "https://www.eventbrite.com/e/practical-ai-ml-skills-2-days-training-san-francisco-ca-tickets-1988387498534",
+    "location": "San Francisco, CA, CA",
+    "dates": "Jul 14, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-07-14 09:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Unitedstatesevents"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI Tech & Startup Night \u2014 San Francisco",
+    "url": "https://www.eventbrite.com/e/ai-tech-startup-night-san-francisco-tickets-1992595874901",
+    "location": "San Francisco, CA",
+    "dates": "Jul 14, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-07-14 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Investor Connect: Pitch & Networking \u2014 San Francisco",
+    "url": "https://www.eventbrite.com/e/investor-connect-pitch-networking-san-francisco-tickets-1992595958150",
+    "location": "San Francisco, CA",
+    "dates": "Jul 14, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-07-14 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
     "curated": false
   },
   {
@@ -52,29 +134,75 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "AWS Agentic AI Summit with MongoDB Mastra",
-    "url": "https://www.meetup.com/sfbay-ai/events/315494713/",
+    "source": "Eventbrite",
+    "title": "Vision Craft  Innovation  Hub  1 Day Workshop in  San Francisco, CA",
+    "url": "https://www.eventbrite.com/e/vision-craft-innovation-hub-1-day-workshop-in-san-francisco-ca-tickets-1990372183781",
     "location": "San Francisco, CA",
-    "dates": "Jul 15, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-07-15 16:00:00",
+    "dates": "Jul 15, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-07-15 09:00:00",
     "state": "upcoming",
-    "themes": [],
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Designthinking"
+    ],
     "prize": "",
-    "organization": "SF AI",
+    "organization": "",
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "SF AI Engineers: July",
-    "url": "https://www.meetup.com/san-francisco-ai-engineers/events/313346812/",
+    "source": "Eventbrite",
+    "title": "STARTUP FUNDRAISING STRATEGY SESSION 2026",
+    "url": "https://www.eventbrite.com/e/startup-fundraising-strategy-session-2026-tickets-1981610157324",
+    "location": "San Francisco, CA",
+    "dates": "Jul 15, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-07-15 12:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Meeting or Networking Event",
+      "Startup"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI Supply Chain Hackathon 2026: Food Banks + AI",
+    "url": "https://www.eventbrite.com/e/ai-supply-chain-hackathon-2026-food-banks-ai-tickets-1264432213789",
+    "location": "San Francisco, CA",
+    "dates": "Jul 15, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-07-15 17:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Game or Competition",
+      "data_analysis"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Tech and Business Networking | Elevating Your Potential - SF",
+    "url": "https://www.eventbrite.com/e/tech-and-business-networking-elevating-your-potential-sf-tickets-1987336121838",
     "location": "San Francisco, CA",
     "dates": "Jul 15, 2026 \u00b7 6:00 PM",
     "sort_date": "2026-07-15 18:00:00",
     "state": "upcoming",
-    "themes": [],
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
     "prize": "",
-    "organization": "San Francisco AI Engineers",
+    "organization": "",
     "curated": false
   },
   {
@@ -104,16 +232,21 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "AI meetup (SV) - July Edition",
-    "url": "https://www.meetup.com/sfbay-ai/events/315625267/",
-    "location": "",
-    "dates": "Jul 16, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-07-16 17:30:00",
+    "source": "Eventbrite",
+    "title": "Out in Tech SF Bay Area | Women, TGX, Gender Expansive & Non-Binary Mixer",
+    "url": "https://www.eventbrite.com/e/out-in-tech-sf-bay-area-women-tgx-gender-expansive-non-binary-mixer-tickets-1991244335410",
+    "location": "San Francisco, CA",
+    "dates": "Jul 16, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-07-16 17:00:00",
     "state": "upcoming",
-    "themes": [],
+    "themes": [
+      "Other",
+      "Party or Social Gathering",
+      "Transgender",
+      "Mixer"
+    ],
     "prize": "",
-    "organization": "SF AI",
+    "organization": "",
     "curated": false
   },
   {
@@ -169,16 +302,39 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Bay Area AI War Room - SF Edition - Saturday, 10:00 AM",
-    "url": "https://www.meetup.com/bay-area-artificial-war-room/events/313150505/",
+    "source": "Eventbrite",
+    "title": "San Francisco Tech Mixer and Social (Tech / AI / Data / IT) \u2728",
+    "url": "https://www.eventbrite.com/e/san-francisco-tech-mixer-and-social-tech-ai-data-it-tickets-1986013642266",
     "location": "San Francisco, CA",
-    "dates": "Jul 18, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-07-18 10:00:00",
+    "dates": "Jul 17, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-07-17 18:00:00",
     "state": "upcoming",
-    "themes": [],
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Meeting or Networking Event",
+      "Social"
+    ],
     "prize": "",
-    "organization": "Bay Area AI War Room",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AGI Summit 2026 | Where AGI Converges \u00b7 July 18\u201319 \u00b7 Palace of Fine Art",
+    "url": "https://www.eventbrite.com/e/agi-summit-2026-where-agi-converges-july-1819-palace-of-fine-art-tickets-1985545163032",
+    "location": "San Francisco, CA",
+    "dates": "Jul 18, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-07-18 09:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Conference",
+      "genai_summit2026"
+    ],
+    "prize": "",
+    "organization": "",
     "curated": false
   },
   {
@@ -196,6 +352,32 @@
   },
   {
     "source": "Luma",
+    "title": "Stanford x DeepMind Hackathon: Build. Ship. Win up to $5M in Seed Funding*",
+    "url": "https://lu.ma/e51fygtm",
+    "location": "Stanford, CA",
+    "dates": "Jul 19, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-07-19 17:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "GDG Stanford",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Ladies Tea Party: Female Founders in Tech",
+    "url": "https://lu.ma/8qzm1ow4",
+    "location": "San Francisco, CA",
+    "dates": "Jul 19, 2026 \u00b7 1:00 PM",
+    "sort_date": "2026-07-19 20:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Cafe Cursor San Francisco: Startup Edition",
     "url": "https://lu.ma/cafe-cursor-sf-startups",
     "location": "San Francisco, CA",
@@ -209,15 +391,64 @@
   },
   {
     "source": "Meetup",
-    "title": "Legal Essentials for Game Developers: Privacy, Safety & IP",
-    "url": "https://www.meetup.com/monthly-sf-game-development-community/events/315300520/",
-    "location": "San Francisco, CA",
+    "title": "Leverage AI for Accessibility & How I Learned to Stop Worrying and Love the Slop",
+    "url": "https://www.meetup.com/js-chi/events/312068434/",
+    "location": "Chicago, IL",
     "dates": "Jul 21, 2026 \u00b7 5:30 PM",
     "sort_date": "2026-07-21 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "SF Game Development",
+    "organization": "Digital Delivery Chicago (formerly Chicago JavaScript)",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "SF Startups, Investors, Professionals: Pitch & Networking Event",
+    "url": "https://www.eventbrite.com/e/sf-startups-investors-professionals-pitch-networking-event-tickets-1992127226160",
+    "location": "San Francisco, CA",
+    "dates": "Jul 21, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-07-21 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Certified Blockchain Associate | San Francisco",
+    "url": "https://www.eventbrite.com/e/certified-blockchain-associate-san-francisco-tickets-1968898102225",
+    "location": "San Francisco, CA",
+    "dates": "Jul 22, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-07-22 10:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Blockchain"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI, Search & Scale: Elastic x HyperFlex @ Chicago Tech Week",
+    "url": "https://www.meetup.com/elastic-chicago-user-group/events/314736879/",
+    "location": "Chicago, IL",
+    "dates": "Jul 22, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-07-22 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Elastic Chicago User Group",
     "curated": false
   },
   {
@@ -231,6 +462,142 @@
     "themes": [],
     "prize": "",
     "organization": "The Houston Amazon Web Services (AWS) Group",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Cocktails and Tech Happy Hour at Hotel Spero Bar Esper SF | July 22, 2026",
+    "url": "https://www.eventbrite.com/e/cocktails-and-tech-happy-hour-at-hotel-spero-bar-esper-sf-july-22-2026-tickets-1990343493969",
+    "location": "San Francisco, CA",
+    "dates": "Jul 22, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-07-22 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Mixer"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Startup Founders Meetup I San Francisco",
+    "url": "https://www.eventbrite.com/e/startup-founders-meetup-i-san-francisco-tickets-1993258722496",
+    "location": "San Francisco, CA",
+    "dates": "Jul 22, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-07-22 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Meeting or Networking Event",
+      "Investment"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "VC Networking & Tech Pitch I San Francisco",
+    "url": "https://www.eventbrite.com/e/vc-networking-tech-pitch-i-san-francisco-tickets-1993258742556",
+    "location": "San Francisco, CA",
+    "dates": "Jul 22, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-07-22 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Tech Networking Event In San Francisco",
+    "url": "https://www.eventbrite.com/e/tech-networking-event-in-san-francisco-tickets-1990700554948",
+    "location": "San Francisco, CA",
+    "dates": "Jul 22, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-07-22 18:30:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI & Tech Networking Event in San Francisco by Ascent Valley",
+    "url": "https://www.eventbrite.com/e/ai-tech-networking-event-in-san-francisco-by-ascent-valley-tickets-1991471114713",
+    "location": "San Francisco, CA",
+    "dates": "Jul 22, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-07-22 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Startup Tech & AI Networking in San Francisco",
+    "url": "https://www.eventbrite.com/e/startup-tech-ai-networking-in-san-francisco-tickets-1992525243641",
+    "location": "San Francisco, CA",
+    "dates": "Jul 22, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-07-22 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "July 23 - Chicago AI, ML and Computer Vision Meetup",
+    "url": "https://www.meetup.com/chicago-ai-machine-learning-data-science/events/315373924/",
+    "location": "Chicago, IL",
+    "dates": "Jul 23, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-07-23 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Chicago AI, Machine Learning and Computer Vision Meetup",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "Daytona HackSprint w/ Braintrust - SF, July 2026",
+    "url": "https://daytona-hacksprint-sf-jul-2026.devpost.com/",
+    "location": "San Francisco, CA, USA",
+    "dates": "Jul 24, 2026",
+    "sort_date": "2026-07-24 00:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Machine Learning/AI"
+    ],
+    "prize": "$5,500",
+    "organization": "daytona",
     "curated": false
   },
   {
@@ -274,28 +641,167 @@
   },
   {
     "source": "Meetup",
-    "title": "SF Tech Mixer 2026",
-    "url": "https://www.meetup.com/sftechmixer/events/313838165/",
+    "title": "Build with AI: Come with an idea, leave with a working app.",
+    "url": "https://www.meetup.com/google-developers-group-gdg-chicago/events/315304198/",
+    "location": "Chicago, IL",
+    "dates": "Jul 25, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-07-25 09:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Google Developers Group: GDG Chicago",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "MedTech, HealthTech Startups, Investors, Innovators Networking Event SF",
+    "url": "https://www.eventbrite.com/e/medtech-healthtech-startups-investors-innovators-networking-event-sf-tickets-1992347079748",
     "location": "San Francisco, CA",
+    "dates": "Jul 27, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-07-27 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "SF HealthTech, MedTech Startups, Investors, Innovators Networking Event",
+    "url": "https://www.eventbrite.com/e/sf-healthtech-medtech-startups-investors-innovators-networking-event-tickets-1992347135916",
+    "location": "San Francisco, CA",
+    "dates": "Jul 27, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-07-27 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI Breakfast @ Tesla hosted by Founders Bay x You.com",
+    "url": "https://www.eventbrite.com/e/ai-breakfast-tesla-hosted-by-founders-bay-x-youcom-tickets-1993297927760",
+    "location": "San Francisco, CA",
+    "dates": "Jul 29, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-07-29 10:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Meeting or Networking Event",
+      "Innovation"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Tech Startup Networking San Francisco Series A Venture Capital  Event",
+    "url": "https://www.eventbrite.co.uk/e/tech-startup-networking-san-francisco-series-a-venture-capital-event-tickets-1985173696967",
+    "location": "San Francisco, CA",
+    "dates": "Jul 29, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-07-29 17:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Venture_capital"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Female Builders Bonfire and Social (Non Tech Background)",
+    "url": "https://www.eventbrite.com/e/female-builders-bonfire-and-social-non-tech-background-tickets-1993644729052",
+    "location": "San Francisco, CA",
+    "dates": "Jul 29, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-07-29 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Other",
+      "Community & Culture",
+      "Meeting or Networking Event",
+      "community_gathering"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Chicago Tech Mixer 2025",
+    "url": "https://www.meetup.com/chicagomixer/events/310833876/",
+    "location": "Chicago, IL",
     "dates": "Jul 30, 2026 \u00b7 6:00 PM",
     "sort_date": "2026-07-30 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "San Francisco Startups & Tech Mixer",
+    "organization": "Chicago Startup and Tech Mixer",
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Bay Area AI War Room - Berkeley Edition - Saturday, 10:00 AM",
-    "url": "https://www.meetup.com/bay-area-artificial-war-room/events/313150510/",
-    "location": "Berkeley, CA",
-    "dates": "Aug 01, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-08-01 10:00:00",
+    "source": "Eventbrite",
+    "title": "SF Startup & Tech Mixer 2026",
+    "url": "https://www.eventbrite.com/e/sf-startup-tech-mixer-2026-tickets-1992596984219",
+    "location": "San Francisco, CA",
+    "dates": "Jul 30, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-07-30 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Taste: A Physical AI Data Happy Hour",
+    "url": "https://lu.ma/ir1t9z73",
+    "location": "San Francisco, CA",
+    "dates": "Jul 30, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-07-31 01:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Bay Area AI War Room",
+    "organization": "Unusual Ventures",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Tech Roast SF: Comedians Roast Techies",
+    "url": "https://www.eventbrite.com/e/tech-roast-sf-comedians-roast-techies-tickets-1992775092947",
+    "location": "San Francisco, CA",
+    "dates": "Jul 31, 2026 \u00b7 7:30 PM",
+    "sort_date": "2026-07-31 19:30:00",
+    "state": "upcoming",
+    "themes": [
+      "Comedy",
+      "Performing & Visual Arts",
+      "Concert or Performance",
+      "Tech"
+    ],
+    "prize": "",
+    "organization": "",
     "curated": false
   },
   {
@@ -312,6 +818,217 @@
     "curated": false
   },
   {
+    "source": "Eventbrite",
+    "title": "Health, Fitness, Beauty & Wellness Business Networking Mixer SF",
+    "url": "https://www.eventbrite.com/e/health-fitness-beauty-wellness-business-networking-mixer-sf-tickets-1992481516853",
+    "location": "San Francisco, CA",
+    "dates": "Aug 03, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-08-03 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Wellness"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Ethical Vulnerability Assessment Training in San Francisco, CA",
+    "url": "https://www.eventbrite.com/e/ethical-vulnerability-assessment-training-in-san-francisco-ca-tickets-1992336497095",
+    "location": "San Francisco, CA, CA",
+    "dates": "Aug 04, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-08-04 09:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Training"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "San Francisco Tech & Finance Networking Event",
+    "url": "https://www.eventbrite.ca/e/san-francisco-tech-finance-networking-event-tickets-1992840368187",
+    "location": "San Francisco, CA",
+    "dates": "Aug 06, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-08-06 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Job"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Go Tech Yourself",
+    "url": "https://www.eventbrite.com/e/go-tech-yourself-tickets-1993366298258",
+    "location": "San Francisco, CA",
+    "dates": "Aug 06, 2026 \u00b7 8:00 PM",
+    "sort_date": "2026-08-06 20:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Comedy",
+      "Film, Media & Entertainment",
+      "Concert or Performance",
+      "Comedy"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Work Smarter with AI: 1 Day Non-Tech Workshop in San Francisco",
+    "url": "https://www.eventbrite.sg/e/work-smarter-with-ai-1-day-non-tech-workshop-in-san-francisco-tickets-1989974867397",
+    "location": "San Francisco, CA",
+    "dates": "Aug 10, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-08-10 09:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Career",
+      "Business & Professional",
+      "Class, Training, or Workshop",
+      "Sanfrancisco"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "SF Women in Tech: Founders & Professionals Networking Night",
+    "url": "https://www.eventbrite.com/e/sf-women-in-tech-founders-professionals-networking-night-tickets-1993459741750",
+    "location": "San Francisco, CA",
+    "dates": "Aug 11, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-08-11 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "San Francisco Data Engineering Meetup with ClickHouse",
+    "url": "https://lu.ma/clickh-z578",
+    "location": "San Francisco, CA",
+    "dates": "Aug 11, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-08-12 00:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "ClickHouse Events",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "San Fran's Largest Tech Startup, Business & Entrepreneur Networking Soiree",
+    "url": "https://www.eventbrite.com/e/san-frans-largest-tech-startup-business-entrepreneur-networking-soiree-tickets-1976644210042",
+    "location": "San Francisco, CA",
+    "dates": "Aug 17, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-17 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Tech After Hours: Happy Hour at InterContinental SF | August 18, 2026",
+    "url": "https://www.eventbrite.com/e/tech-after-hours-happy-hour-at-intercontinental-sf-august-18-2026-tickets-1992439204295",
+    "location": "San Francisco, CA",
+    "dates": "Aug 18, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-18 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Mixer"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "2026 Global Innovation Show   \u00b7 Hong Kong\uff08 VVIP-Price for two tickets\uff09",
+    "url": "https://www.eventbrite.com/e/2026-global-innovation-show-hong-kong-vvip-price-for-two-tickets-tickets-1986610099285",
+    "location": "hongkong, hongkong",
+    "dates": "Aug 25, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-08-25 09:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Tradeshow, Consumer Show, or Expo",
+      "futuretech2026"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "2026 Global Innovation Show  Global Innovation Summit \u00b7 Hong Kong",
+    "url": "https://www.eventbrite.com/e/2026-global-innovation-show-global-innovation-summit-hong-kong-tickets-1984174754102",
+    "location": "hongkong, hongkong",
+    "dates": "Aug 25, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-08-25 09:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Tradeshow, Consumer Show, or Expo",
+      "futuretech2026"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "The 2nd GIS Global Innovation Show &  Summit  2026\uff08Hubblestartup\uff09",
+    "url": "https://www.eventbrite.com/e/the-2nd-gis-global-innovation-show-summit-2026hubblestartup-tickets-1992112979548",
+    "location": "hongkong, hongkong",
+    "dates": "Aug 25, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-08-25 09:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Tradeshow, Consumer Show, or Expo",
+      "futuretech2026"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Step SF 2026: The AI & Tech Startup Festival",
     "url": "https://lu.ma/StepSF26",
@@ -322,6 +1039,60 @@
     "themes": [],
     "prize": "",
     "organization": "Step",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Cocktails and Tech Happy Hour at Novela San Francisco | September 9, 2026",
+    "url": "https://www.eventbrite.com/e/cocktails-and-tech-happy-hour-at-novela-san-francisco-september-9-2026-tickets-1992958437335",
+    "location": "San Francisco, CA",
+    "dates": "Sep 09, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-09 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Mixer"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Women in Tech 2026 - AI - SF Employer Ticket",
+    "url": "https://www.eventbrite.com/e/women-in-tech-2026-ai-sf-employer-ticket-tickets-1975344570786",
+    "location": "San Francisco, CA",
+    "dates": "Sep 24, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-24 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Career",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Recruiting"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Women in Tech SF 2026",
+    "url": "https://www.eventbrite.com/e/women-in-tech-sf-2026-tickets-1993024334435",
+    "location": "San Francisco, CA",
+    "dates": "Sep 24, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-24 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking",
+      "Diversity"
+    ],
+    "prize": "",
+    "organization": "",
     "curated": false
   },
   {
@@ -339,6 +1110,78 @@
     ],
     "prize": "$8,000",
     "organization": "Shower Hacks",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Housetaurant Fundraiser Dinner Party For Charity: SF Tech Week & TC Disrupt",
+    "url": "https://www.eventbrite.com/e/housetaurant-fundraiser-dinner-party-for-charity-sf-tech-week-tc-disrupt-tickets-1992733716188",
+    "location": "San Francisco, CA",
+    "dates": "Oct 08, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-10-08 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Other",
+      "Charity & Causes",
+      "Dinner or Gala",
+      "Charitydinner"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "The Brain Optimization Summit- SF Tech Week 2026",
+    "url": "https://www.eventbrite.com/e/the-brain-optimization-summit-sf-tech-week-2026-tickets-1989432783008",
+    "location": "San Francisco, CA",
+    "dates": "Oct 11, 2026 \u00b7 9:30 AM",
+    "sort_date": "2026-10-11 09:30:00",
+    "state": "upcoming",
+    "themes": [
+      "Science",
+      "Science & Technology",
+      "Conference",
+      "Neuroscience"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Fintech: Pre  Tech Crunch and Money 2020.",
+    "url": "https://www.eventbrite.com/e/fintech-pre-tech-crunch-and-money-2020-tickets-1982124219899",
+    "location": "San Francisco, CA",
+    "dates": "Oct 12, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-10-12 17:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Seminar or Talk",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Women in Tech 2026 - Berlin Employer Ticket",
+    "url": "https://www.eventbrite.com/e/women-in-tech-2026-berlin-employer-ticket-tickets-1990179855522",
+    "location": "San Jose, CA",
+    "dates": "Oct 22, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-22 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Recruiting"
+    ],
+    "prize": "",
+    "organization": "",
     "curated": false
   }
 ]
