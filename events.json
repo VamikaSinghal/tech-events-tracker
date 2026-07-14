@@ -1,60 +1,6 @@
 [
   {
     "source": "Eventbrite",
-    "title": "SF Tech Startups, Investors, Experts Networking & Pitch Event",
-    "url": "https://www.eventbrite.com/e/sf-tech-startups-investors-experts-networking-pitch-event-tickets-1991191481322",
-    "location": "San Francisco, CA",
-    "dates": "Jul 13, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-07-13 19:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Startups & Small Business",
-      "Business & Professional",
-      "Meeting or Networking Event",
-      "Networking"
-    ],
-    "prize": "",
-    "organization": "",
-    "curated": false
-  },
-  {
-    "source": "Eventbrite",
-    "title": "Tech Connect: Networking for Tech Startups, Investors, Professionals SF",
-    "url": "https://www.eventbrite.com/e/tech-connect-networking-for-tech-startups-investors-professionals-sf-tickets-1991200091074",
-    "location": "San Francisco, CA",
-    "dates": "Jul 13, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-07-13 19:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Startups & Small Business",
-      "Business & Professional",
-      "Meeting or Networking Event",
-      "Networking"
-    ],
-    "prize": "",
-    "organization": "",
-    "curated": false
-  },
-  {
-    "source": "Eventbrite",
-    "title": "AI-Driven Operational Excellence 1 Day Training \u2013 San Francisco, CA",
-    "url": "https://www.eventbrite.com/e/ai-driven-operational-excellence-1-day-training-san-francisco-ca-tickets-1990220197185",
-    "location": "San Francisco, CA, CA",
-    "dates": "Jul 14, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-07-14 09:00:00",
-    "state": "upcoming",
-    "themes": [
-      "High Tech",
-      "Science & Technology",
-      "Class, Training, or Workshop",
-      "Training"
-    ],
-    "prize": "",
-    "organization": "",
-    "curated": false
-  },
-  {
-    "source": "Eventbrite",
     "title": "Practical AI & ML Skills 2 Days Training \u2013 San Francisco, CA",
     "url": "https://www.eventbrite.com/e/practical-ai-ml-skills-2-days-training-san-francisco-ca-tickets-1988387498534",
     "location": "San Francisco, CA, CA",
@@ -108,8 +54,21 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "AI in 2026: Layoffs and Preparing for the AI Job Market",
+    "url": "https://www.meetup.com/humansoulai/events/314917560/",
+    "location": "Online",
+    "dates": "Jul 14, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-07-14 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "HumanSoulAI",
+    "curated": false
+  },
+  {
     "source": "Luma",
-    "title": "Show & Tell: AI for GTM @Notion with Baseten, Cognition and Samsara",
+    "title": "Show & Tell: AI for GTM with Baseten, Cognition, Samsara, Notion, Assembled, and Browserbase",
     "url": "https://lu.ma/b8ie1m1s",
     "location": "San Francisco, CA",
     "dates": "Jul 14, 2026 \u00b7 6:00 PM",
@@ -207,6 +166,19 @@
   },
   {
     "source": "Luma",
+    "title": "20th Oakland Hardware Meetup - Demo Night!",
+    "url": "https://lu.ma/fcpoj566",
+    "location": "Oakland, CA",
+    "dates": "Jul 15, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-07-16 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Oakland Hardware Meetup",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Battle of the Paddles: AI Builders Edition",
     "url": "https://lu.ma/j7v7qeem",
     "location": "San Francisco, CA",
@@ -247,6 +219,19 @@
     ],
     "prize": "",
     "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "From Sidebar to Sub-Agents: A Live, Hands-On Guide to Building with AI Agents",
+    "url": "https://www.meetup.com/central-iowa-java-users-group/events/315286709/",
+    "location": "Urbandale, IA",
+    "dates": "Jul 16, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-07-16 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Central Iowa Java Users Group",
     "curated": false
   },
   {
@@ -390,19 +375,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Leverage AI for Accessibility & How I Learned to Stop Worrying and Love the Slop",
-    "url": "https://www.meetup.com/js-chi/events/312068434/",
-    "location": "Chicago, IL",
-    "dates": "Jul 21, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-07-21 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Digital Delivery Chicago (formerly Chicago JavaScript)",
-    "curated": false
-  },
-  {
     "source": "Eventbrite",
     "title": "SF Startups, Investors, Professionals: Pitch & Networking Event",
     "url": "https://www.eventbrite.com/e/sf-startups-investors-professionals-pitch-networking-event-tickets-1992127226160",
@@ -440,15 +412,15 @@
   },
   {
     "source": "Meetup",
-    "title": "AI, Search & Scale: Elastic x HyperFlex @ Chicago Tech Week",
-    "url": "https://www.meetup.com/elastic-chicago-user-group/events/314736879/",
-    "location": "Chicago, IL",
-    "dates": "Jul 22, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-07-22 17:30:00",
+    "title": "Synapse to Fabric, Powered by AI: A Smarter Migration for North America",
+    "url": "https://www.meetup.com/naperville-machine-learning-meetup-group/events/315575690/",
+    "location": "Online",
+    "dates": "Jul 22, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-07-22 12:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Elastic Chicago User Group",
+    "organization": "Machine Learning_ML Meetup Group",
     "curated": false
   },
   {
@@ -573,19 +545,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "July 23 - Chicago AI, ML and Computer Vision Meetup",
-    "url": "https://www.meetup.com/chicago-ai-machine-learning-data-science/events/315373924/",
-    "location": "Chicago, IL",
-    "dates": "Jul 23, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-07-23 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Chicago AI, Machine Learning and Computer Vision Meetup",
-    "curated": false
-  },
-  {
     "source": "Devpost",
     "title": "Daytona HackSprint w/ Braintrust - SF, July 2026",
     "url": "https://daytona-hacksprint-sf-jul-2026.devpost.com/",
@@ -627,6 +586,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "The AI-Human Edge",
+    "url": "https://www.meetup.com/analytics-leadership-forum-iowa/events/315376050/",
+    "location": "Johnston, IA",
+    "dates": "Jul 24, 2026 \u00b7 8:30 AM",
+    "sort_date": "2026-07-24 08:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Analytics Leadership Forum of Iowa",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Agent Swarms Hackathon",
     "url": "https://lu.ma/swarmhack",
@@ -640,16 +612,29 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Build with AI: Come with an idea, leave with a working app.",
-    "url": "https://www.meetup.com/google-developers-group-gdg-chicago/events/315304198/",
-    "location": "Chicago, IL",
-    "dates": "Jul 25, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-07-25 09:00:00",
+    "source": "Luma",
+    "title": "Ship 2 Prod | YC AI SUS Black-Tie Yacht Gala",
+    "url": "https://lu.ma/ojidqyj8",
+    "location": "San Francisco, CA",
+    "dates": "Jul 24, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-07-25 02:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Google Developers Group: GDG Chicago",
+    "organization": "Resonance",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Robotics \u00d7 Physical AI Founder-Investor Summit",
+    "url": "https://lu.ma/u8j9b0a6",
+    "location": "Stanford, CA",
+    "dates": "Jul 26, 2026 \u00b7 2:00 PM",
+    "sort_date": "2026-07-26 21:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Sonia",
     "curated": false
   },
   {
@@ -683,6 +668,60 @@
       "Business & Professional",
       "Meeting or Networking Event",
       "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "SF Tech Startups, Investors, Experts Networking & Pitch Event",
+    "url": "https://www.eventbrite.com/e/sf-tech-startups-investors-experts-networking-pitch-event-tickets-1992307082114",
+    "location": "San Francisco, CA",
+    "dates": "Jul 28, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-07-28 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Tech Connect: Networking for Tech Startups, Investors, Professionals SF",
+    "url": "https://www.eventbrite.com/e/tech-connect-networking-for-tech-startups-investors-professionals-sf-tickets-1992307102174",
+    "location": "San Francisco, CA",
+    "dates": "Jul 28, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-07-28 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI-Driven Operational Excellence 1 Day Training \u2013 San Francisco, CA",
+    "url": "https://www.eventbrite.com/e/ai-driven-operational-excellence-1-day-training-san-francisco-ca-tickets-1990220218248",
+    "location": "San Francisco, CA, CA",
+    "dates": "Jul 29, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-07-29 09:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Training"
     ],
     "prize": "",
     "organization": "",
@@ -740,19 +779,6 @@
     ],
     "prize": "",
     "organization": "",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Chicago Tech Mixer 2025",
-    "url": "https://www.meetup.com/chicagomixer/events/310833876/",
-    "location": "Chicago, IL",
-    "dates": "Jul 30, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-07-30 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Chicago Startup and Tech Mixer",
     "curated": false
   },
   {
@@ -848,6 +874,24 @@
       "Science & Technology",
       "Class, Training, or Workshop",
       "Training"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Tech Networking Event by Startup Valley  in San Francisco",
+    "url": "https://www.eventbrite.com/e/tech-networking-event-by-startup-valley-in-san-francisco-tickets-1993746439270",
+    "location": "San Francisco, CA",
+    "dates": "Aug 05, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-08-05 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Marketing"
     ],
     "prize": "",
     "organization": "",
