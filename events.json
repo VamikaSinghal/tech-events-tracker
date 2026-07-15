@@ -1,99 +1,6 @@
 [
   {
     "source": "Eventbrite",
-    "title": "Practical AI & ML Skills 2 Days Training \u2013 San Francisco, CA",
-    "url": "https://www.eventbrite.com/e/practical-ai-ml-skills-2-days-training-san-francisco-ca-tickets-1988387498534",
-    "location": "San Francisco, CA, CA",
-    "dates": "Jul 14, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-07-14 09:00:00",
-    "state": "upcoming",
-    "themes": [
-      "High Tech",
-      "Science & Technology",
-      "Class, Training, or Workshop",
-      "Unitedstatesevents"
-    ],
-    "prize": "",
-    "organization": "",
-    "curated": false
-  },
-  {
-    "source": "Eventbrite",
-    "title": "AI Tech & Startup Night \u2014 San Francisco",
-    "url": "https://www.eventbrite.com/e/ai-tech-startup-night-san-francisco-tickets-1992595874901",
-    "location": "San Francisco, CA",
-    "dates": "Jul 14, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-07-14 18:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Startups & Small Business",
-      "Business & Professional",
-      "Meeting or Networking Event",
-      "Business"
-    ],
-    "prize": "",
-    "organization": "",
-    "curated": false
-  },
-  {
-    "source": "Eventbrite",
-    "title": "Investor Connect: Pitch & Networking \u2014 San Francisco",
-    "url": "https://www.eventbrite.com/e/investor-connect-pitch-networking-san-francisco-tickets-1992595958150",
-    "location": "San Francisco, CA",
-    "dates": "Jul 14, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-07-14 18:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Startups & Small Business",
-      "Business & Professional",
-      "Meeting or Networking Event",
-      "Networking"
-    ],
-    "prize": "",
-    "organization": "",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI in 2026: Layoffs and Preparing for the AI Job Market",
-    "url": "https://www.meetup.com/humansoulai/events/314917560/",
-    "location": "Online",
-    "dates": "Jul 14, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-07-14 19:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "HumanSoulAI",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Show & Tell: AI for GTM with Baseten, Cognition, Samsara, Notion, Assembled, and Browserbase",
-    "url": "https://lu.ma/b8ie1m1s",
-    "location": "San Francisco, CA",
-    "dates": "Jul 14, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-07-15 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Upside",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "AI Philosophy Nights: Indifferent Intelligence",
-    "url": "https://lu.ma/4esilsg5",
-    "location": "San Francisco, California",
-    "dates": "Jul 14, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-07-15 01:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "SuperHuman Society ",
-    "curated": false
-  },
-  {
-    "source": "Eventbrite",
     "title": "Vision Craft  Innovation  Hub  1 Day Workshop in  San Francisco, CA",
     "url": "https://www.eventbrite.com/e/vision-craft-innovation-hub-1-day-workshop-in-san-francisco-ca-tickets-1990372183781",
     "location": "San Francisco, CA",
@@ -126,6 +33,19 @@
     ],
     "prize": "",
     "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Coding Agent Harness: Plan With Frontier Models, Execute in 90% Less Time",
+    "url": "https://www.meetup.com/data-science-dojo-washington-dc/events/315481616/",
+    "location": "Online",
+    "dates": "Jul 15, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-07-15 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Data Science Dojo - DC",
     "curated": false
   },
   {
@@ -162,6 +82,19 @@
     ],
     "prize": "",
     "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "What we learned from OAI and Molecule.one's \"Near-Autonomous AI\" Discovery of OAI-M1-03",
+    "url": "https://lu.ma/h0j19bqk",
+    "location": "San Francisco, CA",
+    "dates": "Jul 15, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-07-16 00:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
     "curated": false
   },
   {
@@ -223,15 +156,15 @@
   },
   {
     "source": "Meetup",
-    "title": "From Sidebar to Sub-Agents: A Live, Hands-On Guide to Building with AI Agents",
-    "url": "https://www.meetup.com/central-iowa-java-users-group/events/315286709/",
-    "location": "Urbandale, IA",
-    "dates": "Jul 16, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-07-16 17:30:00",
+    "title": "\ud83c\udfb5 Use Local AI To Make Music on Your Own Computer",
+    "url": "https://www.meetup.com/techalicious-club/events/313911522/",
+    "location": "Online",
+    "dates": "Jul 16, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-07-16 19:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Central Iowa Java Users Group",
+    "organization": "Techalicious ~ Casual Tech Hobbyist Social Group",
     "curated": false
   },
   {
@@ -258,6 +191,19 @@
     "themes": [],
     "prize": "",
     "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Claude Cowork Demo: See What AI Can Actually Do With Your Work",
+    "url": "https://www.meetup.com/austin-women-in-agile/events/314876143/",
+    "location": "Online",
+    "dates": "Jul 17, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-07-17 12:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Austin Women in Agile",
     "curated": false
   },
   {
@@ -362,6 +308,24 @@
     "curated": false
   },
   {
+    "source": "Eventbrite",
+    "title": "AI Security Intelligence Workshop 1 Day in San Francisco, CA",
+    "url": "https://www.eventbrite.com/e/ai-security-intelligence-workshop-1-day-in-san-francisco-ca-tickets-1992618989036",
+    "location": "San Francisco, CA, CA",
+    "dates": "Jul 20, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-07-20 09:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Training"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Cafe Cursor San Francisco: Startup Edition",
     "url": "https://lu.ma/cafe-cursor-sf-startups",
@@ -393,6 +357,19 @@
     "curated": false
   },
   {
+    "source": "Luma",
+    "title": "ML Suds & Science",
+    "url": "https://lu.ma/9w02xctf",
+    "location": "San Francisco, CA",
+    "dates": "Jul 21, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-07-22 02:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Pebblebed Events",
+    "curated": false
+  },
+  {
     "source": "Eventbrite",
     "title": "Certified Blockchain Associate | San Francisco",
     "url": "https://www.eventbrite.com/e/certified-blockchain-associate-san-francisco-tickets-1968898102225",
@@ -412,15 +389,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Synapse to Fabric, Powered by AI: A Smarter Migration for North America",
-    "url": "https://www.meetup.com/naperville-machine-learning-meetup-group/events/315575690/",
+    "title": "Free Cloud Engineering Bootcamp 2026 | AWS, DevOps & Kubernetes",
+    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315585247/",
     "location": "Online",
-    "dates": "Jul 22, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-07-22 12:00:00",
+    "dates": "Jul 22, 2026 \u00b7 10:30 AM",
+    "sort_date": "2026-07-22 10:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Machine Learning_ML Meetup Group",
+    "organization": "Coding Macaw FREE Bootcamps",
     "curated": false
   },
   {
@@ -438,6 +415,24 @@
   },
   {
     "source": "Eventbrite",
+    "title": "AI Tech & Startup Night \u2014 San Francisco",
+    "url": "https://www.eventbrite.com/e/ai-tech-startup-night-san-francisco-tickets-1993029679422",
+    "location": "San Francisco, CA",
+    "dates": "Jul 22, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-07-22 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
     "title": "Cocktails and Tech Happy Hour at Hotel Spero Bar Esper SF | July 22, 2026",
     "url": "https://www.eventbrite.com/e/cocktails-and-tech-happy-hour-at-hotel-spero-bar-esper-sf-july-22-2026-tickets-1990343493969",
     "location": "San Francisco, CA",
@@ -449,6 +444,24 @@
       "Business & Professional",
       "Meeting or Networking Event",
       "Mixer"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Investor Connect: Pitch & Networking \u2014 San Francisco",
+    "url": "https://www.eventbrite.com/e/investor-connect-pitch-networking-san-francisco-tickets-1993259113666",
+    "location": "San Francisco, CA",
+    "dates": "Jul 22, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-07-22 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
     ],
     "prize": "",
     "organization": "",
@@ -545,6 +558,19 @@
     "curated": false
   },
   {
+    "source": "Luma",
+    "title": "Omnigent & Multi-Agent Coding Meetup @ Databricks SF",
+    "url": "https://lu.ma/omnigent_multi-agent_coding",
+    "location": "San Francisco, California",
+    "dates": "Jul 22, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-07-23 00:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Databricks Community",
+    "curated": false
+  },
+  {
     "source": "Devpost",
     "title": "Daytona HackSprint w/ Braintrust - SF, July 2026",
     "url": "https://daytona-hacksprint-sf-jul-2026.devpost.com/",
@@ -555,7 +581,7 @@
     "themes": [
       "Machine Learning/AI"
     ],
-    "prize": "$5,500",
+    "prize": "$6,500",
     "organization": "daytona",
     "curated": false
   },
@@ -583,19 +609,6 @@
     "themes": [],
     "prize": "",
     "organization": "Studio 45 - informal spaces SF",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "The AI-Human Edge",
-    "url": "https://www.meetup.com/analytics-leadership-forum-iowa/events/315376050/",
-    "location": "Johnston, IA",
-    "dates": "Jul 24, 2026 \u00b7 8:30 AM",
-    "sort_date": "2026-07-24 08:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Analytics Leadership Forum of Iowa",
     "curated": false
   },
   {
@@ -629,8 +642,8 @@
     "title": "Robotics \u00d7 Physical AI Founder-Investor Summit",
     "url": "https://lu.ma/u8j9b0a6",
     "location": "Stanford, CA",
-    "dates": "Jul 26, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-07-26 21:00:00",
+    "dates": "Jul 26, 2026 \u00b7 1:00 PM",
+    "sort_date": "2026-07-26 20:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
@@ -711,24 +724,6 @@
   },
   {
     "source": "Eventbrite",
-    "title": "AI-Driven Operational Excellence 1 Day Training \u2013 San Francisco, CA",
-    "url": "https://www.eventbrite.com/e/ai-driven-operational-excellence-1-day-training-san-francisco-ca-tickets-1990220218248",
-    "location": "San Francisco, CA, CA",
-    "dates": "Jul 29, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-07-29 09:00:00",
-    "state": "upcoming",
-    "themes": [
-      "High Tech",
-      "Science & Technology",
-      "Class, Training, or Workshop",
-      "Training"
-    ],
-    "prize": "",
-    "organization": "",
-    "curated": false
-  },
-  {
-    "source": "Eventbrite",
     "title": "AI Breakfast @ Tesla hosted by Founders Bay x You.com",
     "url": "https://www.eventbrite.com/e/ai-breakfast-tesla-hosted-by-founders-bay-x-youcom-tickets-1993297927760",
     "location": "San Francisco, CA",
@@ -743,6 +738,19 @@
     ],
     "prize": "",
     "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI-Ready Infrastructure: The Future of Enterprise IT",
+    "url": "https://www.meetup.com/texas-information-technology-meetup-group/events/315588210/",
+    "location": "Online",
+    "dates": "Jul 29, 2026 \u00b7 11:00 AM",
+    "sort_date": "2026-07-29 11:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Texas Information Technology Meetup Group",
     "curated": false
   },
   {
@@ -841,6 +849,24 @@
     "themes": [],
     "prize": "",
     "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Practical AI & ML Skills 2 Days Training \u2013 San Francisco, CA",
+    "url": "https://www.eventbrite.com/e/practical-ai-ml-skills-2-days-training-san-francisco-ca-tickets-1988387527621",
+    "location": "San Francisco, CA, CA",
+    "dates": "Aug 03, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-08-03 09:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Unitedstatesevents"
+    ],
+    "prize": "",
+    "organization": "",
     "curated": false
   },
   {
@@ -980,6 +1006,24 @@
     "themes": [],
     "prize": "",
     "organization": "ClickHouse Events",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Secure Development Practices 2 Days in San Francisco, CA",
+    "url": "https://www.eventbrite.com/e/secure-development-practices-2-days-in-san-francisco-ca-tickets-1992477591111",
+    "location": "San Francisco, CA, CA",
+    "dates": "Aug 17, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-08-17 09:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Training"
+    ],
+    "prize": "",
+    "organization": "",
     "curated": false
   },
   {
