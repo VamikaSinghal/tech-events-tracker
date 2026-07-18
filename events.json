@@ -1,60 +1,5 @@
 [
   {
-    "source": "Devpost",
-    "title": "Loop Engineering Hackathon",
-    "url": "https://loop-engineering-hackathon.devpost.com/",
-    "location": "AWS Builder Loft",
-    "dates": "Jul 17, 2026",
-    "sort_date": "2026-07-17 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Machine Learning/AI",
-      "Web"
-    ],
-    "prize": "$6,750",
-    "organization": "Creators Corner",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "GTLC Bay Area Chinese Tech Leaders Summit",
-    "url": "https://lu.ma/oym92m2s",
-    "location": "San Jose, CA",
-    "dates": "Jul 17, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-07-17 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Personal",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "build fridays sf - work on your startup alongside others",
-    "url": "https://lu.ma/9s9i9k2w",
-    "location": "San Francisco, CA",
-    "dates": "Jul 17, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-07-17 23:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI BEAVERS",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "AI 2040: Plan A with Thomas Larsen",
-    "url": "https://lu.ma/mox-8ssq",
-    "location": "San Francisco, CA",
-    "dates": "Jul 17, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-07-18 01:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Mox",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "DeepLearning.AI Voice AI Hackathon: The Complete Trip, powered by Sabre and Vocal Bridge",
     "url": "https://lu.ma/fmypremp",
@@ -134,32 +79,6 @@
   },
   {
     "source": "Meetup",
-    "title": "Free Cloud Engineering Bootcamp 2026 | AWS, DevOps & Kubernetes",
-    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315585247/",
-    "location": "Online",
-    "dates": "Jul 22, 2026 \u00b7 10:30 AM",
-    "sort_date": "2026-07-22 10:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Coding Macaw FREE Bootcamps",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "The Autonomous Threat: AWS Security When AI Pulls the Trigger",
-    "url": "https://www.meetup.com/data-ai-and-app-development-meetup/events/315411459/",
-    "location": "Online",
-    "dates": "Jul 22, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-07-22 12:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Data & AI and App Development Meetup",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
     "title": "AI Agents Are Here \u2014 Learn How to Deploy on AWS (Hands-On Workshop)",
     "url": "https://www.meetup.com/aws-houston/events/315209050/",
     "location": "Online",
@@ -169,32 +88,6 @@
     "themes": [],
     "prize": "",
     "organization": "The Houston Amazon Web Services (AWS) Group",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI Deep Dive with Google (Ep 1)",
-    "url": "https://www.meetup.com/aittg-toronto/events/315656735/",
-    "location": "Online",
-    "dates": "Jul 22, 2026 \u00b7 8:00 PM",
-    "sort_date": "2026-07-22 20:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Toronto AI Developers Group",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Deep Tech Startups in the Age of AI by Fifty Years",
-    "url": "https://lu.ma/50y-n282",
-    "location": "Stanford, CA",
-    "dates": "Jul 22, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-07-23 00:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Fifty Years",
     "curated": false
   },
   {
@@ -225,15 +118,15 @@
   },
   {
     "source": "Meetup",
-    "title": "FREE REMOTE | LADIES IN AI - We Learn. We Share. We Laugh.",
-    "url": "https://www.meetup.com/ai-growth-circle/events/315016393/",
+    "title": "Find a Cofounder / Help or Join a Tech Startup",
+    "url": "https://www.meetup.com/dc-startup-cofounders/events/313919791/",
     "location": "Online",
-    "dates": "Jul 23, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-07-23 19:00:00",
+    "dates": "Jul 23, 2026 \u00b7 8:00 PM",
+    "sort_date": "2026-07-23 20:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AI Growth Circle",
+    "organization": "D.C. Startup Founders & Tech Professionals",
     "curated": false
   },
   {
@@ -278,6 +171,32 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "The AI-Human Edge",
+    "url": "https://www.meetup.com/analytics-leadership-forum-iowa/events/315376050/",
+    "location": "Johnston, IA",
+    "dates": "Jul 24, 2026 \u00b7 8:30 AM",
+    "sort_date": "2026-07-24 08:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Analytics Leadership Forum of Iowa",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Gen AI and Agentic AI for Project and Program Management",
+    "url": "https://www.meetup.com/ai-career-hub/events/315610309/",
+    "location": "Online",
+    "dates": "Jul 24, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-07-24 10:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Career Hub!",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Self-Evolving Agents Hackathon",
     "url": "https://lu.ma/swarmhack",
@@ -301,19 +220,6 @@
     "themes": [],
     "prize": "",
     "organization": "Resonance",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Trajectories: Epoch AI Mixer",
-    "url": "https://lu.ma/mtv0ajl9",
-    "location": "San Francisco, CA",
-    "dates": "Jul 24, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-07-25 02:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Epoch Calendar",
     "curated": false
   },
   {
@@ -344,41 +250,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Software Book Club : Observability Engineering: Chapter 2",
-    "url": "https://www.meetup.com/maple-code/events/315687441/",
+    "title": "Synapse to Fabric, Powered by AI: A Smarter Migration for MENA Enterprises",
+    "url": "https://www.meetup.com/naperville-machine-learning-meetup-group/events/315574888/",
     "location": "Online",
-    "dates": "Jul 29, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-07-29 18:00:00",
+    "dates": "Jul 28, 2026 \u00b7 3:00 AM",
+    "sort_date": "2026-07-28 03:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Maple Code",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "From AI Pilots to Business Impact: Closing the AI Usage Gap in 90 Days",
-    "url": "https://www.meetup.com/it-professionals-of-florida-meetup-group/events/315604950/",
-    "location": "Online",
-    "dates": "Jul 30, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-07-30 12:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "IT Professionals of New Jersey Meetup Group",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Beyond Temperature Zero: Building Deterministic AI Applications",
-    "url": "https://www.meetup.com/technology-ai/events/315680180/",
-    "location": "Online",
-    "dates": "Jul 30, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-07-30 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "technology.ai",
+    "organization": "Machine Learning_ML Meetup Group",
     "curated": false
   },
   {
@@ -457,6 +337,19 @@
     "themes": [],
     "prize": "",
     "organization": "The Frontier Syndicate",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "136th SF Hardware Meetup @ Studio 45 | Demo Night",
+    "url": "https://lu.ma/odhr2288",
+    "location": "San Francisco, CA",
+    "dates": "Aug 06, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-08-07 01:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "SF Hardware Meetup",
     "curated": false
   },
   {
