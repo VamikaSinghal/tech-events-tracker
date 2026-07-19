@@ -1,19 +1,6 @@
 [
   {
     "source": "Luma",
-    "title": "DeepLearning.AI Voice AI Hackathon: The Complete Trip, powered by Sabre and Vocal Bridge",
-    "url": "https://lu.ma/fmypremp",
-    "location": "Mountain View, CA",
-    "dates": "Jul 18, 2026 \u00b7 8:00 AM",
-    "sort_date": "2026-07-18 15:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Vocal Bridge Events",
-    "curated": false
-  },
-  {
-    "source": "Luma",
     "title": "Stanford x DeepMind Hackathon: Build. Ship. Win up to $5M in Seed Funding*",
     "url": "https://lu.ma/e51fygtm",
     "location": "Stanford, CA",
@@ -62,6 +49,45 @@
     "themes": [],
     "prize": "",
     "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Italian Dinner & Founder Mash Up",
+    "url": "https://lu.ma/olpuh9ir",
+    "location": "San Francisco, CA",
+    "dates": "Jul 20, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-07-21 01:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "The Biopunk Community",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Legal Essentials for Game Developers: Privacy, Safety & IP",
+    "url": "https://www.meetup.com/monthly-sf-game-development-community/events/315300520/",
+    "location": "San Francisco, CA",
+    "dates": "Jul 21, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-07-21 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "SF Game Development",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Coding Club",
+    "url": "https://www.meetup.com/westside-coding-club/events/315508780/",
+    "location": "Online",
+    "dates": "Jul 21, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-07-21 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Westside Coding Club",
     "curated": false
   },
   {
@@ -117,19 +143,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Find a Cofounder / Help or Join a Tech Startup",
-    "url": "https://www.meetup.com/dc-startup-cofounders/events/313919791/",
-    "location": "Online",
-    "dates": "Jul 23, 2026 \u00b7 8:00 PM",
-    "sort_date": "2026-07-23 20:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "D.C. Startup Founders & Tech Professionals",
-    "curated": false
-  },
-  {
     "source": "Devpost",
     "title": "Daytona HackSprint w/ Braintrust - SF, July 2026",
     "url": "https://daytona-hacksprint-sf-jul-2026.devpost.com/",
@@ -159,6 +172,19 @@
   },
   {
     "source": "Luma",
+    "title": "AI Infra Builders Meetup with dstack, Crusoe, and SGLang",
+    "url": "https://lu.ma/rxsn0u0h",
+    "location": "San Francisco, CA",
+    "dates": "Jul 23, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-07-24 00:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "dstack San Francisco",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Hardware Pitch Night - Summertime Showcase!",
     "url": "https://lu.ma/lzy8pkq4",
     "location": "San Francisco, CA",
@@ -168,32 +194,6 @@
     "themes": [],
     "prize": "",
     "organization": "Studio 45 - informal spaces SF",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "The AI-Human Edge",
-    "url": "https://www.meetup.com/analytics-leadership-forum-iowa/events/315376050/",
-    "location": "Johnston, IA",
-    "dates": "Jul 24, 2026 \u00b7 8:30 AM",
-    "sort_date": "2026-07-24 08:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Analytics Leadership Forum of Iowa",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Gen AI and Agentic AI for Project and Program Management",
-    "url": "https://www.meetup.com/ai-career-hub/events/315610309/",
-    "location": "Online",
-    "dates": "Jul 24, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-07-24 10:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Career Hub!",
     "curated": false
   },
   {
@@ -207,6 +207,19 @@
     "themes": [],
     "prize": "",
     "organization": "tokens&",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Photon GoKart Rally @ YC Startup School",
+    "url": "https://lu.ma/ueokvzdw",
+    "location": "San Francisco, CA",
+    "dates": "Jul 24, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-07-24 17:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Photon",
     "curated": false
   },
   {
@@ -236,6 +249,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "SF AI Code and Coffee Sunday July 26th 2026 @Salesforce Park!",
+    "url": "https://www.meetup.com/sf-code-coffee/events/315603643/",
+    "location": "San Francisco, CA",
+    "dates": "Jul 26, 2026 \u00b7 2:00 PM",
+    "sort_date": "2026-07-26 14:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "San Francisco AI Code and Coffee",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Robotics \u00d7 Physical AI Founder-Investor Summit",
     "url": "https://lu.ma/u8j9b0a6",
@@ -250,15 +276,28 @@
   },
   {
     "source": "Meetup",
-    "title": "Synapse to Fabric, Powered by AI: A Smarter Migration for MENA Enterprises",
-    "url": "https://www.meetup.com/naperville-machine-learning-meetup-group/events/315574888/",
-    "location": "Online",
-    "dates": "Jul 28, 2026 \u00b7 3:00 AM",
-    "sort_date": "2026-07-28 03:00:00",
+    "title": "Sold Startups: Founders Who Built and Exited",
+    "url": "https://www.meetup.com/global-ai-makers-san-francisco/events/314982820/",
+    "location": "",
+    "dates": "Jul 30, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-07-30 09:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Machine Learning_ML Meetup Group",
+    "organization": "Global AI Makers \u2022\u00a0West Coast \u2022\u00a0AI CEOs, Founders, Makers",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "SF Tech Mixer 2026",
+    "url": "https://www.meetup.com/sftechmixer/events/313838165/",
+    "location": "San Francisco, CA",
+    "dates": "Jul 30, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-07-30 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "San Francisco Startups & Tech Mixer",
     "curated": false
   },
   {
@@ -363,6 +402,19 @@
     "themes": [],
     "prize": "",
     "organization": "ClickHouse Events",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "SF AI Engineers: Aug",
+    "url": "https://www.meetup.com/san-francisco-ai-engineers/events/313912559/",
+    "location": "San Francisco, CA",
+    "dates": "Aug 12, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-12 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "San Francisco AI Engineers",
     "curated": false
   },
   {
