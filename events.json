@@ -1,28 +1,15 @@
 [
   {
-    "source": "Luma",
-    "title": "Stanford x DeepMind Hackathon: Build. Ship. Win up to $5M in Seed Funding*",
-    "url": "https://lu.ma/e51fygtm",
-    "location": "Stanford, CA",
-    "dates": "Jul 19, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-07-19 17:00:00",
+    "source": "Meetup",
+    "title": "AI+GPU System Perf Tuning with eBPF and flamegraphs by Israel+Joel @ Zymtrace",
+    "url": "https://www.meetup.com/ai-performance-engineering/events/313234366/",
+    "location": "Online",
+    "dates": "Jul 20, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-07-20 09:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "GDG Stanford",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Ladies Tea Party: Female Founders in Tech",
-    "url": "https://lu.ma/8qzm1ow4",
-    "location": "San Francisco, CA",
-    "dates": "Jul 19, 2026 \u00b7 1:00 PM",
-    "sort_date": "2026-07-19 20:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Personal",
+    "organization": "AI Performance Engineering Meetup (San Francisco, Global)",
     "curated": false
   },
   {
@@ -66,28 +53,28 @@
   },
   {
     "source": "Meetup",
-    "title": "Legal Essentials for Game Developers: Privacy, Safety & IP",
-    "url": "https://www.meetup.com/monthly-sf-game-development-community/events/315300520/",
-    "location": "San Francisco, CA",
+    "title": "CCCCC Bonus Session: Demoing the CRM we built for our $30k MRR AI Agency Startup",
+    "url": "https://www.meetup.com/cracked-claude-cowork-and-codex-club/events/315718151/",
+    "location": "Online",
+    "dates": "Jul 21, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-07-21 12:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Cracked Claude Cowork and Codex Club (AI Debates&Networking)",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Tech Tuesday Happy Hour #8",
+    "url": "https://www.meetup.com/aztechtuesday/events/315704565/",
+    "location": "Phoenix, AZ",
     "dates": "Jul 21, 2026 \u00b7 5:30 PM",
     "sort_date": "2026-07-21 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "SF Game Development",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Coding Club",
-    "url": "https://www.meetup.com/westside-coding-club/events/315508780/",
-    "location": "Online",
-    "dates": "Jul 21, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-07-21 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Westside Coding Club",
+    "organization": "AZ Tech Tuesday",
     "curated": false
   },
   {
@@ -140,6 +127,32 @@
     "themes": [],
     "prize": "",
     "organization": "Atherton House",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI Meetup - Stop Waiting, Start Building",
+    "url": "https://www.meetup.com/ai-for-entrepreneurs-and-business-leaders/events/315251975/",
+    "location": "Phoenix, AZ",
+    "dates": "Jul 23, 2026 \u00b7 4:30 PM",
+    "sort_date": "2026-07-23 16:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI for Entrepreneurs and Business Leaders",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Pollack Cinema - AI Film 3 showcase event",
+    "url": "https://www.meetup.com/aicollective/events/315324101/",
+    "location": "Tempe, AZ",
+    "dates": "Jul 23, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-07-23 18:00:32",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Technology, Film, Art, and Music Meetup Group",
     "curated": false
   },
   {
@@ -249,19 +262,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "SF AI Code and Coffee Sunday July 26th 2026 @Salesforce Park!",
-    "url": "https://www.meetup.com/sf-code-coffee/events/315603643/",
-    "location": "San Francisco, CA",
-    "dates": "Jul 26, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-07-26 14:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "San Francisco AI Code and Coffee",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Robotics \u00d7 Physical AI Founder-Investor Summit",
     "url": "https://lu.ma/u8j9b0a6",
@@ -272,32 +272,6 @@
     "themes": [],
     "prize": "",
     "organization": "Sonia",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Sold Startups: Founders Who Built and Exited",
-    "url": "https://www.meetup.com/global-ai-makers-san-francisco/events/314982820/",
-    "location": "",
-    "dates": "Jul 30, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-07-30 09:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Global AI Makers \u2022\u00a0West Coast \u2022\u00a0AI CEOs, Founders, Makers",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "SF Tech Mixer 2026",
-    "url": "https://www.meetup.com/sftechmixer/events/313838165/",
-    "location": "San Francisco, CA",
-    "dates": "Jul 30, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-07-30 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "San Francisco Startups & Tech Mixer",
     "curated": false
   },
   {
@@ -406,15 +380,28 @@
   },
   {
     "source": "Meetup",
-    "title": "SF AI Engineers: Aug",
-    "url": "https://www.meetup.com/san-francisco-ai-engineers/events/313912559/",
-    "location": "San Francisco, CA",
-    "dates": "Aug 12, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-12 18:00:00",
+    "title": "Phoenix Tech Networking Meetup",
+    "url": "https://www.meetup.com/phoenix-tech-group/events/315198352/",
+    "location": "Scottsdale, AZ",
+    "dates": "Aug 13, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-08-13 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "San Francisco AI Engineers",
+    "organization": "Phoenix Tech Group",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Agent Harnesses and Systems Engineering",
+    "url": "https://www.meetup.com/azemergingtech/events/315041311/",
+    "location": "Scottsdale, AZ",
+    "dates": "Aug 13, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-13 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Arizona AI & Emerging Technology",
     "curated": false
   },
   {
