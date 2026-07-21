@@ -1,58 +1,6 @@
 [
   {
     "source": "Meetup",
-    "title": "AI+GPU System Perf Tuning with eBPF and flamegraphs by Israel+Joel @ Zymtrace",
-    "url": "https://www.meetup.com/ai-performance-engineering/events/313234366/",
-    "location": "Online",
-    "dates": "Jul 20, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-07-20 09:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Performance Engineering Meetup (San Francisco, Global)",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Cafe Cursor San Francisco: Startup Edition",
-    "url": "https://lu.ma/cafe-cursor-sf-startups",
-    "location": "San Francisco, CA",
-    "dates": "Jul 20, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-07-20 17:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Cursor San Francisco, US",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Startup Workflows Art Gallery with Portal & Persona",
-    "url": "https://lu.ma/artgallery",
-    "location": "San Francisco, CA",
-    "dates": "Jul 20, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-07-21 00:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Personal",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Italian Dinner & Founder Mash Up",
-    "url": "https://lu.ma/olpuh9ir",
-    "location": "San Francisco, CA",
-    "dates": "Jul 20, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-07-21 01:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "The Biopunk Community",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
     "title": "CCCCC Bonus Session: Demoing the CRM we built for our $30k MRR AI Agency Startup",
     "url": "https://www.meetup.com/cracked-claude-cowork-and-codex-club/events/315718151/",
     "location": "Online",
@@ -61,7 +9,7 @@
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Cracked Claude Cowork and Codex Club (AI Debates&Networking)",
+    "organization": "Cracked Claude Cowork and Codex Club (AI Networking)",
     "curated": false
   },
   {
@@ -118,6 +66,19 @@
   },
   {
     "source": "Luma",
+    "title": "Less Stack, More Growth (Building the Ultimate GTM Tech Stack Without the Bloat)",
+    "url": "https://lu.ma/ultimategtmtechstack",
+    "location": "San Francisco, CA",
+    "dates": "Jul 22, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-07-23 00:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Defense 001 - Ukraine for Founders",
     "url": "https://lu.ma/ftjuf56b",
     "location": "Atherton, CA",
@@ -168,6 +129,19 @@
     ],
     "prize": "$8,000",
     "organization": "daytona",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Voice AI Meetup: Build Smarter Voice Agents",
+    "url": "https://lu.ma/m0thk5ai",
+    "location": "San Francisco, CA",
+    "dates": "Jul 23, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-07-24 00:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AssemblyAI",
     "curated": false
   },
   {
@@ -249,6 +223,23 @@
     "curated": false
   },
   {
+    "source": "Devpost",
+    "title": "JacHacks SF",
+    "url": "https://jachacks-sf.devpost.com/",
+    "location": "Founders Inc.",
+    "dates": "Jul 26, 2026",
+    "sort_date": "2026-07-26 00:00:00",
+    "state": "upcoming",
+    "themes": [
+      "DevOps",
+      "Machine Learning/AI",
+      "Open Ended"
+    ],
+    "prize": "$8,100",
+    "organization": "Jaseci Labs",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "YC AI Startup School Afterparty",
     "url": "https://lu.ma/m4ez9liu",
@@ -272,6 +263,19 @@
     "themes": [],
     "prize": "",
     "organization": "Sonia",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Built Different: Auth0 x Stripe Hackathon",
+    "url": "https://lu.ma/builtdifferent-auth0-stripe",
+    "location": "San Francisco, CA",
+    "dates": "Jul 30, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-07-30 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Auth0 Events - San Francisco",
     "curated": false
   },
   {
@@ -363,6 +367,19 @@
     "themes": [],
     "prize": "",
     "organization": "SF Hardware Meetup",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "AI x Fashion Coffee Club",
+    "url": "https://lu.ma/xfbtidsx",
+    "location": "San Francisco, CA",
+    "dates": "Aug 07, 2026 \u00b7 8:00 AM",
+    "sort_date": "2026-08-07 15:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
     "curated": false
   },
   {
