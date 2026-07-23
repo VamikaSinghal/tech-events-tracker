@@ -1,37 +1,11 @@
 [
   {
-    "source": "Meetup",
-    "title": "AI, Search & Scale: Elastic x HyperFlex @ Chicago Tech Week",
-    "url": "https://www.meetup.com/elastic-chicago-user-group/events/314736879/",
-    "location": "Chicago, IL",
-    "dates": "Jul 22, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-07-22 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Elastic Chicago User Group",
-    "curated": false
-  },
-  {
     "source": "Luma",
-    "title": "Omnigent & Multi-Agent Coding Meetup @ Databricks SF",
-    "url": "https://lu.ma/omnigent_multi-agent_coding",
-    "location": "San Francisco, California",
-    "dates": "Jul 22, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-07-23 00:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Databricks Community",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Less Stack, More Growth (Building the Ultimate GTM Tech Stack Without the Bloat)",
-    "url": "https://lu.ma/ultimategtmtechstack",
+    "title": "Daytona & ZeroClick AI GTM Breakfast - SF, July 2026 @Corgi Cafe",
+    "url": "https://lu.ma/gtm-breakfast-sf",
     "location": "San Francisco, CA",
-    "dates": "Jul 22, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-07-23 00:30:00",
+    "dates": "Jul 23, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-07-23 16:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
@@ -39,29 +13,29 @@
     "curated": false
   },
   {
-    "source": "Luma",
-    "title": "Defense 001 - Ukraine for Founders",
-    "url": "https://lu.ma/ftjuf56b",
-    "location": "Atherton, CA",
-    "dates": "Jul 22, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-07-23 01:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Atherton House",
-    "curated": false
-  },
-  {
     "source": "Meetup",
-    "title": "July 23 - Chicago AI, ML and Computer Vision Meetup",
-    "url": "https://www.meetup.com/chicago-ai-machine-learning-data-science/events/315373924/",
-    "location": "Chicago, IL",
+    "title": "Securing and Governing AI: A Technical and Legal Perspective",
+    "url": "https://www.meetup.com/cloud-security-alliance-triangle-chapter/events/315516269/",
+    "location": "Online",
     "dates": "Jul 23, 2026 \u00b7 5:30 PM",
     "sort_date": "2026-07-23 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Chicago AI, Machine Learning and Computer Vision Meetup",
+    "organization": "Cloud Security Alliance Triangle Chapter",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Find a Cofounder / Help or Join a Tech Startup",
+    "url": "https://www.meetup.com/dc-startup-cofounders/events/313919791/",
+    "location": "Online",
+    "dates": "Jul 23, 2026 \u00b7 8:00 PM",
+    "sort_date": "2026-07-23 20:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "D.C. Startup Founders & Tech Professionals",
     "curated": false
   },
   {
@@ -145,6 +119,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "The AI-Human Edge",
+    "url": "https://www.meetup.com/analytics-leadership-forum-iowa/events/315376050/",
+    "location": "Johnston, IA",
+    "dates": "Jul 24, 2026 \u00b7 8:30 AM",
+    "sort_date": "2026-07-24 08:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Analytics Leadership Forum of Iowa",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Self-Evolving Agents Hackathon",
     "url": "https://lu.ma/swarmhack",
@@ -172,6 +159,19 @@
   },
   {
     "source": "Luma",
+    "title": "YC Startup School Founder & Investor Mixer",
+    "url": "https://lu.ma/beta-ugt5",
+    "location": "San Francisco, CA",
+    "dates": "Jul 24, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-07-25 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Beta University Events",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Night Hack by Founders, Inc.",
     "url": "https://lu.ma/nighthack",
     "location": "San Francisco, CA",
@@ -194,19 +194,6 @@
     "themes": [],
     "prize": "",
     "organization": "Resonance",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Build with AI: Come with an idea, leave with a working app.",
-    "url": "https://www.meetup.com/google-developers-group-gdg-chicago/events/315304198/",
-    "location": "Chicago, IL",
-    "dates": "Jul 25, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-07-25 09:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Google Developers Group: GDG Chicago",
     "curated": false
   },
   {
@@ -280,6 +267,32 @@
   },
   {
     "source": "Luma",
+    "title": "Startup School Afterparty | by Vercel, Warp, Reducto, and Browserbase",
+    "url": "https://lu.ma/browse-l2aj",
+    "location": "San Francisco, CA",
+    "dates": "Jul 26, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-07-27 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Browserbase",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Corgi Coffee Co-op: DIY Coffee for Founders",
+    "url": "https://lu.ma/5w78yjyy",
+    "location": "San Francisco, CA",
+    "dates": "Jul 27, 2026 \u00b7 11:00 AM",
+    "sort_date": "2026-07-27 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Corgi",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Physical AI and Robotics Meetup",
     "url": "https://lu.ma/isyfjno2",
     "location": "San Francisco, CA",
@@ -318,19 +331,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Chicago Tech Mixer 2025",
-    "url": "https://www.meetup.com/chicagomixer/events/310833876/",
-    "location": "Chicago, IL",
-    "dates": "Jul 30, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-07-30 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Chicago Startup and Tech Mixer",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Built Different: Auth0 x Stripe Hackathon",
     "url": "https://lu.ma/builtdifferent-auth0-stripe",
@@ -341,6 +341,32 @@
     "themes": [],
     "prize": "",
     "organization": "Auth0 Events - San Francisco",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Study Group: Evals in AI Systems",
+    "url": "https://www.meetup.com/applied-ai-labs/events/315435192/",
+    "location": "Online",
+    "dates": "Jul 30, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-07-30 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Applied AI Labs",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Qualcomm x ZETIC x Liquid AI: Edge AI Builders Meetup",
+    "url": "https://lu.ma/i3evxecn",
+    "location": "San Francisco, CA",
+    "dates": "Jul 30, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-07-31 00:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "ZETIC",
     "curated": false
   },
   {
@@ -423,6 +449,19 @@
   },
   {
     "source": "Luma",
+    "title": "\ud83e\uddec Inflection #002 \u2014 Health: AI's last problem w/ Omri Drory",
+    "url": "https://lu.ma/inflection002",
+    "location": "San Francisco, CA",
+    "dates": "Aug 05, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-08-06 00:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Pioneer Fund",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "136th SF Hardware Meetup @ Studio 45 | Demo Night",
     "url": "https://lu.ma/odhr2288",
     "location": "San Francisco, CA",
@@ -458,6 +497,19 @@
     "themes": [],
     "prize": "",
     "organization": "ClickHouse Events",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "DSM AI Group Monthly Meeting (Speaker TBD)",
+    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/311239023/",
+    "location": "Des Moines, IA",
+    "dates": "Aug 18, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-08-18 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Des Moines Artificial Intelligence Group",
     "curated": false
   },
   {
