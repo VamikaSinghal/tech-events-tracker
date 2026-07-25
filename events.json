@@ -1,86 +1,15 @@
 [
   {
-    "source": "Devpost",
-    "title": "Daytona HackSprint w/ Braintrust - SF, July 2026",
-    "url": "https://daytona-hacksprint-sf-jul-2026.devpost.com/",
-    "location": "San Francisco, CA, USA",
-    "dates": "Jul 24, 2026",
-    "sort_date": "2026-07-24 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Machine Learning/AI"
-    ],
-    "prize": "$8,000",
-    "organization": "daytona",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "Self-Evolving Agents Hackathon",
-    "url": "https://self-evolving-agents.devpost.com/",
-    "location": "DG717",
-    "dates": "Jul 24, 2026",
-    "sort_date": "2026-07-24 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Machine Learning/AI",
-      "Open Ended",
-      "Web"
-    ],
-    "prize": "$19,000",
-    "organization": "tokens&",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Photon GoKart Rally @ YC Startup School",
-    "url": "https://lu.ma/ueokvzdw",
-    "location": "San Francisco, CA",
-    "dates": "Jul 24, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-07-24 17:00:00",
+    "source": "Meetup",
+    "title": "Will AI take your job? A open place to start, share, and LEARN AI",
+    "url": "https://www.meetup.com/it-pro-ai-hump/events/315544196/",
+    "location": "Online",
+    "dates": "Jul 25, 2026 \u00b7 11:00 AM",
+    "sort_date": "2026-07-25 11:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Photon",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "YC Startup School Founder & Investor Mixer",
-    "url": "https://lu.ma/beta-ugt5",
-    "location": "San Francisco, CA",
-    "dates": "Jul 24, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-07-25 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Beta University Events",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Night Hack by Founders, Inc.",
-    "url": "https://lu.ma/nighthack",
-    "location": "San Francisco, CA",
-    "dates": "Jul 24, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-07-25 01:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Founders, Inc. Events",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Ship 2 Prod | YC AI SUS Black-Tie Yacht Gala",
-    "url": "https://lu.ma/ojidqyj8",
-    "location": "San Francisco, CA",
-    "dates": "Jul 24, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-07-25 02:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Resonance",
+    "organization": "Getting over the AI Hump",
     "curated": false
   },
   {
@@ -141,6 +70,19 @@
   },
   {
     "source": "Luma",
+    "title": "YC Startup School After Party with Roboflow",
+    "url": "https://lu.ma/bzdn8lr2",
+    "location": "San Francisco, CA",
+    "dates": "Jul 25, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-07-26 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Robotics \u00d7 Physical AI Founder-Investor Summit",
     "url": "https://lu.ma/u8j9b0a6",
     "location": "Stanford, CA",
@@ -150,6 +92,19 @@
     "themes": [],
     "prize": "",
     "organization": "Sonia",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "SF AI Code And Coffee Sunday July 26th!",
+    "url": "https://lu.ma/rhbtwo9u",
+    "location": "San Francisco, CA",
+    "dates": "Jul 26, 2026 \u00b7 2:00 PM",
+    "sort_date": "2026-07-26 21:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "San Francisco AI Code And Coffee",
     "curated": false
   },
   {
@@ -167,6 +122,32 @@
   },
   {
     "source": "Luma",
+    "title": "YC Startup School After Party",
+    "url": "https://lu.ma/yp4xhswa",
+    "location": "San Francisco, CA",
+    "dates": "Jul 26, 2026 \u00b7 7:30 PM",
+    "sort_date": "2026-07-27 02:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Founders on Tap",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Free Cloud Engineering Bootcamp 2026 | AWS, DevOps & Kubernetes",
+    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315585247/",
+    "location": "Online",
+    "dates": "Jul 27, 2026 \u00b7 10:30 AM",
+    "sort_date": "2026-07-27 10:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Coding Macaw FREE Bootcamps",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Corgi Coffee Co-op: DIY Coffee for Founders",
     "url": "https://lu.ma/5w78yjyy",
     "location": "San Francisco, CA",
@@ -176,6 +157,19 @@
     "themes": [],
     "prize": "",
     "organization": "Corgi",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
+    "url": "https://www.meetup.com/codentalk/events/315605922/",
+    "location": "Online",
+    "dates": "Jul 28, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-07-28 18:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "TalknCode",
     "curated": false
   },
   {
@@ -218,6 +212,32 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "How to get your Agentic AI on!",
+    "url": "https://www.meetup.com/it-pro-ai-hump/events/315572946/",
+    "location": "Online",
+    "dates": "Jul 29, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-07-29 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Getting over the AI Hump",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "From AI Pilots to Business Impact: Closing the AI Usage Gap in 90 Days",
+    "url": "https://www.meetup.com/data-ai-and-app-development-meetup/events/315603342/",
+    "location": "Online",
+    "dates": "Jul 30, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-07-30 12:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Data & AI and App Development Meetup",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Built Different: Auth0 x Stripe Hackathon",
     "url": "https://lu.ma/builtdifferent-auth0-stripe",
@@ -228,6 +248,19 @@
     "themes": [],
     "prize": "",
     "organization": "Auth0 Events - San Francisco",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "IREN AI Social",
+    "url": "https://lu.ma/4yta9i2j",
+    "location": "San Francisco, CA",
+    "dates": "Jul 30, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-07-31 00:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
     "curated": false
   },
   {
@@ -309,6 +342,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
+    "url": "https://www.meetup.com/ac-atl/events/313188287/",
+    "location": "Online",
+    "dates": "Aug 05, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-08-05 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Analytics.Club Atlanta: Data & AI Community, Connect. Grow.",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Bay Area Frontier Research Club #16 | AI x Bio Track Launch (dinner + paper discussion @ Stanford University)",
     "url": "https://lu.ma/9hp5rxy8",
@@ -335,16 +381,16 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Pollack Cinema - AI Film 3 showcase event",
-    "url": "https://www.meetup.com/aicollective/events/315731010/",
-    "location": "Tempe, AZ",
+    "source": "Luma",
+    "title": "Extraordinary Founders Dinner (hosted by Andrew Yeung)",
+    "url": "https://lu.ma/ExtraordinaryFoundersAug6",
+    "location": "San Francisco, CA",
     "dates": "Aug 06, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-06 18:00:32",
+    "sort_date": "2026-08-07 01:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AI Technology, Film, Art, and Music Meetup Group",
+    "organization": "Andrew's Yeung's Tech Events",
     "curated": false
   },
   {
@@ -374,6 +420,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Get Fable 5 Quality From Low-Cost AI Models",
+    "url": "https://www.meetup.com/advanced-ai-concepts-the-triangle/events/315614717/",
+    "location": "Online",
+    "dates": "Aug 07, 2026 \u00b7 8:00 PM",
+    "sort_date": "2026-08-07 20:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Advanced AI Concepts-The Triangle",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "San Francisco Data Engineering Meetup with ClickHouse",
     "url": "https://lu.ma/clickh-z578",
@@ -384,45 +443,6 @@
     "themes": [],
     "prize": "",
     "organization": "ClickHouse Events",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Phoenix Tech Networking Meetup",
-    "url": "https://www.meetup.com/phoenix-tech-group/events/315198352/",
-    "location": "Scottsdale, AZ",
-    "dates": "Aug 13, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-08-13 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Phoenix Tech Group",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Agent Harnesses and Systems Engineering",
-    "url": "https://www.meetup.com/azemergingtech/events/315041311/",
-    "location": "Scottsdale, AZ",
-    "dates": "Aug 13, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-13 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Arizona AI & Emerging Technology",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI in AZ Dinner, Networking, Training - Aug 14",
-    "url": "https://www.meetup.com/ai-arizona/events/315667981/",
-    "location": "Scottsdale, AZ",
-    "dates": "Aug 14, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-08-14 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Arizona",
     "curated": false
   },
   {
