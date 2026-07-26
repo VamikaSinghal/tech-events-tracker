@@ -1,31 +1,5 @@
 [
   {
-    "source": "Meetup",
-    "title": "Will AI take your job? A open place to start, share, and LEARN AI",
-    "url": "https://www.meetup.com/it-pro-ai-hump/events/315544196/",
-    "location": "Online",
-    "dates": "Jul 25, 2026 \u00b7 11:00 AM",
-    "sort_date": "2026-07-25 11:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Getting over the AI Hump",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "the Epistemologies of Slop | Art + Tech Exhibition Closing Reception",
-    "url": "https://lu.ma/epistemologies",
-    "location": "San Francisco, CA",
-    "dates": "Jul 25, 2026 \u00b7 3:00 PM",
-    "sort_date": "2026-07-25 22:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "tiat (the intersection of art & technology)",
-    "curated": false
-  },
-  {
     "source": "Devpost",
     "title": "JacHacks SF",
     "url": "https://jachacks-sf.devpost.com/",
@@ -38,47 +12,8 @@
       "Machine Learning/AI",
       "Open Ended"
     ],
-    "prize": "$8,100",
+    "prize": "$9,000",
     "organization": "Jaseci Labs",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Canadian YC Founders Showcase @ Startup School",
-    "url": "https://lu.ma/8sf0hjs0",
-    "location": "San Francisco, CA",
-    "dates": "Jul 25, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-07-26 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Forward Deployed Canadian",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "YC AI Startup School Afterparty",
-    "url": "https://lu.ma/m4ez9liu",
-    "location": "San Francisco, CA",
-    "dates": "Jul 25, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-07-26 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Moss",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "YC Startup School After Party with Roboflow",
-    "url": "https://lu.ma/bzdn8lr2",
-    "location": "San Francisco, CA",
-    "dates": "Jul 25, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-07-26 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Personal",
     "curated": false
   },
   {
@@ -131,6 +66,19 @@
     "themes": [],
     "prize": "",
     "organization": "Founders on Tap",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "YC STARTUP SCHOOL FINALE AFTER-PARTY - SUMMER SLUSHY SOIREE",
+    "url": "https://lu.ma/538icqa3",
+    "location": "San Francisco, CA",
+    "dates": "Jul 26, 2026 \u00b7 9:30 PM",
+    "sort_date": "2026-07-27 04:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "SF Social Club",
     "curated": false
   },
   {
@@ -213,28 +161,28 @@
   },
   {
     "source": "Meetup",
-    "title": "How to get your Agentic AI on!",
-    "url": "https://www.meetup.com/it-pro-ai-hump/events/315572946/",
+    "title": "Software Book Club : Observability Engineering: Chapter 2",
+    "url": "https://www.meetup.com/maple-code/events/315687441/",
     "location": "Online",
-    "dates": "Jul 29, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-07-29 19:00:00",
+    "dates": "Jul 29, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-07-29 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Getting over the AI Hump",
+    "organization": "Maple Code",
     "curated": false
   },
   {
     "source": "Meetup",
-    "title": "From AI Pilots to Business Impact: Closing the AI Usage Gap in 90 Days",
-    "url": "https://www.meetup.com/data-ai-and-app-development-meetup/events/315603342/",
+    "title": "Beyond Temperature Zero: Building Deterministic AI Applications",
+    "url": "https://www.meetup.com/technology-ai/events/315680180/",
     "location": "Online",
-    "dates": "Jul 30, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-07-30 12:00:00",
+    "dates": "Jul 30, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-07-30 16:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Data & AI and App Development Meetup",
+    "organization": "technology.ai",
     "curated": false
   },
   {
@@ -420,16 +368,16 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Get Fable 5 Quality From Low-Cost AI Models",
-    "url": "https://www.meetup.com/advanced-ai-concepts-the-triangle/events/315614717/",
-    "location": "Online",
-    "dates": "Aug 07, 2026 \u00b7 8:00 PM",
-    "sort_date": "2026-08-07 20:00:00",
+    "source": "Luma",
+    "title": "Snowflake X Beta Fund Agent & Token Economy Hackathon",
+    "url": "https://lu.ma/beta-fdnw",
+    "location": "Menlo Park, CA",
+    "dates": "Aug 07, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-08-07 16:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Advanced AI Concepts-The Triangle",
+    "organization": "Beta University Events",
     "curated": false
   },
   {
@@ -443,6 +391,19 @@
     "themes": [],
     "prize": "",
     "organization": "ClickHouse Events",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Agents are changing the web with Parag Agrawal (founder, Parallel)",
+    "url": "https://lu.ma/sy0mt1m4",
+    "location": "San Francisco, CA",
+    "dates": "Aug 20, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-21 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Baseten Events",
     "curated": false
   },
   {
