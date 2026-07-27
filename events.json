@@ -1,100 +1,5 @@
 [
   {
-    "source": "Devpost",
-    "title": "JacHacks SF",
-    "url": "https://jachacks-sf.devpost.com/",
-    "location": "Founders Inc.",
-    "dates": "Jul 26, 2026",
-    "sort_date": "2026-07-26 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "DevOps",
-      "Machine Learning/AI",
-      "Open Ended"
-    ],
-    "prize": "$9,000",
-    "organization": "Jaseci Labs",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Robotics \u00d7 Physical AI Founder-Investor Summit",
-    "url": "https://lu.ma/u8j9b0a6",
-    "location": "Stanford, CA",
-    "dates": "Jul 26, 2026 \u00b7 1:00 PM",
-    "sort_date": "2026-07-26 20:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Sonia",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "SF AI Code And Coffee Sunday July 26th!",
-    "url": "https://lu.ma/rhbtwo9u",
-    "location": "San Francisco, CA",
-    "dates": "Jul 26, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-07-26 21:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "San Francisco AI Code And Coffee",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Startup School Afterparty | by Vercel, Warp, Reducto, and Browserbase",
-    "url": "https://lu.ma/browse-l2aj",
-    "location": "San Francisco, CA",
-    "dates": "Jul 26, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-07-27 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Browserbase",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "YC Startup School After Party",
-    "url": "https://lu.ma/yp4xhswa",
-    "location": "San Francisco, CA",
-    "dates": "Jul 26, 2026 \u00b7 7:30 PM",
-    "sort_date": "2026-07-27 02:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Founders on Tap",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "YC STARTUP SCHOOL FINALE AFTER-PARTY - SUMMER SLUSHY SOIREE",
-    "url": "https://lu.ma/538icqa3",
-    "location": "San Francisco, CA",
-    "dates": "Jul 26, 2026 \u00b7 9:30 PM",
-    "sort_date": "2026-07-27 04:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "SF Social Club",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Free Cloud Engineering Bootcamp 2026 | AWS, DevOps & Kubernetes",
-    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315585247/",
-    "location": "Online",
-    "dates": "Jul 27, 2026 \u00b7 10:30 AM",
-    "sort_date": "2026-07-27 10:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Coding Macaw FREE Bootcamps",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Corgi Coffee Co-op: DIY Coffee for Founders",
     "url": "https://lu.ma/5w78yjyy",
@@ -108,16 +13,16 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
-    "url": "https://www.meetup.com/codentalk/events/315605922/",
-    "location": "Online",
-    "dates": "Jul 28, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-07-28 18:30:00",
+    "source": "Luma",
+    "title": "Founder Gala | YC Startup School Afterparty",
+    "url": "https://lu.ma/z9teb942",
+    "location": "San Francisco, CA",
+    "dates": "Jul 27, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-07-28 01:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "TalknCode",
+    "organization": "Personal",
     "curated": false
   },
   {
@@ -148,6 +53,19 @@
   },
   {
     "source": "Luma",
+    "title": "AI Nerd Meet Up",
+    "url": "https://lu.ma/kdgxf1fs",
+    "location": "San Francisco, CA",
+    "dates": "Jul 28, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-07-29 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Fireworks",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Physical AI over Coffee - Palo Alto",
     "url": "https://lu.ma/uxf409wl",
     "location": "Stanford, CA",
@@ -161,28 +79,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Software Book Club : Observability Engineering: Chapter 2",
-    "url": "https://www.meetup.com/maple-code/events/315687441/",
-    "location": "Online",
-    "dates": "Jul 29, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-07-29 18:00:00",
+    "title": "Chicago Tech Mixer 2025",
+    "url": "https://www.meetup.com/chicagomixer/events/310833876/",
+    "location": "Chicago, IL",
+    "dates": "Jul 30, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-07-30 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Maple Code",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Beyond Temperature Zero: Building Deterministic AI Applications",
-    "url": "https://www.meetup.com/technology-ai/events/315680180/",
-    "location": "Online",
-    "dates": "Jul 30, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-07-30 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "technology.ai",
+    "organization": "Chicago Startup and Tech Mixer",
     "curated": false
   },
   {
@@ -196,6 +101,19 @@
     "themes": [],
     "prize": "",
     "organization": "Auth0 Events - San Francisco",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Study Group: Evals in AI Systems",
+    "url": "https://www.meetup.com/applied-ai-labs/events/315435192/",
+    "location": "Online",
+    "dates": "Jul 30, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-07-30 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Applied AI Labs",
     "curated": false
   },
   {
@@ -287,19 +205,6 @@
     "themes": [],
     "prize": "",
     "organization": "Baseten Events",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
-    "url": "https://www.meetup.com/ac-atl/events/313188287/",
-    "location": "Online",
-    "dates": "Aug 05, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-08-05 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Analytics.Club Atlanta: Data & AI Community, Connect. Grow.",
     "curated": false
   },
   {
@@ -447,6 +352,23 @@
     ],
     "prize": "$8,000",
     "organization": "Shower Hacks",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "Hyphen-Hacks",
+    "url": "https://hyphen-hacks26.devpost.com/",
+    "location": "Lick-Wilmerding High School",
+    "dates": "Oct 10, 2026",
+    "sort_date": "2026-10-10 00:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Beginner Friendly",
+      "Education",
+      "Open Ended"
+    ],
+    "prize": "$0",
+    "organization": "Lick-Wilmerding High School",
     "curated": false
   }
 ]
