@@ -1,19 +1,6 @@
 [
   {
     "source": "Luma",
-    "title": "AI Builders Basketball Tournament | .local Build Fest Week",
-    "url": "https://lu.ma/7x50iban",
-    "location": "San Francisco, CA",
-    "dates": "Aug 02, 2026 \u00b7 1:00 PM",
-    "sort_date": "2026-08-02 20:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "MongoDB",
-    "curated": false
-  },
-  {
-    "source": "Luma",
     "title": "A Morning Walk: When AI Agents Touch Money",
     "url": "https://lu.ma/beyond-yh96",
     "location": "San Francisco, CA",
@@ -27,15 +14,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Hack for LA Civic Tech Volunteer Intro and ONBOARDING (online)",
-    "url": "https://www.meetup.com/hackforla/events/314755358/",
+    "title": "FREE 2-HOUR WEBMINAR | AI FULL STACK DEVELOPMENT | CODING MACAW",
+    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315865176/",
     "location": "Online",
-    "dates": "Aug 04, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-04 18:00:00",
+    "dates": "Aug 04, 2026 \u00b7 10:30 AM",
+    "sort_date": "2026-08-04 10:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Hack for LA",
+    "organization": "Coding Macaw FREE Bootcamps",
     "curated": false
   },
   {
@@ -66,7 +53,7 @@
   },
   {
     "source": "Luma",
-    "title": "Bay Area Frontier Research Club #16 | AI x Bio Track Launch (dinner + paper discussion @ Stanford University)",
+    "title": "Bay Area Frontier Research Club #16 | AI \u00d7 Bio: Virtual Cells at Stanford",
     "url": "https://lu.ma/9hp5rxy8",
     "location": "Stanford, CA",
     "dates": "Aug 05, 2026 \u00b7 5:30 PM",
@@ -88,6 +75,19 @@
     "themes": [],
     "prize": "",
     "organization": "Pioneer Fund",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "SoMa ProtoLab Launch Party: The Future of Hardware & Global Supply Chain \u2699\ufe0f",
+    "url": "https://lu.ma/c8gcn5kl",
+    "location": "San Francisco, CA",
+    "dates": "Aug 05, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-08-06 01:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
     "curated": false
   },
   {
@@ -169,6 +169,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "FREE 5-DAY AI POWERED FULL STACK DEVELOPMENT COURSE | AUGUST 2026 | CODING MACAW",
+    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315864076/",
+    "location": "Online",
+    "dates": "Aug 10, 2026 \u00b7 10:30 AM",
+    "sort_date": "2026-08-10 10:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Coding Macaw FREE Bootcamps",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "No Data Centers In My Backyard: a midwest field report on the AI buildout",
     "url": "https://lu.ma/00ewrebj",
@@ -179,6 +192,19 @@
     "themes": [],
     "prize": "",
     "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
+    "url": "https://www.meetup.com/codentalk/events/315795668/",
+    "location": "Online",
+    "dates": "Aug 11, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-08-11 18:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "TalknCode",
     "curated": false
   },
   {
@@ -260,32 +286,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "DSM AI Group Monthly Meeting (Speaker TBD)",
-    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/311239023/",
-    "location": "Des Moines, IA",
-    "dates": "Aug 18, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-08-18 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Des Moines Artificial Intelligence Group",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "The Past Didn't Go Anywhere: Fundamentals > AI",
-    "url": "https://www.meetup.com/central-iowa-java-users-group/events/315859295/",
-    "location": "Urbandale, IA",
-    "dates": "Aug 20, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-08-20 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Central Iowa Java Users Group",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Agents are changing the web with Parag Agrawal (founder, Parallel)",
     "url": "https://lu.ma/sy0mt1m4",
@@ -335,19 +335,6 @@
     "themes": [],
     "prize": "",
     "organization": "Mistral AI Events",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "The SaaS Startup Dependency Graph",
-    "url": "https://www.meetup.com/devopsdsm/events/315859296/",
-    "location": "Urbandale, IA",
-    "dates": "Aug 26, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-26 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "DevOpsDSM",
     "curated": false
   },
   {
