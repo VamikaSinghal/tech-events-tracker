@@ -1,28 +1,28 @@
 [
   {
-    "source": "Luma",
-    "title": "A Morning Walk: When AI Agents Touch Money",
-    "url": "https://lu.ma/beyond-yh96",
-    "location": "San Francisco, CA",
-    "dates": "Aug 03, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-08-03 16:00:00",
+    "source": "Meetup",
+    "title": "Coding Club",
+    "url": "https://www.meetup.com/westside-coding-club/events/315702371/",
+    "location": "Online",
+    "dates": "Aug 04, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-04 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Beyond Prompts",
+    "organization": "Westside Coding Club",
     "curated": false
   },
   {
     "source": "Meetup",
-    "title": "FREE 2-HOUR WEBMINAR | AI FULL STACK DEVELOPMENT | CODING MACAW",
-    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315865176/",
+    "title": "Discussion - Topic: Measuring collaboration quality with coding agents",
+    "url": "https://www.meetup.com/lajugstudygroup/events/315081396/",
     "location": "Online",
-    "dates": "Aug 04, 2026 \u00b7 10:30 AM",
-    "sort_date": "2026-08-04 10:30:00",
+    "dates": "Aug 04, 2026 \u00b7 7:30 PM",
+    "sort_date": "2026-08-04 19:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Coding Macaw FREE Bootcamps",
+    "organization": "DevTalk LA",
     "curated": false
   },
   {
@@ -49,6 +49,32 @@
     "themes": [],
     "prize": "",
     "organization": "Software Mansion events",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI Deep Dive with Google (Ep 2)",
+    "url": "https://www.meetup.com/dallas-enterprise-ai/events/315936150/",
+    "location": "Online",
+    "dates": "Aug 05, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-08-05 12:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Dallas Enterprise AI",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
+    "url": "https://www.meetup.com/ac-sea/events/315715513/",
+    "location": "Online",
+    "dates": "Aug 05, 2026 \u00b7 4:02 PM",
+    "sort_date": "2026-08-05 16:02:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Analytics.Club Seattle: Data & AI Community, Connect. Grow.",
     "curated": false
   },
   {
@@ -91,8 +117,21 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Turning AI Pilots into Frontier AI Agents with Microsoft Copilot Studio",
+    "url": "https://www.meetup.com/texas-information-technology-meetup-group/events/315903287/",
+    "location": "Online",
+    "dates": "Aug 06, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-08-06 09:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Texas Information Technology Meetup Group",
+    "curated": false
+  },
+  {
     "source": "Luma",
-    "title": "Reimagining Proteins with AI: Antibodies and Beyond",
+    "title": "Re-imagining Proteins with AI: Antibodies and Beyond",
     "url": "https://lu.ma/2qiy3z11",
     "location": "San Francisco, CA",
     "dates": "Aug 06, 2026 \u00b7 5:30 PM",
@@ -156,32 +195,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Get Fable 5 Quality From Low-Cost AI Models",
-    "url": "https://www.meetup.com/advanced-ai-concepts-the-triangle/events/315614717/",
-    "location": "Online",
-    "dates": "Aug 07, 2026 \u00b7 8:00 PM",
-    "sort_date": "2026-08-07 20:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Advanced AI Concepts-The Triangle",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "FREE 5-DAY AI POWERED FULL STACK DEVELOPMENT COURSE | AUGUST 2026 | CODING MACAW",
-    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315864076/",
-    "location": "Online",
-    "dates": "Aug 10, 2026 \u00b7 10:30 AM",
-    "sort_date": "2026-08-10 10:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Coding Macaw FREE Bootcamps",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "No Data Centers In My Backyard: a midwest field report on the AI buildout",
     "url": "https://lu.ma/00ewrebj",
@@ -192,19 +205,6 @@
     "themes": [],
     "prize": "",
     "organization": "Personal",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
-    "url": "https://www.meetup.com/codentalk/events/315795668/",
-    "location": "Online",
-    "dates": "Aug 11, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-08-11 18:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "TalknCode",
     "curated": false
   },
   {
