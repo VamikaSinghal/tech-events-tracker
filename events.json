@@ -1,80 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "Coding Club",
-    "url": "https://www.meetup.com/westside-coding-club/events/315702371/",
-    "location": "Online",
-    "dates": "Aug 04, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-04 18:00:00",
+    "title": "GTM Engineering",
+    "url": "https://www.meetup.com/shipai/events/315607825/",
+    "location": "Phoenix, AZ",
+    "dates": "Aug 05, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-05 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Westside Coding Club",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Discussion - Topic: Measuring collaboration quality with coding agents",
-    "url": "https://www.meetup.com/lajugstudygroup/events/315081396/",
-    "location": "Online",
-    "dates": "Aug 04, 2026 \u00b7 7:30 PM",
-    "sort_date": "2026-08-04 19:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "DevTalk LA",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Built on Baseten | AI Demo Night",
-    "url": "https://lu.ma/b4y2veki",
-    "location": "San Francisco, CA",
-    "dates": "Aug 04, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-05 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Baseten Events",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "AI & Mobile meet-up by Software Mansion",
-    "url": "https://lu.ma/kgddqkx2",
-    "location": "San Francisco, CA",
-    "dates": "Aug 04, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-08-05 01:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Software Mansion events",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI Deep Dive with Google (Ep 2)",
-    "url": "https://www.meetup.com/dallas-enterprise-ai/events/315936150/",
-    "location": "Online",
-    "dates": "Aug 05, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-08-05 12:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Dallas Enterprise AI",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
-    "url": "https://www.meetup.com/ac-sea/events/315715513/",
-    "location": "Online",
-    "dates": "Aug 05, 2026 \u00b7 4:02 PM",
-    "sort_date": "2026-08-05 16:02:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Analytics.Club Seattle: Data & AI Community, Connect. Grow.",
+    "organization": "Ship AI",
     "curated": false
   },
   {
@@ -117,16 +52,16 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Turning AI Pilots into Frontier AI Agents with Microsoft Copilot Studio",
-    "url": "https://www.meetup.com/texas-information-technology-meetup-group/events/315903287/",
-    "location": "Online",
-    "dates": "Aug 06, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-08-06 09:00:00",
+    "source": "Luma",
+    "title": "Mahjong Party for AI Builders",
+    "url": "https://lu.ma/jp19k28s",
+    "location": "San Francisco, California",
+    "dates": "Aug 06, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-08-07 00:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Texas Information Technology Meetup Group",
+    "organization": "Workato Community",
     "curated": false
   },
   {
@@ -195,6 +130,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Tacos+Tech",
+    "url": "https://www.meetup.com/codephx/events/315617492/",
+    "location": "Tempe, AZ",
+    "dates": "Aug 10, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-10 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "CODEPHX",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "No Data Centers In My Backyard: a midwest field report on the AI buildout",
     "url": "https://lu.ma/00ewrebj",
@@ -205,6 +153,19 @@
     "themes": [],
     "prize": "",
     "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "World Labs x BITKRAFT World Model Builders Meetup @ Founders, Inc.",
+    "url": "https://lu.ma/4hemhurn",
+    "location": "San Francisco, CA",
+    "dates": "Aug 10, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-08-11 00:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "BITKRAFT Events",
     "curated": false
   },
   {
@@ -260,6 +221,32 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Phoenix Tech Networking Meetup",
+    "url": "https://www.meetup.com/phoenix-tech-group/events/315198352/",
+    "location": "Scottsdale, AZ",
+    "dates": "Aug 13, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-08-13 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Phoenix Tech Group",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Agent Harnesses and Systems Engineering",
+    "url": "https://www.meetup.com/azemergingtech/events/315041311/",
+    "location": "Scottsdale, AZ",
+    "dates": "Aug 13, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-13 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Arizona AI & Emerging Technology",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "The Persistent Context Sprint Hackathon | Live at MongoDB .Local Build Fest",
     "url": "https://lu.ma/3ck0cd9g",
@@ -283,6 +270,19 @@
     "themes": [],
     "prize": "",
     "organization": "Berkeley Gateway Accelerator",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "LIVE PANEL + FREE DINNER: AI in AZ Dinner, Networking, Training - Aug 14",
+    "url": "https://www.meetup.com/ai-arizona/events/315667981/",
+    "location": "Scottsdale, AZ",
+    "dates": "Aug 14, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-08-14 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Arizona",
     "curated": false
   },
   {
