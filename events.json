@@ -1,32 +1,6 @@
 [
   {
     "source": "Luma",
-    "title": "No Data Centers In My Backyard: a midwest field report on the AI buildout",
-    "url": "https://lu.ma/00ewrebj",
-    "location": "San Francisco, CA",
-    "dates": "Aug 10, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-08-11 00:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Personal",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "World Labs x BITKRAFT World Model Builders Meetup @ Founders, Inc.",
-    "url": "https://lu.ma/4hemhurn",
-    "location": "San Francisco, CA",
-    "dates": "Aug 10, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-08-11 00:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "BITKRAFT Events",
-    "curated": false
-  },
-  {
-    "source": "Luma",
     "title": "San Francisco Data Engineering Meetup with ClickHouse",
     "url": "https://lu.ma/clickh-z578",
     "location": "San Francisco, CA",
@@ -36,6 +10,19 @@
     "themes": [],
     "prize": "",
     "organization": "ClickHouse Events",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Founders 5k Sunset Run with Lore and LlamaIndex",
+    "url": "https://lu.ma/4iiiprxj",
+    "location": "San Francisco, CA",
+    "dates": "Aug 11, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-12 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Lore Community Events",
     "curated": false
   },
   {
@@ -130,19 +117,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Gen AI and Agentic AI for Business Leaders- A Live Masterclass",
-    "url": "https://www.meetup.com/ai-career-hub/events/315266308/",
-    "location": "Online",
-    "dates": "Aug 14, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-08-14 10:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Career Hub!",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "The Physical AI Sprint Hackathon",
     "url": "https://lu.ma/nkknxvrz",
@@ -179,6 +153,19 @@
     "themes": [],
     "prize": "",
     "organization": "PromptQL Events",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "The Past Didn't Go Anywhere: Fundamentals > AI",
+    "url": "https://www.meetup.com/central-iowa-java-users-group/events/315859295/",
+    "location": "Urbandale, IA",
+    "dates": "Aug 20, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-08-20 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Central Iowa Java Users Group",
     "curated": false
   },
   {
@@ -234,19 +221,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "AI Tips, Value Propositions, Positioning and Strategies",
-    "url": "https://www.meetup.com/techsuccessnetwork/events/315892520/",
-    "location": "Online",
-    "dates": "Aug 25, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-08-25 10:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Tech Success Network",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Physical AI: What's Working (and What Still Breaks)",
     "url": "https://lu.ma/rallysf-yfs4",
@@ -257,6 +231,19 @@
     "themes": [],
     "prize": "",
     "organization": "Rally SF",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "The SaaS Startup Dependency Graph",
+    "url": "https://www.meetup.com/devopsdsm/events/315859296/",
+    "location": "Urbandale, IA",
+    "dates": "Aug 26, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-26 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "DevOpsDSM",
     "curated": false
   },
   {
