@@ -1,58 +1,6 @@
 [
   {
     "source": "Luma",
-    "title": "San Francisco Data Engineering Meetup with ClickHouse",
-    "url": "https://lu.ma/clickh-z578",
-    "location": "San Francisco, CA",
-    "dates": "Aug 11, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-08-12 00:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "ClickHouse Events",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Founders 5k Sunset Run with Lore and LlamaIndex",
-    "url": "https://lu.ma/4iiiprxj",
-    "location": "San Francisco, CA",
-    "dates": "Aug 11, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-12 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Lore Community Events",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "SF Founder Dinner: Summer Edition!",
-    "url": "https://lu.ma/iwkyqv6c",
-    "location": "San Francisco, CA",
-    "dates": "Aug 11, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-12 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Personal",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "SF Hardware & Manufacturing Happy Hour",
-    "url": "https://lu.ma/i6z09k0p",
-    "location": "San Francisco, California",
-    "dates": "Aug 11, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-12 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Hardware FYI",
-    "curated": false
-  },
-  {
-    "source": "Luma",
     "title": "Deep Tech Startups in the Age of AI by Fifty Years",
     "url": "https://lu.ma/omjqw3uk",
     "location": "Berkeley, CA",
@@ -287,7 +235,7 @@
   },
   {
     "source": "Luma",
-    "title": "Demo Night SF: Ship AI Apps with Postman + Supabase + Vercel",
+    "title": "Demo Night SF: Ship AI Apps with Anthropic + Postman + Supabase + Vercel",
     "url": "https://lu.ma/august-SF-supabase-vercel-postman",
     "location": "San Francisco, CA",
     "dates": "Aug 27, 2026 \u00b7 5:30 PM",
@@ -322,6 +270,19 @@
     "themes": [],
     "prize": "",
     "organization": "Circe Calendar",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "137th SF Hardware Meetup @ Mission Robotics | Physical AI Robotics",
+    "url": "https://lu.ma/84lattht",
+    "location": "San Francisco, CA",
+    "dates": "Sep 10, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-09-11 01:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "SF Hardware Meetup",
     "curated": false
   },
   {
