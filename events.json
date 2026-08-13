@@ -1,32 +1,6 @@
 [
   {
     "source": "Luma",
-    "title": "Deep Tech Startups in the Age of AI by Fifty Years",
-    "url": "https://lu.ma/omjqw3uk",
-    "location": "Berkeley, CA",
-    "dates": "Aug 12, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-08-13 00:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Scientist to Founder Series",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "AI Engineers Tech Talk: August",
-    "url": "https://lu.ma/kzwpdbs5",
-    "location": "San Francisco, California",
-    "dates": "Aug 12, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-13 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Engineers - SF",
-    "curated": false
-  },
-  {
-    "source": "Luma",
     "title": "The Persistent Context Sprint Hackathon | Live at MongoDB .Local Build Fest",
     "url": "https://lu.ma/3ck0cd9g",
     "location": "San Francisco, CA",
@@ -78,6 +52,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "AI Meetup (August): Gen AI, LLMs and Agents",
+    "url": "https://www.meetup.com/aittg-chicago/events/315896858/",
+    "location": "Chicago, IL",
+    "dates": "Aug 17, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-08-17 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Chicago AI Developers Group",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "CorpGov Tech Summit SF",
     "url": "https://lu.ma/f2x31sb1",
@@ -105,15 +92,15 @@
   },
   {
     "source": "Meetup",
-    "title": "The Past Didn't Go Anywhere: Fundamentals > AI",
-    "url": "https://www.meetup.com/central-iowa-java-users-group/events/315859295/",
-    "location": "Urbandale, IA",
+    "title": "The New Feelings of the AI Era",
+    "url": "https://www.meetup.com/uxsynergies/events/315890006/",
+    "location": "Chicago, IL",
     "dates": "Aug 20, 2026 \u00b7 5:30 PM",
     "sort_date": "2026-08-20 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Central Iowa Java Users Group",
+    "organization": "UX Synergies",
     "curated": false
   },
   {
@@ -127,6 +114,19 @@
     "themes": [],
     "prize": "",
     "organization": "Baseten Events",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Hardware Pitch Night",
+    "url": "https://lu.ma/s1szlu9h",
+    "location": "San Francisco, CA",
+    "dates": "Aug 20, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-21 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Studio 45 - informal spaces SF",
     "curated": false
   },
   {
@@ -182,19 +182,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "The SaaS Startup Dependency Graph",
-    "url": "https://www.meetup.com/devopsdsm/events/315859296/",
-    "location": "Urbandale, IA",
-    "dates": "Aug 26, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-26 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "DevOpsDSM",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "AI Infra Kebab",
     "url": "https://lu.ma/kebab",
@@ -234,6 +221,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Chicago Tech Mixer 2026",
+    "url": "https://www.meetup.com/chicagomixer/events/310833876/",
+    "location": "Chicago, IL",
+    "dates": "Aug 27, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-27 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Chicago Startup and Tech Mixer",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Demo Night SF: Ship AI Apps with Anthropic + Postman + Supabase + Vercel",
     "url": "https://lu.ma/august-SF-supabase-vercel-postman",
@@ -244,6 +244,19 @@
     "themes": [],
     "prize": "",
     "organization": "Postman Developer Events",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Tech Pulse 2030 Chicago",
+    "url": "https://www.meetup.com/ai-2030-responsible-artificial-intelligence/events/313503640/",
+    "location": "Chicago, IL",
+    "dates": "Sep 01, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-09-01 17:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI 2030: Responsible Artificial Intelligence for All",
     "curated": false
   },
   {
