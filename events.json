@@ -1,41 +1,54 @@
 [
   {
-    "source": "Luma",
-    "title": "The Persistent Context Sprint Hackathon | Live at MongoDB .Local Build Fest",
-    "url": "https://lu.ma/3ck0cd9g",
+    "source": "Meetup",
+    "title": "Founders Running Club :: Easy 5-10km Run + Talks",
+    "url": "https://www.meetup.com/founders-running-club/events/315363402/",
     "location": "San Francisco, CA",
-    "dates": "Aug 13, 2026 \u00b7 12:30 PM",
-    "sort_date": "2026-08-13 19:30:00",
+    "dates": "Aug 15, 2026 \u00b7 9:30 AM",
+    "sort_date": "2026-08-15 09:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "MongoDB",
+    "organization": "Founders Running Club :: San Francisco",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Bay Area AI War Room - SF Edition - Saturday, 10:00 AM",
+    "url": "https://www.meetup.com/bay-area-artificial-war-room/events/313150512/",
+    "location": "San Francisco, CA",
+    "dates": "Aug 15, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-08-15 10:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Bay Area AI War Room",
     "curated": false
   },
   {
     "source": "Luma",
-    "title": "Beyond Discovery: Closed-Loop Systems & Defensible AI-Bio",
-    "url": "https://lu.ma/berkeley-ifel",
-    "location": "Berkeley, CA",
-    "dates": "Aug 13, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-08-14 00:30:00",
+    "title": "YC Startup Internship Expo",
+    "url": "https://lu.ma/yc-meetup-1244",
+    "location": "",
+    "dates": "Aug 15, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-08-15 16:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Berkeley Gateway Accelerator",
+    "organization": "Y Combinator",
     "curated": false
   },
   {
     "source": "Luma",
-    "title": "AI for Science Demo Night @ Edison Scientific",
-    "url": "https://lu.ma/worldwide-1i1a",
+    "title": "Founder BBQ Bash",
+    "url": "https://lu.ma/founderbbqbash",
     "location": "San Francisco, CA",
-    "dates": "Aug 13, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-08-14 01:30:00",
+    "dates": "Aug 16, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-08-16 19:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Worldwide Studios",
+    "organization": "Boardy",
     "curated": false
   },
   {
@@ -49,19 +62,6 @@
     "themes": [],
     "prize": "",
     "organization": "Nebius Community",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI Meetup (August): Gen AI, LLMs and Agents",
-    "url": "https://www.meetup.com/aittg-chicago/events/315896858/",
-    "location": "Chicago, IL",
-    "dates": "Aug 17, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-08-17 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Chicago AI Developers Group",
     "curated": false
   },
   {
@@ -91,16 +91,42 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "The New Feelings of the AI Era",
-    "url": "https://www.meetup.com/uxsynergies/events/315890006/",
-    "location": "Chicago, IL",
-    "dates": "Aug 20, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-08-20 17:30:00",
+    "source": "Luma",
+    "title": "AI & The Wet Lab",
+    "url": "https://lu.ma/aiandthewetlab_spc",
+    "location": "San Francisco, California",
+    "dates": "Aug 19, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-08-20 00:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "UX Synergies",
+    "organization": "South Park Commons",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AWS Agentic AI Summit - Grafana, CrowdStrike, Fireworks, LaunchPad, TiDB",
+    "url": "https://www.meetup.com/sfbay-ai/events/316024699/",
+    "location": "San Francisco, CA",
+    "dates": "Aug 20, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-08-20 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "SF AI",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Grok Bot Founder Build Night feat. Harper (YC W25)",
+    "url": "https://lu.ma/cursor-tx4t",
+    "location": "San Francisco, CA",
+    "dates": "Aug 20, 2026 \u00b7 4:30 PM",
+    "sort_date": "2026-08-20 23:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Cursor",
     "curated": false
   },
   {
@@ -127,6 +153,32 @@
     "themes": [],
     "prize": "",
     "organization": "Studio 45 - informal spaces SF",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Open Models, Production Agents: The New Economics of AI-Native Engineering",
+    "url": "https://lu.ma/o9tv62y5",
+    "location": "San Francisco, CA",
+    "dates": "Aug 20, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-21 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "FriendliAI",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "AI Founders + Engineers Billliards Night",
+    "url": "https://lu.ma/bj9o4jzd",
+    "location": "San Francisco, CA",
+    "dates": "Aug 20, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-08-21 02:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "LlamaIndex Community",
     "curated": false
   },
   {
@@ -182,6 +234,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Go Meetup in San Francisco | Hosted by C1.ai",
+    "url": "https://www.meetup.com/golangsf/events/315798556/",
+    "location": "San Francisco, CA",
+    "dates": "Aug 26, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-08-26 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "GoSF",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "AI Infra Kebab",
     "url": "https://lu.ma/kebab",
@@ -222,15 +287,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Chicago Tech Mixer 2026",
-    "url": "https://www.meetup.com/chicagomixer/events/310833876/",
-    "location": "Chicago, IL",
+    "title": "Global AI Makers: In-Person Mixer",
+    "url": "https://www.meetup.com/global-ai-makers-san-francisco/events/314812964/",
+    "location": "",
     "dates": "Aug 27, 2026 \u00b7 6:00 PM",
     "sort_date": "2026-08-27 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Chicago Startup and Tech Mixer",
+    "organization": "Global AI Makers \u2022\u00a0West Coast \u2022\u00a0AI CEOs, Founders, Makers",
     "curated": false
   },
   {
@@ -244,19 +309,6 @@
     "themes": [],
     "prize": "",
     "organization": "Postman Developer Events",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Tech Pulse 2030 Chicago",
-    "url": "https://www.meetup.com/ai-2030-responsible-artificial-intelligence/events/313503640/",
-    "location": "Chicago, IL",
-    "dates": "Sep 01, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-09-01 17:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI 2030: Responsible Artificial Intelligence for All",
     "curated": false
   },
   {
@@ -283,6 +335,19 @@
     "themes": [],
     "prize": "",
     "organization": "Circe Calendar",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Llama Lounge 26: The AI Startup Event Series @ Microsoft",
+    "url": "https://lu.ma/llamalounge26",
+    "location": "Mountain View, CA",
+    "dates": "Sep 10, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-09-11 00:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Llama Lounge: The AI Startup Series",
     "curated": false
   },
   {
