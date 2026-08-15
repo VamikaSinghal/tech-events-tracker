@@ -1,31 +1,5 @@
 [
   {
-    "source": "Meetup",
-    "title": "Founders Running Club :: Easy 5-10km Run + Talks",
-    "url": "https://www.meetup.com/founders-running-club/events/315363402/",
-    "location": "San Francisco, CA",
-    "dates": "Aug 15, 2026 \u00b7 9:30 AM",
-    "sort_date": "2026-08-15 09:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Founders Running Club :: San Francisco",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Bay Area AI War Room - SF Edition - Saturday, 10:00 AM",
-    "url": "https://www.meetup.com/bay-area-artificial-war-room/events/313150512/",
-    "location": "San Francisco, CA",
-    "dates": "Aug 15, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-08-15 10:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Bay Area AI War Room",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "YC Startup Internship Expo",
     "url": "https://lu.ma/yc-meetup-1244",
@@ -36,6 +10,19 @@
     "themes": [],
     "prize": "",
     "organization": "Y Combinator",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "How to Birth Your AI Agent | Agent Workshop",
+    "url": "https://lu.ma/agentbirth",
+    "location": "San Francisco, CA",
+    "dates": "Aug 15, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-08-15 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "tiat (the intersection of art & technology)",
     "curated": false
   },
   {
@@ -92,6 +79,32 @@
   },
   {
     "source": "Luma",
+    "title": "Humanoids Beyond the Demo: A Conversation with Nic Radford, Founder & CEO of Persona AI",
+    "url": "https://lu.ma/tu1kbg8n",
+    "location": "San Francisco, CA",
+    "dates": "Aug 18, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-08-19 00:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Savant VC",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "The AI Dev Stack: Beyond Code w/ Antimetal, Fireworks, Braintrust & Browserbase",
+    "url": "https://lu.ma/ai-dev-stack",
+    "location": "San Francisco, CA",
+    "dates": "Aug 18, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-19 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Antimetal",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "AI & The Wet Lab",
     "url": "https://lu.ma/aiandthewetlab_spc",
     "location": "San Francisco, California",
@@ -104,16 +117,29 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "AWS Agentic AI Summit - Grafana, CrowdStrike, Fireworks, LaunchPad, TiDB",
-    "url": "https://www.meetup.com/sfbay-ai/events/316024699/",
+    "source": "Luma",
+    "title": "A Poem is a Machine Made Out of Words: Writing and AI",
+    "url": "https://lu.ma/wordmachine",
     "location": "San Francisco, CA",
-    "dates": "Aug 20, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-08-20 16:00:00",
+    "dates": "Aug 19, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-08-20 02:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "SF AI",
+    "organization": "tiat (the intersection of art & technology)",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI Ask Us Anything",
+    "url": "https://www.meetup.com/ai-for-entrepreneurs-and-business-leaders/events/315433987/",
+    "location": "Phoenix, AZ",
+    "dates": "Aug 20, 2026 \u00b7 3:00 PM",
+    "sort_date": "2026-08-20 15:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI for Entrepreneurs and Business Leaders",
     "curated": false
   },
   {
@@ -183,19 +209,6 @@
   },
   {
     "source": "Luma",
-    "title": "The New Builders: Megaprojects, Startups, and the World We\u2019re Building",
-    "url": "https://lu.ma/i97piz7y",
-    "location": "San Francisco, CA",
-    "dates": "Aug 20, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-08-21 02:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Turner Construction Company",
-    "curated": false
-  },
-  {
-    "source": "Luma",
     "title": "Mistral Vibe Hackathon",
     "url": "https://lu.ma/mistral-summer-vibe-hackathon-sf",
     "location": "San Francisco, CA",
@@ -234,19 +247,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Go Meetup in San Francisco | Hosted by C1.ai",
-    "url": "https://www.meetup.com/golangsf/events/315798556/",
-    "location": "San Francisco, CA",
-    "dates": "Aug 26, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-08-26 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "GoSF",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "AI Infra Kebab",
     "url": "https://lu.ma/kebab",
@@ -274,6 +274,19 @@
   },
   {
     "source": "Luma",
+    "title": "Durable AI: Agent Context is Everything",
+    "url": "https://lu.ma/durable-ai-august",
+    "location": "San Francisco, CA",
+    "dates": "Aug 26, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-08-27 00:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Temporal Community",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Step SF 2026: The AI & Tech Startup Festival",
     "url": "https://lu.ma/StepSF26",
     "location": "San Francisco, CA",
@@ -283,19 +296,6 @@
     "themes": [],
     "prize": "",
     "organization": "Step",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Global AI Makers: In-Person Mixer",
-    "url": "https://www.meetup.com/global-ai-makers-san-francisco/events/314812964/",
-    "location": "",
-    "dates": "Aug 27, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-27 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Global AI Makers \u2022\u00a0West Coast \u2022\u00a0AI CEOs, Founders, Makers",
     "curated": false
   },
   {
@@ -364,6 +364,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "AI in AZ Dinner, Networking, Training - Sep 11",
+    "url": "https://www.meetup.com/ai-arizona/events/315667990/",
+    "location": "Scottsdale, AZ",
+    "dates": "Sep 11, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-09-11 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Arizona",
+    "curated": false
+  },
+  {
     "source": "Devpost",
     "title": "Shower Hacks",
     "url": "https://showerhacks.devpost.com/",
@@ -395,6 +408,23 @@
     ],
     "prize": "$0",
     "organization": "Lick-Wilmerding High School",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "Open Swarm x Sirius x Entrepreneurs First (win $1000)",
+    "url": "https://os-x-sirius-x-ef-win-1000.devpost.com/",
+    "location": "Entrepreneurs First (501 Folsom)",
+    "dates": "Aug 15, 2026",
+    "sort_date": "2026-08-15 00:00:00",
+    "state": "open",
+    "themes": [
+      "DevOps",
+      "Machine Learning/AI",
+      "Open Ended"
+    ],
+    "prize": "$1,000",
+    "organization": "Entrepreneurs First",
     "curated": false
   }
 ]
