@@ -1,32 +1,6 @@
 [
   {
     "source": "Luma",
-    "title": "YC Startup Internship Expo",
-    "url": "https://lu.ma/yc-meetup-1244",
-    "location": "",
-    "dates": "Aug 15, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-08-15 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Y Combinator",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "How to Birth Your AI Agent | Agent Workshop",
-    "url": "https://lu.ma/agentbirth",
-    "location": "San Francisco, CA",
-    "dates": "Aug 15, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-08-15 19:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "tiat (the intersection of art & technology)",
-    "curated": false
-  },
-  {
-    "source": "Luma",
     "title": "Founder BBQ Bash",
     "url": "https://lu.ma/founderbbqbash",
     "location": "San Francisco, CA",
@@ -49,6 +23,45 @@
     "themes": [],
     "prize": "",
     "organization": "Nebius Community",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Tech Tuesday \u2013 Happy Hour #12",
+    "url": "https://www.meetup.com/aztechtuesday/events/316101917/",
+    "location": "Phoenix, AZ",
+    "dates": "Aug 18, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-08-18 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AZ Tech Tuesday",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI in 2026: Up-skilling, Certifications, and Resumes that Stand Out",
+    "url": "https://www.meetup.com/humansoulai/events/315561910/",
+    "location": "Online",
+    "dates": "Aug 18, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-08-18 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "HumanSoulAI",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Blueprint II Preview: Physical AI @ Founders Inc.",
+    "url": "https://lu.ma/blueprint-preview",
+    "location": "San Francisco, CA",
+    "dates": "Aug 18, 2026 \u00b7 1:00 PM",
+    "sort_date": "2026-08-18 20:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Founders, Inc. Events",
     "curated": false
   },
   {
@@ -118,6 +131,19 @@
   },
   {
     "source": "Luma",
+    "title": "From Operator to Creator: Getting brand deals on the side of a full-time tech job",
+    "url": "https://lu.ma/2ifeajzz",
+    "location": "San Francisco, CA",
+    "dates": "Aug 19, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-20 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Granola",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "A Poem is a Machine Made Out of Words: Writing and AI",
     "url": "https://lu.ma/wordmachine",
     "location": "San Francisco, CA",
@@ -140,6 +166,19 @@
     "themes": [],
     "prize": "",
     "organization": "AI for Entrepreneurs and Business Leaders",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Pollack Cinema - AI Film 3 showcase event",
+    "url": "https://www.meetup.com/aicollective/events/315928849/",
+    "location": "Tempe, AZ",
+    "dates": "Aug 20, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-20 18:00:32",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Technology, Film, Art, and Music Meetup Group",
     "curated": false
   },
   {
@@ -209,6 +248,19 @@
   },
   {
     "source": "Luma",
+    "title": "Frontier Table SF: AI Founder Dinner",
+    "url": "https://lu.ma/frontierTableSF",
+    "location": "San Francisco, CA",
+    "dates": "Aug 21, 2026 \u00b7 7:30 PM",
+    "sort_date": "2026-08-22 02:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Obvious Community Events",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Mistral Vibe Hackathon",
     "url": "https://lu.ma/mistral-summer-vibe-hackathon-sf",
     "location": "San Francisco, CA",
@@ -244,6 +296,19 @@
     "themes": [],
     "prize": "",
     "organization": "Rally SF",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Embodied AI Night: Founders, Builders, and Researchers",
+    "url": "https://lu.ma/7tvf89y2",
+    "location": "San Francisco, CA",
+    "dates": "Aug 25, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-26 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Afore Events",
     "curated": false
   },
   {
@@ -312,6 +377,32 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Gen AI and Agentic AI for Business Leaders- A Live Masterclass",
+    "url": "https://www.meetup.com/ai-career-hub/events/315266308/",
+    "location": "Online",
+    "dates": "Aug 28, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-08-28 10:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Career Hub!",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Open Source AI Summit SF",
+    "url": "https://lu.ma/buildp-c5h9",
+    "location": "San Francisco, CA",
+    "dates": "Aug 28, 2026 \u00b7 3:00 PM",
+    "sort_date": "2026-08-28 22:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "BuildPlanet",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Agentic + AI Night: Multi-Agent Governance and Security",
     "url": "https://lu.ma/agenticaiobsnightsf-9-1",
@@ -364,19 +455,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "AI in AZ Dinner, Networking, Training - Sep 11",
-    "url": "https://www.meetup.com/ai-arizona/events/315667990/",
-    "location": "Scottsdale, AZ",
-    "dates": "Sep 11, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-09-11 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Arizona",
-    "curated": false
-  },
-  {
     "source": "Devpost",
     "title": "Shower Hacks",
     "url": "https://showerhacks.devpost.com/",
@@ -408,23 +486,6 @@
     ],
     "prize": "$0",
     "organization": "Lick-Wilmerding High School",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "Open Swarm x Sirius x Entrepreneurs First (win $1000)",
-    "url": "https://os-x-sirius-x-ef-win-1000.devpost.com/",
-    "location": "Entrepreneurs First (501 Folsom)",
-    "dates": "Aug 15, 2026",
-    "sort_date": "2026-08-15 00:00:00",
-    "state": "open",
-    "themes": [
-      "DevOps",
-      "Machine Learning/AI",
-      "Open Ended"
-    ],
-    "prize": "$1,000",
-    "organization": "Entrepreneurs First",
     "curated": false
   }
 ]
