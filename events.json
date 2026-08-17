@@ -1,19 +1,6 @@
 [
   {
     "source": "Luma",
-    "title": "Founder BBQ Bash",
-    "url": "https://lu.ma/founderbbqbash",
-    "location": "San Francisco, CA",
-    "dates": "Aug 16, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-08-16 19:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Boardy",
-    "curated": false
-  },
-  {
-    "source": "Luma",
     "title": "The Physical AI Sprint Hackathon",
     "url": "https://lu.ma/nkknxvrz",
     "location": "San Francisco, CA",
@@ -27,15 +14,28 @@
   },
   {
     "source": "Meetup",
-    "title": "Tech Tuesday \u2013 Happy Hour #12",
-    "url": "https://www.meetup.com/aztechtuesday/events/316101917/",
-    "location": "Phoenix, AZ",
-    "dates": "Aug 18, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-08-18 17:30:00",
+    "title": "AI Meetup (August): Gen AI, LLMs and Agents",
+    "url": "https://www.meetup.com/aittg-chicago/events/315896858/",
+    "location": "Chicago, IL",
+    "dates": "Aug 17, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-08-17 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AZ Tech Tuesday",
+    "organization": "Chicago AI Developers Group",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "\ud83d\ude80 Sesi\u00f3n 4 \u2014 Aplicaciones de Foundation Models: Dise\u00f1o y Prompt Engineering",
+    "url": "https://www.meetup.com/aws-tech-girls/events/316067139/",
+    "location": "Online",
+    "dates": "Aug 18, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-18 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AWS Tech Girls",
     "curated": false
   },
   {
@@ -118,6 +118,19 @@
   },
   {
     "source": "Luma",
+    "title": "Founders Grand Prix - Presented by BDev Ventures and Insperity",
+    "url": "https://lu.ma/6x6qay10",
+    "location": "Santa Clara, CA",
+    "dates": "Aug 19, 2026 \u00b7 3:30 PM",
+    "sort_date": "2026-08-19 22:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "AI & The Wet Lab",
     "url": "https://lu.ma/aiandthewetlab_spc",
     "location": "San Francisco, California",
@@ -157,28 +170,15 @@
   },
   {
     "source": "Meetup",
-    "title": "AI Ask Us Anything",
-    "url": "https://www.meetup.com/ai-for-entrepreneurs-and-business-leaders/events/315433987/",
-    "location": "Phoenix, AZ",
-    "dates": "Aug 20, 2026 \u00b7 3:00 PM",
-    "sort_date": "2026-08-20 15:00:00",
+    "title": "The New Feelings of the AI Era",
+    "url": "https://www.meetup.com/uxsynergies/events/315890006/",
+    "location": "Chicago, IL",
+    "dates": "Aug 20, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-08-20 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AI for Entrepreneurs and Business Leaders",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Pollack Cinema - AI Film 3 showcase event",
-    "url": "https://www.meetup.com/aicollective/events/315928849/",
-    "location": "Tempe, AZ",
-    "dates": "Aug 20, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-20 18:00:32",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Technology, Film, Art, and Music Meetup Group",
+    "organization": "UX Synergies",
     "curated": false
   },
   {
@@ -244,6 +244,32 @@
     "themes": [],
     "prize": "",
     "organization": "LlamaIndex Community",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "ai open mic | comedy night",
+    "url": "https://lu.ma/aicomedynight",
+    "location": "San Francisco, CA",
+    "dates": "Aug 20, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-08-21 02:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "tiat (the intersection of art & technology)",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Inception Studio Builds: Startup Showcase",
+    "url": "https://lu.ma/05xw5ali",
+    "location": "San Francisco, CA",
+    "dates": "Aug 21, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-08-22 00:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Inception Studio Events",
     "curated": false
   },
   {
@@ -364,6 +390,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Chicago Tech Mixer 2026",
+    "url": "https://www.meetup.com/chicagomixer/events/310833876/",
+    "location": "Chicago, IL",
+    "dates": "Aug 27, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-27 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Chicago Startup and Tech Mixer",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Demo Night SF: Ship AI Apps with Anthropic + Postman + Supabase + Vercel",
     "url": "https://lu.ma/august-SF-supabase-vercel-postman",
@@ -400,6 +439,19 @@
     "themes": [],
     "prize": "",
     "organization": "BuildPlanet",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Tech Pulse 2030 Chicago",
+    "url": "https://www.meetup.com/ai-2030-responsible-artificial-intelligence/events/313503640/",
+    "location": "Chicago, IL",
+    "dates": "Sep 01, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-09-01 17:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI 2030: Responsible Artificial Intelligence for All",
     "curated": false
   },
   {
