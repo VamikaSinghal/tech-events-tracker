@@ -1,54 +1,28 @@
 [
   {
-    "source": "Luma",
-    "title": "The Physical AI Sprint Hackathon",
-    "url": "https://lu.ma/nkknxvrz",
-    "location": "San Francisco, CA",
-    "dates": "Aug 17, 2026 \u00b7 8:00 AM",
-    "sort_date": "2026-08-17 15:00:00",
+    "source": "Meetup",
+    "title": "FREE 2 HOUR WEBMINAR | AI POWERED DATA ENGINEERING | CODING MACAW",
+    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315873992/",
+    "location": "Online",
+    "dates": "Aug 18, 2026 \u00b7 10:30 AM",
+    "sort_date": "2026-08-18 10:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Nebius Community",
+    "organization": "Coding Macaw FREE Bootcamps",
     "curated": false
   },
   {
     "source": "Meetup",
-    "title": "AI Meetup (August): Gen AI, LLMs and Agents",
-    "url": "https://www.meetup.com/aittg-chicago/events/315896858/",
-    "location": "Chicago, IL",
-    "dates": "Aug 17, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-08-17 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Chicago AI Developers Group",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "\ud83d\ude80 Sesi\u00f3n 4 \u2014 Aplicaciones de Foundation Models: Dise\u00f1o y Prompt Engineering",
-    "url": "https://www.meetup.com/aws-tech-girls/events/316067139/",
+    "title": "Software Book Club : Observability Engineering: Chapter 3",
+    "url": "https://www.meetup.com/maple-code/events/316057938/",
     "location": "Online",
     "dates": "Aug 18, 2026 \u00b7 6:00 PM",
     "sort_date": "2026-08-18 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AWS Tech Girls",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI in 2026: Up-skilling, Certifications, and Resumes that Stand Out",
-    "url": "https://www.meetup.com/humansoulai/events/315561910/",
-    "location": "Online",
-    "dates": "Aug 18, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-08-18 19:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "HumanSoulAI",
+    "organization": "Maple Code",
     "curated": false
   },
   {
@@ -157,6 +131,19 @@
   },
   {
     "source": "Luma",
+    "title": "The Reserve by Founder Social Club with HydraDB",
+    "url": "https://lu.ma/95jql7sy",
+    "location": "San Francisco, CA",
+    "dates": "Aug 19, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-20 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Founder Social Club",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "A Poem is a Machine Made Out of Words: Writing and AI",
     "url": "https://lu.ma/wordmachine",
     "location": "San Francisco, CA",
@@ -169,21 +156,8 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "The New Feelings of the AI Era",
-    "url": "https://www.meetup.com/uxsynergies/events/315890006/",
-    "location": "Chicago, IL",
-    "dates": "Aug 20, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-08-20 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "UX Synergies",
-    "curated": false
-  },
-  {
     "source": "Luma",
-    "title": "Grok Bot Founder Build Night feat. Harper (YC W25)",
+    "title": "Grok Bot Founder Build Night feat. Harper (YC W25) & professional headshot activation",
     "url": "https://lu.ma/cursor-tx4t",
     "location": "San Francisco, CA",
     "dates": "Aug 20, 2026 \u00b7 4:30 PM",
@@ -312,6 +286,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "FREE 5 - DAY AI POWERED DATA ENGINEERING BOOTCAMP | AUGUST 2026 | CODING MACAW",
+    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315864146/",
+    "location": "Online",
+    "dates": "Aug 25, 2026 \u00b7 10:30 AM",
+    "sort_date": "2026-08-25 10:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Coding Macaw FREE Bootcamps",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Physical AI: What's Working (and What Still Breaks)",
     "url": "https://lu.ma/rallysf-yfs4",
@@ -335,6 +322,19 @@
     "themes": [],
     "prize": "",
     "organization": "Afore Events",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "FREE 5 - DAY LIVE ML OPS BOOTCAMP | CODING MACAW",
+    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315864035/",
+    "location": "Online",
+    "dates": "Aug 26, 2026 \u00b7 10:30 AM",
+    "sort_date": "2026-08-26 10:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Coding Macaw FREE Bootcamps",
     "curated": false
   },
   {
@@ -390,19 +390,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Chicago Tech Mixer 2026",
-    "url": "https://www.meetup.com/chicagomixer/events/310833876/",
-    "location": "Chicago, IL",
-    "dates": "Aug 27, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-27 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Chicago Startup and Tech Mixer",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Demo Night SF: Ship AI Apps with Anthropic + Postman + Supabase + Vercel",
     "url": "https://lu.ma/august-SF-supabase-vercel-postman",
@@ -416,16 +403,16 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Gen AI and Agentic AI for Business Leaders- A Live Masterclass",
-    "url": "https://www.meetup.com/ai-career-hub/events/315266308/",
-    "location": "Online",
-    "dates": "Aug 28, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-08-28 10:00:00",
+    "source": "Luma",
+    "title": "Founder Comedy Night",
+    "url": "https://lu.ma/rfhhj6vv",
+    "location": "San Francisco, CA",
+    "dates": "Aug 27, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-08-28 02:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AI Career Hub!",
+    "organization": "Cura (previously Covent)",
     "curated": false
   },
   {
@@ -439,19 +426,6 @@
     "themes": [],
     "prize": "",
     "organization": "BuildPlanet",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Tech Pulse 2030 Chicago",
-    "url": "https://www.meetup.com/ai-2030-responsible-artificial-intelligence/events/313503640/",
-    "location": "Chicago, IL",
-    "dates": "Sep 01, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-09-01 17:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI 2030: Responsible Artificial Intelligence for All",
     "curated": false
   },
   {
@@ -504,6 +478,19 @@
     "themes": [],
     "prize": "",
     "organization": "SF Hardware Meetup",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "NoVA Hackers September Meeting",
+    "url": "https://www.meetup.com/nova-hackers/events/315675353/",
+    "location": "Reston, VA",
+    "dates": "Sep 14, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-09-14 18:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "NoVA Hackers",
     "curated": false
   },
   {
