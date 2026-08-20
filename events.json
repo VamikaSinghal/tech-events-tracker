@@ -1,67 +1,41 @@
 [
   {
-    "source": "Luma",
-    "title": "Founders Grand Prix - Presented by BDev Ventures and Insperity",
-    "url": "https://lu.ma/6x6qay10",
-    "location": "Santa Clara, CA",
-    "dates": "Aug 19, 2026 \u00b7 3:30 PM",
-    "sort_date": "2026-08-19 22:30:00",
+    "source": "Meetup",
+    "title": "[IN-PERSON] AI: Ask Us Anything Event",
+    "url": "https://www.meetup.com/ai-for-entrepreneurs-and-business-leaders/events/316176057/",
+    "location": "Phoenix, AZ",
+    "dates": "Aug 20, 2026 \u00b7 3:00 PM",
+    "sort_date": "2026-08-20 15:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Personal",
+    "organization": "AI for Entrepreneurs and Business Leaders",
     "curated": false
   },
   {
-    "source": "Luma",
-    "title": "AI & The Wet Lab",
-    "url": "https://lu.ma/aiandthewetlab_spc",
-    "location": "San Francisco, California",
-    "dates": "Aug 19, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-08-20 00:30:00",
+    "source": "Meetup",
+    "title": "AI Ask Us Anything",
+    "url": "https://www.meetup.com/ai-for-entrepreneurs-and-business-leaders/events/315433987/",
+    "location": "Phoenix, AZ",
+    "dates": "Aug 20, 2026 \u00b7 3:00 PM",
+    "sort_date": "2026-08-20 15:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "South Park Commons",
+    "organization": "AI for Entrepreneurs and Business Leaders",
     "curated": false
   },
   {
-    "source": "Luma",
-    "title": "From Operator to Creator: Getting brand deals on the side of a full-time tech job",
-    "url": "https://lu.ma/2ifeajzz",
-    "location": "San Francisco, CA",
-    "dates": "Aug 19, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-20 01:00:00",
+    "source": "Meetup",
+    "title": "Pollack Cinema - AI Film 3 showcase event",
+    "url": "https://www.meetup.com/aicollective/events/315928849/",
+    "location": "Tempe, AZ",
+    "dates": "Aug 20, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-20 18:00:32",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Granola",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "The Reserve by Founder Social Club with HydraDB (Series A and later stage AI)",
-    "url": "https://lu.ma/95jql7sy",
-    "location": "San Francisco, CA",
-    "dates": "Aug 19, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-20 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Founder Social Club",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "A Poem is a Machine Made Out of Words: Writing and AI",
-    "url": "https://lu.ma/wordmachine",
-    "location": "San Francisco, CA",
-    "dates": "Aug 19, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-08-20 02:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "tiat (the intersection of art & technology)",
+    "organization": "AI Technology, Film, Art, and Music Meetup Group",
     "curated": false
   },
   {
@@ -169,6 +143,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Early Riser COFFEE+TECH",
+    "url": "https://www.meetup.com/dataphx/events/316112555/",
+    "location": "Scottsdale, AZ",
+    "dates": "Aug 22, 2026 \u00b7 7:00 AM",
+    "sort_date": "2026-08-22 07:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "DATAPHX",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Mistral Vibe Hackathon",
     "url": "https://lu.ma/mistral-summer-vibe-hackathon-sf",
@@ -183,7 +170,7 @@
   },
   {
     "source": "Luma",
-    "title": "AI Valley x Pet Zen Dog-a-thon",
+    "title": "AI Valley x Pet Zen Dog-a-thon: Arcade.dev & Emergent",
     "url": "https://lu.ma/rklrsomo",
     "location": "San Francisco, CA",
     "dates": "Aug 22, 2026 \u00b7 9:00 AM",
@@ -192,32 +179,6 @@
     "themes": [],
     "prize": "",
     "organization": "AI Valley",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "FREE 5 - DAY CLOUD ENGINEERING BOOTCAMP | AUGUST 2026 | CODING MACAW",
-    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315863177/",
-    "location": "Online",
-    "dates": "Aug 24, 2026 \u00b7 10:30 AM",
-    "sort_date": "2026-08-24 10:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Coding Macaw FREE Bootcamps",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "FREE 5 - DAY AI POWERED DATA ENGINEERING BOOTCAMP | AUGUST 2026 | CODING MACAW",
-    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315864146/",
-    "location": "Online",
-    "dates": "Aug 25, 2026 \u00b7 10:30 AM",
-    "sort_date": "2026-08-25 10:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Coding Macaw FREE Bootcamps",
     "curated": false
   },
   {
@@ -248,15 +209,15 @@
   },
   {
     "source": "Meetup",
-    "title": "FREE 5 - DAY LIVE ML OPS BOOTCAMP | CODING MACAW",
-    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/315864035/",
+    "title": "AI & Machine Learning Essentials with Google Cloud",
+    "url": "https://www.meetup.com/texas-information-technology-meetup-group/events/315857568/",
     "location": "Online",
-    "dates": "Aug 26, 2026 \u00b7 10:30 AM",
-    "sort_date": "2026-08-26 10:30:00",
+    "dates": "Aug 26, 2026 \u00b7 11:00 AM",
+    "sort_date": "2026-08-26 11:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Coding Macaw FREE Bootcamps",
+    "organization": "Texas Information Technology Meetup Group",
     "curated": false
   },
   {
@@ -338,6 +299,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Gen AI and Agentic AI for Business Leaders- A Live Masterclass",
+    "url": "https://www.meetup.com/ai-career-hub/events/315266308/",
+    "location": "Online",
+    "dates": "Aug 28, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-08-28 10:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Career Hub!",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Open Source AI Summit SF",
     "url": "https://lu.ma/buildp-c5h9",
@@ -348,19 +322,6 @@
     "themes": [],
     "prize": "",
     "organization": "BuildPlanet",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Re-Placed: Answering the Call of Leadership in the Age of AI",
-    "url": "https://www.meetup.com/complexitylounge/events/315968287/",
-    "location": "Online",
-    "dates": "Sep 01, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-09-01 12:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "The Complexity Lounge",
     "curated": false
   },
   {
@@ -413,19 +374,6 @@
     "themes": [],
     "prize": "",
     "organization": "SF Hardware Meetup",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "NoVA Hackers September Meeting",
-    "url": "https://www.meetup.com/nova-hackers/events/315675353/",
-    "location": "Reston, VA",
-    "dates": "Sep 14, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-09-14 18:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "NoVA Hackers",
     "curated": false
   },
   {
