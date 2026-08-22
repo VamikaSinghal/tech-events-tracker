@@ -1,28 +1,15 @@
 [
   {
-    "source": "Luma",
-    "title": "Inception Studio Builds: Startup Showcase",
-    "url": "https://lu.ma/05xw5ali",
+    "source": "Meetup",
+    "title": "Founders Running Club :: Easy 5-10km Run + Talks",
+    "url": "https://www.meetup.com/founders-running-club/events/315363404/",
     "location": "San Francisco, CA",
-    "dates": "Aug 21, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-08-22 00:00:00",
+    "dates": "Aug 22, 2026 \u00b7 9:30 AM",
+    "sort_date": "2026-08-22 09:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Inception Studio Events",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Frontier Table SF: AI Founder Dinner",
-    "url": "https://lu.ma/frontierTableSF",
-    "location": "San Francisco, CA",
-    "dates": "Aug 21, 2026 \u00b7 7:30 PM",
-    "sort_date": "2026-08-22 02:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Obvious Community Events",
+    "organization": "Founders Running Club :: San Francisco",
     "curated": false
   },
   {
@@ -79,15 +66,28 @@
   },
   {
     "source": "Meetup",
-    "title": "The SaaS Startup Dependency Graph",
-    "url": "https://www.meetup.com/devopsdsm/events/315859296/",
-    "location": "Urbandale, IA",
-    "dates": "Aug 26, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-26 18:00:00",
+    "title": "Go Meetup in San Francisco | Hosted by C1.ai",
+    "url": "https://www.meetup.com/golangsf/events/315798556/",
+    "location": "San Francisco, CA",
+    "dates": "Aug 26, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-08-26 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "DevOpsDSM",
+    "organization": "GoSF",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Startup Pitch & Networking in San Francisco",
+    "url": "https://www.meetup.com/startups-and-tech-events-in-san-francisco/events/315681907/",
+    "location": "San Francisco, CA",
+    "dates": "Aug 26, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-08-26 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Startups and Tech Events in San Francisco",
     "curated": false
   },
   {
@@ -130,6 +130,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "AI Skills Every IT Professional Needs: Cisco AI Technical Practitioner (AITECH)",
+    "url": "https://www.meetup.com/california-city-cloud-computing-community-meetup/events/316006596/",
+    "location": "Online",
+    "dates": "Aug 27, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-08-27 09:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "California City Cloud Computing Community Meetup",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Step SF 2026: The AI & Tech Startup Festival",
     "url": "https://lu.ma/StepSF26",
@@ -143,6 +156,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "AWS Agentic AI Showcase - MongoDB and LangChain",
+    "url": "https://www.meetup.com/sfbay-ai/events/316162713/",
+    "location": "San Francisco, CA",
+    "dates": "Aug 27, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-08-27 17:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "SF AI",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Demo Night SF: Ship AI Apps with Anthropic + Postman + Supabase + Vercel",
     "url": "https://lu.ma/august-SF-supabase-vercel-postman",
@@ -153,6 +179,19 @@
     "themes": [],
     "prize": "",
     "organization": "Postman Developer Events",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Gallery After Dark: Merge x Eragon x Corgi Founders Happy Hour",
+    "url": "https://lu.ma/tjo8mlo3",
+    "location": "San Francisco, CA",
+    "dates": "Aug 27, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-28 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Merge Events",
     "curated": false
   },
   {
@@ -182,6 +221,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Tech Talk | Building a Standout Developer Portfolio with Annie Bombanie",
+    "url": "https://www.meetup.com/techacademy/events/316090376/",
+    "location": "Online",
+    "dates": "Aug 28, 2026 \u00b7 1:00 PM",
+    "sort_date": "2026-08-28 13:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "The Tech Academy",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Open Source AI Summit SF",
     "url": "https://lu.ma/buildp-c5h9",
@@ -192,19 +244,6 @@
     "themes": [],
     "prize": "",
     "organization": "BuildPlanet",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Re-Placed: Answering the Call of Leadership in the Age of AI",
-    "url": "https://www.meetup.com/complexitylounge/events/315968287/",
-    "location": "Online",
-    "dates": "Sep 01, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-09-01 12:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "The Complexity Lounge",
     "curated": false
   },
   {
@@ -248,15 +287,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Mobile Engineering Meetup",
-    "url": "https://www.meetup.com/des-moines-mobile-developers/events/316098796/",
-    "location": "Urbandale, IA",
+    "title": "Design + AI Mentor Night",
+    "url": "https://www.meetup.com/cascadesf/events/316062544/",
+    "location": "San Francisco, CA",
     "dates": "Sep 09, 2026 \u00b7 5:30 PM",
     "sort_date": "2026-09-09 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Des Moines Mobile Developers",
+    "organization": "Cascade SF, Experience Designers",
     "curated": false
   },
   {
