@@ -1,41 +1,28 @@
 [
   {
+    "source": "Luma",
+    "title": "\ud83e\udd16\ud83c\udf68 Sundae Robotics 05: 3D World Models, Spatial Intelligence & Adaptive AI \u2014 Modality Forcing & 3D Pre-training Objectives",
+    "url": "https://lu.ma/f6t112qi",
+    "location": "Atherton, CA",
+    "dates": "Aug 23, 2026 \u00b7 2:00 PM",
+    "sort_date": "2026-08-23 21:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
+    "curated": false
+  },
+  {
     "source": "Meetup",
-    "title": "Founders Running Club :: Easy 5-10km Run + Talks",
-    "url": "https://www.meetup.com/founders-running-club/events/315363404/",
-    "location": "San Francisco, CA",
-    "dates": "Aug 22, 2026 \u00b7 9:30 AM",
-    "sort_date": "2026-08-22 09:30:00",
+    "title": "Tech Tuesday Happy Hour #13",
+    "url": "https://www.meetup.com/aztechtuesday/events/316232874/",
+    "location": "Scottsdale, AZ",
+    "dates": "Aug 25, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-08-25 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Founders Running Club :: San Francisco",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Mistral Vibe Hackathon",
-    "url": "https://lu.ma/mistral-summer-vibe-hackathon-sf",
-    "location": "San Francisco, CA",
-    "dates": "Aug 22, 2026 \u00b7 8:30 AM",
-    "sort_date": "2026-08-22 15:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Mistral Events",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Dogathon: AI Valley \u00d7 Pet Zen, with Arcade.dev + Emergent",
-    "url": "https://lu.ma/rklrsomo",
-    "location": "San Francisco, CA",
-    "dates": "Aug 22, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-08-22 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Valley",
+    "organization": "AZ Tech Tuesday",
     "curated": false
   },
   {
@@ -62,32 +49,6 @@
     "themes": [],
     "prize": "",
     "organization": "Afore Events",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Go Meetup in San Francisco | Hosted by C1.ai",
-    "url": "https://www.meetup.com/golangsf/events/315798556/",
-    "location": "San Francisco, CA",
-    "dates": "Aug 26, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-08-26 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "GoSF",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Startup Pitch & Networking in San Francisco",
-    "url": "https://www.meetup.com/startups-and-tech-events-in-san-francisco/events/315681907/",
-    "location": "San Francisco, CA",
-    "dates": "Aug 26, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-08-26 19:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Startups and Tech Events in San Francisco",
     "curated": false
   },
   {
@@ -130,19 +91,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "AI Skills Every IT Professional Needs: Cisco AI Technical Practitioner (AITECH)",
-    "url": "https://www.meetup.com/california-city-cloud-computing-community-meetup/events/316006596/",
-    "location": "Online",
-    "dates": "Aug 27, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-08-27 09:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "California City Cloud Computing Community Meetup",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Step SF 2026: The AI & Tech Startup Festival",
     "url": "https://lu.ma/StepSF26",
@@ -153,19 +101,6 @@
     "themes": [],
     "prize": "",
     "organization": "Step",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AWS Agentic AI Showcase - MongoDB and LangChain",
-    "url": "https://www.meetup.com/sfbay-ai/events/316162713/",
-    "location": "San Francisco, CA",
-    "dates": "Aug 27, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-08-27 17:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "SF AI",
     "curated": false
   },
   {
@@ -208,32 +143,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Gen AI and Agentic AI for Business Leaders- A Live Masterclass",
-    "url": "https://www.meetup.com/ai-career-hub/events/315266308/",
-    "location": "Online",
-    "dates": "Aug 28, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-08-28 10:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Career Hub!",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Tech Talk | Building a Standout Developer Portfolio with Annie Bombanie",
-    "url": "https://www.meetup.com/techacademy/events/316090376/",
-    "location": "Online",
-    "dates": "Aug 28, 2026 \u00b7 1:00 PM",
-    "sort_date": "2026-08-28 13:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "The Tech Academy",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Open Source AI Summit SF",
     "url": "https://lu.ma/buildp-c5h9",
@@ -273,6 +182,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Pollack Cinema - AI Film 3 showcase event",
+    "url": "https://www.meetup.com/aicollective/events/315644272/",
+    "location": "Tempe, AZ",
+    "dates": "Sep 03, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-03 18:00:32",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Technology, Film, Art, and Music Meetup Group",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Spatial Intelligence + Generative 3D Hackathon with Mint, Tripo, World Labs, Convex and Founders Inc.",
     "url": "https://lu.ma/b101ml40",
@@ -283,19 +205,6 @@
     "themes": [],
     "prize": "",
     "organization": "Founders, Inc. Events",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Design + AI Mentor Night",
-    "url": "https://www.meetup.com/cascadesf/events/316062544/",
-    "location": "San Francisco, CA",
-    "dates": "Sep 09, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-09-09 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Cascade SF, Experience Designers",
     "curated": false
   },
   {
@@ -335,6 +244,19 @@
     "themes": [],
     "prize": "",
     "organization": "The Multimodal Society",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Humongous AI Meetup",
+    "url": "https://lu.ma/lyzw2vit",
+    "location": "San Francisco, CA",
+    "dates": "Sep 16, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-17 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Machina Ventures",
     "curated": false
   },
   {
