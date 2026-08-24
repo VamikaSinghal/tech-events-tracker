@@ -1,32 +1,6 @@
 [
   {
     "source": "Luma",
-    "title": "\ud83e\udd16\ud83c\udf68 Sundae Robotics 05: 3D World Models, Spatial Intelligence & Adaptive AI \u2014 Modality Forcing & 3D Pre-training Objectives",
-    "url": "https://lu.ma/f6t112qi",
-    "location": "Atherton, CA",
-    "dates": "Aug 23, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-08-23 21:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Personal",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Tech Tuesday Happy Hour #13",
-    "url": "https://www.meetup.com/aztechtuesday/events/316232874/",
-    "location": "Scottsdale, AZ",
-    "dates": "Aug 25, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-08-25 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AZ Tech Tuesday",
-    "curated": false
-  },
-  {
-    "source": "Luma",
     "title": "Physical AI: What's Working (and What Still Breaks)",
     "url": "https://lu.ma/rallysf-yfs4",
     "location": "San Francisco, CA",
@@ -104,6 +78,32 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Chicago Tech Mixer 2026",
+    "url": "https://www.meetup.com/chicagomixer/events/310833876/",
+    "location": "Chicago, IL",
+    "dates": "Aug 27, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-27 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Chicago Startup and Tech Mixer",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Find a Cofounder / Help or Join a Tech Startup",
+    "url": "https://www.meetup.com/dc-startup-cofounders/events/313919800/",
+    "location": "Online",
+    "dates": "Aug 27, 2026 \u00b7 8:00 PM",
+    "sort_date": "2026-08-27 20:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "D.C. Startup Founders & Tech Professionals",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Demo Night SF: Ship AI Apps with Anthropic + Postman + Supabase + Vercel",
     "url": "https://lu.ma/august-SF-supabase-vercel-postman",
@@ -143,6 +143,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Gen AI and Agentic AI for Business Leaders- A Live Masterclass",
+    "url": "https://www.meetup.com/ai-career-hub/events/315266308/",
+    "location": "Online",
+    "dates": "Aug 28, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-08-28 10:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Career Hub!",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Open Source AI Summit SF",
     "url": "https://lu.ma/buildp-c5h9",
@@ -153,6 +166,32 @@
     "themes": [],
     "prize": "",
     "organization": "BuildPlanet",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Re-Placed: Answering the Call of Leadership in the Age of AI",
+    "url": "https://www.meetup.com/complexitylounge/events/315968287/",
+    "location": "Online",
+    "dates": "Sep 01, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-09-01 12:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "The Complexity Lounge",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Tech Pulse 2030 Chicago",
+    "url": "https://www.meetup.com/ai-2030-responsible-artificial-intelligence/events/313503640/",
+    "location": "Chicago, IL",
+    "dates": "Sep 01, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-09-01 17:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI 2030: Responsible Artificial Intelligence for All",
     "curated": false
   },
   {
@@ -183,15 +222,28 @@
   },
   {
     "source": "Meetup",
-    "title": "Pollack Cinema - AI Film 3 showcase event",
-    "url": "https://www.meetup.com/aicollective/events/315644272/",
-    "location": "Tempe, AZ",
-    "dates": "Sep 03, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-03 18:00:32",
+    "title": "Chicago AI Builders & Operators",
+    "url": "https://www.meetup.com/chicago-ai-builders-operators/events/315996855/",
+    "location": "",
+    "dates": "Sep 03, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-03 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AI Technology, Film, Art, and Music Meetup Group",
+    "organization": "Chicago AI Builders & Operators",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "AI Philosophy Nights: Metaphors for AI with Amy Kurzweil",
+    "url": "https://lu.ma/553nq69x",
+    "location": "San Francisco, California",
+    "dates": "Sep 03, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-09-04 01:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "SuperHuman Society ",
     "curated": false
   },
   {
