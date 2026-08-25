@@ -1,5 +1,18 @@
 [
   {
+    "source": "Meetup",
+    "title": "Lunch and Learn: Vibe Coding for Business Users \u2014 Build Real Web Apps with AI",
+    "url": "https://www.meetup.com/all-things-ai-live/events/316064371/",
+    "location": "Online",
+    "dates": "Aug 25, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-08-25 12:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "All Things AI (Live)",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Physical AI: What's Working (and What Still Breaks)",
     "url": "https://lu.ma/rallysf-yfs4",
@@ -23,6 +36,19 @@
     "themes": [],
     "prize": "",
     "organization": "Afore Events",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "The SaaS Startup Dependency Graph",
+    "url": "https://www.meetup.com/devopsdsm/events/315859296/",
+    "location": "Urbandale, IA",
+    "dates": "Aug 26, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-26 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "DevOpsDSM",
     "curated": false
   },
   {
@@ -79,19 +105,6 @@
   },
   {
     "source": "Meetup",
-    "title": "Chicago Tech Mixer 2026",
-    "url": "https://www.meetup.com/chicagomixer/events/310833876/",
-    "location": "Chicago, IL",
-    "dates": "Aug 27, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-27 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Chicago Startup and Tech Mixer",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
     "title": "Find a Cofounder / Help or Join a Tech Startup",
     "url": "https://www.meetup.com/dc-startup-cofounders/events/313919800/",
     "location": "Online",
@@ -143,19 +156,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Gen AI and Agentic AI for Business Leaders- A Live Masterclass",
-    "url": "https://www.meetup.com/ai-career-hub/events/315266308/",
-    "location": "Online",
-    "dates": "Aug 28, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-08-28 10:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Career Hub!",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Open Source AI Summit SF",
     "url": "https://lu.ma/buildp-c5h9",
@@ -179,19 +179,6 @@
     "themes": [],
     "prize": "",
     "organization": "The Complexity Lounge",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Tech Pulse 2030 Chicago",
-    "url": "https://www.meetup.com/ai-2030-responsible-artificial-intelligence/events/313503640/",
-    "location": "Chicago, IL",
-    "dates": "Sep 01, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-09-01 17:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI 2030: Responsible Artificial Intelligence for All",
     "curated": false
   },
   {
@@ -221,19 +208,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Chicago AI Builders & Operators",
-    "url": "https://www.meetup.com/chicago-ai-builders-operators/events/315996855/",
-    "location": "",
-    "dates": "Sep 03, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-09-03 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Chicago AI Builders & Operators",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "AI Philosophy Nights: Metaphors for AI with Amy Kurzweil",
     "url": "https://lu.ma/553nq69x",
@@ -257,6 +231,19 @@
     "themes": [],
     "prize": "",
     "organization": "Founders, Inc. Events",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Mobile Engineering Meetup",
+    "url": "https://www.meetup.com/des-moines-mobile-developers/events/316098796/",
+    "location": "Urbandale, IA",
+    "dates": "Sep 09, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-09 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Des Moines Mobile Developers",
     "curated": false
   },
   {
