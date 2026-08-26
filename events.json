@@ -1,57 +1,5 @@
 [
   {
-    "source": "Meetup",
-    "title": "Lunch and Learn: Vibe Coding for Business Users \u2014 Build Real Web Apps with AI",
-    "url": "https://www.meetup.com/all-things-ai-live/events/316064371/",
-    "location": "Online",
-    "dates": "Aug 25, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-08-25 12:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "All Things AI (Live)",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Physical AI: What's Working (and What Still Breaks)",
-    "url": "https://lu.ma/rallysf-yfs4",
-    "location": "San Francisco, CA",
-    "dates": "Aug 25, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-08-26 00:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Rally SF",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Embodied AI Night: Founders, Builders, and Researchers",
-    "url": "https://lu.ma/7tvf89y2",
-    "location": "San Francisco, CA",
-    "dates": "Aug 25, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-26 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Afore Events",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "The SaaS Startup Dependency Graph",
-    "url": "https://www.meetup.com/devopsdsm/events/315859296/",
-    "location": "Urbandale, IA",
-    "dates": "Aug 26, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-26 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "DevOpsDSM",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "AI Infra Kebab",
     "url": "https://lu.ma/kebab",
@@ -101,6 +49,19 @@
     "themes": [],
     "prize": "",
     "organization": "Step",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Chicago Tech Mixer 2026",
+    "url": "https://www.meetup.com/chicagomixer/events/310833876/",
+    "location": "Chicago, IL",
+    "dates": "Aug 27, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-08-27 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Chicago Startup and Tech Mixer",
     "curated": false
   },
   {
@@ -169,6 +130,32 @@
     "curated": false
   },
   {
+    "source": "Luma",
+    "title": "Raising Your Seed Round: Lessons from the Reducto and Mintlify Founders",
+    "url": "https://lu.ma/reductoai-obnb",
+    "location": "San Francisco, CA",
+    "dates": "Aug 28, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-08-29 00:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Reducto Community Calendar",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Tech Makers Goes West - Robotics and Beyond Pitch Night and Drinks",
+    "url": "https://lu.ma/3x24sk2k",
+    "location": "San Francisco, CA",
+    "dates": "Aug 28, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-08-29 00:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Tech Makers",
+    "curated": false
+  },
+  {
     "source": "Meetup",
     "title": "Re-Placed: Answering the Call of Leadership in the Age of AI",
     "url": "https://www.meetup.com/complexitylounge/events/315968287/",
@@ -179,6 +166,19 @@
     "themes": [],
     "prize": "",
     "organization": "The Complexity Lounge",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Tech Pulse 2030 Chicago",
+    "url": "https://www.meetup.com/ai-2030-responsible-artificial-intelligence/events/313503640/",
+    "location": "Chicago, IL",
+    "dates": "Sep 01, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-09-01 17:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI 2030: Responsible Artificial Intelligence for All",
     "curated": false
   },
   {
@@ -222,6 +222,19 @@
   },
   {
     "source": "Luma",
+    "title": "San Francisco Health Tech Happy Hour with HTN & Vinta",
+    "url": "https://lu.ma/nh2t70zk",
+    "location": "San Francisco, CA",
+    "dates": "Sep 04, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-05 00:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Health Tech Nerds",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Spatial Intelligence + Generative 3D Hackathon with Mint, Tripo, World Labs, Convex and Founders Inc.",
     "url": "https://lu.ma/b101ml40",
     "location": "San Francisco, CA",
@@ -231,19 +244,6 @@
     "themes": [],
     "prize": "",
     "organization": "Founders, Inc. Events",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Mobile Engineering Meetup",
-    "url": "https://www.meetup.com/des-moines-mobile-developers/events/316098796/",
-    "location": "Urbandale, IA",
-    "dates": "Sep 09, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-09-09 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Des Moines Mobile Developers",
     "curated": false
   },
   {
@@ -316,19 +316,6 @@
     "curated": false
   },
   {
-    "source": "Luma",
-    "title": "Healthcare AI Hackathon",
-    "url": "https://lu.ma/e9z9vuxz",
-    "location": "San Francisco, CA",
-    "dates": "Sep 26, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-09-26 17:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Personal",
-    "curated": false
-  },
-  {
     "source": "Devpost",
     "title": "Hyphen-Hacks",
     "url": "https://hyphen-hacks26.devpost.com/",
@@ -343,6 +330,23 @@
     ],
     "prize": "$0",
     "organization": "Lick-Wilmerding High School",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "HackStorm 3.0: Sense, Think and Act",
+    "url": "https://hackstorm3.devpost.com/",
+    "location": "San Francisco, California, USA",
+    "dates": "Nov 06 - 08, 2026",
+    "sort_date": "2026-11-06 00:00:00",
+    "state": "upcoming",
+    "themes": [
+      "DevOps",
+      "IoT",
+      "Robotic Process Automation"
+    ],
+    "prize": "$5,200",
+    "organization": "HackStorm",
     "curated": false
   }
 ]
