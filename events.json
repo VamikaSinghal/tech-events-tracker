@@ -1,70 +1,5 @@
 [
   {
-    "source": "Luma",
-    "title": "AI Infra Kebab",
-    "url": "https://lu.ma/kebab",
-    "location": "San Francisco, CA",
-    "dates": "Aug 26, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-08-27 00:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Neon",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "AI, X-rays, and Manufacturing: Lumafield SF Open House and Live Go/No-Go Recording",
-    "url": "https://lu.ma/uo8fmq5o",
-    "location": "San Francisco, CA",
-    "dates": "Aug 26, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-08-27 00:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Lumafield",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Durable AI: Agent Context is Everything",
-    "url": "https://lu.ma/durable-ai-august",
-    "location": "San Francisco, CA",
-    "dates": "Aug 26, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-08-27 00:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Temporal Community",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Step SF 2026: The AI & Tech Startup Festival",
-    "url": "https://lu.ma/StepSF26",
-    "location": "San Francisco, CA",
-    "dates": "Aug 27, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-08-27 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Step",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Chicago Tech Mixer 2026",
-    "url": "https://www.meetup.com/chicagomixer/events/310833876/",
-    "location": "Chicago, IL",
-    "dates": "Aug 27, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-27 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Chicago Startup and Tech Mixer",
-    "curated": false
-  },
-  {
     "source": "Meetup",
     "title": "Find a Cofounder / Help or Join a Tech Startup",
     "url": "https://www.meetup.com/dc-startup-cofounders/events/313919800/",
@@ -156,29 +91,16 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Re-Placed: Answering the Call of Leadership in the Age of AI",
-    "url": "https://www.meetup.com/complexitylounge/events/315968287/",
-    "location": "Online",
-    "dates": "Sep 01, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-09-01 12:00:00",
+    "source": "Luma",
+    "title": "Codex Community Hackathon - San Francisco",
+    "url": "https://lu.ma/qbp3ck7t",
+    "location": "San Francisco, CA",
+    "dates": "Aug 29, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-08-29 17:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "The Complexity Lounge",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Tech Pulse 2030 Chicago",
-    "url": "https://www.meetup.com/ai-2030-responsible-artificial-intelligence/events/313503640/",
-    "location": "Chicago, IL",
-    "dates": "Sep 01, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-09-01 17:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI 2030: Responsible Artificial Intelligence for All",
+    "organization": "Personal",
     "curated": false
   },
   {
@@ -205,6 +127,19 @@
     "themes": [],
     "prize": "",
     "organization": "Circe Calendar",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Deep Tech Startups in the Age of AI by Fifty Years",
+    "url": "https://lu.ma/u5fkxj50",
+    "location": "San Francisco, CA",
+    "dates": "Sep 02, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-09-03 01:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Scientist to Founder Series",
     "curated": false
   },
   {
@@ -247,6 +182,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Mobile Engineering Meetup",
+    "url": "https://www.meetup.com/des-moines-mobile-developers/events/316098796/",
+    "location": "Urbandale, IA",
+    "dates": "Sep 09, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-09 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Des Moines Mobile Developers",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Llama Lounge 26: The AI Startup Event Series @ Microsoft",
     "url": "https://lu.ma/llamalounge26",
@@ -257,6 +205,32 @@
     "themes": [],
     "prize": "",
     "organization": "Llama Lounge: The AI Startup Series",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Designing with AI: Panel hosted by Amplitude",
+    "url": "https://lu.ma/hc9mndo1",
+    "location": "San Francisco, CA",
+    "dates": "Sep 10, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-11 00:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Startup Pitch Night",
+    "url": "https://lu.ma/l0asyhir",
+    "location": "San Francisco, CA",
+    "dates": "Sep 10, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-11 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Swissnex in San Francisco",
     "curated": false
   },
   {
@@ -283,6 +257,32 @@
     "themes": [],
     "prize": "",
     "organization": "The Multimodal Society",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "The Tasting Menu: 5 Course AI Startups (Dreamforce Edition)",
+    "url": "https://lu.ma/xtrace-2l3m",
+    "location": "San Francisco, CA",
+    "dates": "Sep 15, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-09-16 00:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "XTrace",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Tech Talks in Des Moines",
+    "url": "https://www.meetup.com/des-moines-tech-talks/events/316275196/",
+    "location": "Des Moines, IA",
+    "dates": "Sep 16, 2026 \u00b7 7:00 AM",
+    "sort_date": "2026-09-16 07:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Des Moines Tech Talks",
     "curated": false
   },
   {
