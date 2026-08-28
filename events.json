@@ -1,67 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "Find a Cofounder / Help or Join a Tech Startup",
-    "url": "https://www.meetup.com/dc-startup-cofounders/events/313919800/",
+    "title": "mck y licencias de software libre",
+    "url": "https://www.meetup.com/aws-sbg-at-atemajac-valley-university-zapopan-campus/events/316161092/",
     "location": "Online",
-    "dates": "Aug 27, 2026 \u00b7 8:00 PM",
-    "sort_date": "2026-08-27 20:00:00",
+    "dates": "Aug 28, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-08-28 18:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "D.C. Startup Founders & Tech Professionals",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Demo Night SF: Ship AI Apps with Anthropic + Postman + Supabase + Vercel",
-    "url": "https://lu.ma/august-SF-supabase-vercel-postman",
-    "location": "San Francisco, CA",
-    "dates": "Aug 27, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-08-28 00:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Postman Developer Events",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Gallery After Dark: Merge x Eragon x Corgi Founders Happy Hour",
-    "url": "https://lu.ma/tjo8mlo3",
-    "location": "San Francisco, CA",
-    "dates": "Aug 27, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-08-28 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Merge Events",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Founder Comedy Night",
-    "url": "https://lu.ma/rfhhj6vv",
-    "location": "San Francisco, CA",
-    "dates": "Aug 27, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-08-28 02:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Cura (previously Covent)",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Open Source AI Summit SF",
-    "url": "https://lu.ma/buildp-c5h9",
-    "location": "San Francisco, CA",
-    "dates": "Aug 28, 2026 \u00b7 3:00 PM",
-    "sort_date": "2026-08-28 22:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "BuildPlanet",
+    "organization": "AWS SBG at Atemajac Valley University - Zapopan Campus",
     "curated": false
   },
   {
@@ -104,6 +52,32 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Microsoft Fabric AI Skills + Claude Skills: The Future of Data Engineering",
+    "url": "https://www.meetup.com/naperville-machine-learning-meetup-group/events/316019285/",
+    "location": "Online",
+    "dates": "Sep 01, 2026 \u00b7 4:00 AM",
+    "sort_date": "2026-09-01 04:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Machine Learning_ML Meetup Group",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Re-Placed: Answering the Call of Leadership in the Age of AI",
+    "url": "https://www.meetup.com/complexitylounge/events/315968287/",
+    "location": "Online",
+    "dates": "Sep 01, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-09-01 12:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "The Complexity Lounge",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Agentic + AI Night: Multi-Agent Governance and Security",
     "url": "https://lu.ma/agenticaiobsnightsf-9-1",
@@ -114,6 +88,19 @@
     "themes": [],
     "prize": "",
     "organization": "Agentic + AI Observability",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Berkeley's Next Wave: A Deep Tech Founder & Investor Mixer",
+    "url": "https://lu.ma/berkeley-2seh",
+    "location": "Berkeley, CA",
+    "dates": "Sep 01, 2026 \u00b7 4:30 PM",
+    "sort_date": "2026-09-01 23:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Berkeley Gateway Accelerator",
     "curated": false
   },
   {
@@ -140,6 +127,32 @@
     "themes": [],
     "prize": "",
     "organization": "Scientist to Founder Series",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI for Business & Marketing: Build workflows that move your business forward",
+    "url": "https://www.meetup.com/ai-marketing-meetup-group/events/315284347/",
+    "location": "Online",
+    "dates": "Sep 03, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-09-03 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI + Marketing Meetup Group",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Deploying Physical AI in the Real World w Skild AI, Dexterity & Instawork",
+    "url": "https://lu.ma/7b9joney",
+    "location": "San Francisco, CA",
+    "dates": "Sep 03, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-04 00:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Savant VC",
     "curated": false
   },
   {
@@ -192,6 +205,19 @@
     "themes": [],
     "prize": "",
     "organization": "Des Moines Mobile Developers",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "The True Cost of Every Prompt: The Sustainability of AI and Data Centers",
+    "url": "https://lu.ma/nqcd5thf",
+    "location": "San Francisco, California",
+    "dates": "Sep 09, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-09-10 02:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Big Brain Lectures - Bay Area",
     "curated": false
   },
   {
@@ -273,19 +299,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Tech Talks in Des Moines",
-    "url": "https://www.meetup.com/des-moines-tech-talks/events/316275196/",
-    "location": "Des Moines, IA",
-    "dates": "Sep 16, 2026 \u00b7 7:00 AM",
-    "sort_date": "2026-09-16 07:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Des Moines Tech Talks",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Humongous AI Meetup",
     "url": "https://lu.ma/lyzw2vit",
@@ -296,6 +309,19 @@
     "themes": [],
     "prize": "",
     "organization": "Machina Ventures",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Pitch Roast Live - The S.F. Debut",
+    "url": "https://lu.ma/PRLSFdebut",
+    "location": "San Francisco, CA",
+    "dates": "Sep 23, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-24 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Pitch Roast Live \ud83d\udd25",
     "curated": false
   },
   {
