@@ -1,44 +1,5 @@
 [
   {
-    "source": "Meetup",
-    "title": "mck y licencias de software libre",
-    "url": "https://www.meetup.com/aws-sbg-at-atemajac-valley-university-zapopan-campus/events/316161092/",
-    "location": "Online",
-    "dates": "Aug 28, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-08-28 18:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AWS SBG at Atemajac Valley University - Zapopan Campus",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Raising Your Seed Round: Lessons from the Reducto and Mintlify Founders",
-    "url": "https://lu.ma/reductoai-obnb",
-    "location": "San Francisco, CA",
-    "dates": "Aug 28, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-08-29 00:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Reducto Community Calendar",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Tech Makers Goes West - Robotics and Beyond Pitch Night and Drinks",
-    "url": "https://lu.ma/3x24sk2k",
-    "location": "San Francisco, CA",
-    "dates": "Aug 28, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-08-29 00:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Tech Makers",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Codex Community Hackathon - San Francisco",
     "url": "https://lu.ma/qbp3ck7t",
@@ -144,7 +105,7 @@
   },
   {
     "source": "Luma",
-    "title": "Deploying Physical AI in the Real World w Skild AI, Dexterity & Instawork",
+    "title": "Deploying Physical AI in the Real World w Skild AI, Dexterity, Weave Robotics & Instawork",
     "url": "https://lu.ma/7b9joney",
     "location": "San Francisco, CA",
     "dates": "Sep 03, 2026 \u00b7 5:30 PM",
