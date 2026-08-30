@@ -1,18 +1,5 @@
 [
   {
-    "source": "Luma",
-    "title": "Codex Community Hackathon - San Francisco",
-    "url": "https://lu.ma/qbp3ck7t",
-    "location": "San Francisco, CA",
-    "dates": "Aug 29, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-08-29 17:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Personal",
-    "curated": false
-  },
-  {
     "source": "Meetup",
     "title": "Microsoft Fabric AI Skills + Claude Skills: The Future of Data Engineering",
     "url": "https://www.meetup.com/naperville-machine-learning-meetup-group/events/316019285/",
@@ -66,6 +53,19 @@
   },
   {
     "source": "Luma",
+    "title": "Bay Area Frontier Research Club #20 | AI X Bio: Turning Biological Systems into New Tools & Therapies (dinner + paper discussion @ Stanford)",
+    "url": "https://lu.ma/d3ryhrpp",
+    "location": "Stanford, CA",
+    "dates": "Sep 02, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-03 00:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "The Frontier Syndicate",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Al Dente: A Founder-Investor pasta-making dinner",
     "url": "https://lu.ma/pk8b8b5h",
     "location": "San Francisco, CA",
@@ -88,19 +88,6 @@
     "themes": [],
     "prize": "",
     "organization": "Scientist to Founder Series",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI for Business & Marketing: Build workflows that move your business forward",
-    "url": "https://www.meetup.com/ai-marketing-meetup-group/events/315284347/",
-    "location": "Online",
-    "dates": "Sep 03, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-09-03 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI + Marketing Meetup Group",
     "curated": false
   },
   {
@@ -157,6 +144,19 @@
   },
   {
     "source": "Meetup",
+    "title": "Get Paid to Train AI + Member-Driven AI Topic of the Week \ud83e\udd16\ud83d\udcb0",
+    "url": "https://www.meetup.com/get-paid-to-train-ai-las-vegas/events/316074694/",
+    "location": "Online",
+    "dates": "Sep 09, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-09-09 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Get Paid to Train AI + AI Learning Community - Las Vegas",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
     "title": "Mobile Engineering Meetup",
     "url": "https://www.meetup.com/des-moines-mobile-developers/events/316098796/",
     "location": "Urbandale, IA",
@@ -192,6 +192,19 @@
     "themes": [],
     "prize": "",
     "organization": "Llama Lounge: The AI Startup Series",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Mahjong Party for AI Builders",
+    "url": "https://lu.ma/fm6e4puk",
+    "location": "San Francisco, California",
+    "dates": "Sep 10, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-09-11 00:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Workato Community",
     "curated": false
   },
   {
