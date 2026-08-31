@@ -1,31 +1,5 @@
 [
   {
-    "source": "Meetup",
-    "title": "Microsoft Fabric AI Skills + Claude Skills: The Future of Data Engineering",
-    "url": "https://www.meetup.com/naperville-machine-learning-meetup-group/events/316019285/",
-    "location": "Online",
-    "dates": "Sep 01, 2026 \u00b7 4:00 AM",
-    "sort_date": "2026-09-01 04:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Machine Learning_ML Meetup Group",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Re-Placed: Answering the Call of Leadership in the Age of AI",
-    "url": "https://www.meetup.com/complexitylounge/events/315968287/",
-    "location": "Online",
-    "dates": "Sep 01, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-09-01 12:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "The Complexity Lounge",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Agentic + AI Night: Multi-Agent Governance and Security",
     "url": "https://lu.ma/agenticaiobsnightsf-9-1",
@@ -91,6 +65,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Pollack Cinema - AI Film 3 showcase event",
+    "url": "https://www.meetup.com/aicollective/events/315644272/",
+    "location": "Tempe, AZ",
+    "dates": "Sep 03, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-03 18:00:32",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Technology, Film, Art, and Music Meetup Group",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Deploying Physical AI in the Real World w Skild AI, Dexterity, Weave Robotics & Instawork",
     "url": "https://lu.ma/7b9joney",
@@ -101,6 +88,19 @@
     "themes": [],
     "prize": "",
     "organization": "Savant VC",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Longevity x Posture: AI vs TechNeck?",
+    "url": "https://lu.ma/870i4r3g",
+    "location": "San Francisco, CA",
+    "dates": "Sep 03, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-04 00:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Don't Die SF",
     "curated": false
   },
   {
@@ -144,6 +144,19 @@
   },
   {
     "source": "Meetup",
+    "title": "Tech Tuesday \u2013 Happy Hour #15",
+    "url": "https://www.meetup.com/aztechtuesday/events/316243722/",
+    "location": "Tempe, AZ",
+    "dates": "Sep 08, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-08 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AZ Tech Tuesday",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
     "title": "Get Paid to Train AI + Member-Driven AI Topic of the Week \ud83e\udd16\ud83d\udcb0",
     "url": "https://www.meetup.com/get-paid-to-train-ai-las-vegas/events/316074694/",
     "location": "Online",
@@ -153,19 +166,6 @@
     "themes": [],
     "prize": "",
     "organization": "Get Paid to Train AI + AI Learning Community - Las Vegas",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Mobile Engineering Meetup",
-    "url": "https://www.meetup.com/des-moines-mobile-developers/events/316098796/",
-    "location": "Urbandale, IA",
-    "dates": "Sep 09, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-09-09 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Des Moines Mobile Developers",
     "curated": false
   },
   {
@@ -296,6 +296,19 @@
     "themes": [],
     "prize": "",
     "organization": "Pitch Roast Live \ud83d\udd25",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Agentic LLMs and Software Architecture",
+    "url": "https://www.meetup.com/azemergingtech/events/315041448/",
+    "location": "Scottsdale, AZ",
+    "dates": "Sep 24, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-24 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Arizona AI & Emerging Technology",
     "curated": false
   },
   {
