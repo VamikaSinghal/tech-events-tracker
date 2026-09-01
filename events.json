@@ -65,19 +65,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Pollack Cinema - AI Film 3 showcase event",
-    "url": "https://www.meetup.com/aicollective/events/315644272/",
-    "location": "Tempe, AZ",
-    "dates": "Sep 03, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-03 18:00:32",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Technology, Film, Art, and Music Meetup Group",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Deploying Physical AI in the Real World w Skild AI, Dexterity, Weave Robotics & Instawork",
     "url": "https://lu.ma/7b9joney",
@@ -144,6 +131,19 @@
   },
   {
     "source": "Meetup",
+    "title": "Social Saturday \u00b7 Phoenix Web3 & Crypto Community Meetup \u00b7 September 5",
+    "url": "https://www.meetup.com/stand-with-crypto-arizona/events/316348304/",
+    "location": "Tempe, AZ",
+    "dates": "Sep 05, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-05 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Stand With Crypto Arizona",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
     "title": "Tech Tuesday \u2013 Happy Hour #15",
     "url": "https://www.meetup.com/aztechtuesday/events/316243722/",
     "location": "Tempe, AZ",
@@ -153,19 +153,6 @@
     "themes": [],
     "prize": "",
     "organization": "AZ Tech Tuesday",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Get Paid to Train AI + Member-Driven AI Topic of the Week \ud83e\udd16\ud83d\udcb0",
-    "url": "https://www.meetup.com/get-paid-to-train-ai-las-vegas/events/316074694/",
-    "location": "Online",
-    "dates": "Sep 09, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-09-09 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Get Paid to Train AI + AI Learning Community - Las Vegas",
     "curated": false
   },
   {
@@ -179,6 +166,19 @@
     "themes": [],
     "prize": "",
     "organization": "Big Brain Lectures - Bay Area",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Hardware Happy Hour (3H) Phoenix (metro)",
+    "url": "https://www.meetup.com/hardware-happy-hour-3h-phoenix/events/316356588/",
+    "location": "Phoenix, AZ",
+    "dates": "Sep 10, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-09-10 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Hardware Happy Hour (3H) Phoenix",
     "curated": false
   },
   {
