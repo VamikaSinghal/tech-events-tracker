@@ -1,28 +1,28 @@
 [
   {
-    "source": "Luma",
-    "title": "Agentic + AI Night: Multi-Agent Governance and Security",
-    "url": "https://lu.ma/agenticaiobsnightsf-9-1",
-    "location": "San Francisco, CA",
-    "dates": "Sep 01, 2026 \u00b7 3:30 PM",
-    "sort_date": "2026-09-01 22:30:00",
+    "source": "Meetup",
+    "title": "Roundtable: Is AI Making You More Productive?",
+    "url": "https://www.meetup.com/indy-net-consortium/events/313039840/",
+    "location": "Online",
+    "dates": "Sep 02, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-09-02 18:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Agentic + AI Observability",
+    "organization": "Indy .NET Consortium",
     "curated": false
   },
   {
-    "source": "Luma",
-    "title": "Berkeley's Next Wave: A Deep Tech Founder & Investor Mixer",
-    "url": "https://lu.ma/berkeley-2seh",
-    "location": "Berkeley, CA",
-    "dates": "Sep 01, 2026 \u00b7 4:30 PM",
-    "sort_date": "2026-09-01 23:30:00",
+    "source": "Meetup",
+    "title": "AI\u2011Powered Analytics with Power BI MCP Server and Claude",
+    "url": "https://www.meetup.com/hassug/events/316191538/",
+    "location": "Online",
+    "dates": "Sep 02, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-09-02 19:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Berkeley Gateway Accelerator",
+    "organization": "Houston Area SQL Server User Group (HASSUG)",
     "curated": false
   },
   {
@@ -65,16 +65,16 @@
     "curated": false
   },
   {
-    "source": "Luma",
-    "title": "Deploying Physical AI in the Real World w Skild AI, Dexterity, Weave Robotics & Instawork",
-    "url": "https://lu.ma/7b9joney",
-    "location": "San Francisco, CA",
-    "dates": "Sep 03, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-09-04 00:30:00",
+    "source": "Meetup",
+    "title": "AI for Business & Marketing: Build workflows that move your business forward",
+    "url": "https://www.meetup.com/ai-marketing-meetup-group/events/315284347/",
+    "location": "Online",
+    "dates": "Sep 03, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-09-03 16:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Savant VC",
+    "organization": "AI + Marketing Meetup Group",
     "curated": false
   },
   {
@@ -88,6 +88,19 @@
     "themes": [],
     "prize": "",
     "organization": "Don't Die SF",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Deploying Physical AI in the Real World w Skild AI, Dexterity, Weave Robotics & Instawork",
+    "url": "https://lu.ma/7b9joney",
+    "location": "San Francisco, CA",
+    "dates": "Sep 03, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-04 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Savant VC",
     "curated": false
   },
   {
@@ -118,6 +131,19 @@
   },
   {
     "source": "Luma",
+    "title": "Shawarma & Startups - MENA Founders",
+    "url": "https://lu.ma/kf5x9xjg",
+    "location": "San Francisco, CA",
+    "dates": "Sep 04, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-05 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Spatial Intelligence + Generative 3D Hackathon with Mint, Tripo, World Labs, Convex and Founders Inc.",
     "url": "https://lu.ma/b101ml40",
     "location": "San Francisco, CA",
@@ -131,28 +157,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Social Saturday \u00b7 Phoenix Web3 & Crypto Community Meetup \u00b7 September 5",
-    "url": "https://www.meetup.com/stand-with-crypto-arizona/events/316348304/",
-    "location": "Tempe, AZ",
-    "dates": "Sep 05, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-05 18:00:00",
+    "title": "Get Paid to Train AI + Member-Driven AI Topic of the Week \ud83e\udd16\ud83d\udcb0",
+    "url": "https://www.meetup.com/get-paid-to-train-ai-las-vegas/events/316074694/",
+    "location": "Online",
+    "dates": "Sep 09, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-09-09 16:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Stand With Crypto Arizona",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Tech Tuesday \u2013 Happy Hour #15",
-    "url": "https://www.meetup.com/aztechtuesday/events/316243722/",
-    "location": "Tempe, AZ",
-    "dates": "Sep 08, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-09-08 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AZ Tech Tuesday",
+    "organization": "Get Paid to Train AI + AI Learning Community - Las Vegas",
     "curated": false
   },
   {
@@ -166,19 +179,6 @@
     "themes": [],
     "prize": "",
     "organization": "Big Brain Lectures - Bay Area",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Hardware Happy Hour (3H) Phoenix (metro)",
-    "url": "https://www.meetup.com/hardware-happy-hour-3h-phoenix/events/316356588/",
-    "location": "Phoenix, AZ",
-    "dates": "Sep 10, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-09-10 19:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Hardware Happy Hour (3H) Phoenix",
     "curated": false
   },
   {
@@ -256,7 +256,7 @@
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "The Multimodal Society",
+    "organization": "The AI Collective",
     "curated": false
   },
   {
@@ -287,6 +287,32 @@
   },
   {
     "source": "Luma",
+    "title": "Ground Truth by Sphere ft. a16z /// For Engineers Building AI in Regulated Industries",
+    "url": "https://lu.ma/ahb7ttbn",
+    "location": "San Francisco, CA",
+    "dates": "Sep 17, 2026 \u00b7 1:00 PM",
+    "sort_date": "2026-09-17 20:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "AI Biotech Block Party: Hosted by Edison Scientific x Multiply Labs",
+    "url": "https://lu.ma/sqrw0b7k",
+    "location": "San Francisco, CA",
+    "dates": "Sep 17, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-09-18 00:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Edison Scientific",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Pitch Roast Live - The S.F. Debut",
     "url": "https://lu.ma/PRLSFdebut",
     "location": "San Francisco, CA",
@@ -296,19 +322,6 @@
     "themes": [],
     "prize": "",
     "organization": "Pitch Roast Live \ud83d\udd25",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Agentic LLMs and Software Architecture",
-    "url": "https://www.meetup.com/azemergingtech/events/315041448/",
-    "location": "Scottsdale, AZ",
-    "dates": "Sep 24, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-24 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Arizona AI & Emerging Technology",
     "curated": false
   },
   {
