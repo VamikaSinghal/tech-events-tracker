@@ -1,71 +1,6 @@
 [
   {
     "source": "Meetup",
-    "title": "Roundtable: Is AI Making You More Productive?",
-    "url": "https://www.meetup.com/indy-net-consortium/events/313039840/",
-    "location": "Online",
-    "dates": "Sep 02, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-09-02 18:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Indy .NET Consortium",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI\u2011Powered Analytics with Power BI MCP Server and Claude",
-    "url": "https://www.meetup.com/hassug/events/316191538/",
-    "location": "Online",
-    "dates": "Sep 02, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-09-02 19:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Houston Area SQL Server User Group (HASSUG)",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Bay Area Frontier Research Club #20 | AI X Bio: Turning Biological Systems into New Tools & Therapies (dinner + paper discussion @ Stanford)",
-    "url": "https://lu.ma/d3ryhrpp",
-    "location": "Stanford, CA",
-    "dates": "Sep 02, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-09-03 00:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "The Frontier Syndicate",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Al Dente: A Founder-Investor pasta-making dinner",
-    "url": "https://lu.ma/pk8b8b5h",
-    "location": "San Francisco, CA",
-    "dates": "Sep 02, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-03 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Circe Calendar",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Deep Tech Startups in the Age of AI by Fifty Years",
-    "url": "https://lu.ma/u5fkxj50",
-    "location": "San Francisco, CA",
-    "dates": "Sep 02, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-09-03 01:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Scientist to Founder Series",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
     "title": "AI for Business & Marketing: Build workflows that move your business forward",
     "url": "https://www.meetup.com/ai-marketing-meetup-group/events/315284347/",
     "location": "Online",
@@ -75,6 +10,19 @@
     "themes": [],
     "prize": "",
     "organization": "AI + Marketing Meetup Group",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Chicago AI Builders & Operators",
+    "url": "https://www.meetup.com/chicago-ai-builders-operators/events/315996855/",
+    "location": "Chicago, IL",
+    "dates": "Sep 03, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-03 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Chicago AI Builders & Operators",
     "curated": false
   },
   {
@@ -157,15 +105,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Get Paid to Train AI + Member-Driven AI Topic of the Week \ud83e\udd16\ud83d\udcb0",
-    "url": "https://www.meetup.com/get-paid-to-train-ai-las-vegas/events/316074694/",
-    "location": "Online",
-    "dates": "Sep 09, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-09-09 16:00:00",
+    "title": "AI Assisted Engineering Series - Planning",
+    "url": "https://www.meetup.com/chicago-ml/events/316281427/",
+    "location": "",
+    "dates": "Sep 09, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-09 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Get Paid to Train AI + AI Learning Community - Las Vegas",
+    "organization": "Chicago ML",
     "curated": false
   },
   {
@@ -260,16 +208,16 @@
     "curated": false
   },
   {
-    "source": "Luma",
-    "title": "The Tasting Menu: 5 Course AI Startups (Dreamforce Edition)",
-    "url": "https://lu.ma/xtrace-2l3m",
-    "location": "San Francisco, CA",
-    "dates": "Sep 15, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-09-16 00:00:00",
+    "source": "Meetup",
+    "title": "Automation, MCP, and vibe coding: what gets built vs. what gets shipped",
+    "url": "https://www.meetup.com/js-chi/events/314509630/",
+    "location": "Chicago, IL",
+    "dates": "Sep 15, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-15 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "XTrace",
+    "organization": "Digital Delivery Chicago (formerly Chicago JavaScript)",
     "curated": false
   },
   {
