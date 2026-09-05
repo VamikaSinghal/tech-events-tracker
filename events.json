@@ -1,18 +1,5 @@
 [
   {
-    "source": "Meetup",
-    "title": "Coding Club",
-    "url": "https://www.meetup.com/westside-coding-club/events/315981920/",
-    "location": "Online",
-    "dates": "Sep 04, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-04 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Westside Coding Club",
-    "curated": false
-  },
-  {
     "source": "Devpost",
     "title": "Syndicate by Maximor",
     "url": "https://syndicate-by-maximor.devpost.com/",
@@ -31,32 +18,6 @@
   },
   {
     "source": "Luma",
-    "title": "San Francisco Health Tech Happy Hour with HTN & Vinta",
-    "url": "https://lu.ma/nh2t70zk",
-    "location": "San Francisco, CA",
-    "dates": "Sep 04, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-09-05 00:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Health Tech Nerds",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Shawarma & Startups - MENA Founders",
-    "url": "https://lu.ma/kf5x9xjg",
-    "location": "San Francisco, CA",
-    "dates": "Sep 04, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-05 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Personal",
-    "curated": false
-  },
-  {
-    "source": "Luma",
     "title": "Spatial Intelligence + Generative 3D Hackathon with Mint, Tripo, World Labs, Convex and Founders Inc.",
     "url": "https://lu.ma/b101ml40",
     "location": "San Francisco, CA",
@@ -66,32 +27,6 @@
     "themes": [],
     "prize": "",
     "organization": "Founders, Inc. Events",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Startupa2z Founders Pitch & Mix",
-    "url": "https://www.meetup.com/hackerdojo/events/316191369/",
-    "location": "Mountain View, CA",
-    "dates": "Sep 07, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-09-07 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Hacker Dojo",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "A Practitioner's Guide to AI-Assisted Coding",
-    "url": "https://www.meetup.com/hackerdojo/events/316377563/",
-    "location": "Mountain View, CA",
-    "dates": "Sep 07, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-09-07 18:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Hacker Dojo",
     "curated": false
   },
   {
@@ -118,6 +53,19 @@
     "themes": [],
     "prize": "",
     "organization": "Get Paid to Train AI + AI Learning Community - Las Vegas",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Mobile Engineering Meetup",
+    "url": "https://www.meetup.com/des-moines-mobile-developers/events/316098796/",
+    "location": "Urbandale, IA",
+    "dates": "Sep 09, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-09 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Des Moines Mobile Developers",
     "curated": false
   },
   {
@@ -160,16 +108,16 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Generative AI Social",
-    "url": "https://www.meetup.com/gen-ai/events/316222906/",
-    "location": "Sunnyvale, CA",
-    "dates": "Sep 10, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-09-10 19:00:00",
+    "source": "Luma",
+    "title": "B2B Founders Chocolate Tasting \ud83c\udf6b",
+    "url": "https://lu.ma/takdk0x1",
+    "location": "Palo Alto, California",
+    "dates": "Sep 10, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-09-10 23:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "South Bay Generative AI",
+    "organization": "BDev Ventures | SF",
     "curated": false
   },
   {
@@ -260,7 +208,33 @@
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "The AI Collective",
+    "organization": "The Multimodal Society",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Enhancing Behavior Driven Development (BDD) with AI",
+    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/316356573/",
+    "location": "Des Moines, IA",
+    "dates": "Sep 15, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-15 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Des Moines Artificial Intelligence Group",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI in 2026: Prompt Engineering in ChatGPT and Codex",
+    "url": "https://www.meetup.com/humansoulai/events/315796740/",
+    "location": "Online",
+    "dates": "Sep 15, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-09-15 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "HumanSoulAI",
     "curated": false
   },
   {
@@ -274,19 +248,6 @@
     "themes": [],
     "prize": "",
     "organization": "Machina Ventures",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Autonomy in Motion: Drones, UAV, USV, UUV & Supply Chains - Physical AI Meetup",
-    "url": "https://www.meetup.com/sventrepreneurs/events/316145755/",
-    "location": "Mountain View, CA",
-    "dates": "Sep 17, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-09-17 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Silicon Valley Entrepreneurs & Startups - SVE",
     "curated": false
   },
   {
@@ -316,16 +277,55 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "STARTUPS MIX & PITCH",
-    "url": "https://www.meetup.com/hackerdojo/events/315709596/",
-    "location": "Mountain View, CA",
-    "dates": "Sep 18, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-09-18 18:30:00",
+    "source": "Luma",
+    "title": "AI-Pilling Your Company: A Builder Show & Tell \u2013 by Decagon, Accel & a16z",
+    "url": "https://lu.ma/tewv4rbz",
+    "location": "San Francisco, CA",
+    "dates": "Sep 17, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-09-18 00:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Hacker Dojo",
+    "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "End of Summer | Product Networking Mixer",
+    "url": "https://www.meetup.com/producttank-des-moines-ames/events/316421956/",
+    "location": "Des Moines, IA",
+    "dates": "Sep 22, 2026 \u00b7 4:30 PM",
+    "sort_date": "2026-09-22 16:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "ProductTank Des Moines/Ames",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Pybites Coding Exercises",
+    "url": "https://www.meetup.com/pyowa-iowa-python-user-group/events/316355128/",
+    "location": "Urbandale, IA",
+    "dates": "Sep 22, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-22 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Iowa Python User Group",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "SaltStack: Configuration Management From Cloud Images to Developer Desktops",
+    "url": "https://www.meetup.com/devopsdsm/events/316404457/",
+    "location": "Urbandale, IA",
+    "dates": "Sep 23, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-23 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "DevOpsDSM",
     "curated": false
   },
   {
@@ -339,19 +339,6 @@
     "themes": [],
     "prize": "",
     "organization": "Pitch Roast Live \ud83d\udd25",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI For Startups - Silicon Valley Entrepreneurs",
-    "url": "https://www.meetup.com/sventrepreneurs/events/313502204/",
-    "location": "San Jose, CA",
-    "dates": "Sep 24, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-09-24 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Silicon Valley Entrepreneurs & Startups - SVE",
     "curated": false
   },
   {
