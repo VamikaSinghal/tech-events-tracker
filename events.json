@@ -1,32 +1,15 @@
 [
   {
-    "source": "Devpost",
-    "title": "Syndicate by Maximor",
-    "url": "https://syndicate-by-maximor.devpost.com/",
+    "source": "Meetup",
+    "title": "Coding Club",
+    "url": "https://www.meetup.com/westside-coding-club/events/316431949/",
     "location": "Online",
-    "dates": "Sep 05 - 06, 2026",
-    "sort_date": "2026-09-05 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Beginner Friendly",
-      "Fintech",
-      "Open Ended"
-    ],
-    "prize": "$3,000",
-    "organization": "agent orchestrator",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Spatial Intelligence + Generative 3D Hackathon with Mint, Tripo, World Labs, Convex and Founders Inc.",
-    "url": "https://lu.ma/b101ml40",
-    "location": "San Francisco, CA",
-    "dates": "Sep 05, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-09-05 17:00:00",
+    "dates": "Sep 08, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-08 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Founders, Inc. Events",
+    "organization": "Westside Coding Club",
     "curated": false
   },
   {
@@ -53,19 +36,6 @@
     "themes": [],
     "prize": "",
     "organization": "Get Paid to Train AI + AI Learning Community - Las Vegas",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Mobile Engineering Meetup",
-    "url": "https://www.meetup.com/des-moines-mobile-developers/events/316098796/",
-    "location": "Urbandale, IA",
-    "dates": "Sep 09, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-09-09 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Des Moines Mobile Developers",
     "curated": false
   },
   {
@@ -213,19 +183,6 @@
   },
   {
     "source": "Meetup",
-    "title": "Enhancing Behavior Driven Development (BDD) with AI",
-    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/316356573/",
-    "location": "Des Moines, IA",
-    "dates": "Sep 15, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-09-15 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Des Moines Artificial Intelligence Group",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
     "title": "AI in 2026: Prompt Engineering in ChatGPT and Codex",
     "url": "https://www.meetup.com/humansoulai/events/315796740/",
     "location": "Online",
@@ -290,42 +247,29 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "End of Summer | Product Networking Mixer",
-    "url": "https://www.meetup.com/producttank-des-moines-ames/events/316421956/",
-    "location": "Des Moines, IA",
-    "dates": "Sep 22, 2026 \u00b7 4:30 PM",
-    "sort_date": "2026-09-22 16:30:00",
+    "source": "Luma",
+    "title": "AI Journal Club ft. Google + NVIDIA",
+    "url": "https://lu.ma/0460rgnq",
+    "location": "San Francisco, CA",
+    "dates": "Sep 17, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-18 00:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "ProductTank Des Moines/Ames",
+    "organization": "Workato Community",
     "curated": false
   },
   {
     "source": "Meetup",
-    "title": "Pybites Coding Exercises",
-    "url": "https://www.meetup.com/pyowa-iowa-python-user-group/events/316355128/",
-    "location": "Urbandale, IA",
-    "dates": "Sep 22, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-09-22 17:30:00",
+    "title": "Bay Area AI War Room - SF Edition - Saturday, 10:00 AM",
+    "url": "https://www.meetup.com/bay-area-artificial-war-room/events/313150516/",
+    "location": "San Francisco, CA",
+    "dates": "Sep 19, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-09-19 10:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Iowa Python User Group",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "SaltStack: Configuration Management From Cloud Images to Developer Desktops",
-    "url": "https://www.meetup.com/devopsdsm/events/316404457/",
-    "location": "Urbandale, IA",
-    "dates": "Sep 23, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-23 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "DevOpsDSM",
+    "organization": "Bay Area AI War Room",
     "curated": false
   },
   {
@@ -385,6 +329,32 @@
     "curated": false
   },
   {
+    "source": "Luma",
+    "title": "Above the Fog: Founders \u00d7 Investors Rooftop Mixer",
+    "url": "https://lu.ma/yv2hv22g",
+    "location": "San Francisco, CA",
+    "dates": "Sep 28, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-29 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "SF Startup Labs",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI Workflows PMs Use Every Day",
+    "url": "https://www.meetup.com/producttank-sf/events/316357762/",
+    "location": "San Francisco, CA",
+    "dates": "Sep 30, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-30 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "ProductTank SF",
+    "curated": false
+  },
+  {
     "source": "Devpost",
     "title": "Hyphen-Hacks",
     "url": "https://hyphen-hacks26.devpost.com/",
@@ -416,6 +386,38 @@
     ],
     "prize": "$5,200",
     "organization": "HackStorm",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "Syndicate by Maximor",
+    "url": "https://syndicate-by-maximor.devpost.com/",
+    "location": "Online",
+    "dates": "Sep 05 - 06, 2026",
+    "sort_date": "2026-09-05 00:00:00",
+    "state": "open",
+    "themes": [
+      "Beginner Friendly",
+      "Fintech",
+      "Open Ended"
+    ],
+    "prize": "$3,000",
+    "organization": "agent orchestrator",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "test-event",
+    "url": "https://cv-test-hackathon.devpost.com/",
+    "location": "San Francisco, CA, USA",
+    "dates": "Sep 06, 2026",
+    "sort_date": "2026-09-06 00:00:00",
+    "state": "open",
+    "themes": [
+      "Machine Learning/AI"
+    ],
+    "prize": "$987",
+    "organization": "Cerebral Valley",
     "curated": false
   }
 ]
