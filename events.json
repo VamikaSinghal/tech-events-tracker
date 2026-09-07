@@ -1,15 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "Coding Club",
-    "url": "https://www.meetup.com/westside-coding-club/events/316431949/",
+    "title": "Lunch and Learn: Build Skills \u2014 Teach Your AI Agents How You Work",
+    "url": "https://www.meetup.com/all-things-ai-live/events/316064500/",
     "location": "Online",
-    "dates": "Sep 08, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-08 18:00:00",
+    "dates": "Sep 08, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-09-08 12:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Westside Coding Club",
+    "organization": "All Things AI (Live)",
     "curated": false
   },
   {
@@ -27,15 +27,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Get Paid to Train AI + Member-Driven AI Topic of the Week \ud83e\udd16\ud83d\udcb0",
-    "url": "https://www.meetup.com/get-paid-to-train-ai-las-vegas/events/316074694/",
-    "location": "Online",
-    "dates": "Sep 09, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-09-09 16:00:00",
+    "title": "AI Assisted Engineering Series - Planning",
+    "url": "https://www.meetup.com/chicago-ml/events/316281427/",
+    "location": "",
+    "dates": "Sep 09, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-09 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Get Paid to Train AI + AI Learning Community - Las Vegas",
+    "organization": "Chicago ML",
     "curated": false
   },
   {
@@ -183,15 +183,15 @@
   },
   {
     "source": "Meetup",
-    "title": "AI in 2026: Prompt Engineering in ChatGPT and Codex",
-    "url": "https://www.meetup.com/humansoulai/events/315796740/",
-    "location": "Online",
-    "dates": "Sep 15, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-09-15 19:00:00",
+    "title": "Automation, MCP, and vibe coding: what gets built vs. what gets shipped",
+    "url": "https://www.meetup.com/js-chi/events/314509630/",
+    "location": "Chicago, IL",
+    "dates": "Sep 15, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-15 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "HumanSoulAI",
+    "organization": "Digital Delivery Chicago (formerly Chicago JavaScript)",
     "curated": false
   },
   {
@@ -257,19 +257,6 @@
     "themes": [],
     "prize": "",
     "organization": "Workato Community",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Bay Area AI War Room - SF Edition - Saturday, 10:00 AM",
-    "url": "https://www.meetup.com/bay-area-artificial-war-room/events/313150516/",
-    "location": "San Francisco, CA",
-    "dates": "Sep 19, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-09-19 10:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Bay Area AI War Room",
     "curated": false
   },
   {
@@ -342,19 +329,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "AI Workflows PMs Use Every Day",
-    "url": "https://www.meetup.com/producttank-sf/events/316357762/",
-    "location": "San Francisco, CA",
-    "dates": "Sep 30, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-30 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "ProductTank SF",
-    "curated": false
-  },
-  {
     "source": "Devpost",
     "title": "Hyphen-Hacks",
     "url": "https://hyphen-hacks26.devpost.com/",
@@ -386,38 +360,6 @@
     ],
     "prize": "$5,200",
     "organization": "HackStorm",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "Syndicate by Maximor",
-    "url": "https://syndicate-by-maximor.devpost.com/",
-    "location": "Online",
-    "dates": "Sep 05 - 06, 2026",
-    "sort_date": "2026-09-05 00:00:00",
-    "state": "open",
-    "themes": [
-      "Beginner Friendly",
-      "Fintech",
-      "Open Ended"
-    ],
-    "prize": "$3,000",
-    "organization": "agent orchestrator",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "test-event",
-    "url": "https://cv-test-hackathon.devpost.com/",
-    "location": "San Francisco, CA, USA",
-    "dates": "Sep 06, 2026",
-    "sort_date": "2026-09-06 00:00:00",
-    "state": "open",
-    "themes": [
-      "Machine Learning/AI"
-    ],
-    "prize": "$987",
-    "organization": "Cerebral Valley",
     "curated": false
   }
 ]
