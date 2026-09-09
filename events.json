@@ -1,18 +1,5 @@
 [
   {
-    "source": "Luma",
-    "title": "Blinkko Launch Party: A first look at the social wearable that brings AI into real-world connection.",
-    "url": "https://lu.ma/bpipdia5",
-    "location": "San Francisco, CA",
-    "dates": "Sep 08, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-09 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Blinkko",
-    "curated": false
-  },
-  {
     "source": "Meetup",
     "title": "Get Paid to Train AI + Member-Driven AI Topic of the Week \ud83e\udd16\ud83d\udcb0",
     "url": "https://www.meetup.com/get-paid-to-train-ai-las-vegas/events/316074694/",
@@ -27,20 +14,20 @@
   },
   {
     "source": "Meetup",
-    "title": "Mobile Engineering Meetup",
-    "url": "https://www.meetup.com/des-moines-mobile-developers/events/316098796/",
-    "location": "Urbandale, IA",
+    "title": "AI Dev Night - Coding agents and AI-native development",
+    "url": "https://www.meetup.com/sfbay-ai/events/316269830/",
+    "location": "",
     "dates": "Sep 09, 2026 \u00b7 5:30 PM",
     "sort_date": "2026-09-09 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Des Moines Mobile Developers",
+    "organization": "SF AI",
     "curated": false
   },
   {
     "source": "Luma",
-    "title": "Bay Area Frontier Research Club #22 | Robotics & Embodied AI (dinner + paper discussion @ Mission Robotics)",
+    "title": "Bay Area Frontier Research Club #22 | Robotics & Embodied AI: The 20-Watt Problem (dinner + paper discussion @ Mission Robotics)",
     "url": "https://lu.ma/7wv4khq9",
     "location": "San Francisco, CA",
     "dates": "Sep 09, 2026 \u00b7 5:30 PM",
@@ -182,19 +169,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Enhancing Behavior Driven Development (BDD) with AI",
-    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/316356573/",
-    "location": "Des Moines, IA",
-    "dates": "Sep 15, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-09-15 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Des Moines Artificial Intelligence Group",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Humongous AI Meetup",
     "url": "https://lu.ma/lyzw2vit",
@@ -235,19 +209,6 @@
   },
   {
     "source": "Luma",
-    "title": "AI-Pilling Your Company: A Builder Show & Tell \u2013 by Decagon, Accel & a16z",
-    "url": "https://lu.ma/tewv4rbz",
-    "location": "San Francisco, CA",
-    "dates": "Sep 17, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-09-18 00:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Personal",
-    "curated": false
-  },
-  {
-    "source": "Luma",
     "title": "AI Journal Club ft. Google + NVIDIA",
     "url": "https://lu.ma/0460rgnq",
     "location": "San Francisco, CA",
@@ -260,42 +221,29 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "End of Summer | Product Networking Mixer",
-    "url": "https://www.meetup.com/producttank-des-moines-ames/events/316421956/",
-    "location": "Des Moines, IA",
-    "dates": "Sep 22, 2026 \u00b7 4:30 PM",
-    "sort_date": "2026-09-22 16:30:00",
+    "source": "Luma",
+    "title": "Deep Tech Networking Brunch",
+    "url": "https://lu.ma/events-cm5i",
+    "location": "Berkeley, CA",
+    "dates": "Sep 18, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-09-18 16:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "ProductTank Des Moines/Ames",
+    "organization": "Events @ Bakar Labs",
     "curated": false
   },
   {
     "source": "Meetup",
-    "title": "Pybites Coding Exercises",
-    "url": "https://www.meetup.com/pyowa-iowa-python-user-group/events/316355128/",
-    "location": "Urbandale, IA",
-    "dates": "Sep 22, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-09-22 17:30:00",
+    "title": "Bay Area AI War Room - SF Edition - Saturday, 10:00 AM",
+    "url": "https://www.meetup.com/bay-area-artificial-war-room/events/313150516/",
+    "location": "San Francisco, CA",
+    "dates": "Sep 19, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-09-19 10:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Iowa Python User Group",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "SaltStack: Configuration Management From Cloud Images to Developer Desktops",
-    "url": "https://www.meetup.com/devopsdsm/events/316404457/",
-    "location": "Urbandale, IA",
-    "dates": "Sep 23, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-23 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "DevOpsDSM",
+    "organization": "Bay Area AI War Room",
     "curated": false
   },
   {
@@ -368,6 +316,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "AI Workflows PMs Use Every Day",
+    "url": "https://www.meetup.com/producttank-sf/events/316357762/",
+    "location": "San Francisco, CA",
+    "dates": "Sep 30, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-30 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "ProductTank SF",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Founder Friends San Francisco",
     "url": "https://lu.ma/4xjpmq1m",
@@ -378,6 +339,32 @@
     "themes": [],
     "prize": "",
     "organization": "Hustle Fund Events",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "SF Tech Week: Building Your Discord Server Through Every Stage of Game Dev",
+    "url": "https://www.meetup.com/monthly-sf-game-development-community/events/316191143/",
+    "location": "San Francisco, CA",
+    "dates": "Oct 06, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-10-06 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "SF Game Development",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Practical AI for Documentation",
+    "url": "https://www.meetup.com/write-the-docs-bay-area/events/316163978/",
+    "location": "San Francisco, CA",
+    "dates": "Oct 06, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-10-06 18:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Write the Docs Bay Area",
     "curated": false
   },
   {
