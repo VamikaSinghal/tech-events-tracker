@@ -1,5 +1,31 @@
 [
   {
+    "source": "Meetup",
+    "title": "AI for FemTech: Monthly Meetup",
+    "url": "https://www.meetup.com/irvine-ladies-women-meetup-group/events/315903514/",
+    "location": "Online",
+    "dates": "Sep 12, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-09-12 10:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI for FemTech",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Agentic AI and the 5 types of bots",
+    "url": "https://www.meetup.com/owasp-las-vegas-chapter/events/316183729/",
+    "location": "Online",
+    "dates": "Sep 12, 2026 \u00b7 2:00 PM",
+    "sort_date": "2026-09-12 14:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "OWASP Las Vegas Chapter",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Live Models Hackathon, hosted by Visko x Reactor x Nebius",
     "url": "https://lu.ma/gh4256ju",
@@ -65,6 +91,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "AI in 2026: Prompt Engineering in ChatGPT and Codex",
+    "url": "https://www.meetup.com/humansoulai/events/315796740/",
+    "location": "Online",
+    "dates": "Sep 15, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-09-15 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "HumanSoulAI",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Humongous AI Meetup",
     "url": "https://lu.ma/lyzw2vit",
@@ -88,19 +127,6 @@
     "themes": [],
     "prize": "",
     "organization": "Personal",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "AI Biotech Block Party: Hosted by Edison Scientific x Multiply Labs",
-    "url": "https://lu.ma/sqrw0b7k",
-    "location": "San Francisco, CA",
-    "dates": "Sep 17, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-09-18 00:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Edison Scientific",
     "curated": false
   },
   {
@@ -131,41 +157,15 @@
   },
   {
     "source": "Meetup",
-    "title": "End of Summer | Product Networking Mixer",
-    "url": "https://www.meetup.com/producttank-des-moines-ames/events/316421956/",
-    "location": "Des Moines, IA",
-    "dates": "Sep 22, 2026 \u00b7 4:30 PM",
-    "sort_date": "2026-09-22 16:30:00",
+    "title": "Mastering Guardrails for Generative AI Testing",
+    "url": "https://www.meetup.com/tampa-artificial-intelligence-applications-meetup-group/events/316310080/",
+    "location": "Online",
+    "dates": "Sep 22, 2026 \u00b7 7:30 PM",
+    "sort_date": "2026-09-22 19:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "ProductTank Des Moines/Ames",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Pybites Coding Exercises",
-    "url": "https://www.meetup.com/pyowa-iowa-python-user-group/events/316355128/",
-    "location": "Urbandale, IA",
-    "dates": "Sep 22, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-09-22 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Iowa Python User Group",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "SaltStack: Configuration Management From Cloud Images to Developer Desktops",
-    "url": "https://www.meetup.com/devopsdsm/events/316404457/",
-    "location": "Urbandale, IA",
-    "dates": "Sep 23, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-23 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "DevOpsDSM",
+    "organization": "Tampa AI Applications Meetup Group",
     "curated": false
   },
   {
@@ -196,7 +196,7 @@
   },
   {
     "source": "Luma",
-    "title": "Hardware Pitch Night - Studio 45",
+    "title": "Hardware Pitch Night @ Studio 45",
     "url": "https://lu.ma/bhmbsn8p",
     "location": "San Francisco, CA",
     "dates": "Sep 24, 2026 \u00b7 6:00 PM",
@@ -261,6 +261,19 @@
     "themes": [],
     "prize": "",
     "organization": "Hustle Fund Events",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI for business operations: Save time, make decisions, and streamline work",
+    "url": "https://www.meetup.com/ai-marketing-meetup-group/events/315279498/",
+    "location": "Online",
+    "dates": "Oct 06, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-10-06 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI + Marketing Meetup Group",
     "curated": false
   },
   {
