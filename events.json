@@ -1,45 +1,6 @@
 [
   {
     "source": "Meetup",
-    "title": "AI for FemTech: Monthly Meetup",
-    "url": "https://www.meetup.com/irvine-ladies-women-meetup-group/events/315903514/",
-    "location": "Online",
-    "dates": "Sep 12, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-09-12 10:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI for FemTech",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Agentic AI and the 5 types of bots",
-    "url": "https://www.meetup.com/owasp-las-vegas-chapter/events/316183729/",
-    "location": "Online",
-    "dates": "Sep 12, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-09-12 14:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "OWASP Las Vegas Chapter",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Live Models Hackathon, hosted by Visko x Reactor x Nebius",
-    "url": "https://lu.ma/gh4256ju",
-    "location": "San Francisco, CA",
-    "dates": "Sep 12, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-09-12 17:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Personal",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
     "title": "King \u2212 Man + Woman = Queen: How AI Learns the Meaning of Words",
     "url": "https://www.meetup.com/machine-learning-workshop/events/316152368/",
     "location": "Online",
@@ -49,19 +10,6 @@
     "themes": [],
     "prize": "",
     "organization": "AI Office Hours",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "AI Filmmaking Masterclass + Hackathon",
-    "url": "https://lu.ma/pw54q8np",
-    "location": "San Francisco, CA",
-    "dates": "Sep 13, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-09-13 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "The Multimodal Society",
     "curated": false
   },
   {
@@ -92,15 +40,54 @@
   },
   {
     "source": "Meetup",
-    "title": "AI in 2026: Prompt Engineering in ChatGPT and Codex",
-    "url": "https://www.meetup.com/humansoulai/events/315796740/",
-    "location": "Online",
-    "dates": "Sep 15, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-09-15 19:00:00",
+    "title": "Automation, MCP, and vibe coding: what gets built vs. what gets shipped",
+    "url": "https://www.meetup.com/js-chi/events/314509630/",
+    "location": "Chicago, IL",
+    "dates": "Sep 15, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-15 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "HumanSoulAI",
+    "organization": "Digital Delivery Chicago (formerly Chicago JavaScript)",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Building AI Agents You Can Trust Workshop",
+    "url": "https://www.meetup.com/code-and-coffee-chicago/events/316487727/",
+    "location": "Chicago, IL",
+    "dates": "Sep 15, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-15 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Chicago Code and Coffee",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Grok Bot for Product Managers",
+    "url": "https://lu.ma/spacexai-qki6",
+    "location": "San Francisco, CA",
+    "dates": "Sep 15, 2026 \u00b7 2:30 PM",
+    "sort_date": "2026-09-15 21:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Grok Bot",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Grok Bot for Founders",
+    "url": "https://lu.ma/spacexai-74df",
+    "location": "San Francisco, CA",
+    "dates": "Sep 15, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-09-15 23:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Grok Bot",
     "curated": false
   },
   {
@@ -156,19 +143,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Mastering Guardrails for Generative AI Testing",
-    "url": "https://www.meetup.com/tampa-artificial-intelligence-applications-meetup-group/events/316310080/",
-    "location": "Online",
-    "dates": "Sep 22, 2026 \u00b7 7:30 PM",
-    "sort_date": "2026-09-22 19:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Tampa AI Applications Meetup Group",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Pitch Roast Live - The S.F. Debut",
     "url": "https://lu.ma/PRLSFdebut",
@@ -179,6 +153,19 @@
     "themes": [],
     "prize": "",
     "organization": "Pitch Roast Live \ud83d\udd25",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Using AI Harnesses to Harness Microsoft Fabric",
+    "url": "https://www.meetup.com/chicagolandpowerbi/events/315787998/",
+    "location": "Chicago, IL",
+    "dates": "Sep 24, 2026 \u00b7 3:00 PM",
+    "sort_date": "2026-09-24 15:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Chicago Fabric / Power BI User Group",
     "curated": false
   },
   {
@@ -264,16 +251,29 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "AI for business operations: Save time, make decisions, and streamline work",
-    "url": "https://www.meetup.com/ai-marketing-meetup-group/events/315279498/",
-    "location": "Online",
-    "dates": "Oct 06, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-10-06 16:00:00",
+    "source": "Luma",
+    "title": "Ship it & Sip it: Software Factories Night",
+    "url": "https://lu.ma/copilo-y6wx",
+    "location": "San Francisco, CA",
+    "dates": "Oct 05, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-06 01:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AI + Marketing Meetup Group",
+    "organization": "CopilotKit",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Developer Workflows in AI Age - Local or Cloud",
+    "url": "https://www.meetup.com/the-chicago-cloud-computing-meetup-group/events/312946608/",
+    "location": "Chicago, IL",
+    "dates": "Oct 06, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-06 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "The Chicago Cloud Computing Meetup Group",
     "curated": false
   },
   {
