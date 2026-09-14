@@ -1,18 +1,5 @@
 [
   {
-    "source": "Meetup",
-    "title": "King \u2212 Man + Woman = Queen: How AI Learns the Meaning of Words",
-    "url": "https://www.meetup.com/machine-learning-workshop/events/316152368/",
-    "location": "Online",
-    "dates": "Sep 13, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-09-13 14:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Office Hours",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "What is Law in the Age of AI?",
     "url": "https://lu.ma/81aqxabn",
@@ -39,6 +26,32 @@
     "curated": false
   },
   {
+    "source": "Luma",
+    "title": "Fundraising as a Female Founder",
+    "url": "https://lu.ma/u8y0thrp",
+    "location": "San Francisco, CA",
+    "dates": "Sep 14, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-09-15 01:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Founders on Tap",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "90/30 Club Reading: Can LLM Agents Discover? Evaluating Creativity on ML Engineering Tasks",
+    "url": "https://lu.ma/jgeqv9um",
+    "location": "San Francisco, CA",
+    "dates": "Sep 14, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-09-15 02:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "90/30 Club",
+    "curated": false
+  },
+  {
     "source": "Meetup",
     "title": "Automation, MCP, and vibe coding: what gets built vs. what gets shipped",
     "url": "https://www.meetup.com/js-chi/events/314509630/",
@@ -62,6 +75,19 @@
     "themes": [],
     "prize": "",
     "organization": "Chicago Code and Coffee",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI in 2026: Prompt Engineering in ChatGPT and Codex",
+    "url": "https://www.meetup.com/humansoulai/events/315796740/",
+    "location": "Online",
+    "dates": "Sep 15, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-09-15 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "HumanSoulAI",
     "curated": false
   },
   {
@@ -153,19 +179,6 @@
     "themes": [],
     "prize": "",
     "organization": "Pitch Roast Live \ud83d\udd25",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Using AI Harnesses to Harness Microsoft Fabric",
-    "url": "https://www.meetup.com/chicagolandpowerbi/events/315787998/",
-    "location": "Chicago, IL",
-    "dates": "Sep 24, 2026 \u00b7 3:00 PM",
-    "sort_date": "2026-09-24 15:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Chicago Fabric / Power BI User Group",
     "curated": false
   },
   {
@@ -274,6 +287,19 @@
     "themes": [],
     "prize": "",
     "organization": "The Chicago Cloud Computing Meetup Group",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "SF Tech Week Agent Day",
+    "url": "https://lu.ma/7wn8tsf7",
+    "location": "Menlo Park, California",
+    "dates": "Oct 09, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-10-09 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Open Source for AI",
     "curated": false
   },
   {
