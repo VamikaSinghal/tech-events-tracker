@@ -1,83 +1,5 @@
 [
   {
-    "source": "Luma",
-    "title": "What is Law in the Age of AI?",
-    "url": "https://lu.ma/81aqxabn",
-    "location": "San Francisco, CA",
-    "dates": "Sep 14, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-09-15 00:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Imbue Events",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Women + AI x Luxfit Collab: Oh, She Lifts",
-    "url": "https://lu.ma/f49ieour",
-    "location": "San Francisco, CA",
-    "dates": "Sep 14, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-15 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Women + AI",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Fundraising as a Female Founder",
-    "url": "https://lu.ma/u8y0thrp",
-    "location": "San Francisco, CA",
-    "dates": "Sep 14, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-09-15 01:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Founders on Tap",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "90/30 Club Reading: Can LLM Agents Discover? Evaluating Creativity on ML Engineering Tasks",
-    "url": "https://lu.ma/jgeqv9um",
-    "location": "San Francisco, CA",
-    "dates": "Sep 14, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-09-15 02:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "90/30 Club",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Automation, MCP, and vibe coding: what gets built vs. what gets shipped",
-    "url": "https://www.meetup.com/js-chi/events/314509630/",
-    "location": "Chicago, IL",
-    "dates": "Sep 15, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-09-15 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Digital Delivery Chicago (formerly Chicago JavaScript)",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Building AI Agents You Can Trust Workshop",
-    "url": "https://www.meetup.com/code-and-coffee-chicago/events/316487727/",
-    "location": "Chicago, IL",
-    "dates": "Sep 15, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-09-15 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Chicago Code and Coffee",
-    "curated": false
-  },
-  {
     "source": "Meetup",
     "title": "AI in 2026: Prompt Engineering in ChatGPT and Codex",
     "url": "https://www.meetup.com/humansoulai/events/315796740/",
@@ -105,15 +27,15 @@
   },
   {
     "source": "Luma",
-    "title": "Grok Bot for Founders",
-    "url": "https://lu.ma/spacexai-74df",
+    "title": "3x GTM: Selling at AI Speed (SF)",
+    "url": "https://lu.ma/7xa5tvva",
     "location": "San Francisco, CA",
-    "dates": "Sep 15, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-09-15 23:00:00",
+    "dates": "Sep 15, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-09-16 01:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Grok Bot",
+    "organization": "EliseAI",
     "curated": false
   },
   {
@@ -127,6 +49,19 @@
     "themes": [],
     "prize": "",
     "organization": "Machina Ventures",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Voice AI Happy Hour & Fireside Chat",
+    "url": "https://lu.ma/h2qu25rt",
+    "location": "San Francisco, CA",
+    "dates": "Sep 16, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-17 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Coval",
     "curated": false
   },
   {
@@ -166,6 +101,45 @@
     "themes": [],
     "prize": "",
     "organization": "Events @ Bakar Labs",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "End of Summer | Product Networking Mixer",
+    "url": "https://www.meetup.com/producttank-des-moines-ames/events/316421956/",
+    "location": "Des Moines, IA",
+    "dates": "Sep 22, 2026 \u00b7 4:30 PM",
+    "sort_date": "2026-09-22 16:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "ProductTank Des Moines/Ames",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Pybites Coding Exercises",
+    "url": "https://www.meetup.com/pyowa-iowa-python-user-group/events/316355128/",
+    "location": "Urbandale, IA",
+    "dates": "Sep 22, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-22 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Iowa Python User Group",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "SaltStack: Configuration Management From Cloud Images to Developer Desktops",
+    "url": "https://www.meetup.com/devopsdsm/events/316404457/",
+    "location": "Urbandale, IA",
+    "dates": "Sep 23, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-23 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "DevOpsDSM",
     "curated": false
   },
   {
@@ -274,19 +248,6 @@
     "themes": [],
     "prize": "",
     "organization": "CopilotKit",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Developer Workflows in AI Age - Local or Cloud",
-    "url": "https://www.meetup.com/the-chicago-cloud-computing-meetup-group/events/312946608/",
-    "location": "Chicago, IL",
-    "dates": "Oct 06, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-10-06 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "The Chicago Cloud Computing Meetup Group",
     "curated": false
   },
   {
