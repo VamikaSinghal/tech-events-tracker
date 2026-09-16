@@ -1,41 +1,15 @@
 [
   {
-    "source": "Meetup",
-    "title": "AI in 2026: Prompt Engineering in ChatGPT and Codex",
-    "url": "https://www.meetup.com/humansoulai/events/315796740/",
-    "location": "Online",
-    "dates": "Sep 15, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-09-15 19:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "HumanSoulAI",
-    "curated": false
-  },
-  {
     "source": "Luma",
-    "title": "Grok Bot for Product Managers",
-    "url": "https://lu.ma/spacexai-qki6",
+    "title": "Bay Area Frontier Research Club #23 | Founders Edition: The Knowledge Supply Chain (dinner + paper discussion @ AGI House SF)",
+    "url": "https://lu.ma/wgvn22n1",
     "location": "San Francisco, CA",
-    "dates": "Sep 15, 2026 \u00b7 2:30 PM",
-    "sort_date": "2026-09-15 21:30:00",
+    "dates": "Sep 16, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-09-17 00:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Grok Bot",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "3x GTM: Selling at AI Speed (SF)",
-    "url": "https://lu.ma/7xa5tvva",
-    "location": "San Francisco, CA",
-    "dates": "Sep 15, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-09-16 01:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "EliseAI",
+    "organization": "The Frontier Syndicate",
     "curated": false
   },
   {
@@ -62,6 +36,19 @@
     "themes": [],
     "prize": "",
     "organization": "Coval",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Harness Engineering: What Actually Runs Your AI Agent",
+    "url": "https://www.meetup.com/meetup-group-ufpdcpso/events/316374289/",
+    "location": "Online",
+    "dates": "Sep 17, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-17 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Charlotte Artificial Intelligence Meetup Group",
     "curated": false
   },
   {
@@ -104,6 +91,22 @@
     "curated": false
   },
   {
+    "source": "Devpost",
+    "title": "Alpaca x Conviction Trading Hackathon",
+    "url": "https://conviction-trading-hack.devpost.com/",
+    "location": "Frontier Tower",
+    "dates": "Sep 20, 2026",
+    "sort_date": "2026-09-20 00:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Fintech",
+      "Machine Learning/AI"
+    ],
+    "prize": "$2,000",
+    "organization": "Alpaca",
+    "curated": false
+  },
+  {
     "source": "Meetup",
     "title": "End of Summer | Product Networking Mixer",
     "url": "https://www.meetup.com/producttank-des-moines-ames/events/316421956/",
@@ -140,6 +143,19 @@
     "themes": [],
     "prize": "",
     "organization": "DevOpsDSM",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Field Notes: The Product Manager as Builder",
+    "url": "https://lu.ma/pm-field-notes",
+    "location": "San Francisco, CA",
+    "dates": "Sep 23, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-24 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Scout",
     "curated": false
   },
   {
@@ -252,6 +268,19 @@
   },
   {
     "source": "Luma",
+    "title": "The SOLO Founder Club",
+    "url": "https://lu.ma/ejwagfv9",
+    "location": "San Francisco, CA",
+    "dates": "Oct 06, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-10-06 23:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Array Ventures",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "SF Tech Week Agent Day",
     "url": "https://lu.ma/7wn8tsf7",
     "location": "Menlo Park, California",
@@ -278,6 +307,32 @@
     ],
     "prize": "$0",
     "organization": "Lick-Wilmerding High School",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Company Brain Hackathon: Build an AI Agent That Knows Your Organization",
+    "url": "https://lu.ma/oct-hackathon",
+    "location": "Menlo Park, CA",
+    "dates": "Oct 12, 2026 \u00b7 1:00 PM",
+    "sort_date": "2026-10-12 20:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "TechEquity Ai - Silicon Valley",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Agentic + AI Observability Meetup SF",
+    "url": "https://lu.ma/Agentic_AI_10-13",
+    "location": "San Francisco, California",
+    "dates": "Oct 13, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-10-14 00:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Agentic + AI Observability",
     "curated": false
   },
   {
