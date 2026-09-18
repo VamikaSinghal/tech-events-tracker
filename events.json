@@ -1,83 +1,5 @@
 [
   {
-    "source": "Meetup",
-    "title": "The OWASP Top 10 for Gen AI (Virtual)",
-    "url": "https://www.meetup.com/owasp-slc/events/316405927/",
-    "location": "Online",
-    "dates": "Sep 17, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-09-17 12:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "OWASP SLC / Wasatch AppSec",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI Professional Certification Summit!",
-    "url": "https://www.meetup.com/denver-startup-idea-to-ipo/events/316201626/",
-    "location": "Online",
-    "dates": "Sep 17, 2026 \u00b7 1:00 PM",
-    "sort_date": "2026-09-17 13:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Colorado  Startup: Idea to IPO",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Harness Engineering: What Actually Runs Your AI Agent",
-    "url": "https://www.meetup.com/meetup-group-ufpdcpso/events/316374289/",
-    "location": "Online",
-    "dates": "Sep 17, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-17 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Charlotte Artificial Intelligence Meetup Group",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Ground Truth by Sphere ft. a16z /// For Engineers Building AI in Regulated Industries",
-    "url": "https://lu.ma/ahb7ttbn",
-    "location": "San Francisco, CA",
-    "dates": "Sep 17, 2026 \u00b7 1:00 PM",
-    "sort_date": "2026-09-17 20:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Personal",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "AI Journal Club ft. Google + NVIDIA",
-    "url": "https://lu.ma/0460rgnq",
-    "location": "San Francisco, CA",
-    "dates": "Sep 17, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-09-18 00:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Workato Community",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Deep Tech Networking Brunch",
-    "url": "https://lu.ma/events-cm5i",
-    "location": "Berkeley, CA",
-    "dates": "Sep 18, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-09-18 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Events @ Bakar Labs",
-    "curated": false
-  },
-  {
     "source": "Devpost",
     "title": "Alpaca x Conviction Trading Hackathon",
     "url": "https://conviction-trading-hack.devpost.com/",
@@ -107,6 +29,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Virtual: Shift-Left Performance Engineering for Agentic AI with CI/CD",
+    "url": "https://www.meetup.com/innovate-qa-seattle-meetup-group/events/316504719/",
+    "location": "Online",
+    "dates": "Sep 23, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-09-23 09:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Innovate QA Meetup Group",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Field Notes: The Product Manager as Builder",
     "url": "https://lu.ma/pm-field-notes",
@@ -130,6 +65,19 @@
     "themes": [],
     "prize": "",
     "organization": "Pitch Roast Live \ud83d\udd25",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI Defense Lab 2026 |  Register only using Link\u2b07\ufe0f",
+    "url": "https://www.meetup.com/seattle-data-ai-security-dallas/events/316203008/",
+    "location": "Online",
+    "dates": "Sep 24, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-09-24 10:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Dallas | Seattle Data AI Security",
     "curated": false
   },
   {
@@ -212,6 +160,19 @@
     "themes": [],
     "prize": "",
     "organization": "SF Startup Labs",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Cache Me Outside: A Rooftop Party at the AI Conference",
+    "url": "https://lu.ma/wesjv6eq",
+    "location": "San Francisco, CA",
+    "dates": "Sep 30, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-10-01 00:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Baseten Events",
     "curated": false
   },
   {
@@ -320,6 +281,23 @@
     "themes": [],
     "prize": "",
     "organization": "Agentic + AI Observability",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "Arm + ExecuTorch: Edge AI Challenge",
+    "url": "https://arm-executorch.devpost.com/",
+    "location": "San Francisco State University",
+    "dates": "Oct 16 - 17, 2026",
+    "sort_date": "2026-10-16 00:00:00",
+    "state": "upcoming",
+    "themes": [
+      "AR/VR",
+      "IoT",
+      "Machine Learning/AI"
+    ],
+    "prize": "$0",
+    "organization": "arm",
     "curated": false
   },
   {
