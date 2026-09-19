@@ -29,19 +29,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Virtual: Shift-Left Performance Engineering for Agentic AI with CI/CD",
-    "url": "https://www.meetup.com/innovate-qa-seattle-meetup-group/events/316504719/",
-    "location": "Online",
-    "dates": "Sep 23, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-09-23 09:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Innovate QA Meetup Group",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Field Notes: The Product Manager as Builder",
     "url": "https://lu.ma/pm-field-notes",
@@ -91,6 +78,19 @@
     "themes": [],
     "prize": "",
     "organization": "Obvious Community Events",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Find a Cofounder / Help or Join a Tech Startup",
+    "url": "https://www.meetup.com/dc-startup-cofounders/events/314897746/",
+    "location": "Online",
+    "dates": "Sep 24, 2026 \u00b7 8:00 PM",
+    "sort_date": "2026-09-24 20:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "D.C. Startup Founders & Tech Professionals",
     "curated": false
   },
   {
@@ -163,6 +163,32 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "From Retrieval to Action: GraphRAG Meets Physical AI",
+    "url": "https://www.meetup.com/agentic-ai-context-builders/events/316217896/",
+    "location": "Online",
+    "dates": "Sep 30, 2026 \u00b7 8:00 AM",
+    "sort_date": "2026-09-30 08:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Agentic AI Context Builders",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Make your brand memorable with AI",
+    "url": "https://www.meetup.com/ai-marketing-meetup-group/events/314972272/",
+    "location": "Online",
+    "dates": "Sep 30, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-09-30 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI + Marketing Meetup Group",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Cache Me Outside: A Rooftop Party at the AI Conference",
     "url": "https://lu.ma/wesjv6eq",
@@ -173,6 +199,32 @@
     "themes": [],
     "prize": "",
     "organization": "Baseten Events",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "How AI Models Learn to Do Real Work",
+    "url": "https://lu.ma/icar7u2x",
+    "location": "San Francisco, CA",
+    "dates": "Sep 30, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-10-01 00:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "OpenRouter Events",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Supabase Select 2026 Hackathon",
+    "url": "https://lu.ma/select-2026-hackathon",
+    "location": "San Francisco, CA",
+    "dates": "Oct 03, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-10-03 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Supabase Community Events",
     "curated": false
   },
   {
@@ -202,19 +254,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "AI for business operations: Save time, make decisions, and streamline work",
-    "url": "https://www.meetup.com/ai-marketing-meetup-group/events/315279498/",
-    "location": "Online",
-    "dates": "Oct 06, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-10-06 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI + Marketing Meetup Group",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "The SOLO Founder Club",
     "url": "https://lu.ma/ejwagfv9",
@@ -238,6 +277,19 @@
     "themes": [],
     "prize": "",
     "organization": "Open Source for AI",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Hardware FYI: SF Tech Week Edition",
+    "url": "https://lu.ma/g5sdw0b6",
+    "location": "San Francisco, CA",
+    "dates": "Oct 09, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-10-10 00:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Hardware FYI",
     "curated": false
   },
   {
