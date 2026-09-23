@@ -1,15 +1,41 @@
 [
   {
-    "source": "Luma",
-    "title": "Stripe Developer Meetup San Francisco September 2026",
-    "url": "https://lu.ma/ntusn7f5",
-    "location": "South San Francisco, CA",
-    "dates": "Sep 22, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-23 01:00:00",
+    "source": "Meetup",
+    "title": "Claude 101: Getting Started with Anthropic\u2019s AI Assistant",
+    "url": "https://www.meetup.com/nashuaug/events/316276862/",
+    "location": "Online",
+    "dates": "Sep 23, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-23 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Stripe Developer Meetups",
+    "organization": "Nashua CLOUD .NET User Group",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "How to get your Agentic AI on!",
+    "url": "https://www.meetup.com/it-pro-ai-hump/events/316409350/",
+    "location": "Online",
+    "dates": "Sep 23, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-09-23 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Getting over the AI Hump",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "The Future of Tech Policy in CA with Steve Hilton",
+    "url": "https://lu.ma/tech-policy-r-ca-spc",
+    "location": "San Francisco, California",
+    "dates": "Sep 23, 2026 \u00b7 2:30 PM",
+    "sort_date": "2026-09-23 21:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "South Park Commons",
     "curated": false
   },
   {
@@ -66,15 +92,28 @@
   },
   {
     "source": "Meetup",
-    "title": "Enterprise AI with PhoenixData, Snowflake and CircleCI",
-    "url": "https://www.meetup.com/sfbay-ai/events/316508596/",
-    "location": "San Francisco, CA",
-    "dates": "Sep 24, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-09-24 17:30:00",
+    "title": "Beyond RAG: Building an Evaluated, Self-Improving Agentic AI System",
+    "url": "https://www.meetup.com/meetup-group-ufpdcpso/events/316504446/",
+    "location": "Online",
+    "dates": "Sep 24, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-09-24 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "SF AI",
+    "organization": "Charlotte Artificial Intelligence Meetup Group",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Find a Cofounder / Help or Join a Tech Startup",
+    "url": "https://www.meetup.com/dc-startup-cofounders/events/314897746/",
+    "location": "Online",
+    "dates": "Sep 24, 2026 \u00b7 8:00 PM",
+    "sort_date": "2026-09-24 20:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "D.C. Startup Founders & Tech Professionals",
     "curated": false
   },
   {
@@ -160,19 +199,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Founders Running Club :: Easy 5-10km Run + Talks",
-    "url": "https://www.meetup.com/founders-running-club/events/316125119/",
-    "location": "San Francisco, CA",
-    "dates": "Sep 26, 2026 \u00b7 9:30 AM",
-    "sort_date": "2026-09-26 09:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Founders Running Club :: San Francisco",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Above the Fog: Founders \u00d7 Investors Rooftop Mixer",
     "url": "https://lu.ma/yv2hv22g",
@@ -183,19 +209,6 @@
     "themes": [],
     "prize": "",
     "organization": "SF Startup Labs",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI Workflows PMs Use Every Day",
-    "url": "https://www.meetup.com/producttank-sf/events/316357762/",
-    "location": "San Francisco, CA",
-    "dates": "Sep 30, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-30 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "ProductTank SF",
     "curated": false
   },
   {
@@ -222,19 +235,6 @@
     "themes": [],
     "prize": "",
     "organization": "OpenRouter Events",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "You\u2019re Not Late, You\u2019re Early: Career Value in the AI Era",
-    "url": "https://www.meetup.com/usf-data-science-and-ai-speaker-series/events/315170408/",
-    "location": "San Francisco, Ca",
-    "dates": "Oct 02, 2026 \u00b7 12:30 PM",
-    "sort_date": "2026-10-02 12:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "USF Data Science & Artificial Intelligence Speaker Series",
     "curated": false
   },
   {
@@ -278,28 +278,15 @@
   },
   {
     "source": "Meetup",
-    "title": "SF Tech Week: Building Your Discord Server Through Every Stage of Game Dev",
-    "url": "https://www.meetup.com/monthly-sf-game-development-community/events/316191143/",
-    "location": "San Francisco, CA",
-    "dates": "Oct 06, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-10-06 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "SF Game Development",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Practical AI for Documentation",
-    "url": "https://www.meetup.com/write-the-docs-bay-area/events/316163978/",
-    "location": "San Francisco, CA",
+    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
+    "url": "https://www.meetup.com/codentalk/events/316490680/",
+    "location": "Online",
     "dates": "Oct 06, 2026 \u00b7 6:30 PM",
     "sort_date": "2026-10-06 18:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Write the Docs Bay Area",
+    "organization": "TalknCode",
     "curated": false
   },
   {
@@ -317,6 +304,32 @@
   },
   {
     "source": "Luma",
+    "title": "SF Tech Week AI Demo Night",
+    "url": "https://lu.ma/clickh-zngw",
+    "location": "San Francisco, CA",
+    "dates": "Oct 06, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-10-07 00:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "ClickHouse Events",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
+    "url": "https://www.meetup.com/ac-atl/events/315927621/",
+    "location": "Online",
+    "dates": "Oct 07, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-10-07 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Analytics.Club Atlanta: Data & AI Community, Connect. Grow.",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Open Source AI Stack: Models, Inference, and Agent Harness",
     "url": "https://lu.ma/novita-oas6",
     "location": "San Francisco, CA",
@@ -326,6 +339,32 @@
     "themes": [],
     "prize": "",
     "organization": "Novita AI",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Artificially Unintelligent Tech Comedy Show @ SF Tech Week",
+    "url": "https://lu.ma/SFTWComedy",
+    "location": "San Francisco, CA",
+    "dates": "Oct 07, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-10-08 02:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Start Your Machine Learning & AI Engineering Career | Free 3-Hour Training",
+    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/316625991/",
+    "location": "Online",
+    "dates": "Oct 08, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-10-08 10:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Coding Macaw FREE Bootcamps",
     "curated": false
   },
   {
