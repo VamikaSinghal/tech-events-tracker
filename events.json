@@ -1,93 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "Claude 101: Getting Started with Anthropic\u2019s AI Assistant",
-    "url": "https://www.meetup.com/nashuaug/events/316276862/",
+    "title": "Find a Startup to Help or Join",
+    "url": "https://www.meetup.com/developers-and-ux/events/315306973/",
     "location": "Online",
-    "dates": "Sep 23, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-23 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Nashua CLOUD .NET User Group",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "How to get your Agentic AI on!",
-    "url": "https://www.meetup.com/it-pro-ai-hump/events/316409350/",
-    "location": "Online",
-    "dates": "Sep 23, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-09-23 19:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Getting over the AI Hump",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "The Future of Tech Policy in CA with Steve Hilton",
-    "url": "https://lu.ma/tech-policy-r-ca-spc",
-    "location": "San Francisco, California",
-    "dates": "Sep 23, 2026 \u00b7 2:30 PM",
-    "sort_date": "2026-09-23 21:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "South Park Commons",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "AI Labs 2.0",
-    "url": "https://lu.ma/notion-umzv",
-    "location": "San Francisco, CA",
-    "dates": "Sep 23, 2026 \u00b7 3:00 PM",
-    "sort_date": "2026-09-23 22:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Notion",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Field Notes: The Product Manager as Builder",
-    "url": "https://lu.ma/pm-field-notes",
-    "location": "San Francisco, CA",
-    "dates": "Sep 23, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-24 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Scout",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Pitch Roast Live - The S.F. Debut",
-    "url": "https://lu.ma/PRLSFdebut",
-    "location": "San Francisco, CA",
-    "dates": "Sep 23, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-24 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Pitch Roast Live \ud83d\udd25",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "SF Frontier Hackathon: Build your Autonomous Code Factory",
-    "url": "https://lu.ma/frontierSF",
-    "location": "San Francisco, CA",
-    "dates": "Sep 24, 2026 \u00b7 10:00 AM",
+    "dates": "Sep 24, 2026 \u00b7 5:00 PM",
     "sort_date": "2026-09-24 17:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Obvious Community Events",
+    "organization": "Projects for Software Devs & UX Designers",
     "curated": false
   },
   {
@@ -101,6 +23,19 @@
     "themes": [],
     "prize": "",
     "organization": "Charlotte Artificial Intelligence Meetup Group",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "FREE REMOTE | LADIES IN AI + AI GROWTH CIRCLE (AN OPEN AI FORUM FOR ALL)",
+    "url": "https://www.meetup.com/ai-growth-circle/events/315016393/",
+    "location": "Online",
+    "dates": "Sep 24, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-09-24 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Growth Circle",
     "curated": false
   },
   {
@@ -194,8 +129,21 @@
       "Lifehacks",
       "Social Good"
     ],
-    "prize": "$9,750",
+    "prize": "$9,550",
     "organization": "Shower Hacks",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Berkeley x DeepMind Hackathon: Build. Ship. Pitch. Win.",
+    "url": "https://lu.ma/vmqjw9hv",
+    "location": "Berkeley, CA",
+    "dates": "Sep 27, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-09-27 17:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "GDG Stanford",
     "curated": false
   },
   {
@@ -209,6 +157,19 @@
     "themes": [],
     "prize": "",
     "organization": "SF Startup Labs",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "From Retrieval to Action: GraphRAG Meets Physical AI",
+    "url": "https://www.meetup.com/agentic-ai-context-builders/events/316217896/",
+    "location": "Online",
+    "dates": "Sep 30, 2026 \u00b7 8:00 AM",
+    "sort_date": "2026-09-30 08:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Agentic AI Context Builders",
     "curated": false
   },
   {
@@ -235,6 +196,19 @@
     "themes": [],
     "prize": "",
     "organization": "OpenRouter Events",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Berkeley BCS 2026 AI + Recruiting Summit",
+    "url": "https://lu.ma/24irrudp",
+    "location": "Berkeley, CA",
+    "dates": "Oct 03, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-10-03 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
     "curated": false
   },
   {
@@ -277,19 +251,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
-    "url": "https://www.meetup.com/codentalk/events/316490680/",
-    "location": "Online",
-    "dates": "Oct 06, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-10-06 18:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "TalknCode",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "The SOLO Founder Club",
     "url": "https://lu.ma/ejwagfv9",
@@ -316,19 +277,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
-    "url": "https://www.meetup.com/ac-atl/events/315927621/",
-    "location": "Online",
-    "dates": "Oct 07, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-10-07 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Analytics.Club Atlanta: Data & AI Community, Connect. Grow.",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Open Source AI Stack: Models, Inference, and Agent Harness",
     "url": "https://lu.ma/novita-oas6",
@@ -352,19 +300,6 @@
     "themes": [],
     "prize": "",
     "organization": "Personal",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Start Your Machine Learning & AI Engineering Career | Free 3-Hour Training",
-    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/316625991/",
-    "location": "Online",
-    "dates": "Oct 08, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-10-08 10:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Coding Macaw FREE Bootcamps",
     "curated": false
   },
   {
