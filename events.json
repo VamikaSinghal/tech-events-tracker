@@ -1,15 +1,17 @@
 [
   {
-    "source": "Luma",
-    "title": "San Francisco | Claude Meetup - For the Business Moms: The AI Back Office You Didn't Know You Had",
-    "url": "https://lu.ma/claude-aly0",
-    "location": "San Francisco, CA",
-    "dates": "Sep 25, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-09-25 21:00:00",
+    "source": "Devpost",
+    "title": "Bitrig Hacks iPhone Duo Edition",
+    "url": "https://bitrig-hacks-duo-edition.devpost.com/",
+    "location": "YC San Francisco",
+    "dates": "Sep 26, 2026",
+    "sort_date": "2026-09-26 00:00:00",
     "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Claude Community Events",
+    "themes": [
+      "Mobile"
+    ],
+    "prize": "$0",
+    "organization": "Bitrig",
     "curated": false
   },
   {
@@ -27,6 +29,19 @@
     ],
     "prize": "$9,550",
     "organization": "Shower Hacks",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "JEVATHON (w/ The AI Collective)",
+    "url": "https://lu.ma/aic-jev",
+    "location": "San Francisco, CA",
+    "dates": "Sep 26, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-09-26 17:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "The AI Collective",
     "curated": false
   },
   {
@@ -105,6 +120,19 @@
     "themes": [],
     "prize": "",
     "organization": "Agentic AI Context Builders",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Protecting Human Creators from Generative AI",
+    "url": "https://www.meetup.com/acm-chicago/events/316658488/",
+    "location": "Online",
+    "dates": "Sep 30, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-09-30 18:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "ACM Chicago",
     "curated": false
   },
   {
@@ -196,6 +224,32 @@
     "themes": [],
     "prize": "",
     "organization": "CopilotKit",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Tech Pulse 2030 Chicago",
+    "url": "https://www.meetup.com/ai-2030-responsible-artificial-intelligence/events/313503693/",
+    "location": "Chicago, IL",
+    "dates": "Oct 06, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-10-06 17:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI 2030: Responsible Artificial Intelligence for All",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Developer Workflows in AI Age - Local or Cloud",
+    "url": "https://www.meetup.com/the-chicago-cloud-computing-meetup-group/events/312946608/",
+    "location": "Chicago, IL",
+    "dates": "Oct 06, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-06 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "The Chicago Cloud Computing Meetup Group",
     "curated": false
   },
   {
@@ -346,6 +400,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "AI for Outlook + Lessons from creating an AI multimedia platform",
+    "url": "https://www.meetup.com/js-chi/events/314509646/",
+    "location": "Chicago, IL",
+    "dates": "Oct 13, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-10-13 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Digital Delivery Chicago (formerly Chicago JavaScript)",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Agentic + AI Observability Meetup SF",
     "url": "https://lu.ma/Agentic_AI_10-13",
@@ -356,19 +423,6 @@
     "themes": [],
     "prize": "",
     "organization": "Agentic + AI Observability",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "3 Illusions in Software Delivery with Joel Tosi",
-    "url": "https://www.meetup.com/producttank-des-moines-ames/events/316553691/",
-    "location": "Des Moines, IA",
-    "dates": "Oct 14, 2026 \u00b7 4:30 PM",
-    "sort_date": "2026-10-14 16:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "ProductTank Des Moines/Ames",
     "curated": false
   },
   {
@@ -412,32 +466,6 @@
     "themes": [],
     "prize": "",
     "organization": "Hugging Face",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Reimagining Analytics Delivery for the AI Era",
-    "url": "https://www.meetup.com/des-moines-data-analytics/events/316665472/",
-    "location": "Des Moines, IA",
-    "dates": "Oct 20, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-10-20 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Des Moines Data & Analytics",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Building a physical product in the age of AI",
-    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/316356587/",
-    "location": "Des Moines, IA",
-    "dates": "Oct 20, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-10-20 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Des Moines Artificial Intelligence Group",
     "curated": false
   },
   {
