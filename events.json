@@ -1,73 +1,15 @@
 [
   {
-    "source": "Devpost",
-    "title": "Bitrig Hacks iPhone Duo Edition",
-    "url": "https://bitrig-hacks-duo-edition.devpost.com/",
-    "location": "YC San Francisco",
-    "dates": "Sep 26, 2026",
-    "sort_date": "2026-09-26 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Mobile"
-    ],
-    "prize": "$0",
-    "organization": "Bitrig",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "Shower Hacks",
-    "url": "https://showerhacks.devpost.com/",
-    "location": "Bay Area",
-    "dates": "Sep 26 - 27, 2026",
-    "sort_date": "2026-09-26 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Open Ended",
-      "Lifehacks",
-      "Social Good"
-    ],
-    "prize": "$9,550",
-    "organization": "Shower Hacks",
-    "curated": false
-  },
-  {
     "source": "Luma",
-    "title": "JEVATHON (w/ The AI Collective)",
-    "url": "https://lu.ma/aic-jev",
+    "title": "Startup Speedrun Hackathon",
+    "url": "https://lu.ma/g42o84ln",
     "location": "San Francisco, CA",
-    "dates": "Sep 26, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-09-26 17:00:00",
+    "dates": "Sep 28, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-09-28 16:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "The AI Collective",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Inside China's AI rush w/ Afra Wang",
-    "url": "https://lu.ma/chinaAI",
-    "location": "San Francisco, CA",
-    "dates": "Sep 26, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-09-26 23:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "tiat (the intersection of art & technology)",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Berkeley x DeepMind Hackathon: Build. Ship. Pitch. Win.",
-    "url": "https://lu.ma/vmqjw9hv",
-    "location": "Berkeley, CA",
-    "dates": "Sep 27, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-09-27 17:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "GDG Stanford",
+    "organization": "Brainbase Labs",
     "curated": false
   },
   {
@@ -378,8 +320,8 @@
     "title": "The AI-Native Talent Hunt with Codex - #SFTechWeek",
     "url": "https://lu.ma/yjt7f4ty",
     "location": "San Francisco, CA",
-    "dates": "Oct 11, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-10-11 16:00:00",
+    "dates": "Oct 11, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-10-11 17:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
