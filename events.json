@@ -1,19 +1,6 @@
 [
   {
     "source": "Luma",
-    "title": "Startup Speedrun Hackathon",
-    "url": "https://lu.ma/g42o84ln",
-    "location": "San Francisco, CA",
-    "dates": "Sep 28, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-09-28 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Brainbase Labs",
-    "curated": false
-  },
-  {
-    "source": "Luma",
     "title": "Above the Fog: Founders \u00d7 Investors Rooftop Mixer",
     "url": "https://lu.ma/yv2hv22g",
     "location": "San Francisco, CA",
@@ -62,19 +49,6 @@
     "themes": [],
     "prize": "",
     "organization": "Agentic AI Context Builders",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Protecting Human Creators from Generative AI",
-    "url": "https://www.meetup.com/acm-chicago/events/316658488/",
-    "location": "Online",
-    "dates": "Sep 30, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-09-30 18:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "ACM Chicago",
     "curated": false
   },
   {
@@ -166,32 +140,6 @@
     "themes": [],
     "prize": "",
     "organization": "CopilotKit",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Tech Pulse 2030 Chicago",
-    "url": "https://www.meetup.com/ai-2030-responsible-artificial-intelligence/events/313503693/",
-    "location": "Chicago, IL",
-    "dates": "Oct 06, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-10-06 17:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI 2030: Responsible Artificial Intelligence for All",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Developer Workflows in AI Age - Local or Cloud",
-    "url": "https://www.meetup.com/the-chicago-cloud-computing-meetup-group/events/312946608/",
-    "location": "Chicago, IL",
-    "dates": "Oct 06, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-10-06 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "The Chicago Cloud Computing Meetup Group",
     "curated": false
   },
   {
@@ -342,19 +290,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "AI for Outlook + Lessons from creating an AI multimedia platform",
-    "url": "https://www.meetup.com/js-chi/events/314509646/",
-    "location": "Chicago, IL",
-    "dates": "Oct 13, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-10-13 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Digital Delivery Chicago (formerly Chicago JavaScript)",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Agentic + AI Observability Meetup SF",
     "url": "https://lu.ma/Agentic_AI_10-13",
@@ -365,6 +300,19 @@
     "themes": [],
     "prize": "",
     "organization": "Agentic + AI Observability",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "3 Illusions in Software Delivery with Joel Tosi",
+    "url": "https://www.meetup.com/producttank-des-moines-ames/events/316553691/",
+    "location": "Des Moines, IA",
+    "dates": "Oct 14, 2026 \u00b7 4:30 PM",
+    "sort_date": "2026-10-14 16:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "ProductTank Des Moines/Ames",
     "curated": false
   },
   {
@@ -411,6 +359,32 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Reimagining Analytics Delivery for the AI Era",
+    "url": "https://www.meetup.com/des-moines-data-analytics/events/316665472/",
+    "location": "Des Moines, IA",
+    "dates": "Oct 20, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-10-20 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Des Moines Data & Analytics",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Building a physical product in the age of AI",
+    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/316356587/",
+    "location": "Des Moines, IA",
+    "dates": "Oct 20, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-10-20 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Des Moines Artificial Intelligence Group",
+    "curated": false
+  },
+  {
     "source": "Devpost",
     "title": "HackStorm 3.0: Sense, Think and Act",
     "url": "https://hackstorm3.devpost.com/",
@@ -438,6 +412,23 @@
     "themes": [],
     "prize": "",
     "organization": "Stripe Startups",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "Startup Speedrun Hackathon",
+    "url": "https://brainbase-startup-speedrun.devpost.com/",
+    "location": "Cloudflare HQ",
+    "dates": "Sep 28, 2026",
+    "sort_date": "2026-09-28 00:00:00",
+    "state": "open",
+    "themes": [
+      "Machine Learning/AI",
+      "Low/No Code",
+      "Productivity"
+    ],
+    "prize": "$3,500",
+    "organization": "Brainbase Labs",
     "curated": false
   }
 ]
