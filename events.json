@@ -1,19 +1,6 @@
 [
   {
     "source": "Luma",
-    "title": "Above the Fog: Founders \u00d7 Investors Rooftop Mixer",
-    "url": "https://lu.ma/yv2hv22g",
-    "location": "San Francisco, CA",
-    "dates": "Sep 28, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-09-29 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "SF Startup Labs",
-    "curated": false
-  },
-  {
-    "source": "Luma",
     "title": "Kevin Hartz: What Great Founders See Before Everyone Else",
     "url": "https://lu.ma/kevinhartz",
     "location": "San Francisco, CA",
@@ -412,23 +399,6 @@
     "themes": [],
     "prize": "",
     "organization": "Stripe Startups",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "Startup Speedrun Hackathon",
-    "url": "https://brainbase-startup-speedrun.devpost.com/",
-    "location": "Cloudflare HQ",
-    "dates": "Sep 28, 2026",
-    "sort_date": "2026-09-28 00:00:00",
-    "state": "open",
-    "themes": [
-      "Machine Learning/AI",
-      "Low/No Code",
-      "Productivity"
-    ],
-    "prize": "$3,500",
-    "organization": "Brainbase Labs",
     "curated": false
   }
 ]
