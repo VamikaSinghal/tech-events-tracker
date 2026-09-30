@@ -1,41 +1,15 @@
 [
   {
-    "source": "Luma",
-    "title": "Kevin Hartz: What Great Founders See Before Everyone Else",
-    "url": "https://lu.ma/kevinhartz",
-    "location": "San Francisco, CA",
-    "dates": "Sep 29, 2026 \u00b7 3:30 PM",
-    "sort_date": "2026-09-29 22:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Insiders",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Grok Bot x Notion for Product Builders night (SF)",
-    "url": "https://lu.ma/grokbotproduct-sf",
-    "location": "San Francisco, CA",
-    "dates": "Sep 29, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-09-30 00:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "SpaceXAI Community",
-    "curated": false
-  },
-  {
     "source": "Meetup",
-    "title": "From Retrieval to Action: GraphRAG Meets Physical AI",
-    "url": "https://www.meetup.com/agentic-ai-context-builders/events/316217896/",
+    "title": "Protecting Human Creators from Generative AI",
+    "url": "https://www.meetup.com/acm-chicago/events/316658488/",
     "location": "Online",
-    "dates": "Sep 30, 2026 \u00b7 8:00 AM",
-    "sort_date": "2026-09-30 08:00:00",
+    "dates": "Sep 30, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-09-30 18:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Agentic AI Context Builders",
+    "organization": "ACM Chicago",
     "curated": false
   },
   {
@@ -62,6 +36,45 @@
     "themes": [],
     "prize": "",
     "organization": "OpenRouter Events",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "How Quantum AI Will Transform Cybersecurity",
+    "url": "https://www.meetup.com/licn-long-island-consultants-network/events/315245247/",
+    "location": "Online",
+    "dates": "Oct 01, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-10-01 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "IEEE Consultants Network of Long Island (LICN)",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Multiplayer AI & How We Get There",
+    "url": "https://lu.ma/fj1r2uu7",
+    "location": "San Francisco, CA",
+    "dates": "Oct 01, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-10-02 00:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Taste: A Physical AI Data Happy Hour",
+    "url": "https://lu.ma/cnsyiwmm",
+    "location": "San Francisco, CA",
+    "dates": "Oct 01, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-02 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
     "curated": false
   },
   {
@@ -127,6 +140,32 @@
     "themes": [],
     "prize": "",
     "organization": "CopilotKit",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Tech Pulse 2030 Chicago",
+    "url": "https://www.meetup.com/ai-2030-responsible-artificial-intelligence/events/313503693/",
+    "location": "Chicago, IL",
+    "dates": "Oct 06, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-10-06 17:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI 2030: Responsible Artificial Intelligence for All",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Developer Workflows in the AI Age - Local or Cloud",
+    "url": "https://www.meetup.com/the-chicago-cloud-computing-meetup-group/events/312946608/",
+    "location": "Chicago, IL",
+    "dates": "Oct 06, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-06 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "The Chicago Cloud Computing Meetup Group",
     "curated": false
   },
   {
@@ -277,6 +316,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "AI for Outlook + Lessons from creating an AI multimedia platform",
+    "url": "https://www.meetup.com/js-chi/events/314509646/",
+    "location": "Chicago, IL",
+    "dates": "Oct 13, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-10-13 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Digital Delivery Chicago (formerly Chicago JavaScript)",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Agentic + AI Observability Meetup SF",
     "url": "https://lu.ma/Agentic_AI_10-13",
@@ -287,19 +339,6 @@
     "themes": [],
     "prize": "",
     "organization": "Agentic + AI Observability",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "3 Illusions in Software Delivery with Joel Tosi",
-    "url": "https://www.meetup.com/producttank-des-moines-ames/events/316553691/",
-    "location": "Des Moines, IA",
-    "dates": "Oct 14, 2026 \u00b7 4:30 PM",
-    "sort_date": "2026-10-14 16:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "ProductTank Des Moines/Ames",
     "curated": false
   },
   {
@@ -346,29 +385,16 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Reimagining Analytics Delivery for the AI Era",
-    "url": "https://www.meetup.com/des-moines-data-analytics/events/316665472/",
-    "location": "Des Moines, IA",
-    "dates": "Oct 20, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-10-20 16:00:00",
+    "source": "Luma",
+    "title": "Open Source AI Week 2026 | Open Weight Debate Night",
+    "url": "https://lu.ma/592fcwx2",
+    "location": "San Francisco, CA",
+    "dates": "Oct 19, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-10-20 00:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Des Moines Data & Analytics",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Building a physical product in the age of AI",
-    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/316356587/",
-    "location": "Des Moines, IA",
-    "dates": "Oct 20, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-10-20 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Des Moines Artificial Intelligence Group",
+    "organization": "Open Source AI Week",
     "curated": false
   },
   {
