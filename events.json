@@ -1,41 +1,15 @@
 [
   {
-    "source": "Meetup",
-    "title": "How Quantum AI Will Transform Cybersecurity",
-    "url": "https://www.meetup.com/licn-long-island-consultants-network/events/315245247/",
-    "location": "Online",
-    "dates": "Oct 01, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-10-01 19:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "IEEE Consultants Network of Long Island (LICN)",
-    "curated": false
-  },
-  {
     "source": "Luma",
-    "title": "Multiplayer AI & How We Get There",
-    "url": "https://lu.ma/fj1r2uu7",
+    "title": "Tech Makers Goes West @Mission Robotics: Chargebotic Launch + Pitch Night",
+    "url": "https://lu.ma/tech-zdnk",
     "location": "San Francisco, CA",
-    "dates": "Oct 01, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-10-02 00:00:00",
+    "dates": "Oct 02, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-10-03 00:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Personal",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Taste: A Physical AI Data Happy Hour",
-    "url": "https://lu.ma/cnsyiwmm",
-    "location": "San Francisco, CA",
-    "dates": "Oct 01, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-10-02 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Personal",
+    "organization": "Tech Makers",
     "curated": false
   },
   {
@@ -62,6 +36,19 @@
     "themes": [],
     "prize": "",
     "organization": "Supabase Community Events",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Agile Coaching in the Age of AI with Bob Galen",
+    "url": "https://www.meetup.com/scrum-masters-of-the-universe/events/316556329/",
+    "location": "Online",
+    "dates": "Oct 05, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-10-05 12:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Scrum Masters of the Universe",
     "curated": false
   },
   {
@@ -131,6 +118,32 @@
   },
   {
     "source": "Luma",
+    "title": "Haunted Agent + Infra Horror Night @SF Tech Week",
+    "url": "https://lu.ma/infra-horror-night",
+    "location": "San Francisco, CA",
+    "dates": "Oct 06, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-10-07 01:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Heavybit Events",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Start Your Data Engineering Career | Free 3-Hour Live Training & Guidance",
+    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/316626174/",
+    "location": "Online",
+    "dates": "Oct 07, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-10-07 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Coding Macaw FREE Bootcamps",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Open Source AI Stack: Models, Inference, and Agent Harness",
     "url": "https://lu.ma/novita-oas6",
     "location": "San Francisco, CA",
@@ -153,6 +166,32 @@
     "themes": [],
     "prize": "",
     "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Start Your Machine Learning & AI Engineering Career | Free 3-Hour Training",
+    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/316625991/",
+    "location": "Online",
+    "dates": "Oct 08, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-10-08 10:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Coding Macaw FREE Bootcamps",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI This Week: Open Circle",
+    "url": "https://www.meetup.com/newjerseyaigroup/events/316780724/",
+    "location": "Online",
+    "dates": "Oct 08, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-08 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "New Jersey Artificial Intelligence Meetup Group",
     "curated": false
   },
   {
@@ -264,19 +303,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "3 Illusions in Software Delivery with Joel Tosi",
-    "url": "https://www.meetup.com/producttank-des-moines-ames/events/316553691/",
-    "location": "Des Moines, IA",
-    "dates": "Oct 14, 2026 \u00b7 4:30 PM",
-    "sort_date": "2026-10-14 16:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "ProductTank Des Moines/Ames",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Extraordinary Founders Dinner (hosted by Andrew Yeung)",
     "url": "https://lu.ma/ExtraordinaryFoundersDinnerOct15",
@@ -330,32 +356,6 @@
     "themes": [],
     "prize": "",
     "organization": "Open Source AI Week",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Reimagining Analytics Delivery for the AI Era",
-    "url": "https://www.meetup.com/des-moines-data-analytics/events/316665472/",
-    "location": "Des Moines, IA",
-    "dates": "Oct 20, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-10-20 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Des Moines Data & Analytics",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Building a physical product in the age of AI",
-    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/316356587/",
-    "location": "Des Moines, IA",
-    "dates": "Oct 20, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-10-20 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Des Moines Artificial Intelligence Group",
     "curated": false
   },
   {
