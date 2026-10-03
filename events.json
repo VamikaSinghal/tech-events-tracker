@@ -1,44 +1,5 @@
 [
   {
-    "source": "Luma",
-    "title": "Tech Makers Goes West @Mission Robotics: Chargebotic Launch + Pitch Night",
-    "url": "https://lu.ma/tech-zdnk",
-    "location": "San Francisco, CA",
-    "dates": "Oct 02, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-10-03 00:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Tech Makers",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Berkeley BCS 2026 AI + Recruiting Summit",
-    "url": "https://lu.ma/24irrudp",
-    "location": "Berkeley, CA",
-    "dates": "Oct 03, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-10-03 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Personal",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Supabase Select 2026 Hackathon",
-    "url": "https://lu.ma/select-2026-hackathon",
-    "location": "San Francisco, CA",
-    "dates": "Oct 03, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-10-03 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Supabase Community Events",
-    "curated": false
-  },
-  {
     "source": "Meetup",
     "title": "Agile Coaching in the Age of AI with Bob Galen",
     "url": "https://www.meetup.com/scrum-masters-of-the-universe/events/316556329/",
@@ -91,6 +52,32 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Tech Pulse 2030 Chicago",
+    "url": "https://www.meetup.com/ai-2030-responsible-artificial-intelligence/events/313503693/",
+    "location": "Chicago, IL",
+    "dates": "Oct 06, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-10-06 17:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI 2030: Responsible Artificial Intelligence for All",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Developer Workflows in the AI Age - Local or Cloud",
+    "url": "https://www.meetup.com/the-chicago-cloud-computing-meetup-group/events/312946608/",
+    "location": "Chicago, IL",
+    "dates": "Oct 06, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-06 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "The Chicago Cloud Computing Meetup Group",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "The SOLO Founder Club",
     "url": "https://lu.ma/ejwagfv9",
@@ -130,16 +117,16 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Start Your Data Engineering Career | Free 3-Hour Live Training & Guidance",
-    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/316626174/",
-    "location": "Online",
-    "dates": "Oct 07, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-10-07 19:00:00",
+    "source": "Luma",
+    "title": "Hardware hackathon: turn a vintage toy into a voice agent",
+    "url": "https://lu.ma/w9e4qgol",
+    "location": "San Francisco, CA",
+    "dates": "Oct 07, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-10-08 00:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Coding Macaw FREE Bootcamps",
+    "organization": "AssemblyAI",
     "curated": false
   },
   {
@@ -157,6 +144,19 @@
   },
   {
     "source": "Luma",
+    "title": "Open-weight models and sovereign AI, a Compute Connect Fireside Chat",
+    "url": "https://lu.ma/jvzztdz5",
+    "location": "San Francisco, CA",
+    "dates": "Oct 07, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-08 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Artificially Unintelligent Tech Comedy Show @ SF Tech Week",
     "url": "https://lu.ma/SFTWComedy",
     "location": "San Francisco, CA",
@@ -169,29 +169,16 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Start Your Machine Learning & AI Engineering Career | Free 3-Hour Training",
-    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/316625991/",
-    "location": "Online",
-    "dates": "Oct 08, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-10-08 10:00:00",
+    "source": "Luma",
+    "title": "Claude Founder Salon",
+    "url": "https://lu.ma/claude-founder-salon",
+    "location": "San Francisco, CA",
+    "dates": "Oct 08, 2026 \u00b7 1:45 PM",
+    "sort_date": "2026-10-08 20:45:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Coding Macaw FREE Bootcamps",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI This Week: Open Circle",
-    "url": "https://www.meetup.com/newjerseyaigroup/events/316780724/",
-    "location": "Online",
-    "dates": "Oct 08, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-10-08 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "New Jersey Artificial Intelligence Meetup Group",
+    "organization": "Claude Startups",
     "curated": false
   },
   {
@@ -290,6 +277,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "AI for Outlook + Lessons from creating an AI multimedia platform",
+    "url": "https://www.meetup.com/js-chi/events/314509646/",
+    "location": "Chicago, IL",
+    "dates": "Oct 13, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-10-13 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Digital Delivery Chicago (formerly Chicago JavaScript)",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Agentic + AI Observability Meetup SF",
     "url": "https://lu.ma/Agentic_AI_10-13",
@@ -356,6 +356,19 @@
     "themes": [],
     "prize": "",
     "organization": "Open Source AI Week",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Chicago Tech Mixer 2026",
+    "url": "https://www.meetup.com/chicagomixer/events/316420441/",
+    "location": "Chicago, IL",
+    "dates": "Oct 29, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-29 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Chicago Startup and Tech Mixer",
     "curated": false
   },
   {
