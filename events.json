@@ -1,28 +1,15 @@
 [
   {
-    "source": "Luma",
-    "title": "New Founders in The Bay Picnic | Chronos",
-    "url": "https://lu.ma/9bswsyjf",
-    "location": "San Francisco, CA",
-    "dates": "Oct 04, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-10-04 21:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "main",
-    "curated": false
-  },
-  {
     "source": "Meetup",
-    "title": "Agile Coaching in the Age of AI with Bob Galen",
-    "url": "https://www.meetup.com/scrum-masters-of-the-universe/events/316556329/",
-    "location": "Online",
-    "dates": "Oct 05, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-10-05 12:00:00",
+    "title": "Chandler Mastering Claude Code for Developers",
+    "url": "https://www.meetup.com/building-together-with-claude-code-skills/events/316705241/",
+    "location": "Chandler, AZ",
+    "dates": "Oct 06, 2026 \u00b7 12:23 AM",
+    "sort_date": "2026-10-06 00:23:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Scrum Masters of the Universe",
+    "organization": "Building Together With Claude Code Skills",
     "curated": false
   },
   {
@@ -66,6 +53,45 @@
   },
   {
     "source": "Luma",
+    "title": "SF Tech Week Kickoff Party Shack15",
+    "url": "https://lu.ma/n72dpscy",
+    "location": "San Francisco, CA",
+    "dates": "Oct 05, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-10-06 02:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Figma MCP Deep Dive (un-vibe your website) \u2713 plus: \"Should We Slow Down AI?\"",
+    "url": "https://www.meetup.com/cracked-claude-cowork-and-codex-club/events/316397490/",
+    "location": "Phoenix, AZ",
+    "dates": "Oct 06, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-10-06 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Cracked Claude Cowork and Codex Club (AI Networking)",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Tech Tuesday \u2013 Happy Hour #19",
+    "url": "https://www.meetup.com/aztechtuesday/events/316787461/",
+    "location": "Tempe, AZ",
+    "dates": "Oct 06, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-10-06 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AZ Tech Tuesday",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "The SOLO Founder Club",
     "url": "https://lu.ma/ejwagfv9",
     "location": "San Francisco, CA",
@@ -92,6 +118,19 @@
   },
   {
     "source": "Luma",
+    "title": "Your Brain on AI: Innovating for the future of Neurotech",
+    "url": "https://lu.ma/kgk9sn8q",
+    "location": "Berkeley, CA",
+    "dates": "Oct 06, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-10-07 00:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Berkeley Gateway Accelerator",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Haunted Agent + Infra Horror Night @SF Tech Week",
     "url": "https://lu.ma/infra-horror-night",
     "location": "San Francisco, CA",
@@ -104,29 +143,16 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
-    "url": "https://www.meetup.com/ac-atl/events/315927621/",
-    "location": "Online",
-    "dates": "Oct 07, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-10-07 16:00:00",
+    "source": "Luma",
+    "title": "The Future of Personal AI: On-Device Intelligence",
+    "url": "https://lu.ma/kp6dn1ka",
+    "location": "San Francisco, CA",
+    "dates": "Oct 06, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-10-07 01:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Analytics.Club Atlanta: Data & AI Community, Connect. Grow.",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Start Your Data Engineering Career | Free 3-Hour Live Training & Guidance",
-    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/316626174/",
-    "location": "Online",
-    "dates": "Oct 07, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-10-07 19:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Coding Macaw FREE Bootcamps",
+    "organization": "Clipto Calendar",
     "curated": false
   },
   {
@@ -192,32 +218,6 @@
     "themes": [],
     "prize": "",
     "organization": "Personal",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Start Your Machine Learning & AI Engineering Career | Free 3-Hour Training",
-    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/316625991/",
-    "location": "Online",
-    "dates": "Oct 08, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-10-08 10:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Coding Macaw FREE Bootcamps",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI This Week: Open Circle",
-    "url": "https://www.meetup.com/newjerseyaigroup/events/316780724/",
-    "location": "Online",
-    "dates": "Oct 08, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-10-08 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "New Jersey Artificial Intelligence Meetup Group",
     "curated": false
   },
   {
@@ -329,6 +329,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Chandler Coding Smarter Using Claude AI",
+    "url": "https://www.meetup.com/building-together-with-claude-code-skills/events/316710705/",
+    "location": "Chandler, AZ",
+    "dates": "Oct 10, 2026 \u00b7 3:57 AM",
+    "sort_date": "2026-10-10 03:57:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Building Together With Claude Code Skills",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Claude Community Impact Lab at Sf Tech Week!",
     "url": "https://lu.ma/claude-zyvv",
@@ -368,6 +381,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Chandler Claude Code Hands-on Coding Workshop",
+    "url": "https://www.meetup.com/building-together-with-claude-code-skills/events/316704394/",
+    "location": "Chandler, AZ",
+    "dates": "Oct 12, 2026 \u00b7 9:51 PM",
+    "sort_date": "2026-10-12 21:51:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Building Together With Claude Code Skills",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Agentic + AI Observability Meetup SF",
     "url": "https://lu.ma/Agentic_AI_10-13",
@@ -378,6 +404,58 @@
     "themes": [],
     "prize": "",
     "organization": "Agentic + AI Observability",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Mahjong Party for AI Builders",
+    "url": "https://lu.ma/to6egjfx",
+    "location": "San Francisco, California",
+    "dates": "Oct 13, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-10-14 00:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Workato Community",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Phoenix Tech Networking Meetup",
+    "url": "https://www.meetup.com/phoenix-tech-group/events/316658383/",
+    "location": "Scottsdale, AZ",
+    "dates": "Oct 14, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-10-14 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Phoenix Tech Group",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Marketing Engineer Meetup SF",
+    "url": "https://lu.ma/zd62foks",
+    "location": "San Francisco, CA",
+    "dates": "Oct 14, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-15 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Amplitude Community",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Building Production-Grade Agentic AI",
+    "url": "https://www.meetup.com/azemergingtech/events/315041451/",
+    "location": "Scottsdale, AZ",
+    "dates": "Oct 15, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-15 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Arizona AI & Emerging Technology",
     "curated": false
   },
   {
@@ -425,6 +503,19 @@
   },
   {
     "source": "Luma",
+    "title": "Arm Create: Hands-on AI with Google, Renesas & Nota AI",
+    "url": "https://lu.ma/w9n0o36l",
+    "location": "San Jose, CA",
+    "dates": "Oct 19, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-10-19 17:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Arm Developer Events",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Open Source AI Week 2026 | Open Weight Debate Night",
     "url": "https://lu.ma/592fcwx2",
     "location": "San Francisco, CA",
@@ -434,6 +525,32 @@
     "themes": [],
     "prize": "",
     "organization": "Open Source AI Week",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "AI Infra Night @PyTorchCon with dstack, Crusoe, and SGLang",
+    "url": "https://lu.ma/6j69xyal",
+    "location": "San Jose, CA",
+    "dates": "Oct 20, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-10-21 01:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "dstack San Jose",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "No Hype: AI Business Transformation",
+    "url": "https://www.meetup.com/old-pueblo-new-economy-artificial-intelligence-trailblazers/events/316181540/",
+    "location": "Phoenix, AZ",
+    "dates": "Oct 22, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-10-22 09:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Artificial Intelligence Trailblazers",
     "curated": false
   },
   {
