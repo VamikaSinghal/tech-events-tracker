@@ -1,93 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "Chandler Mastering Claude Code for Developers",
-    "url": "https://www.meetup.com/building-together-with-claude-code-skills/events/316705241/",
-    "location": "Chandler, AZ",
-    "dates": "Oct 06, 2026 \u00b7 12:23 AM",
-    "sort_date": "2026-10-06 00:23:00",
+    "title": "I Didn't Become an AI Expert. I Became a Beginner Again.",
+    "url": "https://www.meetup.com/agilertp/events/316281928/",
+    "location": "Online",
+    "dates": "Oct 06, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-10-06 18:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Building Together With Claude Code Skills",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Automate Your SF Tech Week with n8n",
-    "url": "https://lu.ma/n8n-ntlt",
-    "location": "San Francisco, CA",
-    "dates": "Oct 05, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-10-06 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "n8n Community Events",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Founder Friends San Francisco",
-    "url": "https://lu.ma/4xjpmq1m",
-    "location": "San Francisco, CA",
-    "dates": "Oct 05, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-10-06 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Hustle Fund Events",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Ship it & Sip it: Software Factories Night",
-    "url": "https://lu.ma/copilo-y6wx",
-    "location": "San Francisco, CA",
-    "dates": "Oct 05, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-10-06 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "CopilotKit",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "SF Tech Week Kickoff Party Shack15",
-    "url": "https://lu.ma/n72dpscy",
-    "location": "San Francisco, CA",
-    "dates": "Oct 05, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-10-06 02:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Personal",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Figma MCP Deep Dive (un-vibe your website) \u2713 plus: \"Should We Slow Down AI?\"",
-    "url": "https://www.meetup.com/cracked-claude-cowork-and-codex-club/events/316397490/",
-    "location": "Phoenix, AZ",
-    "dates": "Oct 06, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-10-06 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Cracked Claude Cowork and Codex Club (AI Networking)",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Tech Tuesday \u2013 Happy Hour #19",
-    "url": "https://www.meetup.com/aztechtuesday/events/316787461/",
-    "location": "Tempe, AZ",
-    "dates": "Oct 06, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-10-06 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AZ Tech Tuesday",
+    "organization": "Agile RTP (ARTp)",
     "curated": false
   },
   {
@@ -140,6 +62,19 @@
     "themes": [],
     "prize": "",
     "organization": "Heavybit Events",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Product Night: How to find PMF",
+    "url": "https://lu.ma/rp4a7h47",
+    "location": "San Francisco, CA",
+    "dates": "Oct 06, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-10-07 01:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Afore Events",
     "curated": false
   },
   {
@@ -329,16 +264,16 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Chandler Coding Smarter Using Claude AI",
-    "url": "https://www.meetup.com/building-together-with-claude-code-skills/events/316710705/",
-    "location": "Chandler, AZ",
-    "dates": "Oct 10, 2026 \u00b7 3:57 AM",
-    "sort_date": "2026-10-10 03:57:00",
+    "source": "Luma",
+    "title": "Build Your AI Chief of Staff with Claude at #sf-tech-week",
+    "url": "https://lu.ma/claude-jawm",
+    "location": "San Francisco, CA",
+    "dates": "Oct 10, 2026 \u00b7 11:00 AM",
+    "sort_date": "2026-10-10 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Building Together With Claude Code Skills",
+    "organization": "Claude Community Events",
     "curated": false
   },
   {
@@ -381,19 +316,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Chandler Claude Code Hands-on Coding Workshop",
-    "url": "https://www.meetup.com/building-together-with-claude-code-skills/events/316704394/",
-    "location": "Chandler, AZ",
-    "dates": "Oct 12, 2026 \u00b7 9:51 PM",
-    "sort_date": "2026-10-12 21:51:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Building Together With Claude Code Skills",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Agentic + AI Observability Meetup SF",
     "url": "https://lu.ma/Agentic_AI_10-13",
@@ -421,15 +343,28 @@
   },
   {
     "source": "Meetup",
-    "title": "Phoenix Tech Networking Meetup",
-    "url": "https://www.meetup.com/phoenix-tech-group/events/316658383/",
-    "location": "Scottsdale, AZ",
-    "dates": "Oct 14, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-10-14 17:30:00",
+    "title": "3 Illusions in Software Delivery with Joel Tosi",
+    "url": "https://www.meetup.com/producttank-des-moines-ames/events/316553691/",
+    "location": "Des Moines, IA",
+    "dates": "Oct 14, 2026 \u00b7 4:30 PM",
+    "sort_date": "2026-10-14 16:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Phoenix Tech Group",
+    "organization": "ProductTank Des Moines/Ames",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Adaptive Software: Diff & Demo",
+    "url": "https://lu.ma/zzn7wo64",
+    "location": "San Francisco, CA",
+    "dates": "Oct 14, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-10-15 00:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Adaptive Software",
     "curated": false
   },
   {
@@ -443,19 +378,6 @@
     "themes": [],
     "prize": "",
     "organization": "Amplitude Community",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Building Production-Grade Agentic AI",
-    "url": "https://www.meetup.com/azemergingtech/events/315041451/",
-    "location": "Scottsdale, AZ",
-    "dates": "Oct 15, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-10-15 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Arizona AI & Emerging Technology",
     "curated": false
   },
   {
@@ -528,6 +450,32 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Reimagining Analytics Delivery for the AI Era",
+    "url": "https://www.meetup.com/des-moines-data-analytics/events/316665472/",
+    "location": "Des Moines, IA",
+    "dates": "Oct 20, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-10-20 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Des Moines Data & Analytics",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Building a physical product in the age of AI",
+    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/316356587/",
+    "location": "Des Moines, IA",
+    "dates": "Oct 20, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-10-20 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Des Moines Artificial Intelligence Group",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "AI Infra Night @PyTorchCon with dstack, Crusoe, and SGLang",
     "url": "https://lu.ma/6j69xyal",
@@ -538,19 +486,6 @@
     "themes": [],
     "prize": "",
     "organization": "dstack San Jose",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "No Hype: AI Business Transformation",
-    "url": "https://www.meetup.com/old-pueblo-new-economy-artificial-intelligence-trailblazers/events/316181540/",
-    "location": "Phoenix, AZ",
-    "dates": "Oct 22, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-10-22 09:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Artificial Intelligence Trailblazers",
     "curated": false
   },
   {
