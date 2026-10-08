@@ -1,132 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
-    "url": "https://www.meetup.com/ac-atl/events/315927621/",
+    "title": "AI This Week: Open Circle",
+    "url": "https://www.meetup.com/newjerseyaigroup/events/316780724/",
     "location": "Online",
-    "dates": "Oct 07, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-10-07 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Analytics.Club Atlanta: Data & AI Community, Connect. Grow.",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Start Your Data Engineering Career | Free 3-Hour Live Training & Guidance",
-    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/316626174/",
-    "location": "Online",
-    "dates": "Oct 07, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-10-07 19:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Coding Macaw FREE Bootcamps",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Hardware hackathon: turn a vintage toy into a voice agent",
-    "url": "https://lu.ma/w9e4qgol",
-    "location": "San Francisco, CA",
-    "dates": "Oct 07, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-10-08 00:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AssemblyAI",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Lightfield: The Startup Odyssey \u2014 In conversation with Keith Peiris",
-    "url": "https://lu.ma/gbdkbar8",
-    "location": "San Francisco, CA",
-    "dates": "Oct 07, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-10-08 00:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Personal",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Open Source AI Stack: Models, Inference, and Agent Harness",
-    "url": "https://lu.ma/novita-oas6",
-    "location": "San Francisco, CA",
-    "dates": "Oct 07, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-10-08 00:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Novita AI",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Open-weight models and sovereign AI, a Compute Connect Fireside Chat",
-    "url": "https://lu.ma/jvzztdz5",
-    "location": "San Francisco, CA",
-    "dates": "Oct 07, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-10-08 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Personal",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Artificially Unintelligent Tech Comedy Show @ SF Tech Week",
-    "url": "https://lu.ma/SFTWComedy",
-    "location": "San Francisco, CA",
-    "dates": "Oct 07, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-10-08 02:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Personal",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Start Your Machine Learning & AI Engineering Career | Free 3-Hour Training",
-    "url": "https://www.meetup.com/coding-macaw-free-bootcamps/events/316625991/",
-    "location": "Online",
-    "dates": "Oct 08, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-10-08 10:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Coding Macaw FREE Bootcamps",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "\ud83d\ude80 Exposed: How To Really Make Money Online With AI",
-    "url": "https://www.meetup.com/ai-learning-networking-new-york/events/316769565/",
-    "location": "Online",
-    "dates": "Oct 08, 2026 \u00b7 3:00 PM",
-    "sort_date": "2026-10-08 15:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Learning & Networking New York",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Claude Founder House: Full Stack Builder Brunch with Lovable",
-    "url": "https://lu.ma/claude-full-stack-brunch-lovable",
-    "location": "San Francisco, CA",
-    "dates": "Oct 08, 2026 \u00b7 11:00 AM",
+    "dates": "Oct 08, 2026 \u00b7 6:00 PM",
     "sort_date": "2026-10-08 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Claude Startups",
+    "organization": "New Jersey Artificial Intelligence Meetup Group",
     "curated": false
   },
   {
@@ -183,6 +66,19 @@
   },
   {
     "source": "Luma",
+    "title": "CoLM AI Research Happy Hour",
+    "url": "https://lu.ma/6bikjpbc",
+    "location": "San Francisco, CA",
+    "dates": "Oct 08, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-09 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Developers after Dark",
     "url": "https://lu.ma/developers-after-dark",
     "location": "San Francisco, CA",
@@ -205,57 +101,6 @@
     "themes": [],
     "prize": "",
     "organization": "Open Source for AI",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "HackNC 2026",
-    "url": "https://hacknc-2026.devpost.com/",
-    "location": "Fetzer Gym, UNC-Chapel Hill",
-    "dates": "Oct 10 - 11, 2026",
-    "sort_date": "2026-10-10 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Beginner Friendly",
-      "Open Ended",
-      "Social Good"
-    ],
-    "prize": "$0",
-    "organization": "HackNC",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "hackPHS 2026",
-    "url": "https://hackphs2026.devpost.com/",
-    "location": "Princeton High School",
-    "dates": "Oct 10 - 11, 2026",
-    "sort_date": "2026-10-10 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Beginner Friendly",
-      "Open Ended",
-      "Web"
-    ],
-    "prize": "$1,000",
-    "organization": "Princeton High School",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "Hacks for Humanity",
-    "url": "https://hacks-for-humanity-2026.devpost.com/",
-    "location": "ASU Memorial Union , Ventana Ballroom",
-    "dates": "Oct 10 - 11, 2026",
-    "sort_date": "2026-10-10 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Beginner Friendly",
-      "Education",
-      "Social Good"
-    ],
-    "prize": "$6,300",
-    "organization": "Project Humanities",
     "curated": false
   },
   {
@@ -286,39 +131,6 @@
     ],
     "prize": "$0",
     "organization": "Lick-Wilmerding High School",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "PalmettoHacks 2026",
-    "url": "https://palmettohacks-2026.devpost.com/",
-    "location": "Swearingen Engineering Center",
-    "dates": "Oct 10 - 11, 2026",
-    "sort_date": "2026-10-10 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Beginner Friendly",
-      "Enterprise",
-      "Machine Learning/AI"
-    ],
-    "prize": "$2,750",
-    "organization": "Kappa Theta Pi South Carolina",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "QMUL AI Hackathon",
-    "url": "https://qmul-ai-hackathon.devpost.com/",
-    "location": "QMUL - Bancroft Building 1.13",
-    "dates": "Oct 10, 2026",
-    "sort_date": "2026-10-10 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Beginner Friendly",
-      "Open Ended"
-    ],
-    "prize": "\u00a30",
-    "organization": "Queen Mary AI Soc, Queen Mary CS Soc",
     "curated": false
   },
   {
@@ -361,23 +173,6 @@
     "curated": false
   },
   {
-    "source": "Devpost",
-    "title": "RESPAWN",
-    "url": "https://respawn.devpost.com/",
-    "location": "Online",
-    "dates": "Oct 12 - 15, 2026",
-    "sort_date": "2026-10-12 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Beginner Friendly",
-      "Design",
-      "Gaming"
-    ],
-    "prize": "\u20b9 15,000",
-    "organization": "MS Ramaiah University of Applied Science",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Company Brain Hackathon: Build an AI Agent That Knows Your Organization",
     "url": "https://lu.ma/oct-hackathon",
@@ -388,6 +183,19 @@
     "themes": [],
     "prize": "",
     "organization": "TechEquity Ai - Silicon Valley",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Long Lead Time: A Hardware Happy Hour @ TechCrunch Disrupt",
+    "url": "https://lu.ma/j0d8zw82",
+    "location": "San Francisco, CA",
+    "dates": "Oct 12, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-13 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Syntro",
     "curated": false
   },
   {
@@ -417,23 +225,6 @@
     "curated": false
   },
   {
-    "source": "Devpost",
-    "title": "HacKITSnova 2026",
-    "url": "https://hackitsnova-2026-31640.devpost.com/",
-    "location": "Madawarayapuram, India",
-    "dates": "Oct 15, 2026",
-    "sort_date": "2026-10-15 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Beginner Friendly",
-      "Cybersecurity",
-      "Social Good"
-    ],
-    "prize": "\u20b9 14,998",
-    "organization": "karunya University",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Adaptive Software: Diff & Demo",
     "url": "https://lu.ma/zzn7wo64",
@@ -460,53 +251,16 @@
     "curated": false
   },
   {
-    "source": "Devpost",
-    "title": "Cornell Six Sigma Hackathon",
-    "url": "https://six-sigma-hackathon.devpost.com/",
-    "location": "Upson Hall 116",
-    "dates": "Oct 16 - 17, 2026",
-    "sort_date": "2026-10-16 00:00:00",
+    "source": "Luma",
+    "title": "Junto Founder Dinner (hosted by Andrew Yeung and friends)",
+    "url": "https://lu.ma/JuntoFounderDinnerOct14",
+    "location": "San Francisco, CA",
+    "dates": "Oct 14, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-10-15 01:30:00",
     "state": "upcoming",
-    "themes": [
-      "Machine Learning/AI",
-      "Social Good",
-      "Beginner Friendly"
-    ],
-    "prize": "$0",
-    "organization": "Cornell University",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "Neighborhood Hacks",
-    "url": "https://neighborhood-hacks-2026.devpost.com/",
-    "location": "Online",
-    "dates": "Oct 16 - 24, 2026",
-    "sort_date": "2026-10-16 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Beginner Friendly",
-      "Social Good"
-    ],
-    "prize": "$57,866",
-    "organization": "Student Organization",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "SwampHacks XII",
-    "url": "https://swamphacks-xii.devpost.com/",
-    "location": "University of Florida - Reitz Union",
-    "dates": "Oct 16 - 18, 2026",
-    "sort_date": "2026-10-16 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Beginner Friendly",
-      "Fintech",
-      "Machine Learning/AI"
-    ],
-    "prize": "$11,000",
-    "organization": "SwampHacks",
+    "themes": [],
+    "prize": "",
+    "organization": "Andrew's Yeung's Tech Events",
     "curated": false
   },
   {
@@ -540,72 +294,6 @@
     "curated": false
   },
   {
-    "source": "Devpost",
-    "title": "Girls Hoo Hack 2026",
-    "url": "https://girls-hoo-hack-2026.devpost.com/",
-    "location": "University of Virginia - Rice Hall",
-    "dates": "Oct 17 - 18, 2026",
-    "sort_date": "2026-10-17 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Beginner Friendly",
-      "Open Ended",
-      "Social Good"
-    ],
-    "prize": "$0",
-    "organization": "Girls Who Code UVA",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "HuskyHack 2026:Phase 1",
-    "url": "https://huskyhack2026.devpost.com/",
-    "location": "Milgard Hall",
-    "dates": "Oct 17, 2026",
-    "sort_date": "2026-10-17 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Fintech"
-    ],
-    "prize": "$18,000",
-    "organization": "SoundCreditUnion and UW Tacoma",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "Lehigh Fall 2026 Collegiate Hackathon",
-    "url": "https://lehigh-hacks.devpost.com/",
-    "location": "Online",
-    "dates": "Oct 17 - 18, 2026",
-    "sort_date": "2026-10-17 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Beginner Friendly",
-      "Productivity",
-      "Social Good"
-    ],
-    "prize": "$0",
-    "organization": "CSBA",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "MLH Hacktoberfest Hack Day Teens Delhi X ElevenLabs",
-    "url": "https://hacktoberfest-teens.devpost.com/",
-    "location": "The Grandeur By Lavanya-Moti Nagar",
-    "dates": "Oct 17, 2026",
-    "sort_date": "2026-10-17 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Beginner Friendly",
-      "Low/No Code",
-      "Social Good"
-    ],
-    "prize": "$0",
-    "organization": "MLH",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Open Together: AI Builders Unite",
     "url": "https://lu.ma/OpenTogether",
@@ -619,37 +307,16 @@
     "curated": false
   },
   {
-    "source": "Devpost",
-    "title": "804 Hacks",
-    "url": "https://804hacks.devpost.com/",
-    "location": "Randolph-Macon College - Birdsong Hall",
-    "dates": "Oct 18, 2026",
-    "sort_date": "2026-10-18 00:00:00",
+    "source": "Luma",
+    "title": "Build Something AI Cannot Do Alone @ Cal",
+    "url": "https://lu.ma/hwh35iwm",
+    "location": "Berkeley, CA",
+    "dates": "Oct 17, 2026 \u00b7 12:30 PM",
+    "sort_date": "2026-10-17 19:30:00",
     "state": "upcoming",
-    "themes": [
-      "Beginner Friendly",
-      "Design",
-      "Web"
-    ],
-    "prize": "$400",
-    "organization": "UW Blockchain Society",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "SDC Hackathon 2026",
-    "url": "https://sdc-hackathon-2026.devpost.com/",
-    "location": "Xiamen University Malaysia",
-    "dates": "Oct 19 - 24, 2026",
-    "sort_date": "2026-10-19 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Beginner Friendly",
-      "Machine Learning/AI",
-      "Social Good"
-    ],
-    "prize": "$5,500",
-    "organization": "Xiamen University Malaysia",
+    "themes": [],
+    "prize": "",
+    "organization": "[DT] Events",
     "curated": false
   },
   {
@@ -663,23 +330,6 @@
     "themes": [],
     "prize": "",
     "organization": "Arm Developer Events",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "Code For DFW",
-    "url": "https://code-for-dfw.devpost.com/",
-    "location": "Online",
-    "dates": "Oct 20 - 27, 2026",
-    "sort_date": "2026-10-20 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Open Ended",
-      "Social Good",
-      "Beginner Friendly"
-    ],
-    "prize": "$0",
-    "organization": "n/a",
     "curated": false
   },
   {
@@ -710,6 +360,19 @@
   },
   {
     "source": "Luma",
+    "title": "SOUTH BAY PHYSICAL AI AND ROBOTICS - ROBOBUSINESS EDITION",
+    "url": "https://lu.ma/956o316d",
+    "location": "Santa Clara, CA",
+    "dates": "Oct 20, 2026 \u00b7 4:30 PM",
+    "sort_date": "2026-10-20 23:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "south bay robotics",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "AI Infra Night @PyTorchCon with dstack, Crusoe, and SGLang",
     "url": "https://lu.ma/6j69xyal",
     "location": "San Jose, CA",
@@ -719,70 +382,6 @@
     "themes": [],
     "prize": "",
     "organization": "dstack San Jose",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "\ud83d\ude80 How I Use AI & ChatGPT to Build a Digital Income",
-    "url": "https://www.meetup.com/ai-learning-networking-new-york/events/316770016/",
-    "location": "Online",
-    "dates": "Oct 21, 2026 \u00b7 3:00 PM",
-    "sort_date": "2026-10-21 15:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Learning & Networking New York",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "2026 AI for Good Hackathon",
-    "url": "https://2026ai4goodhackathon.devpost.com/",
-    "location": "The Link",
-    "dates": "Oct 23 - 25, 2026",
-    "sort_date": "2026-10-23 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Machine Learning/AI",
-      "Social Good",
-      "Music/Art"
-    ],
-    "prize": "$0",
-    "organization": "Florida Data Science for Social Good",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "GeauxHack 2026",
-    "url": "https://geauxhack-2026.devpost.com/",
-    "location": "Patrick F. Taylor Hall",
-    "dates": "Oct 23 - 25, 2026",
-    "sort_date": "2026-10-23 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Beginner Friendly",
-      "Mobile",
-      "Web"
-    ],
-    "prize": "$0",
-    "organization": "SASE-LSU",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "Gear Up Hacks 2026",
-    "url": "https://gear-up-hacks-2026.devpost.com/",
-    "location": "Lincoln on Geer",
-    "dates": "Oct 24, 2026",
-    "sort_date": "2026-10-24 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Mobile",
-      "Social Good",
-      "Web"
-    ],
-    "prize": "$0",
-    "organization": "Gear Up Foundation",
     "curated": false
   },
   {
@@ -803,57 +402,6 @@
     "curated": false
   },
   {
-    "source": "Devpost",
-    "title": "HackCamp 2026",
-    "url": "https://hackcamp-2026.devpost.com/",
-    "location": "Vancouver, Canada",
-    "dates": "Nov 07 - 08, 2026",
-    "sort_date": "2026-11-07 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Beginner Friendly",
-      "Machine Learning/AI",
-      "Social Good"
-    ],
-    "prize": "$0",
-    "organization": "nwPlus",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "KTPHacks 2",
-    "url": "https://ktphacks-2.devpost.com/",
-    "location": "Virginia Tech - DDS",
-    "dates": "Nov 07 - 08, 2026",
-    "sort_date": "2026-11-07 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Beginner Friendly",
-      "Open Ended",
-      "Social Good"
-    ],
-    "prize": "$0",
-    "organization": "Kappa Theta Pi",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "Sheridan Datathon 2026",
-    "url": "https://sheridandatathon2026.devpost.com/",
-    "location": "Sheridan College Hazel McCallion Campus",
-    "dates": "Nov 07 - 08, 2026",
-    "sort_date": "2026-11-07 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Beginner Friendly",
-      "Databases",
-      "Machine Learning/AI"
-    ],
-    "prize": "$CAD 10,000",
-    "organization": "GDG on Campus Sheridan College",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Stripe Startups Build Day San Francisco",
     "url": "https://lu.ma/r1d48cpq",
@@ -864,276 +412,6 @@
     "themes": [],
     "prize": "",
     "organization": "Stripe Startups",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "Bridge The Gap Hacks",
-    "url": "https://sq-hacks.devpost.com/",
-    "location": "Online",
-    "dates": "Nov 15 - 21, 2026",
-    "sort_date": "2026-11-15 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Beginner Friendly",
-      "Machine Learning/AI",
-      "Social Good"
-    ],
-    "prize": "$0",
-    "organization": "Bridge The Gap Hacks",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "Cutie Hack 2026",
-    "url": "https://cutie-hack-2026.devpost.com/",
-    "location": "UC Riverside - Winston Chung Hall",
-    "dates": "Nov 21, 2026",
-    "sort_date": "2026-11-21 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Beginner Friendly",
-      "Open Ended",
-      "Social Good"
-    ],
-    "prize": "$0",
-    "organization": "ACM at UCR",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "Hoya Hacks 2027",
-    "url": "https://hoya-hacks-2027.devpost.com/",
-    "location": "Healey Family Student Center",
-    "dates": "Jan 22 - 24, 2027",
-    "sort_date": "2027-01-22 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Beginner Friendly",
-      "Open Ended",
-      "Social Good"
-    ],
-    "prize": "$0",
-    "organization": "Hoya Hacks",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "H.A.R.D. Hack 2027",
-    "url": "https://h-a-r-d-hack-2027.devpost.com/",
-    "location": "University of California - Jacobs Hall",
-    "dates": "Jan 30 - 31, 2027",
-    "sort_date": "2027-01-30 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Beginner Friendly",
-      "Education",
-      "Health"
-    ],
-    "prize": "$300",
-    "organization": "HKN (Eta Kappa Nu)",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "NSH @RPI 2027",
-    "url": "https://nsh-rpi-2027.devpost.com/",
-    "location": "RPI DCC",
-    "dates": "Jan 30 - 31, 2027",
-    "sort_date": "2027-01-30 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Beginner Friendly",
-      "Productivity",
-      "Social Good"
-    ],
-    "prize": "$0",
-    "organization": "NSBE-SHPE RPI",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "SpartaHack 12",
-    "url": "https://spartahack-12.devpost.com/",
-    "location": "MSU - STEM Building",
-    "dates": "Feb 06 - 07, 2027",
-    "sort_date": "2027-02-06 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Beginner Friendly",
-      "Machine Learning/AI",
-      "Social Good"
-    ],
-    "prize": "$0",
-    "organization": "SpartaHack",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "Tech to Treasure Hackathon",
-    "url": "https://techtotreasure.devpost.com/",
-    "location": "Tully Community Branch Library",
-    "dates": "Mar 03 - 10, 2027",
-    "sort_date": "2027-03-03 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Beginner Friendly",
-      "Education",
-      "Social Good"
-    ],
-    "prize": "$450",
-    "organization": "bin to better",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "Desert Dev Lab 2027",
-    "url": "https://desert-dev-lab-2027.devpost.com/",
-    "location": "Albuquerque, NM, USA",
-    "dates": "Apr 24 - 25, 2027",
-    "sort_date": "2027-04-24 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Beginner Friendly",
-      "Health",
-      "Social Good"
-    ],
-    "prize": "$1,000",
-    "organization": "NM Tech Talks",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "DSH Hacks V2 ($100k+ in prizes!)",
-    "url": "https://dsh-hacks-v2.devpost.com/",
-    "location": "Online",
-    "dates": "Jun 24 - Nov 15, 2026",
-    "sort_date": "2026-06-24 00:00:00",
-    "state": "open",
-    "themes": [
-      "Beginner Friendly",
-      "Low/No Code",
-      "Open Ended"
-    ],
-    "prize": "$0",
-    "organization": "STEMise",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "UnivaBio ($40,000 in prizes)",
-    "url": "https://univabio.devpost.com/",
-    "location": "Online",
-    "dates": "Aug 07 - Oct 13, 2026",
-    "sort_date": "2026-08-07 00:00:00",
-    "state": "open",
-    "themes": [
-      "Beginner Friendly",
-      "Health",
-      "Social Good"
-    ],
-    "prize": "$0",
-    "organization": "BioCataalysis",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "Next Founders Hackathon",
-    "url": "https://next-founders.devpost.com/",
-    "location": "Online",
-    "dates": "Aug 16 - Oct 15, 2026",
-    "sort_date": "2026-08-16 00:00:00",
-    "state": "open",
-    "themes": [
-      "Beginner Friendly",
-      "Low/No Code",
-      "Open Ended"
-    ],
-    "prize": "$275",
-    "organization": "Student Organization",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "ML Empowerment Build Challenge 3.0 - ($400,000 in prizes!)",
-    "url": "https://ml-build-challenge-3.devpost.com/",
-    "location": "Online",
-    "dates": "Sep 05 - Oct 10, 2026",
-    "sort_date": "2026-09-05 00:00:00",
-    "state": "open",
-    "themes": [
-      "Beginner Friendly",
-      "Machine Learning/AI",
-      "Social Good"
-    ],
-    "prize": "$0",
-    "organization": "ML Empowerment Foundation",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "AI Lodge Hackathon 2026",
-    "url": "https://ai-lodge-hackathon-2026.devpost.com/",
-    "location": "Online",
-    "dates": "Sep 22 - Oct 19, 2026",
-    "sort_date": "2026-09-22 00:00:00",
-    "state": "open",
-    "themes": [
-      "Beginner Friendly"
-    ],
-    "prize": "$0",
-    "organization": "SMU Business Intelligence & Analytics",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "EurekaDev 2026",
-    "url": "https://eurekadev.devpost.com/",
-    "location": "Online",
-    "dates": "Sep 27 - Oct 20, 2026",
-    "sort_date": "2026-09-27 00:00:00",
-    "state": "open",
-    "themes": [
-      "Beginner Friendly",
-      "Open Ended",
-      "Social Good"
-    ],
-    "prize": "$19,122",
-    "organization": "Eureka Institute and UnivaDev",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "WarriorHacks 2.0",
-    "url": "https://warriorhacks-2-0.devpost.com/",
-    "location": "Online",
-    "dates": "Sep 28 - Oct 14, 2026",
-    "sort_date": "2026-09-28 00:00:00",
-    "state": "open",
-    "themes": [
-      "Beginner Friendly",
-      "Machine Learning/AI",
-      "Open Ended"
-    ],
-    "prize": "$0",
-    "organization": "Westwood Computer Science Club",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "ImpactHack 2026",
-    "url": "https://impacthack26.devpost.com/",
-    "location": "Online",
-    "dates": "Oct 01 - 08, 2026",
-    "sort_date": "2026-10-01 00:00:00",
-    "state": "open",
-    "themes": [
-      "Beginner Friendly",
-      "Education",
-      "Social Good"
-    ],
-    "prize": "$0",
-    "organization": "GIS Engineering Club",
     "curated": false
   }
 ]
