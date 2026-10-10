@@ -1,100 +1,5 @@
 [
   {
-    "source": "Meetup",
-    "title": "Tech Talk: How Engineers Build Solutions for Real-World Problems with MJ Hill",
-    "url": "https://www.meetup.com/techacademy/events/316770007/",
-    "location": "Online",
-    "dates": "Oct 09, 2026 \u00b7 1:00 PM",
-    "sort_date": "2026-10-09 13:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "The Tech Academy",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI Connect - Job and Career Networking for AI Specialists",
-    "url": "https://www.meetup.com/ac-sea/events/316629015/",
-    "location": "Online",
-    "dates": "Oct 09, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-10-09 14:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Analytics.Club Seattle: Data & AI Community, Connect. Grow.",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Coding Club",
-    "url": "https://www.meetup.com/westside-coding-club/events/316631474/",
-    "location": "Online",
-    "dates": "Oct 09, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-10-09 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Westside Coding Club",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "SF Tech Week Agent Day",
-    "url": "https://lu.ma/7wn8tsf7",
-    "location": "Menlo Park, California",
-    "dates": "Oct 09, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-10-09 19:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Open Source for AI",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Get Found on AI: Build the playbook so your business is recommended in AI chats in One Afternoon - #SFTechWeek",
-    "url": "https://lu.ma/6uwkydou",
-    "location": "San Francisco, CA",
-    "dates": "Oct 09, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-10-09 21:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Build with AI Club",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Hardware FYI: SF Tech Week Edition",
-    "url": "https://lu.ma/g5sdw0b6",
-    "location": "San Francisco, CA",
-    "dates": "Oct 09, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-10-10 00:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Hardware FYI",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "Hyphen-Hacks",
-    "url": "https://hyphen-hacks26.devpost.com/",
-    "location": "Lick-Wilmerding High School",
-    "dates": "Oct 10, 2026",
-    "sort_date": "2026-10-10 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Beginner Friendly",
-      "Education",
-      "Open Ended"
-    ],
-    "prize": "$0",
-    "organization": "Lick-Wilmerding High School",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Build Your AI Chief of Staff with Claude at #sf-tech-week",
     "url": "https://lu.ma/claude-jawm",
@@ -138,8 +43,8 @@
     "title": "Company Brain Hackathon: Build an AI Agent That Knows Your Organization",
     "url": "https://lu.ma/oct-hackathon",
     "location": "Menlo Park, CA",
-    "dates": "Oct 12, 2026 \u00b7 1:00 PM",
-    "sort_date": "2026-10-12 20:00:00",
+    "dates": "Oct 12, 2026 \u00b7 12:30 PM",
+    "sort_date": "2026-10-12 19:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
@@ -157,6 +62,45 @@
     "themes": [],
     "prize": "",
     "organization": "Syntro",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Tech Pulse 2030 Chicago",
+    "url": "https://www.meetup.com/ai-2030-responsible-artificial-intelligence/events/313503693/",
+    "location": "Chicago, IL",
+    "dates": "Oct 13, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-10-13 17:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI 2030: Responsible Artificial Intelligence for All",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI for Outlook + Lessons from creating an AI multimedia platform",
+    "url": "https://www.meetup.com/js-chi/events/314509646/",
+    "location": "Chicago, IL",
+    "dates": "Oct 13, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-10-13 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Digital Delivery Chicago (formerly Chicago JavaScript)",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Google Agentic AI Builder Lab",
+    "url": "https://www.meetup.com/aittg-chicago/events/316628553/",
+    "location": "Chicago, IL",
+    "dates": "Oct 13, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-10-13 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Chicago AI Developers Group",
     "curated": false
   },
   {
@@ -200,6 +144,19 @@
   },
   {
     "source": "Luma",
+    "title": "Engineering the Physical World with AI",
+    "url": "https://lu.ma/9zly4itk",
+    "location": "San Francisco, CA",
+    "dates": "Oct 14, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-15 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "P-1 AI",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Marketing Engineer Meetup SF",
     "url": "https://lu.ma/zd62foks",
     "location": "San Francisco, CA",
@@ -225,19 +182,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "AI Governance Needs a Test Plan: Turning Principles into Evidence",
-    "url": "https://www.meetup.com/innovate-qa-seattle-meetup-group/events/316767128/",
-    "location": "Online",
-    "dates": "Oct 15, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-10-15 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Innovate QA Meetup Group",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Extraordinary Founders Dinner (hosted by Andrew Yeung)",
     "url": "https://lu.ma/ExtraordinaryFoundersDinnerOct15",
@@ -248,19 +192,6 @@
     "themes": [],
     "prize": "",
     "organization": "Andrew's Yeung's Tech Events",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Tech Talk | Staying Relevant in Tech with Advait Sowale",
-    "url": "https://www.meetup.com/techacademy/events/316585963/",
-    "location": "Online",
-    "dates": "Oct 16, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-10-16 10:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "The Tech Academy",
     "curated": false
   },
   {
@@ -291,6 +222,19 @@
     "themes": [],
     "prize": "",
     "organization": "Hugging Face",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Let's talk AI",
+    "url": "https://www.meetup.com/machine-learning-workshop/events/316287417/",
+    "location": "Online",
+    "dates": "Oct 17, 2026 \u00b7 2:00 PM",
+    "sort_date": "2026-10-17 14:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Office Hours",
     "curated": false
   },
   {
@@ -347,6 +291,45 @@
   },
   {
     "source": "Luma",
+    "title": "Founders Panel: The Agentic Stack",
+    "url": "https://lu.ma/laravel-43ty",
+    "location": "San Francisco, CA",
+    "dates": "Oct 20, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-10-21 01:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Laravel",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI\u2011Accelerated Model\u2011Driven Development",
+    "url": "https://www.meetup.com/chicago-c-cpp-users-group/events/316547637/",
+    "location": "Chicago, IL",
+    "dates": "Oct 22, 2026 \u00b7 4:30 PM",
+    "sort_date": "2026-10-22 16:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Chicago C/C++ Users Group",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Building Trust in AI: Data Governance, Risk, and Responsible Adoption",
+    "url": "https://www.meetup.com/techinmotionchicago/events/316669941/",
+    "location": "Chicago, IL",
+    "dates": "Oct 22, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-22 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Tech in Motion: Chicago",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "LIVE MUSIC: Folk Songs for the AI Age with Jamie Simon and Eric Michaud",
     "url": "https://lu.ma/n6j7vvod",
     "location": "San Francisco, CA",
@@ -356,6 +339,19 @@
     "themes": [],
     "prize": "",
     "organization": "Imbue Events",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Chicago Tech Mixer 2026",
+    "url": "https://www.meetup.com/chicagomixer/events/316420441/",
+    "location": "Chicago, IL",
+    "dates": "Oct 29, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-29 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Chicago Startup and Tech Mixer",
     "curated": false
   },
   {
@@ -386,6 +382,23 @@
     "themes": [],
     "prize": "",
     "organization": "Stripe Startups",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "Hyphen-Hacks",
+    "url": "https://hyphen-hacks26.devpost.com/",
+    "location": "Lick-Wilmerding High School",
+    "dates": "Oct 10, 2026",
+    "sort_date": "2026-10-10 00:00:00",
+    "state": "open",
+    "themes": [
+      "Beginner Friendly",
+      "Education",
+      "Open Ended"
+    ],
+    "prize": "$0",
+    "organization": "Lick-Wilmerding High School",
     "curated": false
   }
 ]
