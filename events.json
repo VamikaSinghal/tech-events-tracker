@@ -1,15 +1,15 @@
 [
   {
     "source": "Luma",
-    "title": "Company Brain Hackathon: Build an AI Agent That Knows Your Organization",
-    "url": "https://lu.ma/oct-hackathon",
-    "location": "Menlo Park, CA",
-    "dates": "Oct 12, 2026 \u00b7 12:30 PM",
-    "sort_date": "2026-10-12 19:30:00",
+    "title": "TechCrunch Disrupt: Multiplayer AI for Founders Mixer",
+    "url": "https://lu.ma/techcrunchdisrupt2026",
+    "location": "San Francisco, CA",
+    "dates": "Oct 12, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-10-12 23:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "TechEquity Ai - Silicon Valley",
+    "organization": "PromptQL Events",
     "curated": false
   },
   {
@@ -23,6 +23,32 @@
     "themes": [],
     "prize": "",
     "organization": "Syntro",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "San Diego Tech Coffee Online",
+    "url": "https://www.meetup.com/sandiego-tech-coffee/events/316680595/",
+    "location": "Online",
+    "dates": "Oct 13, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-10-13 09:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "San Diego Tech Coffee",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AWS Community Day (Bay Area) - AI Edition",
+    "url": "https://www.meetup.com/awsugeastbay/events/316604939/",
+    "location": "San Francisco, CA",
+    "dates": "Oct 13, 2026 \u00b7 9:30 AM",
+    "sort_date": "2026-10-13 09:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AWS User Group East Bay",
     "curated": false
   },
   {
@@ -75,6 +101,19 @@
     "themes": [],
     "prize": "",
     "organization": "Hustle Fund Events",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Ukraine Defense Tech: Ecosystem Night",
+    "url": "https://lu.ma/dzv3yxux",
+    "location": "San Francisco, CA",
+    "dates": "Oct 13, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-14 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Victoria",
     "curated": false
   },
   {
@@ -161,6 +200,19 @@
   },
   {
     "source": "Luma",
+    "title": "Video as Code: Should AI Generate Pixels, or Write Programs?",
+    "url": "https://lu.ma/bgwktpus",
+    "location": "San Francisco, CA",
+    "dates": "Oct 16, 2026 \u00b7 5:45 PM",
+    "sort_date": "2026-10-17 00:45:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Open Together: AI Builders Unite",
     "url": "https://lu.ma/OpenTogether",
     "location": "San Francisco, CA",
@@ -174,15 +226,28 @@
   },
   {
     "source": "Meetup",
-    "title": "Let's talk AI",
-    "url": "https://www.meetup.com/machine-learning-workshop/events/316287417/",
-    "location": "Online",
-    "dates": "Oct 17, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-10-17 14:00:00",
+    "title": "Founders Running Club :: Easy 5-10km Run + Talks",
+    "url": "https://www.meetup.com/founders-running-club/events/316388660/",
+    "location": "San Francisco, CA",
+    "dates": "Oct 17, 2026 \u00b7 9:30 AM",
+    "sort_date": "2026-10-17 09:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AI Office Hours",
+    "organization": "Founders Running Club :: San Francisco",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Bay Area AI War Room - SF Edition - Saturday, 10:00 AM",
+    "url": "https://www.meetup.com/bay-area-artificial-war-room/events/313150522/",
+    "location": "San Francisco, CA",
+    "dates": "Oct 17, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-10-17 10:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Bay Area AI War Room",
     "curated": false
   },
   {
@@ -213,15 +278,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
-    "url": "https://www.meetup.com/codentalk/events/316493340/",
-    "location": "Online",
-    "dates": "Oct 20, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-10-20 18:30:00",
+    "title": "The Friction Point: How Acterra Turns Climate Tech into Community Adoption",
+    "url": "https://www.meetup.com/climatelink-sanfrancisco/events/316789442/",
+    "location": "San Francisco, CA",
+    "dates": "Oct 20, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-10-20 17:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "TalknCode",
+    "organization": "ClimateLink",
     "curated": false
   },
   {
@@ -251,29 +316,16 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "\ud83d\ude80 How I Use AI & ChatGPT to Build a Digital Income",
-    "url": "https://www.meetup.com/ai-learning-networking-new-york/events/316770016/",
-    "location": "Online",
-    "dates": "Oct 21, 2026 \u00b7 3:00 PM",
-    "sort_date": "2026-10-21 15:00:00",
+    "source": "Luma",
+    "title": "Support Is an Engineering Problem Now \u2014 Plain \u00d7 Sentry",
+    "url": "https://lu.ma/plain-sentry",
+    "location": "San Francisco, CA",
+    "dates": "Oct 21, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-10-22 00:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AI Learning & Networking New York",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "FREE REMOTE | LADIES IN AI + AI GROWTH CIRCLE (AN OPEN AI FORUM FOR ALL)",
-    "url": "https://www.meetup.com/ai-growth-circle/events/315939829/",
-    "location": "Online",
-    "dates": "Oct 22, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-10-22 19:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Growth Circle",
+    "organization": "Plain Community Calendar",
     "curated": false
   },
   {
@@ -290,20 +342,29 @@
     "curated": false
   },
   {
-    "source": "Devpost",
-    "title": "HackStorm 3.0: Sense, Think and Act",
-    "url": "https://hackstorm3.devpost.com/",
-    "location": "San Francisco, California, USA",
-    "dates": "Nov 06 - 08, 2026",
-    "sort_date": "2026-11-06 00:00:00",
+    "source": "Meetup",
+    "title": "USF Enterprise AI Summit #2",
+    "url": "https://www.meetup.com/usf-data-science-and-ai-speaker-series/events/316800543/",
+    "location": "San Francisco, CA",
+    "dates": "Oct 30, 2026 \u00b7 2:00 PM",
+    "sort_date": "2026-10-30 14:00:00",
     "state": "upcoming",
-    "themes": [
-      "DevOps",
-      "IoT",
-      "Robotic Process Automation"
-    ],
-    "prize": "$5,200",
-    "organization": "HackStorm",
+    "themes": [],
+    "prize": "",
+    "organization": "USF Data Science & Artificial Intelligence Speaker Series",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Own Your AI: Build an Agentic AI Model Factory - in person Hack Night",
+    "url": "https://www.meetup.com/ai-builders-and-learners-sf/events/316758369/",
+    "location": "San Francisco, CA",
+    "dates": "Nov 03, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-11-03 17:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Builders and Learners SF",
     "curated": false
   },
   {
@@ -317,6 +378,23 @@
     "themes": [],
     "prize": "",
     "organization": "Stripe Startups",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "HackStorm 3.0: Sense, Think and Act",
+    "url": "https://hackstorm3.devpost.com/",
+    "location": "San Francisco, California, USA",
+    "dates": "Jan 15 - 17, 2027",
+    "sort_date": "2027-01-15 00:00:00",
+    "state": "upcoming",
+    "themes": [
+      "DevOps",
+      "IoT",
+      "Robotic Process Automation"
+    ],
+    "prize": "$5,200",
+    "organization": "HackStorm",
     "curated": false
   }
 ]
