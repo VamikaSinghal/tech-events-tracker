@@ -1,58 +1,6 @@
 [
   {
     "source": "Luma",
-    "title": "TechCrunch Disrupt: Multiplayer AI for Founders Mixer",
-    "url": "https://lu.ma/techcrunchdisrupt2026",
-    "location": "San Francisco, CA",
-    "dates": "Oct 12, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-10-12 23:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "PromptQL Events",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Long Lead Time: A Hardware Happy Hour @ TechCrunch Disrupt",
-    "url": "https://lu.ma/j0d8zw82",
-    "location": "San Francisco, CA",
-    "dates": "Oct 12, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-10-13 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Syntro",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "San Diego Tech Coffee Online",
-    "url": "https://www.meetup.com/sandiego-tech-coffee/events/316680595/",
-    "location": "Online",
-    "dates": "Oct 13, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-10-13 09:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "San Diego Tech Coffee",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AWS Community Day (Bay Area) - AI Edition",
-    "url": "https://www.meetup.com/awsugeastbay/events/316604939/",
-    "location": "San Francisco, CA",
-    "dates": "Oct 13, 2026 \u00b7 9:30 AM",
-    "sort_date": "2026-10-13 09:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AWS User Group East Bay",
-    "curated": false
-  },
-  {
-    "source": "Luma",
     "title": "Agentic + AI Observability Meetup SF",
     "url": "https://lu.ma/Agentic_AI_10-13",
     "location": "San Francisco, California",
@@ -104,16 +52,16 @@
     "curated": false
   },
   {
-    "source": "Luma",
-    "title": "Ukraine Defense Tech: Ecosystem Night",
-    "url": "https://lu.ma/dzv3yxux",
-    "location": "San Francisco, CA",
-    "dates": "Oct 13, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-10-14 01:00:00",
+    "source": "Meetup",
+    "title": "3 Illusions in Software Delivery with Joel Tosi",
+    "url": "https://www.meetup.com/producttank-des-moines-ames/events/316553691/",
+    "location": "Des Moines, IA",
+    "dates": "Oct 14, 2026 \u00b7 4:30 PM",
+    "sort_date": "2026-10-14 16:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Victoria",
+    "organization": "ProductTank Des Moines/Ames",
     "curated": false
   },
   {
@@ -225,32 +173,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Founders Running Club :: Easy 5-10km Run + Talks",
-    "url": "https://www.meetup.com/founders-running-club/events/316388660/",
-    "location": "San Francisco, CA",
-    "dates": "Oct 17, 2026 \u00b7 9:30 AM",
-    "sort_date": "2026-10-17 09:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Founders Running Club :: San Francisco",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Bay Area AI War Room - SF Edition - Saturday, 10:00 AM",
-    "url": "https://www.meetup.com/bay-area-artificial-war-room/events/313150522/",
-    "location": "San Francisco, CA",
-    "dates": "Oct 17, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-10-17 10:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Bay Area AI War Room",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Arm Create: Hands-on AI with Google, Renesas & Nota AI",
     "url": "https://lu.ma/w9n0o36l",
@@ -278,15 +200,28 @@
   },
   {
     "source": "Meetup",
-    "title": "The Friction Point: How Acterra Turns Climate Tech into Community Adoption",
-    "url": "https://www.meetup.com/climatelink-sanfrancisco/events/316789442/",
-    "location": "San Francisco, CA",
-    "dates": "Oct 20, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-10-20 17:00:00",
+    "title": "Reimagining Analytics Delivery for the AI Era",
+    "url": "https://www.meetup.com/des-moines-data-analytics/events/316665472/",
+    "location": "Des Moines, IA",
+    "dates": "Oct 20, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-10-20 16:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "ClimateLink",
+    "organization": "Des Moines Data & Analytics",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Building a physical product in the age of AI",
+    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/316356587/",
+    "location": "Des Moines, IA",
+    "dates": "Oct 20, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-10-20 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Des Moines Artificial Intelligence Group",
     "curated": false
   },
   {
@@ -316,6 +251,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Why AI is our Ultimate Test and Greatest Invitation",
+    "url": "https://www.meetup.com/ai-safety-awareness-group-omaha/events/316877888/",
+    "location": "Des Moines, IA",
+    "dates": "Oct 21, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-10-21 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Safety Awareness Group Omaha",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Support Is an Engineering Problem Now \u2014 Plain \u00d7 Sentry",
     "url": "https://lu.ma/plain-sentry",
@@ -339,32 +287,6 @@
     "themes": [],
     "prize": "",
     "organization": "Imbue Events",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "USF Enterprise AI Summit #2",
-    "url": "https://www.meetup.com/usf-data-science-and-ai-speaker-series/events/316800543/",
-    "location": "San Francisco, CA",
-    "dates": "Oct 30, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-10-30 14:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "USF Data Science & Artificial Intelligence Speaker Series",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Own Your AI: Build an Agentic AI Model Factory - in person Hack Night",
-    "url": "https://www.meetup.com/ai-builders-and-learners-sf/events/316758369/",
-    "location": "San Francisco, CA",
-    "dates": "Nov 03, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-11-03 17:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Builders and Learners SF",
     "curated": false
   },
   {
