@@ -1,71 +1,6 @@
 [
   {
     "source": "Luma",
-    "title": "Agentic + AI Observability Meetup SF",
-    "url": "https://lu.ma/Agentic_AI_10-13",
-    "location": "San Francisco, California",
-    "dates": "Oct 13, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-10-14 00:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Agentic + AI Observability",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Mahjong Party for AI Builders",
-    "url": "https://lu.ma/to6egjfx",
-    "location": "San Francisco, California",
-    "dates": "Oct 13, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-10-14 00:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Workato Community",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "AI Builder's Night",
-    "url": "https://lu.ma/aibuilders_techcrunch",
-    "location": "San Francisco, CA",
-    "dates": "Oct 13, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-10-14 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Modal",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Founder Friends San Francisco",
-    "url": "https://lu.ma/uaghvvc9",
-    "location": "San Francisco, CA",
-    "dates": "Oct 13, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-10-14 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Hustle Fund Events",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "3 Illusions in Software Delivery with Joel Tosi",
-    "url": "https://www.meetup.com/producttank-des-moines-ames/events/316553691/",
-    "location": "Des Moines, IA",
-    "dates": "Oct 14, 2026 \u00b7 4:30 PM",
-    "sort_date": "2026-10-14 16:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "ProductTank Des Moines/Ames",
-    "curated": false
-  },
-  {
-    "source": "Luma",
     "title": "Adaptive Software: Diff & Demo",
     "url": "https://lu.ma/zzn7wo64",
     "location": "San Francisco, CA",
@@ -75,6 +10,19 @@
     "themes": [],
     "prize": "",
     "organization": "Adaptive Software",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Bay Area Frontier Research Club #27 | Robotics & Embodied AI: Feel or Think? (dinner + paper discussion @ Mission Robotics)",
+    "url": "https://lu.ma/sxoqc4og",
+    "location": "San Francisco, CA",
+    "dates": "Oct 14, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-10-15 00:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "the frontier syndicate",
     "curated": false
   },
   {
@@ -118,6 +66,19 @@
   },
   {
     "source": "Luma",
+    "title": "Founders' Ballot Explainer, hosted by Garry's List and Open Batch",
+    "url": "https://lu.ma/ks76vp7a",
+    "location": "San Francisco, CA",
+    "dates": "Oct 15, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-10-16 00:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Garry's List",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Extraordinary Founders Dinner (hosted by Andrew Yeung)",
     "url": "https://lu.ma/ExtraordinaryFoundersDinnerOct15",
     "location": "San Francisco, CA",
@@ -127,6 +88,19 @@
     "themes": [],
     "prize": "",
     "organization": "Andrew's Yeung's Tech Events",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "THE RUNWAY \ud83d\udeeb a morning founder run (An Nayal at TechCrunch Disrupt Week)",
+    "url": "https://lu.ma/x4kbhgdb",
+    "location": "San Francisco, CA",
+    "dates": "Oct 16, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-10-16 17:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
     "curated": false
   },
   {
@@ -173,6 +147,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Let's talk AI",
+    "url": "https://www.meetup.com/machine-learning-workshop/events/316287417/",
+    "location": "Online",
+    "dates": "Oct 17, 2026 \u00b7 2:00 PM",
+    "sort_date": "2026-10-17 14:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Office Hours",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Arm Create: Hands-on AI with Google, Renesas & Nota AI",
     "url": "https://lu.ma/w9n0o36l",
@@ -183,6 +170,19 @@
     "themes": [],
     "prize": "",
     "organization": "Arm Developer Events",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Cline, Parallel, & Composio Hackathon",
+    "url": "https://lu.ma/m8euvq9n",
+    "location": "San Francisco, CA",
+    "dates": "Oct 19, 2026 \u00b7 11:00 AM",
+    "sort_date": "2026-10-19 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Composio Events",
     "curated": false
   },
   {
@@ -199,29 +199,16 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Reimagining Analytics Delivery for the AI Era",
-    "url": "https://www.meetup.com/des-moines-data-analytics/events/316665472/",
-    "location": "Des Moines, IA",
-    "dates": "Oct 20, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-10-20 16:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Des Moines Data & Analytics",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Building a physical product in the age of AI",
-    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/316356587/",
-    "location": "Des Moines, IA",
+    "source": "Luma",
+    "title": "GTM & Marketing Hackathon by Granola x Anthropic",
+    "url": "https://lu.ma/granola-gtm-hackathon",
+    "location": "San Francisco, CA",
     "dates": "Oct 20, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-10-20 17:30:00",
+    "sort_date": "2026-10-21 00:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Des Moines Artificial Intelligence Group",
+    "organization": "Granola",
     "curated": false
   },
   {
@@ -248,19 +235,6 @@
     "themes": [],
     "prize": "",
     "organization": "Laravel",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Why AI is our Ultimate Test and Greatest Invitation",
-    "url": "https://www.meetup.com/ai-safety-awareness-group-omaha/events/316877888/",
-    "location": "Des Moines, IA",
-    "dates": "Oct 21, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-10-21 19:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Safety Awareness Group Omaha",
     "curated": false
   },
   {
