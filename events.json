@@ -1,71 +1,6 @@
 [
   {
     "source": "Luma",
-    "title": "Adaptive Software: Diff & Demo",
-    "url": "https://lu.ma/zzn7wo64",
-    "location": "San Francisco, CA",
-    "dates": "Oct 14, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-10-15 00:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Adaptive Software",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Bay Area Frontier Research Club #27 | Robotics & Embodied AI: Feel or Think? (dinner + paper discussion @ Mission Robotics)",
-    "url": "https://lu.ma/sxoqc4og",
-    "location": "San Francisco, CA",
-    "dates": "Oct 14, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-10-15 00:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "the frontier syndicate",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Engineering the Physical World with AI",
-    "url": "https://lu.ma/9zly4itk",
-    "location": "San Francisco, CA",
-    "dates": "Oct 14, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-10-15 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "P-1 AI",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Marketing Engineer Meetup SF",
-    "url": "https://lu.ma/zd62foks",
-    "location": "San Francisco, CA",
-    "dates": "Oct 14, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-10-15 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Amplitude Community",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Junto Founder Dinner (hosted by Andrew Yeung and friends)",
-    "url": "https://lu.ma/JuntoFounderDinnerOct14",
-    "location": "San Francisco, CA",
-    "dates": "Oct 14, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-10-15 01:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Andrew's Yeung's Tech Events",
-    "curated": false
-  },
-  {
-    "source": "Luma",
     "title": "Founders' Ballot Explainer, hosted by Garry's List and Open Batch",
     "url": "https://lu.ma/ks76vp7a",
     "location": "San Francisco, CA",
@@ -199,6 +134,32 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Reimagining Analytics Delivery for the AI Era",
+    "url": "https://www.meetup.com/des-moines-data-analytics/events/316665472/",
+    "location": "Des Moines, IA",
+    "dates": "Oct 20, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-10-20 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Des Moines Data & Analytics",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Building a physical product in the age of AI",
+    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/316356587/",
+    "location": "Des Moines, IA",
+    "dates": "Oct 20, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-10-20 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Des Moines Artificial Intelligence Group",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "GTM & Marketing Hackathon by Granola x Anthropic",
     "url": "https://lu.ma/granola-gtm-hackathon",
@@ -238,6 +199,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Why AI is our Ultimate Test and Greatest Invitation",
+    "url": "https://www.meetup.com/ai-safety-awareness-group-omaha/events/316877888/",
+    "location": "Des Moines, IA",
+    "dates": "Oct 21, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-10-21 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Safety Awareness Group Omaha",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Support Is an Engineering Problem Now \u2014 Plain \u00d7 Sentry",
     "url": "https://lu.ma/plain-sentry",
@@ -252,6 +226,36 @@
   },
   {
     "source": "Luma",
+    "title": "Lessons from Open Source DevTools Founders w/ PostHog, Cline and more",
+    "url": "https://lu.ma/bfgu761e",
+    "location": "San Francisco, CA",
+    "dates": "Oct 21, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-22 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "1984",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "Cal Hacks 13.0",
+    "url": "https://cal-hacks-13-0.devpost.com/",
+    "location": "Palace of Fine Arts",
+    "dates": "Oct 23 - 25, 2026",
+    "sort_date": "2026-10-23 00:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Beginner Friendly",
+      "Social Good",
+      "Open Ended"
+    ],
+    "prize": "$126,988",
+    "organization": "Cal Hacks",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "LIVE MUSIC: Folk Songs for the AI Age with Jamie Simon and Eric Michaud",
     "url": "https://lu.ma/n6j7vvod",
     "location": "San Francisco, CA",
@@ -261,6 +265,19 @@
     "themes": [],
     "prize": "",
     "organization": "Imbue Events",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Postponed: AI Governance Needs a Test Plan: Turning Principles into Evidence",
+    "url": "https://www.meetup.com/innovate-qa-seattle-meetup-group/events/316767128/",
+    "location": "Online",
+    "dates": "Oct 27, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-10-27 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Innovate QA Meetup Group",
     "curated": false
   },
   {
