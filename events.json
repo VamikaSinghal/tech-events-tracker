@@ -39,29 +39,42 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Reimagining Analytics Delivery for the AI Era",
-    "url": "https://www.meetup.com/des-moines-data-analytics/events/316665472/",
-    "location": "Des Moines, IA",
-    "dates": "Oct 20, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-10-20 16:00:00",
+    "source": "Luma",
+    "title": "AI agents to scale your startup",
+    "url": "https://lu.ma/bdfzpaib",
+    "location": "San Francisco, CA",
+    "dates": "Oct 19, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-10-20 01:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Des Moines Data & Analytics",
+    "organization": "Founders on Tap",
     "curated": false
   },
   {
     "source": "Meetup",
-    "title": "Building a physical product in the age of AI",
-    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/316356587/",
-    "location": "Des Moines, IA",
+    "title": "San Diego Tech Coffee Online",
+    "url": "https://www.meetup.com/sandiego-tech-coffee/events/316781544/",
+    "location": "Online",
+    "dates": "Oct 20, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-10-20 09:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "San Diego Tech Coffee",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Tech Tuesday Happy Hour #21",
+    "url": "https://www.meetup.com/aztechtuesday/events/316976445/",
+    "location": "Scottsdale, AZ",
     "dates": "Oct 20, 2026 \u00b7 5:30 PM",
     "sort_date": "2026-10-20 17:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Des Moines Artificial Intelligence Group",
+    "organization": "AZ Tech Tuesday",
     "curated": false
   },
   {
@@ -104,16 +117,29 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Why AI is our Ultimate Test and Greatest Invitation",
-    "url": "https://www.meetup.com/ai-safety-awareness-group-omaha/events/316877888/",
-    "location": "Des Moines, IA",
-    "dates": "Oct 21, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-10-21 19:00:00",
+    "source": "Luma",
+    "title": "Bay Area Frontier Research Club #28 | Cell Biology x AI: From Cancer Mechanisms to Virtual Cells (dinner + paper discussion @ Stanford)",
+    "url": "https://lu.ma/dj22bayb",
+    "location": "Stanford, CA",
+    "dates": "Oct 21, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-10-22 00:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AI Safety Awareness Group Omaha",
+    "organization": "the frontier syndicate",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Durable AI (October Edition)",
+    "url": "https://lu.ma/durable-ai-october",
+    "location": "San Francisco, CA",
+    "dates": "Oct 21, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-10-22 00:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Temporal Community",
     "curated": false
   },
   {
@@ -156,6 +182,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "AI in Action: Real-World Applications, Challenges, and Impact",
+    "url": "https://www.meetup.com/ai-for-entrepreneurs-and-business-leaders/events/317017816/",
+    "location": "Phoenix, AZ",
+    "dates": "Oct 22, 2026 \u00b7 4:30 PM",
+    "sort_date": "2026-10-22 16:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI for Entrepreneurs and Business Leaders",
+    "curated": false
+  },
+  {
     "source": "Devpost",
     "title": "Cal Hacks 13.0",
     "url": "https://cal-hacks-13-0.devpost.com/",
@@ -187,6 +226,19 @@
   },
   {
     "source": "Luma",
+    "title": "Women in AI | Factory x Sapienne x Sequoia",
+    "url": "https://lu.ma/factoryai-sdkw",
+    "location": "San Francisco, CA",
+    "dates": "Oct 27, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-10-28 02:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Factory Events",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Visioning the Future: A Climate Action Collage Soir\u00e9e",
     "url": "https://lu.ma/u9l1w54q",
     "location": "San Francisco, CA",
@@ -196,6 +248,19 @@
     "themes": [],
     "prize": "",
     "organization": "Soapbox Bay Area",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Tacos+Tech",
+    "url": "https://www.meetup.com/dataphx/events/316925594/",
+    "location": "Tempe, AZ",
+    "dates": "Nov 09, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-11-09 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "DATAPHX",
     "curated": false
   },
   {
@@ -222,19 +287,6 @@
     "themes": [],
     "prize": "",
     "organization": "Stripe Startups",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Let's talk AI",
-    "url": "https://www.meetup.com/machine-learning-workshop/events/316287417/",
-    "location": "Online",
-    "dates": "Dec 19, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-12-19 14:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Office Hours",
     "curated": false
   },
   {
