@@ -1,28 +1,15 @@
 [
   {
-    "source": "Luma",
-    "title": "Arm Create: Hands-on AI with Google, Renesas & Nota AI",
-    "url": "https://lu.ma/w9n0o36l",
-    "location": "San Jose, CA",
-    "dates": "Oct 19, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-10-19 17:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Arm Developer Events",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Cline, Parallel, & Composio Hackathon",
-    "url": "https://lu.ma/m8euvq9n",
-    "location": "San Francisco, CA",
-    "dates": "Oct 19, 2026 \u00b7 11:00 AM",
+    "source": "Meetup",
+    "title": "Airtable, Supabase, JSON DBs for Vibe Coding Web Apps",
+    "url": "https://www.meetup.com/tampa-artificial-intelligence-applications-meetup-group/events/316691144/",
+    "location": "Online",
+    "dates": "Oct 19, 2026 \u00b7 6:00 PM",
     "sort_date": "2026-10-19 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Composio Events",
+    "organization": "Tampa AI Applications Meetup Group",
     "curated": false
   },
   {
@@ -49,32 +36,6 @@
     "themes": [],
     "prize": "",
     "organization": "Founders on Tap",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "San Diego Tech Coffee Online",
-    "url": "https://www.meetup.com/sandiego-tech-coffee/events/316781544/",
-    "location": "Online",
-    "dates": "Oct 20, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-10-20 09:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "San Diego Tech Coffee",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Tech Tuesday Happy Hour #21",
-    "url": "https://www.meetup.com/aztechtuesday/events/316976445/",
-    "location": "Scottsdale, AZ",
-    "dates": "Oct 20, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-10-20 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AZ Tech Tuesday",
     "curated": false
   },
   {
@@ -117,6 +78,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "\ud83d\ude80 How I Use AI & ChatGPT to Build a Digital Income",
+    "url": "https://www.meetup.com/ai-learning-networking-new-york/events/316770016/",
+    "location": "Online",
+    "dates": "Oct 21, 2026 \u00b7 3:00 PM",
+    "sort_date": "2026-10-21 15:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Learning & Networking New York",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Bay Area Frontier Research Club #28 | Cell Biology x AI: From Cancer Mechanisms to Virtual Cells (dinner + paper discussion @ Stanford)",
     "url": "https://lu.ma/dj22bayb",
@@ -140,19 +114,6 @@
     "themes": [],
     "prize": "",
     "organization": "Temporal Community",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Open Source AI + Policy Happy Hour",
-    "url": "https://lu.ma/96ykgzil",
-    "location": "San Francisco, CA",
-    "dates": "Oct 21, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-10-22 00:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "GitHub Policy Events",
     "curated": false
   },
   {
@@ -182,16 +143,16 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "AI in Action: Real-World Applications, Challenges, and Impact",
-    "url": "https://www.meetup.com/ai-for-entrepreneurs-and-business-leaders/events/317017816/",
-    "location": "Phoenix, AZ",
-    "dates": "Oct 22, 2026 \u00b7 4:30 PM",
-    "sort_date": "2026-10-22 16:30:00",
+    "source": "Luma",
+    "title": "Ancient Prompts-A technologist, a philosopher, and a theologian on being human in the age of AI",
+    "url": "https://lu.ma/i1ynqohz",
+    "location": "Redwood City, CA",
+    "dates": "Oct 21, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-10-22 02:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AI for Entrepreneurs and Business Leaders",
+    "organization": "Bay Area Center for Faith, Work & Tech",
     "curated": false
   },
   {
@@ -213,6 +174,19 @@
   },
   {
     "source": "Luma",
+    "title": "The Next Frontier in AI x Bio: Panel Discussion and Selected Startup Pitches",
+    "url": "https://lu.ma/o28sg2pn",
+    "location": "San Francisco, CA",
+    "dates": "Oct 22, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-10-23 00:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "LIVE MUSIC: Folk Songs for the AI Age with Jamie Simon and Eric Michaud",
     "url": "https://lu.ma/n6j7vvod",
     "location": "San Francisco, CA",
@@ -222,6 +196,32 @@
     "themes": [],
     "prize": "",
     "organization": "Imbue Events",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI Governance Needs a Test Plan: Turning Principles into Evidence",
+    "url": "https://www.meetup.com/innovate-qa-seattle-meetup-group/events/316767128/",
+    "location": "Online",
+    "dates": "Oct 27, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-10-27 16:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Innovate QA Meetup Group",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Unstoppable Fabric: Deep Dive into Scalable, AI-Ready Spark in Microsoft Fabric",
+    "url": "https://www.meetup.com/tripass/events/316880028/",
+    "location": "Online",
+    "dates": "Oct 27, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-27 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Triangle SQL Server User Group",
     "curated": false
   },
   {
@@ -239,6 +239,19 @@
   },
   {
     "source": "Luma",
+    "title": "139th SF Hardware Meetup @ Vizcom | Manufacturing and Design",
+    "url": "https://lu.ma/2u9iuenk",
+    "location": "San Francisco, CA",
+    "dates": "Nov 05, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-11-06 02:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "SF Hardware Meetup",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "Visioning the Future: A Climate Action Collage Soir\u00e9e",
     "url": "https://lu.ma/u9l1w54q",
     "location": "San Francisco, CA",
@@ -248,19 +261,6 @@
     "themes": [],
     "prize": "",
     "organization": "Soapbox Bay Area",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Tacos+Tech",
-    "url": "https://www.meetup.com/dataphx/events/316925594/",
-    "location": "Tempe, AZ",
-    "dates": "Nov 09, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-11-09 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "DATAPHX",
     "curated": false
   },
   {
@@ -304,23 +304,6 @@
     ],
     "prize": "$5,200",
     "organization": "HackStorm",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "Arm + ExecuTorch: Edge AI Challenge",
-    "url": "https://arm-executorch.devpost.com/",
-    "location": "San Francisco State University",
-    "dates": "Oct 17 - 18, 2026",
-    "sort_date": "2026-10-17 00:00:00",
-    "state": "open",
-    "themes": [
-      "AR/VR",
-      "IoT",
-      "Machine Learning/AI"
-    ],
-    "prize": "$0",
-    "organization": "arm",
     "curated": false
   }
 ]
