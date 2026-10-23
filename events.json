@@ -1,31 +1,5 @@
 [
   {
-    "source": "Meetup",
-    "title": "Find a Startup to Help or Join",
-    "url": "https://www.meetup.com/developers-and-ux/events/316024294/",
-    "location": "Online",
-    "dates": "Oct 22, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-10-22 17:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Projects for Software Devs & UX Designers",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Find a Cofounder / Help or Join a Tech Startup",
-    "url": "https://www.meetup.com/dc-startup-cofounders/events/315812853/",
-    "location": "Online",
-    "dates": "Oct 22, 2026 \u00b7 8:00 PM",
-    "sort_date": "2026-10-22 20:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "D.C. Startup Founders & Tech Professionals",
-    "curated": false
-  },
-  {
     "source": "Devpost",
     "title": "Cal Hacks 13.0",
     "url": "https://cal-hacks-13-0.devpost.com/",
@@ -38,34 +12,8 @@
       "Social Good",
       "Open Ended"
     ],
-    "prize": "$127,388",
+    "prize": "$83,328",
     "organization": "Cal Hacks",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "The Next Frontier in AI x Bio: Panel Discussion and Selected Startup Pitches",
-    "url": "https://lu.ma/o28sg2pn",
-    "location": "San Francisco, CA",
-    "dates": "Oct 22, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-10-23 00:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Personal",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "LIVE MUSIC: Folk Songs for the AI Age with Jamie Simon and Eric Michaud",
-    "url": "https://lu.ma/n6j7vvod",
-    "location": "San Francisco, CA",
-    "dates": "Oct 22, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-10-23 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Imbue Events",
     "curated": false
   },
   {
@@ -245,6 +193,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "DSM AI Group Monthly Meeting (Speaker TBD)",
+    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/316699314/",
+    "location": "Des Moines, IA",
+    "dates": "Nov 17, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-11-17 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Des Moines Artificial Intelligence Group",
+    "curated": false
+  },
+  {
     "source": "Devpost",
     "title": "HackStorm 3.0: Sense, Think and Act",
     "url": "https://hackstorm3.devpost.com/",
@@ -259,22 +220,6 @@
     ],
     "prize": "$5,200",
     "organization": "HackStorm",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "national renaissance hackathon at super{set}",
-    "url": "https://national-renaissance-hackathon.devpost.com/",
-    "location": "San Francisco, California, USA",
-    "dates": "Oct 22, 2026",
-    "sort_date": "2026-10-22 00:00:00",
-    "state": "open",
-    "themes": [
-      "Machine Learning/AI",
-      "Social Good"
-    ],
-    "prize": "$10,000",
-    "organization": "super{set}",
     "curated": false
   }
 ]
