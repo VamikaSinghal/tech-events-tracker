@@ -1,19 +1,17 @@
 [
   {
     "source": "Devpost",
-    "title": "Cal Hacks 13.0",
-    "url": "https://cal-hacks-13-0.devpost.com/",
-    "location": "Palace of Fine Arts",
-    "dates": "Oct 23 - 25, 2026",
-    "sort_date": "2026-10-23 00:00:00",
+    "title": "Agent Builders Hackathon",
+    "url": "https://agent-builders-hackathon.devpost.com/",
+    "location": "Primitive Office",
+    "dates": "Oct 24, 2026",
+    "sort_date": "2026-10-24 00:00:00",
     "state": "upcoming",
     "themes": [
-      "Beginner Friendly",
-      "Social Good",
-      "Open Ended"
+      "Machine Learning/AI"
     ],
-    "prize": "$83,328",
-    "organization": "Cal Hacks",
+    "prize": "$0",
+    "organization": "Omnara",
     "curated": false
   },
   {
@@ -27,6 +25,19 @@
     "themes": [],
     "prize": "",
     "organization": "Corgi",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Catie Cuan // Physical AI: Giving AI a Robot Body",
+    "url": "https://lu.ma/hsmpoyxa",
+    "location": "Berkeley, California",
+    "dates": "Oct 27, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-10-28 00:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Design Field Notes",
     "curated": false
   },
   {
@@ -69,6 +80,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Precision Pitch Practice (RECURRING)",
+    "url": "https://www.meetup.com/boston_new_technology/events/316911820/",
+    "location": "Online",
+    "dates": "Oct 29, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-10-29 12:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Boston New Technology (BNT)",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Pancake AI x Corgi",
     "url": "https://lu.ma/usecorgi-fda6",
@@ -95,20 +119,16 @@
     "curated": false
   },
   {
-    "source": "Devpost",
-    "title": "Haunted Hacks: Realtime AI Edition",
-    "url": "https://haunted-hacks.devpost.com/",
-    "location": "Y Combinator",
-    "dates": "Oct 31, 2026",
-    "sort_date": "2026-10-31 00:00:00",
+    "source": "Meetup",
+    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
+    "url": "https://www.meetup.com/codentalk/events/316493341/",
+    "location": "Online",
+    "dates": "Nov 03, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-11-03 18:30:00",
     "state": "upcoming",
-    "themes": [
-      "Machine Learning/AI",
-      "Serverless",
-      "Web"
-    ],
-    "prize": "$0",
-    "organization": "Terse",
+    "themes": [],
+    "prize": "",
+    "organization": "TalknCode",
     "curated": false
   },
   {
@@ -193,16 +213,16 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "DSM AI Group Monthly Meeting (Speaker TBD)",
-    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/316699314/",
-    "location": "Des Moines, IA",
-    "dates": "Nov 17, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-11-17 17:30:00",
+    "source": "Luma",
+    "title": "DNAForge & MTC Berkeley: AI \u00d7 Biology Hackathon",
+    "url": "https://lu.ma/xdzhu4tn",
+    "location": "Berkeley, CA",
+    "dates": "Nov 14, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-11-14 17:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Des Moines Artificial Intelligence Group",
+    "organization": "MTC Berkeley",
     "curated": false
   },
   {
@@ -220,6 +240,23 @@
     ],
     "prize": "$5,200",
     "organization": "HackStorm",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "Cal Hacks 13.0",
+    "url": "https://cal-hacks-13-0.devpost.com/",
+    "location": "Palace of Fine Arts",
+    "dates": "Oct 23 - 25, 2026",
+    "sort_date": "2026-10-23 00:00:00",
+    "state": "open",
+    "themes": [
+      "Beginner Friendly",
+      "Social Good",
+      "Open Ended"
+    ],
+    "prize": "$83,328",
+    "organization": "Cal Hacks",
     "curated": false
   }
 ]
