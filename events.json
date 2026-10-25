@@ -1,30 +1,41 @@
 [
   {
-    "source": "Devpost",
-    "title": "Agent Builders Hackathon",
-    "url": "https://agent-builders-hackathon.devpost.com/",
-    "location": "Primitive Office",
-    "dates": "Oct 24, 2026",
-    "sort_date": "2026-10-24 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Machine Learning/AI"
-    ],
-    "prize": "$0",
-    "organization": "Omnara",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Lovable x Girls into VC Buildathon",
-    "url": "https://lu.ma/usecorgi-avov",
-    "location": "San Francisco, CA",
-    "dates": "Oct 24, 2026 \u00b7 1:00 PM",
-    "sort_date": "2026-10-24 20:00:00",
+    "source": "Meetup",
+    "title": "Episode 1: AI Fundamentals \u2013 Understanding the Future of Work",
+    "url": "https://www.meetup.com/microsoft-reactor-redmond/events/316765004/",
+    "location": "Online",
+    "dates": "Oct 26, 2026 \u00b7 8:00 AM",
+    "sort_date": "2026-10-26 08:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Corgi",
+    "organization": "Microsoft Reactor Redmond",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Get Paid to Train AI + Build Your First AI Workflow",
+    "url": "https://www.meetup.com/get-paid-to-train-ai-las-vegas/events/316612215/",
+    "location": "Online",
+    "dates": "Oct 27, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-10-27 17:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Get Paid to Train AI + AI Learning Community - Las Vegas",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Coding Club",
+    "url": "https://www.meetup.com/westside-coding-club/events/316891469/",
+    "location": "Online",
+    "dates": "Oct 27, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-10-27 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Westside Coding Club",
     "curated": false
   },
   {
@@ -80,19 +91,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Precision Pitch Practice (RECURRING)",
-    "url": "https://www.meetup.com/boston_new_technology/events/316911820/",
-    "location": "Online",
-    "dates": "Oct 29, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-10-29 12:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Boston New Technology (BNT)",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Pancake AI x Corgi",
     "url": "https://lu.ma/usecorgi-fda6",
@@ -120,15 +118,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
-    "url": "https://www.meetup.com/codentalk/events/316493341/",
+    "title": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
+    "url": "https://www.meetup.com/ac-sea/events/316730183/",
     "location": "Online",
-    "dates": "Nov 03, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-11-03 18:30:00",
+    "dates": "Nov 04, 2026 \u00b7 4:02 PM",
+    "sort_date": "2026-11-04 16:02:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "TalknCode",
+    "organization": "Analytics.Club Seattle: Data & AI Community, Connect. Grow.",
     "curated": false
   },
   {
@@ -244,19 +242,19 @@
   },
   {
     "source": "Devpost",
-    "title": "Cal Hacks 13.0",
-    "url": "https://cal-hacks-13-0.devpost.com/",
-    "location": "Palace of Fine Arts",
-    "dates": "Oct 23 - 25, 2026",
-    "sort_date": "2026-10-23 00:00:00",
+    "title": "Hack for Social Impact SF 2026",
+    "url": "https://hack-for-social-impact-sf-2026.devpost.com/",
+    "location": "Wefunder",
+    "dates": "Oct 24 - 25, 2026",
+    "sort_date": "2026-10-24 00:00:00",
     "state": "open",
     "themes": [
       "Beginner Friendly",
-      "Social Good",
-      "Open Ended"
+      "Machine Learning/AI",
+      "Social Good"
     ],
-    "prize": "$83,328",
-    "organization": "Cal Hacks",
+    "prize": "$5,000",
+    "organization": "Hack for Social Impact",
     "curated": false
   }
 ]
