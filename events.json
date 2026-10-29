@@ -1,19 +1,6 @@
 [
   {
     "source": "Luma",
-    "title": "Voice AI: From Models to Real-World Experiences",
-    "url": "https://lu.ma/bz8x2v1s",
-    "location": "San Francisco, CA",
-    "dates": "Oct 28, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-10-29 01:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Cartesia",
-    "curated": false
-  },
-  {
-    "source": "Luma",
     "title": "Pancake AI x Corgi",
     "url": "https://lu.ma/usecorgi-fda6",
     "location": "San Francisco, CA",
@@ -121,6 +108,45 @@
   },
   {
     "source": "Luma",
+    "title": "An Evening with Denmark's AI Enterprise Alliance",
+    "url": "https://lu.ma/1fv8wanp",
+    "location": "Menlo Park, CA",
+    "dates": "Nov 04, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-11-05 01:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Denmark in Silicon Valley",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Tech Pulse 2030 Chicago - Transforming HR and the Future of Work",
+    "url": "https://www.meetup.com/ai-2030-responsible-artificial-intelligence/events/313503685/",
+    "location": "Chicago, IL",
+    "dates": "Nov 05, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-11-05 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI 2030: Responsible Artificial Intelligence for All",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Generative AI Transformers: a Deep Dive",
+    "url": "https://www.meetup.com/the-chicago-cloud-computing-meetup-group/events/312946609/",
+    "location": "Chicago, IL",
+    "dates": "Nov 05, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-11-05 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "The Chicago Cloud Computing Meetup Group",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "139th SF Hardware Meetup @ Vizcom | Manufacturing and Design",
     "url": "https://lu.ma/2u9iuenk",
     "location": "San Francisco, CA",
@@ -130,6 +156,19 @@
     "themes": [],
     "prize": "",
     "organization": "SF Hardware Meetup",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Workshop : Building Production-Ready AI Agents with Amazon Bedrock AgentCore \ud83d\ude80",
+    "url": "https://www.meetup.com/aws_chicago_western_suburbs/events/316987324/",
+    "location": "Chicago, IL",
+    "dates": "Nov 06, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-11-06 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AWS Chicago Western Suburbs",
     "curated": false
   },
   {
@@ -159,6 +198,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Why AI Apps Fail + Building High-Precision Durable Timers + Confidence Is a Lie",
+    "url": "https://www.meetup.com/js-chi/events/314509837/",
+    "location": "Chicago, IL",
+    "dates": "Nov 10, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-11-10 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Digital Delivery Chicago",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "partner demo day",
     "url": "https://lu.ma/w0vmh85c",
@@ -169,6 +221,19 @@
     "themes": [],
     "prize": "",
     "organization": "The Residency - Bay Area",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Berkeley Quantum Pitch Night",
+    "url": "https://lu.ma/ahzfms2g",
+    "location": "Berkeley, CA",
+    "dates": "Nov 10, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-11-11 02:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Berkeley Gateway Accelerator",
     "curated": false
   },
   {
@@ -198,19 +263,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "DSM AI Group Monthly Meeting (Speaker TBD)",
-    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/316699314/",
-    "location": "Des Moines, IA",
-    "dates": "Nov 17, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-11-17 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Des Moines Artificial Intelligence Group",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Physical AI Industry Night: San Francisco",
     "url": "https://lu.ma/foxglove-mxml",
@@ -224,16 +276,16 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Create short videos with an AI twin",
-    "url": "https://www.meetup.com/ai-marketing-meetup-group/events/315809684/",
-    "location": "Online",
-    "dates": "Dec 03, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-12-03 16:00:00",
+    "source": "Luma",
+    "title": "AI Summit 2027: A Conversation Before Geneva",
+    "url": "https://lu.ma/fy8teprf",
+    "location": "San Francisco, CA",
+    "dates": "Nov 19, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-11-20 02:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AI + Marketing Meetup Group",
+    "organization": "Swissnex in San Francisco",
     "curated": false
   },
   {
