@@ -1,28 +1,15 @@
 [
   {
-    "source": "Luma",
-    "title": "Pancake AI x Corgi",
-    "url": "https://lu.ma/usecorgi-fda6",
-    "location": "San Francisco, CA",
-    "dates": "Oct 29, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-10-30 00:00:00",
+    "source": "Meetup",
+    "title": "The Open-Source AI System I Built to Run My Job Search",
+    "url": "https://www.meetup.com/agileaustin/events/316652248/",
+    "location": "Online",
+    "dates": "Oct 30, 2026 \u00b7 3:00 PM",
+    "sort_date": "2026-10-30 15:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Corgi",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "AI That Reasons and Acts: Carina Hong",
-    "url": "https://lu.ma/zw8t5s9t",
-    "location": "Palo Alto, CA",
-    "dates": "Oct 29, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-10-30 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Turing Growth",
+    "organization": "Agile Austin",
     "curated": false
   },
   {
@@ -120,29 +107,16 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Tech Pulse 2030 Chicago - Transforming HR and the Future of Work",
-    "url": "https://www.meetup.com/ai-2030-responsible-artificial-intelligence/events/313503685/",
-    "location": "Chicago, IL",
-    "dates": "Nov 05, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-11-05 17:30:00",
+    "source": "Luma",
+    "title": "SYSTEM UPDATE with The Pragmatic Engineer",
+    "url": "https://lu.ma/systemupdate",
+    "location": "San Francisco, CA",
+    "dates": "Nov 05, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-11-06 01:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "AI 2030: Responsible Artificial Intelligence for All",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Generative AI Transformers: a Deep Dive",
-    "url": "https://www.meetup.com/the-chicago-cloud-computing-meetup-group/events/312946609/",
-    "location": "Chicago, IL",
-    "dates": "Nov 05, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-11-05 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "The Chicago Cloud Computing Meetup Group",
+    "organization": "Sentry",
     "curated": false
   },
   {
@@ -156,19 +130,6 @@
     "themes": [],
     "prize": "",
     "organization": "SF Hardware Meetup",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Workshop : Building Production-Ready AI Agents with Amazon Bedrock AgentCore \ud83d\ude80",
-    "url": "https://www.meetup.com/aws_chicago_western_suburbs/events/316987324/",
-    "location": "Chicago, IL",
-    "dates": "Nov 06, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-11-06 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AWS Chicago Western Suburbs",
     "curated": false
   },
   {
@@ -198,19 +159,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Why AI Apps Fail + Building High-Precision Durable Timers + Confidence Is a Lie",
-    "url": "https://www.meetup.com/js-chi/events/314509837/",
-    "location": "Chicago, IL",
-    "dates": "Nov 10, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-11-10 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Digital Delivery Chicago",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "partner demo day",
     "url": "https://lu.ma/w0vmh85c",
@@ -237,6 +185,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "The Agile Credibility Crisis: Reclaiming the Scrum Master with AI Agents",
+    "url": "https://www.meetup.com/scrum-masters-of-the-universe/events/317060536/",
+    "location": "Online",
+    "dates": "Nov 11, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-11-11 12:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Scrum Masters of the Universe",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Stripe Startups Build Day San Francisco",
     "url": "https://lu.ma/r1d48cpq",
@@ -260,6 +221,32 @@
     "themes": [],
     "prize": "",
     "organization": "MTC Berkeley",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "She Builds: A Women in AI \u00d7 Lovable Hackathon",
+    "url": "https://lu.ma/lw202zjx",
+    "location": "San Francisco, CA",
+    "dates": "Nov 14, 2026 \u00b7 10:00 AM",
+    "sort_date": "2026-11-14 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Women in AI",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "DSM AI Group Monthly Meeting (Speaker TBD)",
+    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/316699314/",
+    "location": "Des Moines, IA",
+    "dates": "Nov 17, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-11-17 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Des Moines Artificial Intelligence Group",
     "curated": false
   },
   {
