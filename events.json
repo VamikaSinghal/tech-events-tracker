@@ -14,15 +14,15 @@
   },
   {
     "source": "Meetup",
-    "title": "TechConnect: Global Virtual Job & Networking Event for Data, AI, and Tech Pros",
-    "url": "https://www.meetup.com/ac-yyz/events/316878190/",
+    "title": "Accelerating Playwright Migration with AI and Automated Visibility",
+    "url": "https://www.meetup.com/innovate-qa-seattle-meetup-group/events/316733486/",
     "location": "Online",
-    "dates": "Nov 04, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-11-04 16:00:00",
+    "dates": "Nov 04, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-11-04 09:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Toronto Analytics.Club: Data & AI Community, Connect. Grow.",
+    "organization": "Innovate QA Meetup Group",
     "curated": false
   },
   {
@@ -185,6 +185,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "The Agile Credibility Crisis: Reclaiming the Scrum Master with AI Agents",
+    "url": "https://www.meetup.com/scrum-masters-of-the-universe/events/317060536/",
+    "location": "Online",
+    "dates": "Nov 11, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-11-11 12:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Scrum Masters of the Universe",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Stripe Startups Build Day San Francisco",
     "url": "https://lu.ma/r1d48cpq",
@@ -208,19 +221,6 @@
     "themes": [],
     "prize": "",
     "organization": "Neon",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI for Developers: Productivity, Building, and Dev Setup",
-    "url": "https://www.meetup.com/the-ubuntu-techhive-north-america/events/316847246/",
-    "location": "Online",
-    "dates": "Nov 14, 2026 \u00b7 10:30 AM",
-    "sort_date": "2026-11-14 10:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "The Ubuntu TechHive North America",
     "curated": false
   },
   {
@@ -260,6 +260,19 @@
     "themes": [],
     "prize": "",
     "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "DSM AI Group Monthly Meeting (Speaker TBD)",
+    "url": "https://www.meetup.com/des-moines-artificial-intelligence-group/events/316699314/",
+    "location": "Des Moines, IA",
+    "dates": "Nov 17, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-11-17 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Des Moines Artificial Intelligence Group",
     "curated": false
   },
   {
