@@ -1,112 +1,5 @@
 [
   {
-    "source": "Devpost",
-    "title": "Ship It: The Product Builders' Hackathon",
-    "url": "https://ship-it-hackathon.devpost.com/",
-    "location": "Mixpanel HQ",
-    "dates": "Nov 05, 2026",
-    "sort_date": "2026-11-05 00:00:00",
-    "state": "upcoming",
-    "themes": [
-      "Low/No Code",
-      "Machine Learning/AI"
-    ],
-    "prize": "$0",
-    "organization": "Mixpanel",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Autonomous Agents, Developer Workflows & Measuring Real AI ROI",
-    "url": "https://www.meetup.com/tcdnug/events/316798185/",
-    "location": "Online",
-    "dates": "Nov 05, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-11-05 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Twin Cities .NET User Group",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI This Week: Open Circle",
-    "url": "https://www.meetup.com/meetup-group-ufpdcpso/events/317189951/",
-    "location": "Online",
-    "dates": "Nov 05, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-11-05 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Charlotte Artificial Intelligence Meetup Group",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "The Career Reset: Surviving and Thriving in the AI Economy",
-    "url": "https://www.meetup.com/technology-ai/events/317154857/",
-    "location": "Online",
-    "dates": "Nov 05, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-11-05 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "technology.ai",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "SYSTEM UPDATE with The Pragmatic Engineer",
-    "url": "https://lu.ma/systemupdate",
-    "location": "San Francisco, CA",
-    "dates": "Nov 05, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-11-06 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Sentry",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Founder Poker Night 5 | With Slash and Pump",
-    "url": "https://lu.ma/wc0ta88t",
-    "location": "San Francisco, CA",
-    "dates": "Nov 05, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-11-06 01:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Slash Financial",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "139th SF Hardware Meetup @ Vizcom | Manufacturing and Design",
-    "url": "https://lu.ma/2u9iuenk",
-    "location": "San Francisco, CA",
-    "dates": "Nov 05, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-11-06 02:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "SF Hardware Meetup",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Biotech Open Pitch Session",
-    "url": "https://lu.ma/yklgathz",
-    "location": "Stanford, CA",
-    "dates": "Nov 06, 2026 \u00b7 9:30 AM",
-    "sort_date": "2026-11-06 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Startup Events @ Stanford Founders' Club",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Founders GTM Coffee Meetup",
     "url": "https://lu.ma/8v9rokfj",
@@ -211,19 +104,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Tour de Claude Stage 2: Map a Workflow, Find the AI (Lunch)",
-    "url": "https://www.meetup.com/san-antonio-scaled-agile-framework-safe-meetup/events/317273147/",
-    "location": "Online",
-    "dates": "Nov 11, 2026 \u00b7 11:45 AM",
-    "sort_date": "2026-11-11 11:45:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "San Antonio & Austin Scaled Agile Framework\u00ae SAFe\u00ae Meetup",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Stripe Startups Build Day San Francisco",
     "url": "https://lu.ma/r1d48cpq",
@@ -234,6 +114,45 @@
     "themes": [],
     "prize": "",
     "organization": "Stripe Startups",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Early Days #02 with Google DeepMind: Open Models, Security & AI Defensibility",
+    "url": "https://lu.ma/antlerus-1or3",
+    "location": "San Francisco, CA",
+    "dates": "Nov 11, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-11-12 00:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Antler US",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Vlad Tenev (Co-Founder, RobinHood & HarmonicMath) @ Stanford AI Club",
+    "url": "https://lu.ma/lgekomwt",
+    "location": "Stanford, CA",
+    "dates": "Nov 11, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-11-12 01:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "From Pilot to Production: A Leader\u2019s Playbook for AWS AI at Scale",
+    "url": "https://www.meetup.com/data-ai-and-app-development-meetup/events/317206470/",
+    "location": "Online",
+    "dates": "Nov 12, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-11-12 12:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Data & AI and App Development Meetup",
     "curated": false
   },
   {
@@ -273,6 +192,19 @@
     "themes": [],
     "prize": "",
     "organization": "SF Hardware Meetup",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Computer Networking for AI Introduction",
+    "url": "https://www.meetup.com/eli-the-computer-guy/events/317242187/",
+    "location": "Online",
+    "dates": "Nov 13, 2026 \u00b7 3:00 PM",
+    "sort_date": "2026-11-13 15:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Eli the Computer Guy",
     "curated": false
   },
   {
@@ -316,15 +248,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Geeks&&Tech Tuesdays: Special Guest Speaker!",
-    "url": "https://www.meetup.com/meetup-group-umecjcqo/events/317151759/",
-    "location": "San Antonio, TX",
-    "dates": "Nov 17, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-11-17 09:00:00",
+    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
+    "url": "https://www.meetup.com/codentalk/events/316493342/",
+    "location": "Online",
+    "dates": "Nov 17, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-11-17 18:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Geeks&& Community",
+    "organization": "TalknCode",
     "curated": false
   },
   {
@@ -354,6 +286,32 @@
     "curated": false
   },
   {
+    "source": "Luma",
+    "title": "How can AI kill us all? Eight existential risk scenarios with Prof. Geoffrey Hinton",
+    "url": "https://lu.ma/zcbrxhsr",
+    "location": "San Francisco, CA",
+    "dates": "Nov 19, 2026 \u00b7 6:15 PM",
+    "sort_date": "2026-11-20 02:15:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "SF Non-Slop Hackathon | Pangram x Kino x Capy x Paper",
+    "url": "https://lu.ma/32d8mqid",
+    "location": "San Francisco, CA",
+    "dates": "Nov 24, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-11-25 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Pangram",
+    "curated": false
+  },
+  {
     "source": "Devpost",
     "title": "HackStorm 3.0: Sense, Think and Act",
     "url": "https://hackstorm3.devpost.com/",
@@ -368,6 +326,21 @@
     ],
     "prize": "$5,200",
     "organization": "HackStorm",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "Neo Hackathon 2026",
+    "url": "https://neo-hackathon-2026.devpost.com/",
+    "location": "San Francisco, California, USA",
+    "dates": "Nov 06 - 08, 2026",
+    "sort_date": "2026-11-06 00:00:00",
+    "state": "open",
+    "themes": [
+      "Open Ended"
+    ],
+    "prize": "$0",
+    "organization": "Neo",
     "curated": false
   }
 ]
