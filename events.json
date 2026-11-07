@@ -1,58 +1,6 @@
 [
   {
     "source": "Luma",
-    "title": "Founders GTM Coffee Meetup",
-    "url": "https://lu.ma/8v9rokfj",
-    "location": "San Francisco, CA",
-    "dates": "Nov 06, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-11-06 22:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Personal",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Geospatial Developers Meetup",
-    "url": "https://lu.ma/binndri6",
-    "location": "San Francisco, CA",
-    "dates": "Nov 06, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-11-07 00:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Personal",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Built at the Frontier: AIAS\u207a Startup & Builder Night",
-    "url": "https://lu.ma/9gbayglh",
-    "location": "San Francisco, CA",
-    "dates": "Nov 06, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-11-07 01:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Chen Institute",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Visioning the Future: A Climate Action Collage Soir\u00e9e",
-    "url": "https://lu.ma/u9l1w54q",
-    "location": "San Francisco, CA",
-    "dates": "Nov 06, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-11-07 02:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Soapbox Bay Area",
-    "curated": false
-  },
-  {
-    "source": "Luma",
     "title": "Music Hardware Is a Fashion Accessory: A Design Workshop",
     "url": "https://lu.ma/tlbsclk1",
     "location": "San Francisco, CA",
@@ -143,19 +91,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "From Pilot to Production: A Leader\u2019s Playbook for AWS AI at Scale",
-    "url": "https://www.meetup.com/data-ai-and-app-development-meetup/events/317206470/",
-    "location": "Online",
-    "dates": "Nov 12, 2026 \u00b7 12:00 PM",
-    "sort_date": "2026-11-12 12:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Data & AI and App Development Meetup",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Humanmade Hardware Accelerator Demo Day",
     "url": "https://lu.ma/yoytbej3",
@@ -166,6 +101,19 @@
     "themes": [],
     "prize": "",
     "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Creatives in Control: Leading with AI",
+    "url": "https://lu.ma/magnific-5t14",
+    "location": "San Francisco, CA",
+    "dates": "Nov 12, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-11-13 01:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Magnific",
     "curated": false
   },
   {
@@ -244,6 +192,19 @@
     "themes": [],
     "prize": "",
     "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Pear VC | Founders at the Table \u521b\u5ba2\u5706\u684c",
+    "url": "https://lu.ma/x56q8yaz",
+    "location": "Menlo Park, CA",
+    "dates": "Nov 16, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-11-17 02:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Pear Events Calendar",
     "curated": false
   },
   {
