@@ -1,5 +1,31 @@
 [
   {
+    "source": "Meetup",
+    "title": "AI Agent Escape: Hugging Face Warning Shot",
+    "url": "https://www.meetup.com/ai-safety-awareness-group-seattle/events/317264924/",
+    "location": "Online",
+    "dates": "Nov 09, 2026 \u00b7 11:30 AM",
+    "sort_date": "2026-11-09 11:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Safety Awareness Group Seattle",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Tacos+Tech",
+    "url": "https://www.meetup.com/dataphx/events/316925594/",
+    "location": "Tempe, AZ",
+    "dates": "Nov 09, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-11-09 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "DATAPHX",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Music Hardware Is a Fashion Accessory: A Design Workshop",
     "url": "https://lu.ma/tlbsclk1",
@@ -91,6 +117,32 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Hardware Happy Hour (3H) Phoenix (metro)",
+    "url": "https://www.meetup.com/hardware-happy-hour-3h-phoenix/events/317147544/",
+    "location": "Phoenix, AZ",
+    "dates": "Nov 12, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-11-12 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Hardware Happy Hour (3H) Phoenix",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "BritChip Pitching: Meet the Latest UK Semiconductor Startups",
+    "url": "https://lu.ma/sr3k586q",
+    "location": "Palo Alto, CA",
+    "dates": "Nov 12, 2026 \u00b7 1:30 PM",
+    "sort_date": "2026-11-12 21:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "ChipStart UK",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Humanmade Hardware Accelerator Demo Day",
     "url": "https://lu.ma/yoytbej3",
@@ -140,19 +192,6 @@
     "themes": [],
     "prize": "",
     "organization": "SF Hardware Meetup",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Computer Networking for AI Introduction",
-    "url": "https://www.meetup.com/eli-the-computer-guy/events/317242187/",
-    "location": "Online",
-    "dates": "Nov 13, 2026 \u00b7 3:00 PM",
-    "sort_date": "2026-11-13 15:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Eli the Computer Guy",
     "curated": false
   },
   {
@@ -209,15 +248,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
-    "url": "https://www.meetup.com/codentalk/events/316493342/",
+    "title": "Ask Aaron Anything! Your AI Questions Answered",
+    "url": "https://www.meetup.com/old-pueblo-new-economy-artificial-intelligence-trailblazers/events/313466703/",
     "location": "Online",
-    "dates": "Nov 17, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-11-17 18:30:00",
+    "dates": "Nov 17, 2026 \u00b7 2:00 PM",
+    "sort_date": "2026-11-17 14:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "TalknCode",
+    "organization": "Artificial Intelligence Trailblazers",
     "curated": false
   },
   {
@@ -231,6 +270,32 @@
     "themes": [],
     "prize": "",
     "organization": "Foxglove",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Fireside Chat with Abhinav Gupta, Skild.ai",
+    "url": "https://lu.ma/skild-spc",
+    "location": "San Francisco, California",
+    "dates": "Nov 18, 2026 \u00b7 4:30 PM",
+    "sort_date": "2026-11-19 00:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "South Park Commons",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI, Engineering, Getting Things to Market",
+    "url": "https://www.meetup.com/azemergingtech/events/315041455/",
+    "location": "Scottsdale, AZ",
+    "dates": "Nov 19, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-11-19 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Arizona AI & Emerging Technology",
     "curated": false
   },
   {
@@ -273,6 +338,19 @@
     "curated": false
   },
   {
+    "source": "Luma",
+    "title": "Hardware Fireside Chat @ Flux | Make SF Better with Water, Energy, Waste Treatment, and Infra",
+    "url": "https://lu.ma/lx81wh0i",
+    "location": "San Francisco, CA",
+    "dates": "Dec 02, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-12-03 02:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "SF Hardware Meetup",
+    "curated": false
+  },
+  {
     "source": "Devpost",
     "title": "HackStorm 3.0: Sense, Think and Act",
     "url": "https://hackstorm3.devpost.com/",
@@ -287,21 +365,6 @@
     ],
     "prize": "$5,200",
     "organization": "HackStorm",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "Neo Hackathon 2026",
-    "url": "https://neo-hackathon-2026.devpost.com/",
-    "location": "San Francisco, California, USA",
-    "dates": "Nov 06 - 08, 2026",
-    "sort_date": "2026-11-06 00:00:00",
-    "state": "open",
-    "themes": [
-      "Open Ended"
-    ],
-    "prize": "$0",
-    "organization": "Neo",
     "curated": false
   }
 ]
