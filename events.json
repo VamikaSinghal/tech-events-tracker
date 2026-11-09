@@ -1,31 +1,5 @@
 [
   {
-    "source": "Meetup",
-    "title": "AI Agent Escape: Hugging Face Warning Shot",
-    "url": "https://www.meetup.com/ai-safety-awareness-group-seattle/events/317264924/",
-    "location": "Online",
-    "dates": "Nov 09, 2026 \u00b7 11:30 AM",
-    "sort_date": "2026-11-09 11:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "AI Safety Awareness Group Seattle",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Tacos+Tech",
-    "url": "https://www.meetup.com/dataphx/events/316925594/",
-    "location": "Tempe, AZ",
-    "dates": "Nov 09, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-11-09 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "DATAPHX",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Music Hardware Is a Fashion Accessory: A Design Workshop",
     "url": "https://lu.ma/tlbsclk1",
@@ -36,6 +10,32 @@
     "themes": [],
     "prize": "",
     "organization": "tiat (the intersection of art & technology)",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Data+AI meetup with Databricks",
+    "url": "https://www.meetup.com/chicago-enterprise-ai/events/316901076/",
+    "location": "Chicago, IL",
+    "dates": "Nov 10, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-11-10 17:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Chicago Enterprise AI",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Why AI Apps Fail + Building High-Precision Durable Timers + Confidence Is a Lie",
+    "url": "https://www.meetup.com/js-chi/events/314509837/",
+    "location": "Chicago, IL",
+    "dates": "Nov 10, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-11-10 17:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Digital Delivery Chicago",
     "curated": false
   },
   {
@@ -117,32 +117,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Hardware Happy Hour (3H) Phoenix (metro)",
-    "url": "https://www.meetup.com/hardware-happy-hour-3h-phoenix/events/317147544/",
-    "location": "Phoenix, AZ",
-    "dates": "Nov 12, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-11-12 19:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Hardware Happy Hour (3H) Phoenix",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "BritChip Pitching: Meet the Latest UK Semiconductor Startups",
-    "url": "https://lu.ma/sr3k586q",
-    "location": "Palo Alto, CA",
-    "dates": "Nov 12, 2026 \u00b7 1:30 PM",
-    "sort_date": "2026-11-12 21:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "ChipStart UK",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Humanmade Hardware Accelerator Demo Day",
     "url": "https://lu.ma/yoytbej3",
@@ -192,6 +166,19 @@
     "themes": [],
     "prize": "",
     "organization": "SF Hardware Meetup",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Computer Networking for AI Introduction",
+    "url": "https://www.meetup.com/eli-the-computer-guy/events/317242187/",
+    "location": "Online",
+    "dates": "Nov 13, 2026 \u00b7 3:00 PM",
+    "sort_date": "2026-11-13 15:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Eli the Computer Guy",
     "curated": false
   },
   {
@@ -247,16 +234,16 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Ask Aaron Anything! Your AI Questions Answered",
-    "url": "https://www.meetup.com/old-pueblo-new-economy-artificial-intelligence-trailblazers/events/313466703/",
-    "location": "Online",
-    "dates": "Nov 17, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-11-17 14:00:00",
+    "source": "Luma",
+    "title": "Builder Night San Francisco | n8n x Vercel x Arize AI",
+    "url": "https://lu.ma/0qn71c42",
+    "location": "San Francisco, CA",
+    "dates": "Nov 17, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-11-18 01:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Artificial Intelligence Trailblazers",
+    "organization": "n8n Community Events",
     "curated": false
   },
   {
@@ -287,15 +274,15 @@
   },
   {
     "source": "Meetup",
-    "title": "AI, Engineering, Getting Things to Market",
-    "url": "https://www.meetup.com/azemergingtech/events/315041455/",
-    "location": "Scottsdale, AZ",
+    "title": "How AI Can Enhance Survey Research",
+    "url": "https://www.meetup.com/pydatachi/events/317159634/",
+    "location": "Online",
     "dates": "Nov 19, 2026 \u00b7 6:00 PM",
     "sort_date": "2026-11-19 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Arizona AI & Emerging Technology",
+    "organization": "PyData Chicago",
     "curated": false
   },
   {
@@ -322,6 +309,19 @@
     "themes": [],
     "prize": "",
     "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Durable AI Meetup (November Edition)",
+    "url": "https://lu.ma/durable-ai-november",
+    "location": "San Francisco, CA",
+    "dates": "Nov 23, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-11-24 01:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Temporal Community",
     "curated": false
   },
   {
