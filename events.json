@@ -1,93 +1,28 @@
 [
   {
     "source": "Meetup",
-    "title": "How to evaluate or test the  product powered by large language models",
-    "url": "https://www.meetup.com/innovate-qa-seattle-meetup-group/events/316681908/",
+    "title": "Applied AI Ethics MonthlyMixer - Where Innovation Meets Responsibility",
+    "url": "https://www.meetup.com/ac-yyz/events/317038825/",
     "location": "Online",
-    "dates": "Nov 10, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-11-10 16:00:00",
+    "dates": "Nov 11, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-11-11 17:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Innovate QA Meetup Group",
+    "organization": "Toronto Analytics.Club: Data & AI Community, Connect. Grow.",
     "curated": false
   },
   {
     "source": "Meetup",
-    "title": "Data+AI meetup with Databricks",
-    "url": "https://www.meetup.com/chicago-enterprise-ai/events/316901076/",
-    "location": "Chicago, IL",
-    "dates": "Nov 10, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-11-10 17:00:00",
+    "title": "How to get your Agentic AI on!",
+    "url": "https://www.meetup.com/it-pro-ai-hump/events/316871271/",
+    "location": "Online",
+    "dates": "Nov 11, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-11-11 19:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Chicago Enterprise AI",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Why AI Apps Fail + Building High-Precision Durable Timers + Confidence Is a Lie",
-    "url": "https://www.meetup.com/js-chi/events/314509837/",
-    "location": "Chicago, IL",
-    "dates": "Nov 10, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-11-10 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Digital Delivery Chicago",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "partner demo day",
-    "url": "https://lu.ma/w0vmh85c",
-    "location": "San Francisco, CA",
-    "dates": "Nov 10, 2026 \u00b7 3:00 PM",
-    "sort_date": "2026-11-10 23:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "The Residency - Bay Area",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Biryani Maxxing: A Diwali Feast & Multiplayer AI Mixer",
-    "url": "https://lu.ma/biryanimaxxing",
-    "location": "San Francisco, CA",
-    "dates": "Nov 10, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-11-11 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "PromptQL Events",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Berkeley Quantum Pitch Night",
-    "url": "https://lu.ma/ahzfms2g",
-    "location": "Berkeley, CA",
-    "dates": "Nov 10, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-11-11 02:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Berkeley Gateway Accelerator",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Stripe Startups Build Day San Francisco",
-    "url": "https://lu.ma/r1d48cpq",
-    "location": "South San Francisco, CA",
-    "dates": "Nov 11, 2026 \u00b7 9:30 AM",
-    "sort_date": "2026-11-11 17:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Stripe Startups",
+    "organization": "Getting over the AI Hump",
     "curated": false
   },
   {
@@ -101,19 +36,6 @@
     "themes": [],
     "prize": "",
     "organization": "Antler US",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Tacit AI: Non-Invasive BCI Demo",
-    "url": "https://lu.ma/9ye23gb1",
-    "location": "Stanford, CA",
-    "dates": "Nov 11, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-11-12 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Nexus Neurotech",
     "curated": false
   },
   {
@@ -273,6 +195,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
+    "url": "https://www.meetup.com/codentalk/events/316493342/",
+    "location": "Online",
+    "dates": "Nov 17, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-11-17 18:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "TalknCode",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Builder Night San Francisco | n8n x Vercel x Arize AI",
     "url": "https://lu.ma/0qn71c42",
@@ -296,6 +231,19 @@
     "themes": [],
     "prize": "",
     "organization": "Foxglove",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "SPC Energy Forum: Fireside with Garth Sheldon-Coulson, Co-Founder and CEO of Panthalassa",
+    "url": "https://lu.ma/spc-garth",
+    "location": "San Francisco, CA",
+    "dates": "Nov 18, 2026 \u00b7 10:30 AM",
+    "sort_date": "2026-11-18 18:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "South Park Commons",
     "curated": false
   },
   {
@@ -326,15 +274,15 @@
   },
   {
     "source": "Meetup",
-    "title": "How AI Can Enhance Survey Research",
-    "url": "https://www.meetup.com/pydatachi/events/317159634/",
+    "title": "AI This Week: Open Circle",
+    "url": "https://www.meetup.com/newjerseyaigroup/events/317371680/",
     "location": "Online",
     "dates": "Nov 19, 2026 \u00b7 6:00 PM",
     "sort_date": "2026-11-19 18:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "PyData Chicago",
+    "organization": "New Jersey Artificial Intelligence Meetup Group",
     "curated": false
   },
   {
