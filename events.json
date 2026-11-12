@@ -1,54 +1,15 @@
 [
   {
     "source": "Meetup",
-    "title": "Applied AI Ethics MonthlyMixer - Where Innovation Meets Responsibility",
-    "url": "https://www.meetup.com/ac-yyz/events/317038825/",
+    "title": "2 Hours to Research Intelligence: Build Your First AI Agent",
+    "url": "https://www.meetup.com/austin-tx-tech-entrepreneurship-ai-venture-capital/events/317119447/",
     "location": "Online",
-    "dates": "Nov 11, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-11-11 17:00:00",
+    "dates": "Nov 12, 2026 \u00b7 4:00 PM",
+    "sort_date": "2026-11-12 16:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Toronto Analytics.Club: Data & AI Community, Connect. Grow.",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "How to get your Agentic AI on!",
-    "url": "https://www.meetup.com/it-pro-ai-hump/events/316871271/",
-    "location": "Online",
-    "dates": "Nov 11, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-11-11 19:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Getting over the AI Hump",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Early Days #02 with Google DeepMind: Open Models, Security & AI Defensibility",
-    "url": "https://lu.ma/antlerus-1or3",
-    "location": "San Francisco, CA",
-    "dates": "Nov 11, 2026 \u00b7 4:00 PM",
-    "sort_date": "2026-11-12 00:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Antler US",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Vlad Tenev (Co-Founder, RobinHood & HarmonicMath) @ Stanford AI Club",
-    "url": "https://lu.ma/lgekomwt",
-    "location": "Stanford, CA",
-    "dates": "Nov 11, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-11-12 01:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Personal",
+    "organization": "Austin / TX /  Tech, Entrepreneurship, AI  & Venture Capital",
     "curated": false
   },
   {
@@ -157,19 +118,6 @@
   },
   {
     "source": "Luma",
-    "title": "She Builds: A Women in AI \u00d7 Lovable Hackathon",
-    "url": "https://lu.ma/lw202zjx",
-    "location": "San Francisco, CA",
-    "dates": "Nov 14, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-11-14 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Women in AI",
-    "curated": false
-  },
-  {
-    "source": "Luma",
     "title": "\ud83d\udd25 Hard Tech Bonfire Night @ OG Tesla HQ",
     "url": "https://lu.ma/ak5cch9g",
     "location": "San Carlos, CA",
@@ -196,15 +144,15 @@
   },
   {
     "source": "Meetup",
-    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
-    "url": "https://www.meetup.com/codentalk/events/316493342/",
-    "location": "Online",
-    "dates": "Nov 17, 2026 \u00b7 6:30 PM",
-    "sort_date": "2026-11-17 18:30:00",
+    "title": "Geeks&&Tech Tuesdays: Special Guest Speaker!",
+    "url": "https://www.meetup.com/meetup-group-umecjcqo/events/317151759/",
+    "location": "San Antonio, TX",
+    "dates": "Nov 17, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-11-17 09:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "TalknCode",
+    "organization": "Geeks&& Community",
     "curated": false
   },
   {
@@ -270,19 +218,6 @@
     "themes": [],
     "prize": "",
     "organization": "Savant VC",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI This Week: Open Circle",
-    "url": "https://www.meetup.com/newjerseyaigroup/events/317371680/",
-    "location": "Online",
-    "dates": "Nov 19, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-11-19 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "New Jersey Artificial Intelligence Meetup Group",
     "curated": false
   },
   {
