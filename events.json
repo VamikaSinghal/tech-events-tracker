@@ -1,57 +1,5 @@
 [
   {
-    "source": "Meetup",
-    "title": "AI Connect - Job and Career Networking for AI Specialists",
-    "url": "https://www.meetup.com/ac-sea/events/317123953/",
-    "location": "Online",
-    "dates": "Nov 13, 2026 \u00b7 2:00 PM",
-    "sort_date": "2026-11-13 14:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Analytics.Club Seattle: Data & AI Community, Connect. Grow.",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AIConnect: Global Virtual Job & Career Networking Event for AI Specialists",
-    "url": "https://www.meetup.com/ac-yyz/events/316480684/",
-    "location": "Online",
-    "dates": "Nov 13, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-11-13 17:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Toronto Analytics.Club: Data & AI Community, Connect. Grow.",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Tech Makers Goes West @Mission Robotics: Chargebotic + Pitch Night",
-    "url": "https://lu.ma/jmmocepn",
-    "location": "San Francisco, CA",
-    "dates": "Nov 13, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-11-14 01:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Tech Makers",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "DNAForge & MTC Berkeley: AI \u00d7 Biology Hackathon",
-    "url": "https://lu.ma/xdzhu4tn",
-    "location": "Berkeley, CA",
-    "dates": "Nov 14, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-11-14 17:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "MTC Berkeley",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "\ud83d\udd25 Hard Tech Bonfire Night @ OG Tesla HQ",
     "url": "https://lu.ma/ak5cch9g",
@@ -75,6 +23,19 @@
     "themes": [],
     "prize": "",
     "organization": "Pear Events Calendar",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Developer Discussion Night (AI, Tools, Trends & More)",
+    "url": "https://www.meetup.com/codentalk/events/316493342/",
+    "location": "Online",
+    "dates": "Nov 17, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-11-17 18:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "TalknCode",
     "curated": false
   },
   {
@@ -143,6 +104,32 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "AI This Week: Open Circle",
+    "url": "https://www.meetup.com/newjerseyaigroup/events/317371680/",
+    "location": "Online",
+    "dates": "Nov 19, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-11-19 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "New Jersey Artificial Intelligence Meetup Group",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "FREE REMOTE | LADIES IN AI + AI GROWTH CIRCLE (AN OPEN AI FORUM FOR ALL)",
+    "url": "https://www.meetup.com/ai-growth-circle/events/315939839/",
+    "location": "Online",
+    "dates": "Nov 19, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-11-19 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Growth Circle",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "AI Summit 2027: A Conversation Before Geneva",
     "url": "https://lu.ma/fy8teprf",
@@ -208,19 +195,6 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "AI for Developers: Productivity, Building, and Dev Setup",
-    "url": "https://www.meetup.com/the-ubuntu-techhive-north-america/events/316847250/",
-    "location": "Online",
-    "dates": "Nov 28, 2026 \u00b7 10:30 AM",
-    "sort_date": "2026-11-28 10:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "The Ubuntu TechHive North America",
-    "curated": false
-  },
-  {
     "source": "Luma",
     "title": "Hardware Fireside Chat @ Flux | Make SF Better with Water, Energy, Waste Treatment, and Infra",
     "url": "https://lu.ma/lx81wh0i",
@@ -261,6 +235,19 @@
   },
   {
     "source": "Luma",
+    "title": "140th SF Hardware Meetup | Holiday Party @ Studio 45",
+    "url": "https://lu.ma/tggaz0h9",
+    "location": "San Francisco, CA",
+    "dates": "Dec 10, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-12-11 02:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "SF Hardware Meetup",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "The Great Business Bake Off: an AI Agent Hackathon",
     "url": "https://lu.ma/bakeoff",
     "location": "San Francisco, CA",
@@ -287,6 +274,23 @@
     ],
     "prize": "$5,200",
     "organization": "HackStorm",
+    "curated": false
+  },
+  {
+    "source": "Devpost",
+    "title": "VexoHacks - An AI Wearables Hackathon",
+    "url": "https://vexohacks.devpost.com/",
+    "location": "Y Combinator",
+    "dates": "Nov 14, 2026",
+    "sort_date": "2026-11-14 00:00:00",
+    "state": "open",
+    "themes": [
+      "AR/VR",
+      "IoT",
+      "Machine Learning/AI"
+    ],
+    "prize": "$0",
+    "organization": "Vexo",
     "curated": false
   }
 ]
