@@ -1,19 +1,6 @@
 [
   {
     "source": "Luma",
-    "title": "\ud83d\udd25 Hard Tech Bonfire Night @ OG Tesla HQ",
-    "url": "https://lu.ma/ak5cch9g",
-    "location": "San Carlos, CA",
-    "dates": "Nov 14, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-11-15 02:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Personal",
-    "curated": false
-  },
-  {
-    "source": "Luma",
     "title": "Pear VC | Founders at the Table \u521b\u5ba2\u5706\u684c",
     "url": "https://lu.ma/x56q8yaz",
     "location": "Menlo Park, CA",
@@ -105,19 +92,6 @@
   },
   {
     "source": "Meetup",
-    "title": "AI This Week: Open Circle",
-    "url": "https://www.meetup.com/newjerseyaigroup/events/317371680/",
-    "location": "Online",
-    "dates": "Nov 19, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-11-19 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "New Jersey Artificial Intelligence Meetup Group",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
     "title": "FREE REMOTE | LADIES IN AI + AI GROWTH CIRCLE (AN OPEN AI FORUM FOR ALL)",
     "url": "https://www.meetup.com/ai-growth-circle/events/315939839/",
     "location": "Online",
@@ -192,6 +166,19 @@
     "themes": [],
     "prize": "",
     "organization": "Pangram",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI for Developers: Productivity, Building, and Dev Setup",
+    "url": "https://www.meetup.com/the-ubuntu-techhive-north-america/events/316847250/",
+    "location": "Online",
+    "dates": "Nov 28, 2026 \u00b7 10:30 AM",
+    "sort_date": "2026-11-28 10:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "The Ubuntu TechHive North America",
     "curated": false
   },
   {
@@ -274,23 +261,6 @@
     ],
     "prize": "$5,200",
     "organization": "HackStorm",
-    "curated": false
-  },
-  {
-    "source": "Devpost",
-    "title": "VexoHacks - An AI Wearables Hackathon",
-    "url": "https://vexohacks.devpost.com/",
-    "location": "Y Combinator",
-    "dates": "Nov 14, 2026",
-    "sort_date": "2026-11-14 00:00:00",
-    "state": "open",
-    "themes": [
-      "AR/VR",
-      "IoT",
-      "Machine Learning/AI"
-    ],
-    "prize": "$0",
-    "organization": "Vexo",
     "curated": false
   }
 ]
