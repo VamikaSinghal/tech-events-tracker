@@ -1,18 +1,5 @@
 [
   {
-    "source": "Luma",
-    "title": "Pear VC | Founders at the Table \u521b\u5ba2\u5706\u684c",
-    "url": "https://lu.ma/x56q8yaz",
-    "location": "Menlo Park, CA",
-    "dates": "Nov 16, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-11-17 02:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Pear Events Calendar",
-    "curated": false
-  },
-  {
     "source": "Meetup",
     "title": "Developer Discussion Night (AI, Tools, Trends & More)",
     "url": "https://www.meetup.com/codentalk/events/316493342/",
@@ -23,6 +10,19 @@
     "themes": [],
     "prize": "",
     "organization": "TalknCode",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Hugging Face Attack Overview + What's Causing Rogue AI Incidents?",
+    "url": "https://www.meetup.com/ai-safety-awareness-group-boston/events/317265637/",
+    "location": "Online",
+    "dates": "Nov 17, 2026 \u00b7 8:00 PM",
+    "sort_date": "2026-11-17 20:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Safety Awareness Group Boston",
     "curated": false
   },
   {
@@ -53,6 +53,19 @@
   },
   {
     "source": "Luma",
+    "title": "Line of Contact: A Defense Tech Event",
+    "url": "https://lu.ma/qfalt62d",
+    "location": "San Francisco, CA",
+    "dates": "Nov 17, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-11-18 02:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Hexa House",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "SPC Energy Forum: Fireside with Garth Sheldon-Coulson, Co-Founder and CEO of Panthalassa",
     "url": "https://lu.ma/spc-garth",
     "location": "San Francisco, CA",
@@ -62,6 +75,19 @@
     "themes": [],
     "prize": "",
     "organization": "South Park Commons",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Future of Physical AI and Industrial Robotics",
+    "url": "https://lu.ma/4pd9udu8",
+    "location": "Palo Alto, CA",
+    "dates": "Nov 18, 2026 \u00b7 11:00 AM",
+    "sort_date": "2026-11-18 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
     "curated": false
   },
   {
@@ -88,6 +114,19 @@
     "themes": [],
     "prize": "",
     "organization": "Savant VC",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "SF Open Decks 001 - B2B, Not SaaS",
+    "url": "https://lu.ma/j72pjtqk",
+    "location": "San Francisco, CA",
+    "dates": "Nov 18, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-11-19 03:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
     "curated": false
   },
   {
@@ -179,6 +218,19 @@
     "themes": [],
     "prize": "",
     "organization": "The Ubuntu TechHive North America",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Claude Cowork: What AI Agent Skills Are + How to Customize Them",
+    "url": "https://www.meetup.com/above-the-model/events/316684583/",
+    "location": "Online",
+    "dates": "Dec 01, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-01 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Above the Model",
     "curated": false
   },
   {
