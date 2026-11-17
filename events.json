@@ -14,6 +14,32 @@
   },
   {
     "source": "Meetup",
+    "title": "AI And The Future Of Education",
+    "url": "https://www.meetup.com/ai-for-a-better-world-postpossible/events/317170989/",
+    "location": "Online",
+    "dates": "Nov 17, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-11-17 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI For A Better World - PostPossible",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI COMMUNITY NIGHT - Tuesdays @7pm (FREE|Remote) - a group-led event",
+    "url": "https://www.meetup.com/ai-growth-circle/events/317016379/",
+    "location": "Online",
+    "dates": "Nov 17, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-11-17 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Growth Circle",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
     "title": "Hugging Face Attack Overview + What's Causing Rogue AI Incidents?",
     "url": "https://www.meetup.com/ai-safety-awareness-group-boston/events/317265637/",
     "location": "Online",
@@ -91,6 +117,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "Self-Improving AI and Loss of Control Risks: A Plain-English Intro",
+    "url": "https://www.meetup.com/ai-safety-awareness-group-boston/events/317266328/",
+    "location": "Online",
+    "dates": "Nov 18, 2026 \u00b7 8:00 PM",
+    "sort_date": "2026-11-18 20:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Safety Awareness Group Boston",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Fireside Chat with Abhinav Gupta, Skild.ai",
     "url": "https://lu.ma/skild-spc",
@@ -101,6 +140,19 @@
     "themes": [],
     "prize": "",
     "organization": "South Park Commons",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Surreal Dinner Series: Data with Surge AI",
+    "url": "https://lu.ma/surreal-so9v",
+    "location": "San Francisco, CA",
+    "dates": "Nov 18, 2026 \u00b7 5:15 PM",
+    "sort_date": "2026-11-19 01:15:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Surreal",
     "curated": false
   },
   {
@@ -157,6 +209,19 @@
   },
   {
     "source": "Luma",
+    "title": "Conscious AI Meetup: Consciousness as an autocatalytic principle of agency",
+    "url": "https://lu.ma/cimc-41rs",
+    "location": "San Francisco, CA",
+    "dates": "Nov 19, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-11-20 02:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "CIMC Events",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "The Legal Engineering Exchange: SF",
     "url": "https://lu.ma/legora-6f8n",
     "location": "San Francisco, CA",
@@ -179,6 +244,19 @@
     "themes": [],
     "prize": "",
     "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Systems Architecture for AI Introduction",
+    "url": "https://www.meetup.com/eli-the-computer-guy/events/317453815/",
+    "location": "Online",
+    "dates": "Nov 20, 2026 \u00b7 3:00 PM",
+    "sort_date": "2026-11-20 15:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Eli the Computer Guy",
     "curated": false
   },
   {
