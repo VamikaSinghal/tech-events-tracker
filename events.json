@@ -1,80 +1,33 @@
 [
   {
-    "source": "Meetup",
-    "title": "All things software infrastructure",
-    "url": "https://www.meetup.com/noisebridge/events/317280422/",
+    "source": "Eventbrite",
+    "title": "S.F. Tech and AI Social",
+    "url": "https://www.eventbrite.ca/e/sf-tech-and-ai-social-tickets-2004566997852",
     "location": "San Francisco, CA",
-    "dates": "Nov 23, 2026 \u00b7 7:00 PM",
-    "sort_date": "2026-11-23 19:00:00",
+    "dates": "Nov 18, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-11-18 17:00:00",
     "state": "upcoming",
-    "themes": [],
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Meeting or Networking Event",
+      "ai_social_event"
+    ],
     "prize": "",
-    "organization": "Noisebridge Hackerspace",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Durable AI Meetup (November Edition)",
-    "url": "https://lu.ma/durable-ai-november",
-    "location": "San Francisco, CA",
-    "dates": "Nov 23, 2026 \u00b7 5:30 PM",
-    "sort_date": "2026-11-24 01:30:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Temporal Community",
-    "curated": false
-  },
-  {
-    "source": "Luma",
-    "title": "Degrees of Freedom: Embodied AI Builders Night @ Mission Robotics",
-    "url": "https://lu.ma/mission-u38j",
-    "location": "San Francisco, CA",
-    "dates": "Nov 23, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-11-24 02:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Mission Robotics",
+    "organization": "",
     "curated": false
   },
   {
     "source": "Meetup",
-    "title": "San Diego Tech Coffee Online",
-    "url": "https://www.meetup.com/sandiego-tech-coffee/events/317286406/",
-    "location": "Online",
-    "dates": "Nov 24, 2026 \u00b7 9:00 AM",
-    "sort_date": "2026-11-24 09:00:00",
+    "title": "Build an AI Agent (from Scratch)",
+    "url": "https://www.meetup.com/herndon-ai-learning-group/events/317376456/",
+    "location": "Fairfax, VA",
+    "dates": "Nov 24, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-11-24 19:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "San Diego Tech Coffee",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "AI Wrote it.  Who tested it?",
-    "url": "https://www.meetup.com/software-quality-assurance/events/317287472/",
-    "location": "Online",
-    "dates": "Nov 24, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-11-24 10:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Software Testing",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
-    "title": "Agents: AI's Killer App?",
-    "url": "https://www.meetup.com/san-francisco-working-with-ai-developers-interest-group/events/317149914/",
-    "location": "San Francisco, CA",
-    "dates": "Nov 24, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-11-24 18:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Working with AI (SF) / Developers Interest Group",
+    "organization": "Herndon AI Learning Group",
     "curated": false
   },
   {
@@ -91,16 +44,250 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "Tech Networking Event by Startup Valley\u2028in San Francisco",
-    "url": "https://www.meetup.com/startups-and-tech-events-in-san-francisco/events/316580087/",
+    "source": "Eventbrite",
+    "title": "Certified Blockchain Associate | San Francisco",
+    "url": "https://www.eventbrite.com/e/certified-blockchain-associate-san-francisco-tickets-1968898124291",
+    "location": "San Francisco, CA",
+    "dates": "Nov 25, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-11-25 09:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Blockchain"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Certified Crypto Associate | San Francisco",
+    "url": "https://www.eventbrite.com/e/certified-crypto-associate-san-francisco-tickets-1968879923853",
+    "location": "San Francisco, CA",
+    "dates": "Nov 25, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-11-25 09:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Blockchain"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "STARTUP FUNDRAISING STRATEGY SESSION 2026",
+    "url": "https://www.eventbrite.com/e/startup-fundraising-strategy-session-2026-tickets-1981610195438",
+    "location": "San Francisco, CA",
+    "dates": "Nov 25, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-11-25 12:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Meeting or Networking Event",
+      "Startup"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI TECH Startup Pitch & Investor Networking I San Francisco",
+    "url": "https://www.eventbrite.com/e/ai-tech-startup-pitch-investor-networking-i-san-francisco-tickets-2004864677219",
+    "location": "San Francisco, CA",
+    "dates": "Nov 25, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-11-25 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Investor Connect: Pitch & Networking \u2014 San Francisco",
+    "url": "https://www.eventbrite.com/e/investor-connect-pitch-networking-san-francisco-tickets-2004860014272",
+    "location": "San Francisco, CA",
+    "dates": "Nov 25, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-11-25 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI & Tech Networking Event in San Francisco by Startup Valley",
+    "url": "https://www.eventbrite.com/e/ai-tech-networking-event-in-san-francisco-by-startup-valley-tickets-2003761675110",
     "location": "San Francisco, CA",
     "dates": "Nov 25, 2026 \u00b7 7:00 PM",
     "sort_date": "2026-11-25 19:00:00",
     "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Investing"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Tech & Business Networking San Francisco",
+    "url": "https://www.eventbrite.com/e/tech-business-networking-san-francisco-tickets-2001191945981",
+    "location": "San Francisco, CA",
+    "dates": "Nov 25, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-11-25 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Tech"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Investor Connect| B2B Networking | Pitch & Networking",
+    "url": "https://www.eventbrite.com/e/investor-connect-b2b-networking-pitch-networking-tickets-1982348353288",
+    "location": "San Francisco, CA",
+    "dates": "Nov 28, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-11-28 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Investment",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Year-End AI Automation Sprint & Founder Lounge",
+    "url": "https://www.eventbrite.com/e/year-end-ai-automation-sprint-founder-lounge-tickets-2004805344754",
+    "location": "San Francisco, CA",
+    "dates": "Nov 30, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-11-30 17:30:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "AI in Review: Lessons from 2026 and What's Ahead in 2027",
+    "url": "https://www.meetup.com/loudoun-cybertech/events/317472945/",
+    "location": "Sterling, VA",
+    "dates": "Dec 01, 2026 \u00b7 5:30 PM",
+    "sort_date": "2026-12-01 17:30:00",
+    "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Startups and Tech Events in San Francisco",
+    "organization": "Loudoun CyberTech",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "MedTech, HealthTech Networking & Pitch Event SF",
+    "url": "https://www.eventbrite.com/e/medtech-healthtech-networking-pitch-event-sf-tickets-2003831063653",
+    "location": "San Francisco, CA",
+    "dates": "Dec 01, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-01 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "SF HealthTech, MedTech Networking & Pitch Event",
+    "url": "https://www.eventbrite.com/e/sf-healthtech-medtech-networking-pitch-event-tickets-2003819062758",
+    "location": "San Francisco, CA",
+    "dates": "Dec 01, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-01 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Health"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "SF Startup Founders, Innovators & Investors Networking Night",
+    "url": "https://www.eventbrite.com/e/sf-startup-founders-innovators-investors-networking-night-tickets-2003771200601",
+    "location": "San Francisco, CA",
+    "dates": "Dec 01, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-01 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "SF Startups, Investors, Professionals: Pitch & Networking Event",
+    "url": "https://www.eventbrite.com/e/sf-startups-investors-professionals-pitch-networking-event-tickets-2003767692107",
+    "location": "San Francisco, CA",
+    "dates": "Dec 01, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-01 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
     "curated": false
   },
   {
@@ -117,16 +304,93 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "UXNight: How Teams Design AI Tools",
-    "url": "https://www.meetup.com/cascadesf/events/316875083/",
+    "source": "Eventbrite",
+    "title": "Decrypting DeSci (Decentralized Science) | San Francisco",
+    "url": "https://www.eventbrite.com/e/decrypting-desci-decentralized-science-san-francisco-tickets-1647866475989",
     "location": "San Francisco, CA",
-    "dates": "Dec 02, 2026 \u00b7 5:15 PM",
-    "sort_date": "2026-12-02 17:15:00",
+    "dates": "Dec 02, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-12-02 09:00:00",
     "state": "upcoming",
-    "themes": [],
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Technology"
+    ],
     "prize": "",
-    "organization": "Cascade SF, Experience Designers",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI Tech & Startup Night \u2014 San Francisco",
+    "url": "https://www.eventbrite.com/e/ai-tech-startup-night-san-francisco-tickets-2004859927011",
+    "location": "San Francisco, CA",
+    "dates": "Dec 02, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-12-02 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Tech Founders & Investors: Pitch & Connect I San Francisco",
+    "url": "https://www.eventbrite.com/e/tech-founders-investors-pitch-connect-i-san-francisco-tickets-2004864936996",
+    "location": "San Francisco, CA",
+    "dates": "Dec 02, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-12-02 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI & Tech Networking Event in San Francisco by Ascent Valley",
+    "url": "https://www.eventbrite.com/e/ai-tech-networking-event-in-san-francisco-by-ascent-valley-tickets-2004492153992",
+    "location": "San Francisco, CA",
+    "dates": "Dec 02, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-02 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Startup Tech & AI Networking in San Francisco",
+    "url": "https://www.eventbrite.com/e/startup-tech-ai-networking-in-san-francisco-tickets-2004492152989",
+    "location": "San Francisco, CA",
+    "dates": "Dec 02, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-02 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
     "curated": false
   },
   {
@@ -144,7 +408,7 @@
   },
   {
     "source": "Luma",
-    "title": "Hardware Fireside Chat @ Flux | Make SF Better with Water, Energy, Waste Treatment, and Infra",
+    "title": "Hardware Fireside Chat @ Studio 45 with Flux | Make SF Better with Water, Energy, Waste Treatment, and Infra",
     "url": "https://lu.ma/lx81wh0i",
     "location": "San Francisco, CA",
     "dates": "Dec 02, 2026 \u00b7 6:30 PM",
@@ -153,6 +417,59 @@
     "themes": [],
     "prize": "",
     "organization": "SF Hardware Meetup",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "French Tech Holiday Party",
+    "url": "https://www.eventbrite.com/e/french-tech-holiday-party-tickets-2002241613565",
+    "location": "San Francisco, CA",
+    "dates": "Dec 03, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-12-03 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Party or Social Gathering"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "San Francisco AI, Tech & Finance Networking Event",
+    "url": "https://www.eventbrite.ca/e/san-francisco-ai-tech-finance-networking-event-tickets-2003964927042",
+    "location": "San Francisco, CA",
+    "dates": "Dec 03, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-03 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Job"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Go Tech Yourself",
+    "url": "https://www.eventbrite.com/e/go-tech-yourself-tickets-1993366462750",
+    "location": "San Francisco, CA",
+    "dates": "Dec 03, 2026 \u00b7 8:00 PM",
+    "sort_date": "2026-12-03 20:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Comedy",
+      "Film, Media & Entertainment",
+      "Concert or Performance",
+      "Comedy"
+    ],
+    "prize": "",
+    "organization": "",
     "curated": false
   },
   {
@@ -195,6 +512,114 @@
     "curated": false
   },
   {
+    "source": "Eventbrite",
+    "title": "LEE FOSS (TECH HOUSE) at MADARAE SAN FRANCISCO",
+    "url": "https://www.eventbrite.com/e/lee-foss-tech-house-at-madarae-san-francisco-tickets-2003681442131",
+    "location": "San Francisco, CA",
+    "dates": "Dec 05, 2026 \u00b7 9:00 PM",
+    "sort_date": "2026-12-05 21:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Dance",
+      "Performing & Visual Arts",
+      "Concert or Performance",
+      "Free"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Health, Fitness, Beauty & Wellness Business Networking Mixer SF",
+    "url": "https://www.eventbrite.com/e/health-fitness-beauty-wellness-business-networking-mixer-sf-tickets-2004083964085",
+    "location": "San Francisco, CA",
+    "dates": "Dec 07, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-07 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Wellness"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "SF Health, Wellness, Fitness Industry Networking event",
+    "url": "https://www.eventbrite.com/e/sf-health-wellness-fitness-industry-networking-event-tickets-2004121788218",
+    "location": "San Francisco, CA",
+    "dates": "Dec 07, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-07 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Health"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "AI & Tech Start-Ups, Professionals, Investors Networking SF",
+    "url": "https://www.eventbrite.com/e/ai-tech-start-ups-professionals-investors-networking-sf-tickets-2004168915176",
+    "location": "San Francisco, CA",
+    "dates": "Dec 08, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-08 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Tech"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "SF AI & Tech Industry Professionals Networking Event",
+    "url": "https://www.eventbrite.com/e/sf-ai-tech-industry-professionals-networking-event-tickets-2004164754732",
+    "location": "San Francisco, CA",
+    "dates": "Dec 08, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-08 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "SF AI & Tech Startups, Investors, Innovators Networking Mixer",
+    "url": "https://www.eventbrite.com/e/sf-ai-tech-startups-investors-innovators-networking-mixer-tickets-2004164381616",
+    "location": "San Francisco, CA",
+    "dates": "Dec 08, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-08 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "GTM Series #05: Jason Lemkin, SaaStr AI",
     "url": "https://lu.ma/gtm-series-jason-lemkin",
@@ -205,6 +630,55 @@
     "themes": [],
     "prize": "",
     "organization": "Granola",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Integrating Blockchain and AI (Artificial Intelligence) | San Francisco",
+    "url": "https://www.eventbrite.com/e/integrating-blockchain-and-ai-artificial-intelligence-san-francisco-tickets-1968905895535",
+    "location": "San Francisco, CA",
+    "dates": "Dec 09, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-12-09 09:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Ai"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Unravelling NFTs (Non Fungible Tokens)| San Francisco",
+    "url": "https://www.eventbrite.com/e/unravelling-nfts-non-fungible-tokens-san-francisco-tickets-1968312437486",
+    "location": "San Francisco, CA",
+    "dates": "Dec 09, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-12-09 09:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Blockchain"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Agentic AI x RL: Research Talk and Demo Night",
+    "url": "https://lu.ma/openst-rt3s",
+    "location": "Stanford, CA",
+    "dates": "Dec 10, 2026 \u00b7 4:30 PM",
+    "sort_date": "2026-12-11 00:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "OpenStages",
     "curated": false
   },
   {
@@ -234,6 +708,302 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "NoVA Hackers December Meeting",
+    "url": "https://www.meetup.com/nova-hackers/events/316970127/",
+    "location": "Reston, VA",
+    "dates": "Dec 14, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-12-14 18:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "NoVA Hackers",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "SF Women in Business & Tech Networking Event",
+    "url": "https://www.eventbrite.com/e/sf-women-in-business-tech-networking-event-tickets-2004429489561",
+    "location": "San Francisco, CA",
+    "dates": "Dec 14, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-14 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "SF Women in Tech: Founders & Professionals Networking Night",
+    "url": "https://www.eventbrite.com/e/sf-women-in-tech-founders-professionals-networking-night-tickets-2004431193658",
+    "location": "San Francisco, CA",
+    "dates": "Dec 14, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-14 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Women in AI, Tech & Digital Innovation Networking SF",
+    "url": "https://www.eventbrite.com/e/women-in-ai-tech-digital-innovation-networking-sf-tickets-2004431766371",
+    "location": "San Francisco, CA",
+    "dates": "Dec 14, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-14 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "SF Future Tech: Startups & Digital Innovation Networking Mixer",
+    "url": "https://www.eventbrite.com/e/sf-future-tech-startups-digital-innovation-networking-mixer-tickets-2004513539958",
+    "location": "San Francisco, CA",
+    "dates": "Dec 15, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-15 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "SF Tech Startups Networking & Elevator Pitches Event",
+    "url": "https://www.eventbrite.com/e/sf-tech-startups-networking-elevator-pitches-event-tickets-2004513403550",
+    "location": "San Francisco, CA",
+    "dates": "Dec 15, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-15 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "SF Tech Startups, Investors, Experts Networking & Pitch Event",
+    "url": "https://www.eventbrite.com/e/sf-tech-startups-investors-experts-networking-pitch-event-tickets-2004583151167",
+    "location": "San Francisco, CA",
+    "dates": "Dec 15, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-15 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Tech Founders & Digital Innovation Networking & Pitch SF",
+    "url": "https://www.eventbrite.com/e/tech-founders-digital-innovation-networking-pitch-sf-tickets-2004513677369",
+    "location": "San Francisco, CA",
+    "dates": "Dec 15, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-15 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Tech Startups, Investors, Professionals Pitch & Networking SF",
+    "url": "https://www.eventbrite.com/e/tech-startups-investors-professionals-pitch-networking-sf-tickets-2004583290584",
+    "location": "San Francisco, CA",
+    "dates": "Dec 15, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-15 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "The Meter Is Always Running: FinOps in the Age of AI",
+    "url": "https://www.meetup.com/dc-cto-club/events/317196293/",
+    "location": "",
+    "dates": "Dec 16, 2026 \u00b7 7:30 AM",
+    "sort_date": "2026-12-16 07:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "DC CTO Club",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Certified DeFi Associate | San Francisco",
+    "url": "https://www.eventbrite.com/e/certified-defi-associate-san-francisco-tickets-1968878552752",
+    "location": "San Francisco, CA",
+    "dates": "Dec 16, 2026 \u00b7 9:00 AM",
+    "sort_date": "2026-12-16 09:00:00",
+    "state": "upcoming",
+    "themes": [
+      "High Tech",
+      "Science & Technology",
+      "Class, Training, or Workshop",
+      "Blockchain"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Tech Networking Event by Startup Valley in San Francisco",
+    "url": "https://www.eventbrite.com/e/tech-networking-event-by-startup-valley-in-san-francisco-tickets-2002548686027",
+    "location": "San Francisco, CA",
+    "dates": "Dec 16, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-16 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Marketing"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Startup Networking San Francisco: Founders, Investors & Talent Mixer",
+    "url": "https://www.eventbrite.com/e/startup-networking-san-francisco-founders-investors-talent-mixer-tickets-2004491996521",
+    "location": "San Francisco, CA",
+    "dates": "Dec 23, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-23 19:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Blockchain and Business Networking | Elevating Your Potential - SF",
+    "url": "https://www.eventbrite.com/e/blockchain-and-business-networking-elevating-your-potential-sf-tickets-2002466489174",
+    "location": "San Francisco, CA",
+    "dates": "Dec 30, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-12-30 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Engineering and Business Networking | Elevating Your Potential - SF",
+    "url": "https://www.eventbrite.com/e/engineering-and-business-networking-elevating-your-potential-sf-tickets-2002466503216",
+    "location": "San Francisco, CA",
+    "dates": "Dec 30, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-12-30 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Non-Profits and Business Networking | Elevating Your Potential - SF",
+    "url": "https://www.eventbrite.com/e/non-profits-and-business-networking-elevating-your-potential-sf-tickets-2002466498201",
+    "location": "San Francisco, CA",
+    "dates": "Dec 30, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-12-30 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Tech and Business Networking | Elevating Your Potential - SF",
+    "url": "https://www.eventbrite.com/e/tech-and-business-networking-elevating-your-potential-sf-tickets-2002466513246",
+    "location": "San Francisco, CA",
+    "dates": "Dec 30, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-12-30 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
     "source": "Devpost",
     "title": "HackStorm 3.0: Sense, Think and Act",
     "url": "https://hackstorm3.devpost.com/",
@@ -248,6 +1018,132 @@
     ],
     "prize": "$5,200",
     "organization": "HackStorm",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Women in Tech - AI - SF Employer Ticket",
+    "url": "https://www.eventbrite.com/e/women-in-tech-ai-sf-employer-ticket-tickets-1975344570786",
+    "location": "San Francisco, CA",
+    "dates": "Jan 26, 2027 \u00b7 6:00 PM",
+    "sort_date": "2027-01-26 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Career",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Recruiting"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Women in Tech SF 2026",
+    "url": "https://www.eventbrite.com/e/women-in-tech-sf-2026-tickets-1993024334435",
+    "location": "San Francisco, CA",
+    "dates": "Jan 26, 2027 \u00b7 6:00 PM",
+    "sort_date": "2027-01-26 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking",
+      "Diversity"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Women in Tech SV/SF - AI - OutGeekWomen",
+    "url": "https://www.eventbrite.com/e/women-in-tech-svsf-ai-outgeekwomen-tickets-1301614537119",
+    "location": "San Francisco, CA",
+    "dates": "Jan 26, 2027 \u00b7 6:00 PM",
+    "sort_date": "2027-01-26 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking",
+      "Diversity"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "SF Startup & Tech Mixer 2027",
+    "url": "https://www.eventbrite.com/e/sf-startup-tech-mixer-2027-tickets-2003680088081",
+    "location": "San Francisco, CA",
+    "dates": "Jan 28, 2027 \u00b7 6:00 PM",
+    "sort_date": "2027-01-28 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "Women in Tech SF 2027",
+    "url": "https://www.eventbrite.com/e/women-in-tech-sf-2027-tickets-2003680049967",
+    "location": "San Francisco, CA",
+    "dates": "Jan 28, 2027 \u00b7 6:00 PM",
+    "sort_date": "2027-01-28 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Networking"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "San Fran's Largest Tech Startup, Business & Entrepreneur Networking Soiree",
+    "url": "https://www.eventbrite.com/e/san-frans-largest-tech-startup-business-entrepreneur-networking-soiree-tickets-2003994048144",
+    "location": "San Francisco, CA",
+    "dates": "Feb 15, 2027 \u00b7 6:00 PM",
+    "sort_date": "2027-02-15 18:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Startups & Small Business",
+      "Business & Professional",
+      "Meeting or Networking Event",
+      "Business"
+    ],
+    "prize": "",
+    "organization": "",
+    "curated": false
+  },
+  {
+    "source": "Eventbrite",
+    "title": "TECHSPO Silicon Valley & San Francisco 2027 Tech Expo (AI ~ SaaS ~ MarTech)",
+    "url": "https://www.eventbrite.com/e/techspo-silicon-valley-san-francisco-2027-tech-expo-ai-saas-martech-tickets-1995176858693",
+    "location": "San Francisco, CA",
+    "dates": "Jun 24, 2027 \u00b7 9:00 AM",
+    "sort_date": "2027-06-24 09:00:00",
+    "state": "upcoming",
+    "themes": [
+      "Sales & Marketing",
+      "Business & Professional",
+      "Tradeshow, Consumer Show, or Expo",
+      "Marketing"
+    ],
+    "prize": "",
+    "organization": "",
     "curated": false
   }
 ]
