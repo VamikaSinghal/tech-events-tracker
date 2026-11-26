@@ -1,28 +1,41 @@
 [
   {
     "source": "Meetup",
-    "title": "Coding Club",
-    "url": "https://www.meetup.com/westside-coding-club/events/317335532/",
+    "title": "Humans in the Loop - UX + Gen AI Conversations",
+    "url": "https://www.meetup.com/calgaryux/events/317314240/",
     "location": "Online",
-    "dates": "Nov 27, 2026 \u00b7 6:00 PM",
-    "sort_date": "2026-11-27 18:00:00",
+    "dates": "Nov 26, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-11-26 17:00:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Westside Coding Club",
+    "organization": "Calgary UX",
     "curated": false
   },
   {
     "source": "Meetup",
-    "title": "Discussion - Will Software Engineers Still Write Code in 2027?",
-    "url": "https://www.meetup.com/lajugstudygroup/events/317446310/",
+    "title": "AI for Developers: Productivity, Building, and Dev Setup",
+    "url": "https://www.meetup.com/the-ubuntu-techhive-north-america/events/316847250/",
     "location": "Online",
-    "dates": "Dec 01, 2026 \u00b7 7:30 PM",
-    "sort_date": "2026-12-01 19:30:00",
+    "dates": "Nov 28, 2026 \u00b7 10:30 AM",
+    "sort_date": "2026-11-28 10:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "DevTalk LA",
+    "organization": "The Ubuntu TechHive North America",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Claude Cowork: What AI Agent Skills Are + How to Customize Them",
+    "url": "https://www.meetup.com/above-the-model/events/316684583/",
+    "location": "Online",
+    "dates": "Dec 01, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-01 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Above the Model",
     "curated": false
   },
   {
@@ -40,19 +53,6 @@
   },
   {
     "source": "Luma",
-    "title": "AI Infrastructure Night",
-    "url": "https://lu.ma/z4b3wb9d",
-    "location": "San Francisco, CA",
-    "dates": "Dec 02, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-12-03 01:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Alien",
-    "curated": false
-  },
-  {
-    "source": "Luma",
     "title": "Hardware Fireside Chat @ Studio 45 with Flux | Make SF Better with Water, Energy, Waste Treatment, and Infra",
     "url": "https://lu.ma/lx81wh0i",
     "location": "San Francisco, CA",
@@ -62,6 +62,19 @@
     "themes": [],
     "prize": "",
     "organization": "SF Hardware Meetup",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Founder Dinner with Peter Deng",
+    "url": "https://lu.ma/fdy6n9bu",
+    "location": "San Francisco, CA",
+    "dates": "Dec 02, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-03 03:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Personal",
     "curated": false
   },
   {
@@ -79,6 +92,19 @@
   },
   {
     "source": "Luma",
+    "title": "Physical AI Networking and Launch Party - General Intelligence Labs",
+    "url": "https://lu.ma/gin14akr",
+    "location": "San Francisco, CA",
+    "dates": "Dec 03, 2026 \u00b7 5:00 PM",
+    "sort_date": "2026-12-04 01:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "General Intelligence Labs",
+    "curated": false
+  },
+  {
+    "source": "Luma",
     "title": "21st San Jose Hardware Meetup @ Stanford CHIP",
     "url": "https://lu.ma/yzqun0n4",
     "location": "Stanford, CA",
@@ -88,6 +114,32 @@
     "themes": [],
     "prize": "",
     "organization": "San Jose Hardware Meetup",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Punk Software Hack Night: AI for Consumer Rights",
+    "url": "https://lu.ma/l1pe09it",
+    "location": "San Francisco, CA",
+    "dates": "Dec 03, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-12-04 02:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Imbue Events",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Fireside Chat with Tom Steyer, Billionaire Investor and Climate Activist",
+    "url": "https://lu.ma/novvev1d",
+    "location": "Berkeley, CA",
+    "dates": "Dec 03, 2026 \u00b7 6:30 PM",
+    "sort_date": "2026-12-04 02:30:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "The Berkeley Forum",
     "curated": false
   },
   {
@@ -104,16 +156,16 @@
     "curated": false
   },
   {
-    "source": "Meetup",
-    "title": "qBraid: Quantum Developer Day",
-    "url": "https://www.meetup.com/seattle-quantum-computing-meetup/events/317547057/",
-    "location": "Online",
-    "dates": "Dec 07, 2026 \u00b7 10:00 AM",
-    "sort_date": "2026-12-07 10:00:00",
+    "source": "Luma",
+    "title": "San Francisco Claude Meetup | Physical AI for Science Demo Night",
+    "url": "https://lu.ma/claude-9us2",
+    "location": "San Francisco, CA",
+    "dates": "Dec 05, 2026 \u00b7 4:30 PM",
+    "sort_date": "2026-12-06 00:30:00",
     "state": "upcoming",
     "themes": [],
     "prize": "",
-    "organization": "Seattle Quantum Computing Meetup",
+    "organization": "Claude Community Events",
     "curated": false
   },
   {
@@ -140,6 +192,19 @@
     "themes": [],
     "prize": "",
     "organization": "Granola",
+    "curated": false
+  },
+  {
+    "source": "Luma",
+    "title": "Hardware Pitch Night @ Studio 45",
+    "url": "https://lu.ma/a18ttyex",
+    "location": "San Francisco, CA",
+    "dates": "Dec 09, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-12-10 02:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Studio 45 - informal spaces SF",
     "curated": false
   },
   {
@@ -179,6 +244,19 @@
     "themes": [],
     "prize": "",
     "organization": "Theory Ventures",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Let's talk AI",
+    "url": "https://www.meetup.com/machine-learning-workshop/events/316287417/",
+    "location": "Online",
+    "dates": "Dec 19, 2026 \u00b7 2:00 PM",
+    "sort_date": "2026-12-19 14:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "AI Office Hours",
     "curated": false
   },
   {
