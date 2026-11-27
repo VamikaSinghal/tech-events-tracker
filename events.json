@@ -1,19 +1,6 @@
 [
   {
     "source": "Meetup",
-    "title": "Humans in the Loop - UX + Gen AI Conversations",
-    "url": "https://www.meetup.com/calgaryux/events/317314240/",
-    "location": "Online",
-    "dates": "Nov 26, 2026 \u00b7 5:00 PM",
-    "sort_date": "2026-11-26 17:00:00",
-    "state": "upcoming",
-    "themes": [],
-    "prize": "",
-    "organization": "Calgary UX",
-    "curated": false
-  },
-  {
-    "source": "Meetup",
     "title": "AI for Developers: Productivity, Building, and Dev Setup",
     "url": "https://www.meetup.com/the-ubuntu-techhive-north-america/events/316847250/",
     "location": "Online",
@@ -23,6 +10,19 @@
     "themes": [],
     "prize": "",
     "organization": "The Ubuntu TechHive North America",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Give Claude Your Playbook: An AI Assistant Trained on Your Business [ONLINE]",
+    "url": "https://www.meetup.com/the-ai-briefing-room/events/317273680/",
+    "location": "Online",
+    "dates": "Dec 01, 2026 \u00b7 12:00 PM",
+    "sort_date": "2026-12-01 12:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "The AI Briefing Room",
     "curated": false
   },
   {
@@ -52,6 +52,19 @@
     "curated": false
   },
   {
+    "source": "Meetup",
+    "title": "AI in Cyber Pathway: Where AI Fits in Your Security Career",
+    "url": "https://www.meetup.com/cover6community/events/317487495/",
+    "location": "Online",
+    "dates": "Dec 02, 2026 \u00b7 6:00 PM",
+    "sort_date": "2026-12-02 18:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "Cover6 Community",
+    "curated": false
+  },
+  {
     "source": "Luma",
     "title": "Hardware Fireside Chat @ Studio 45 with Flux | Make SF Better with Water, Energy, Waste Treatment, and Infra",
     "url": "https://lu.ma/lx81wh0i",
@@ -75,6 +88,19 @@
     "themes": [],
     "prize": "",
     "organization": "Personal",
+    "curated": false
+  },
+  {
+    "source": "Meetup",
+    "title": "Building AI Skills with Kobo",
+    "url": "https://www.meetup.com/technology-ai/events/317534430/",
+    "location": "Online",
+    "dates": "Dec 03, 2026 \u00b7 7:00 PM",
+    "sort_date": "2026-12-03 19:00:00",
+    "state": "upcoming",
+    "themes": [],
+    "prize": "",
+    "organization": "technology.ai",
     "curated": false
   },
   {
